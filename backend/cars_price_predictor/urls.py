@@ -22,8 +22,8 @@ from django.views.generic import RedirectView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('/api', include('predictor.urls')),
-    path('', RedirectView.as_view(url='/api/', permanent=False)),
+    path('api/', include('predictor.urls')),
+    path('', RedirectView.as_view(url='api/', permanent=False)),
 ]
 
 if settings.DEBUG:
