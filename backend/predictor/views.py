@@ -6,6 +6,7 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework import status
 from .models import Prediction
 from .ml_service import get_price_prediction
+from cars_price_predictor.settings import DATA_PATH
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.utils import timezone
 import logging
@@ -26,7 +27,7 @@ class ApiRootView(APIView):
     def get(self, request, format=None):
         available_endpoints = {
             'register': '/api/register/',
-            'login': '/api/token/',
+            'login': '/api/login/',
             'token_refresh': '/api/token/refresh/',
             'logout': '/api/logout/',
             'predict': '/api/predict/',
@@ -256,3 +257,111 @@ def get(self, request):
             {"error": "An error occurred while fetching predictions"},
             status=status.HTTP_500_INTERNAL_SERVER_ERROR
         )
+
+class DropdownOptionsView(APIView):
+    permission_classes = [AllowAny]
+    
+    def get(self, request):
+        try:
+            csv_path = DATA_PATH
+            if not os.path.exists(csv_path):
+                logger.error(f"CSV file not found at {csv_path}")
+                raise FileNotFoundError("Configuration error: Data file not found")
+            
+            # load data from cache if available
+            cache_key = 'dropdown_options'
+            cached_data = cache.get(cache_key)
+            if cached_data:
+                return Response(cached_data, status=status.HTTP_200_OK)
+            
+            # load data from csv
+            df = pd.read_csv(csv_path)
+            
+            required_columns = [
+                'brand', 'model', 'year_of_production', 
+                'fuel_type', 'transmission', 'body', 
+                'number_of_doors', 'color'
+            ]
+            
+            missing_columns = [col for col in required_columns if col not in df.columns]
+            if missing_columns:
+                raise ValueError(f"Missing required columns: {', '.join(missing_columns)}")
+            
+            unique_options = {
+                'brand': sorted(df['brand'].dropna().unique().tolist()),
+                'car_model': sorted(df['model'].dropna().unique().tolist()),
+                'year_of_production': {
+                    'min': int(df['year_of_production'].min()),
+                    'max': int(df['year_of_production'].max())
+                },
+                'fuel_type': sorted(df['fuel_type'].dropna().unique().tolist()),
+                'transmission': sorted(df['transmission'].dropna().unique().tolist()),
+                'body': sorted(df['body'].dropna().unique().tolist()),
+                'number_of_doors': {
+                    'min': int(df['number_of_doors'].min()),
+                    'max': int(df['number_of_doors'].max())
+                },
+                'color': sorted(df['color'].dropna().unique().tolist()),
+            }
+            
+            # save in cache for 1 hour
+            cache.set(cache_key, unique_options, timeout=3600)
+            
+            return Response(unique_options, status=status.HTTP_200_OK)
+            
+        except FileNotFoundError as e:
+            logger.error(f"File not found: {str(e)}")
+            return Response(
+                {"error": "Configuration error: Data file not found"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
+        except Exception as e:
+            logger.error(f"Error retrieving dropdown options: {str(e)}", exc_info=True)
+            return Response(
+                {"error": "An error occurred while retrieving filter options"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
+
+
+class BrandModelMappingView(APIView):
+    permission_classes = [AllowAny]
+    
+    def get(self, request):
+        try:
+            cache_key = 'brand_model_mapping'
+            cached_data = cache.get(cache_key)
+            
+            if cached_data:
+                return Response(cached_data, status=status.HTTP_200_OK)
+            
+            # get unique brand-model pairs from database
+            brand_model_pairs = (
+                Prediction.objects
+                .values_list('brand', 'model')
+                .distinct()
+                .order_by('brand', 'model')
+            )
+            
+            # transform data to format {brand: [models]}
+            mapping = {}
+            for brand, model in brand_model_pairs:
+                if brand and model:  # ignore empty values
+                    if brand not in mapping:
+                        mapping[brand] = []
+                    mapping[brand].append(model)
+            
+            # sort models for each brand
+            for brand in mapping:
+                mapping[brand].sort()
+            
+            # save in cache for 24 hours (rarely changes)
+            cache.set(cache_key, mapping, timeout=86400)
+            
+            return Response(mapping, status=status.HTTP_200_OK)
+            
+        except Exception as e:
+            logger.error(f"Error retrieving brand-model mapping: {str(e)}", exc_info=True)
+            return Response(
+                {"error": "An error occurred while retrieving brand-model mapping"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
