@@ -1,8 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from django.contrib.auth.password_validation import validate_password
-from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
-from rest_framework_simplejwt.views import TokenObtainPairView      
 from .models import Prediction
 
 class UserSerializer(serializers.ModelSerializer):
@@ -46,16 +44,6 @@ class UserSerializer(serializers.ModelSerializer):
         return user
 
 
-class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
-    @classmethod
-    def get_token(cls, user):
-        token = super().get_token(user) # get the token from the parent class
-        token['username'] = user.username # add username to the token
-        return token
-
-
-class CustomTokenObtainPairView(TokenObtainPairView):
-    serializer_class = CustomTokenObtainPairSerializer
 
 
 class PredictionInputSerializer(serializers.ModelSerializer):
