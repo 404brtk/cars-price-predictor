@@ -5,21 +5,19 @@ from rest_framework_simplejwt.views import TokenObtainPairView
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework import status
 from .models import Prediction
+from .ml_service import get_price_prediction
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.utils import timezone
+import logging
 from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
     GuestPredictionOutputSerializer,
     PredictionOutputSerializer,
 )
-from .ml_service import get_price_prediction
-from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
-from django.utils import timezone
-import logging
+
 
 logger = logging.getLogger(__name__)
-
-class LoginView(TokenObtainPairView):
-    permission_classes = [AllowAny]
 
 
 class ApiRootView(APIView):
