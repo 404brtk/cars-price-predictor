@@ -1,0 +1,929 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Nissan,X-Trail,2003,8 900 PLN,195 300 km,Benzyna,Manualna,SUV,2 488 cm3,165 KM,5,Srebrny
+Nissan,X-Trail,2008,30 900 PLN,189 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Brązowy
+Nissan,Quest,2006,14 000 PLN,72 000 km,Benzyna,Automatyczna,Minivan,3 494 cm3,235 KM,5,Beżowy
+Nissan,Qashqai,2019,78 900 PLN,155 900 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Szary
+Nissan,Qashqai,2017,62 900 PLN,83 354 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Juke,2013,32 500 PLN,210 870 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Bordowy
+Nissan,X-Trail,2024,232 150 PLN,5 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Czarny
+Nissan,Note,2015,24 000 PLN,137 700 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Szary
+Nissan,Qashqai,2020,79 000 PLN,58 141 km,Benzyna,Manualna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2023,129 900 PLN,33 311 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Srebrny
+Nissan,X-Trail,2020,103 000 PLN,89 000 km,Diesel,Automatyczna,SUV,1 749 cm3,150 KM,5,Brązowy
+Nissan,Qashqai,2017,62 999 PLN,154 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Juke,2024,101 976 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Bordowy
+Nissan,Qashqai,2023,135 900 PLN,19 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Niebieski
+Nissan,Juke,2024,99 876 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Srebrny
+Nissan,Qashqai,2023,135 900 PLN,27 500 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Niebieski
+Nissan,Qashqai,2007,21 900 PLN,200 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,X-Trail,2016,60 900 PLN,80 000 km,Benzyna,Automatyczna,SUV,1 618 cm3,163 KM,5,Srebrny
+Nissan,Qashqai,2009,23 900 PLN,193 200 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2014,35 500 PLN,265 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Micra,2010,11 400 PLN,186 234 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,3,Czarny
+Nissan,Qashqai,2014,43 000 PLN,132 200 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Qashqai,2016,57 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2012,38 000 PLN,149 195 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Nissan,Juke,2015,33 000 PLN,180 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Micra,2005,7 200 PLN,210 000 km,Benzyna,Manualna,Kompakt,1 240 cm3,65 KM,5,Szary
+Nissan,Qashqai,2013,33 500 PLN,260 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2009,32 800 PLN,168 800 km,Benzyna+LPG,Manualna,Kompakt,1 997 cm3,140 KM,5,Biały
+Nissan,Qashqai,2019,71 500 PLN,95 995 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Qashqai,2014,44 900 PLN,188 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Juke,2022,93 000 PLN,12 400 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Srebrny
+Nissan,X-Trail,2024,204 400 PLN,1 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Czarny
+Nissan,X-Trail,2024,204 400 PLN,1 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2023,126 511 PLN,1 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,Qashqai,2023,124 896 PLN,1 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Juke,2020,84 900 PLN,24 800 km,Benzyna,Automatyczna,SUV,999 cm3,117 KM,5,Niebieski
+Nissan,Juke,2013,30 000 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,112 KM,5,Czarny
+Nissan,X-Trail,2017,74 900 PLN,162 300 km,Benzyna+LPG,Automatyczna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Juke,2015,38 800 PLN,104 670 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Inny kolor
+Nissan,X-Trail,2017,86 500 PLN,94 700 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Brązowy
+Nissan,Qashqai,2017,73 500 PLN,164 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2010,26 500 PLN,245 000 km,Diesel,Manualna,SUV,1 461 cm3,103 KM,5,Biały
+Nissan,Qashqai,2009,20 000 PLN,200 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Juke,2020,67 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,999 cm3,117 KM,5,Biały
+Nissan,Qashqai,2016,55 900 PLN,194 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,X-Trail,2022,163 900 PLN,15 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Złoty
+Nissan,Almera,2005,7 700 PLN,122 000 km,Benzyna,Manualna,Sedan,1 497 cm3,98 KM,4,Inny kolor
+Nissan,Qashqai,2016,55 900 PLN,59 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,X-Trail,2022,158 999 PLN,28 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Pomarańczowy
+Nissan,Juke,2015,39 400 PLN,93 000 km,Benzyna,Manualna,SUV,1 598 cm3,94 KM,5,Czarny
+Nissan,Qashqai,2013,41 000 PLN,149 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,370 Z,2014,125 000 PLN,17 000 km,Benzyna,Manualna,Coupe,3 696 cm3,328 KM,3,Czerwony
+Nissan,Qashqai,2019,73 677 PLN,90 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Qashqai,2018,67 800 PLN,129 500 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Inny kolor
+Nissan,Qashqai,2019,73 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Qashqai,2010,33 900 PLN,236 172 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2013,41 900 PLN,132 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Złoty
+Nissan,Micra,2016,31 800 PLN,71 845 km,Benzyna,Automatyczna,Kompakt,1 198 cm3,98 KM,5,Czarny
+Nissan,Juke,2011,38 500 PLN,186 500 km,Benzyna+LPG,Manualna,SUV,1 618 cm3,190 KM,5,Bordowy
+Nissan,Micra,2009,13 000 PLN,110 000 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,5,Czarny
+Nissan,Pathfinder,2011,66 500 PLN,127 600 km,Diesel,Manualna,SUV,2 488 cm3,190 KM,5,Czarny
+Nissan,Qashqai,2013,36 900 PLN,152 000 km,Diesel,Manualna,SUV,1 600 cm3,130 KM,5,Biały
+Nissan,Patrol,2022,396 000 PLN,580 km,Benzyna,Manualna,SUV,4 759 cm3,280 KM,3,Czarny
+Nissan,Note,2012,12 900 PLN,206 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Biały
+Nissan,Qashqai+2,2012,42 500 PLN,193 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,140 KM,5,Złoty
+Nissan,Ariya,2024,247 900 PLN,4 km,Elektryczny,Automatyczna,SUV,,242 KM,5,Czarny
+Nissan,Qashqai,2011,39 900 PLN,112 467 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Juke,2012,34 000 PLN,89 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Qashqai,2014,43 900 PLN,190 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Brązowy
+Nissan,Patrol,1990,44 900 PLN,230 000 km,Diesel,Manualna,SUV,2 826 cm3,116 KM,3,Czerwony
+Nissan,Leaf,2022,74 900 PLN,31 600 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Czarny
+Nissan,X-Trail,2017,64 500 PLN,154 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2010,30 000 PLN,236 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,370 Z,2017,109 000 PLN,62 000 km,Benzyna,Manualna,Coupe,3 696 cm3,328 KM,2,Czarny
+Nissan,370 Z,2010,110 000 PLN,51 000 km,Benzyna,Manualna,Coupe,3 696 cm3,331 KM,3,Fioletowy
+Nissan,Micra,2003,3 000 PLN,127 406 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,80 KM,3,Srebrny
+Nissan,Micra,2017,52 900 PLN,35 000 km,Benzyna,Automatyczna,Auta miejskie,1 198 cm3,80 KM,5,Srebrny
+Nissan,Qashqai,2009,22 900 PLN,220 000 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Złoty
+Nissan,Pathfinder,2006,24 250 PLN,216 827 km,Benzyna+LPG,Automatyczna,SUV,3 954 cm3,269 KM,5,Srebrny
+Nissan,NP300 Pickup,2011,22 000 PLN,100 000 km,Diesel,Manualna,SUV,2 488 cm3,133 KM,4,Srebrny
+Nissan,Qashqai+2,2013,35 900 PLN,175 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Biały
+Nissan,Qashqai+2,2010,35 700 PLN,191 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Nissan,Qashqai+2,2010,34 000 PLN,164 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Primera,2007,7 900 PLN,250 000 km,Benzyna,Manualna,Kombi,1 769 cm3,116 KM,5,Srebrny
+Nissan,Qashqai,2008,27 900 PLN,200 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Błękitny
+Nissan,Qashqai,2019,85 000 PLN,50 600 km,Diesel,Automatyczna,SUV,1 749 cm3,150 KM,5,Srebrny
+Nissan,Qashqai,2014,42 800 PLN,150 960 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,Juke,2012,28 800 PLN,149 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,X-Trail,2016,57 500 PLN,180 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Srebrny
+Nissan,X-Trail,2018,73 500 PLN,140 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,Qashqai,2024,148 220 PLN,5 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czerwony
+Nissan,Patrol,2004,32 000 PLN,283 217 km,Diesel,Automatyczna,SUV,2 953 cm3,160 KM,5,Granatowy
+Nissan,Qashqai,2014,39 999 PLN,129 800 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2009,22 900 PLN,191 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Inny kolor
+Nissan,Qashqai,2019,72 800 PLN,87 900 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2018,64 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Niebieski
+Nissan,Pulsar,2015,32 900 PLN,160 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Biały
+Nissan,Qashqai,2024,138 138 PLN,1 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Qashqai,2023,123 431 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Niebieski
+Nissan,Qashqai,2014,26 900 PLN,243 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2017,69 900 PLN,150 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,X-Trail,2022,142 900 PLN,30 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Bordowy
+Nissan,X-Trail,2013,30 000 PLN,196 500 km,Diesel,Manualna,SUV,1 995 cm3,173 KM,5,Czarny
+Nissan,Leaf,2018,52 000 PLN,63 000 km,Elektryczny,Automatyczna,Auta miejskie,,150 KM,5,Czerwony
+Nissan,Juke,2017,46 900 PLN,77 834 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Żółty
+Nissan,Qashqai,2010,32 900 PLN,211 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2015,44 900 PLN,237 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Primastar,2009,42 900 PLN,222 000 km,Diesel,Automatyczna,Kompakt,2 464 cm3,146 KM,4,Srebrny
+Nissan,Qashqai,2010,28 000 PLN,304 000 km,Benzyna+LPG,Automatyczna,SUV,1 997 cm3,141 KM,5,Beżowy
+Nissan,Qashqai,2018,61 900 PLN,183 595 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Patrol,1985,32 000 PLN,288 000 km,Diesel,Manualna,SUV,3 246 cm3,95 KM,3,Srebrny
+Nissan,X-Trail,2012,31 000 PLN,305 500 km,Diesel,Manualna,SUV,1 995 cm3,173 KM,5,Biały
+Nissan,Micra,2010,17 900 PLN,129 800 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,5,Złoty
+Nissan,Qashqai,2017,50 000 PLN,92 403 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2011,35 800 PLN,202 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Titan,2016,155 000 PLN,104 500 km,Diesel,Automatyczna,SUV,5 552 cm3,305 KM,2,Biały
+Nissan,Juke,2015,38 000 PLN,115 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2018,74 500 PLN,96 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Biały
+Nissan,Terrano,2004,17 200 PLN,275 000 km,Diesel,Manualna,SUV,2 953 cm3,154 KM,5,Bordowy
+Nissan,Note,2014,22 900 PLN,172 562 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Czarny
+Nissan,Qashqai+2,2012,32 900 PLN,236 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Nissan,Pathfinder,2006,18 900 PLN,365 894 km,Diesel,Manualna,SUV,2 488 cm3,174 KM,5,Zielony
+Nissan,Juke,2018,59 900 PLN,82 300 km,Diesel,Manualna,Auta miejskie,1 461 cm3,110 KM,5,Biały
+Nissan,X-Trail,2017,64 900 PLN,220 000 km,Diesel,Manualna,SUV,1 995 cm3,177 KM,5,Zielony
+Nissan,Qashqai,2020,55 500 PLN,57 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Note,2014,26 999 PLN,114 500 km,Benzyna,Manualna,Minivan,1 198 cm3,98 KM,5,Biały
+Nissan,Qashqai,2018,76 500 PLN,110 000 km,Benzyna,Manualna,SUV,1 332 cm3,158 KM,5,Czerwony
+Nissan,Qashqai,2011,32 500 PLN,160 388 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Patrol,1998,45 900 PLN,299 000 km,Benzyna,Manualna,SUV,4 759 cm3,245 KM,5,Zielony
+Nissan,Qashqai+2,2012,41 900 PLN,185 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Nissan,Qashqai,2015,51 900 PLN,200 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2017,59 999 PLN,162 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Note,2011,17 900 PLN,240 585 km,Benzyna,Manualna,Auta miejskie,1 386 cm3,88 KM,5,Czarny
+Nissan,Qashqai,2011,29 500 PLN,239 200 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Qashqai,2020,89 000 PLN,57 256 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Srebrny
+Nissan,Note,2013,22 900 PLN,166 137 km,Benzyna,Manualna,Kompakt,1 386 cm3,88 KM,5,Czerwony
+Nissan,Qashqai,2016,65 900 PLN,123 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,Qashqai,2012,29 500 PLN,329 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,116 KM,5,Beżowy
+Nissan,Micra,2007,7 300 PLN,234 646 km,Benzyna,Manualna,Kompakt,1 240 cm3,65 KM,3,Czerwony
+Nissan,Qashqai,2010,28 500 PLN,270 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Biały
+Nissan,Qashqai,2009,21 500 PLN,288 000 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Czarny
+Nissan,Murano,2018,73 000 PLN,75 000 km,Benzyna,Automatyczna,SUV,3 498 cm3,255 KM,5,Biały
+Nissan,Qashqai,2010,26 900 PLN,164 224 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Nissan,Qashqai,2015,46 000 PLN,200 457 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,X-Trail,2016,55 900 PLN,159 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2017,81 300 PLN,91 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2017,55 900 PLN,121 410 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Qashqai,2014,39 900 PLN,76 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2017,48 900 PLN,165 843 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Juke,2015,45 000 PLN,180 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Juke,2016,41 000 PLN,106 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,Patrol,1992,65 999 PLN,255 119 km,Diesel,Manualna,SUV,2 826 cm3,116 KM,3,Szary
+Nissan,Note,2007,9 899 PLN,274 800 km,Benzyna+LPG,Manualna,Kompakt,1 386 cm3,88 KM,5,Beżowy
+Nissan,Pulsar,2015,34 500 PLN,120 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Srebrny
+Nissan,Qashqai,2016,57 900 PLN,58 432 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2016,65 000 PLN,90 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,Qashqai,2015,47 600 PLN,103 050 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Bordowy
+Nissan,Qashqai+2,2009,35 000 PLN,204 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Nissan,X-Trail,2016,53 900 PLN,233 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2017,54 900 PLN,142 400 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Juke,2017,53 500 PLN,82 700 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Szary
+Nissan,Qashqai,2018,84 500 PLN,89 557 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Bordowy
+Nissan,Qashqai,2015,53 900 PLN,135 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Leaf,2013,28 499 PLN,139 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Czarny
+Nissan,Qashqai,2014,42 800 PLN,119 585 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Townstar,2022,76 900 PLN,39 842 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Nissan,370 Z,2017,89 900 PLN,68 530 km,Benzyna,Automatyczna,Coupe,3 696 cm3,328 KM,3,Czarny
+Nissan,Juke,2022,95 700 PLN,42 558 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Szary
+Nissan,Juke,2018,59 409 PLN,78 470 km,Benzyna,Automatyczna,SUV,1 598 cm3,112 KM,5,Granatowy
+Nissan,Qashqai+2,2009,29 900 PLN,157 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,140 KM,5,Błękitny
+Nissan,Micra,2019,45 900 PLN,45 200 km,Benzyna,Manualna,Auta miejskie,998 cm3,73 KM,5,Niebieski
+Nissan,Qashqai,2022,114 900 PLN,51 770 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Navara,2015,93 500 PLN,180 000 km,Diesel,Automatyczna,SUV,2 993 cm3,231 KM,4,Szary
+Nissan,Qashqai,2019,87 500 PLN,65 000 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Biały
+Nissan,Qashqai,2017,66 600 PLN,58 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Tiida,2010,12 900 PLN,177 928 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Srebrny
+Nissan,Juke,2019,68 900 PLN,52 051 km,Benzyna,Automatyczna,SUV,1 598 cm3,112 KM,5,Brązowy
+Nissan,Townstar,2022,94 900 PLN,35 000 km,Benzyna,Manualna,Minivan,1 332 cm3,130 KM,5,Czerwony
+Nissan,Qashqai,2009,25 400 PLN,295 000 km,Benzyna+LPG,Automatyczna,Kompakt,1 997 cm3,140 KM,5,Biały
+Nissan,Note,2006,11 500 PLN,189 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Beżowy
+Nissan,X-Trail,2005,18 500 PLN,188 353 km,Diesel,Manualna,SUV,2 184 cm3,136 KM,5,Srebrny
+Nissan,Qashqai,2019,79 900 PLN,105 000 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Szary
+Nissan,Micra,2014,27 700 PLN,112 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Inny kolor
+Nissan,Juke,2017,44 900 PLN,100 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Qashqai,2009,23 500 PLN,229 850 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Nissan,Qashqai,2017,66 490 PLN,20 805 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Niebieski
+Nissan,Navara,2015,57 900 PLN,136 000 km,Diesel,Manualna,SUV,2 488 cm3,190 KM,4,Szary
+Nissan,Micra,2019,50 000 PLN,49 000 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Biały
+Nissan,Juke,2013,44 500 PLN,220 000 km,Benzyna,Manualna,SUV,1 618 cm3,218 KM,5,Biały
+Nissan,Qashqai,2009,27 900 PLN,199 252 km,Benzyna,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Nissan,Ariya,2022,195 000 PLN,20 321 km,Elektryczny,Automatyczna,SUV,,242 KM,5,Inny kolor
+Nissan,Juke,2014,39 999 PLN,131 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,117 KM,5,Szary
+Nissan,Leaf,2016,26 900 PLN,114 266 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Biały
+Nissan,X-Trail,2017,84 900 PLN,64 083 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,X-Trail,2015,57 999 PLN,140 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Qashqai,2013,33 800 PLN,187 800 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,X-Trail,2011,36 500 PLN,273 000 km,Diesel,Manualna,SUV,1 995 cm3,173 KM,5,Brązowy
+Nissan,Juke,2024,104 400 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Szary
+Nissan,Qashqai,2007,24 900 PLN,189 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Nissan,Juke,2013,37 999 PLN,162 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Szary
+Nissan,Juke,2019,65 500 PLN,52 500 km,Benzyna,Manualna,SUV,1 598 cm3,112 KM,5,Srebrny
+Nissan,Juke,2018,58 900 PLN,71 704 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Note,2007,8 900 PLN,192 000 km,Benzyna,Manualna,Auta miejskie,1 386 cm3,88 KM,5,Inny kolor
+Nissan,X-Trail,2021,106 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2019,84 500 PLN,34 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2021,114 800 PLN,27 900 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Navara,2009,29 900 PLN,324 548 km,Diesel,Manualna,SUV,2 488 cm3,171 KM,4,Srebrny
+Nissan,Micra,2018,38 700 PLN,63 000 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Szary
+Nissan,Qashqai,2008,21 900 PLN,223 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2016,59 900 PLN,155 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Bordowy
+Nissan,Qashqai+2,2010,37 900 PLN,200 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Navara,2013,57 400 PLN,129 000 km,Diesel,Automatyczna,SUV,2 993 cm3,231 KM,4,Czarny
+Nissan,Silvia,2000,85 999 PLN,153 222 km,Benzyna,Manualna,Coupe,1 990 cm3,165 KM,2,Szary
+Nissan,Juke,2022,4 500 PLN,17 000 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Biały
+Nissan,Qashqai,2014,59 000 PLN,103 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czerwony
+Nissan,Juke,2014,42 700 PLN,135 859 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,,
+Nissan,Qashqai,2011,33 900 PLN,247 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Brązowy
+Nissan,Qashqai,2011,39 800 PLN,130 000 km,Diesel,Automatyczna,SUV,1 994 cm3,150 KM,5,Inny kolor
+Nissan,X-Trail,2019,99 900 PLN,15 825 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Czerwony
+Nissan,Qashqai,2008,19 900 PLN,288 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Qashqai,2008,24 400 PLN,179 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Inny kolor
+Nissan,Qashqai,2010,33 900 PLN,195 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Qashqai,2017,58 900 PLN,121 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Leaf,2021,74 538 PLN,32 850 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Biały
+Nissan,Qashqai,2008,19 999 PLN,266 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Szary
+Nissan,Micra,2022,46 500 PLN,10 200 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Granatowy
+Nissan,Qashqai,2011,30 800 PLN,190 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,X-Trail,2014,60 000 PLN,145 324 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Qashqai,2007,19 900 PLN,234 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Granatowy
+Nissan,Juke,2013,34 900 PLN,102 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Qashqai+2,2010,31 999 PLN,268 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,Qashqai,2014,42 900 PLN,144 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Qashqai,2014,45 400 PLN,295 100 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Qashqai,2012,36 900 PLN,195 300 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2018,82 900 PLN,119 423 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Juke,2013,34 900 PLN,131 580 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+,,Unknown,Przerwa techniczna,,,,,,,,
+Nissan,Qashqai,2017,59 900 PLN,93 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Note,2014,25 900 PLN,120 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,98 KM,5,Czarny
+Nissan,Qashqai,2008,23 900 PLN,180 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Szary
+Nissan,Micra,2008,10 900 PLN,120 000 km,Benzyna,Manualna,Auta małe,1 240 cm3,65 KM,3,Srebrny
+Nissan,Qashqai,2017,56 800 PLN,71 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,116 KM,5,Bordowy
+Nissan,Micra,2005,7 500 PLN,124 500 km,Benzyna,Manualna,Kompakt,1 240 cm3,65 KM,3,Czerwony
+Nissan,Micra,2014,29 900 PLN,91 291 km,Benzyna,Automatyczna,Auta małe,1 198 cm3,98 KM,5,Biały
+Nissan,X-Trail,2016,53 000 PLN,187 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Qashqai,2011,36 999 PLN,189 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Juke,2014,38 500 PLN,164 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Tiida,2007,10 700 PLN,143 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Złoty
+Nissan,Juke,2016,45 900 PLN,44 200 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2012,31 200 PLN,207 524 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Nissan,Qashqai,2024,104 900 PLN,20 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2016,56 900 PLN,156 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2008,21 800 PLN,214 500 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Nissan,Qashqai,2014,59 900 PLN,120 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,Qashqai,2020,85 900 PLN,85 500 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Qashqai,2020,85 900 PLN,85 500 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Murano,2014,65 000 PLN,120 000 km,Diesel,Automatyczna,SUV,2 488 cm3,190 KM,5,Czarny
+Nissan,Qashqai,2012,29 500 PLN,243 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Brązowy
+Nissan,Navara,2007,29 800 PLN,325 000 km,Diesel,Manualna,SUV,2 488 cm3,171 KM,4,Czarny
+Nissan,Qashqai,2020,79 900 PLN,56 400 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Qashqai,2009,19 700 PLN,263 300 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Srebrny
+Nissan,Juke,2018,24 800 PLN,69 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Juke,2018,60 000 PLN,104 000 km,Benzyna+LPG,Automatyczna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Juke,2013,29 900 PLN,150 330 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Srebrny
+Nissan,Murano,2015,72 000 PLN,134 400 km,Benzyna+LPG,Automatyczna,SUV,3 498 cm3,256 KM,5,Brązowy
+Nissan,X-Trail,2016,69 900 PLN,150 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Qashqai,2018,72 700 PLN,130 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,X-Trail,2016,59 900 PLN,94 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Juke,2016,32 300 PLN,207 582 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Srebrny
+Nissan,Qashqai+2,2012,37 900 PLN,211 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Fioletowy
+Nissan,Juke,2024,109 400 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,Qashqai,2019,68 900 PLN,39 500 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Biały
+Nissan,Qashqai,2010,31 900 PLN,168 205 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Nissan,Qashqai,2015,59 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,Qashqai,2011,35 900 PLN,189 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Bordowy
+Nissan,Qashqai,2017,51 500 PLN,87 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,X-Trail,2016,70 900 PLN,75 300 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Juke,2010,19 999 PLN,225 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Srebrny
+Nissan,Juke,2016,39 999 PLN,87 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Pathfinder,2011,95 000 PLN,180 000 km,Diesel,Automatyczna,SUV,2 993 cm3,231 KM,5,Czarny
+Nissan,X-Trail,2016,64 999 PLN,106 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,Qashqai,2017,64 900 PLN,81 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Granatowy
+Nissan,Micra,2004,1 800 PLN,135 000 km,Benzyna,Manualna,Auta małe,1 386 cm3,88 KM,5,Granatowy
+Nissan,Juke,2016,43 900 PLN,138 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2016,58 900 PLN,131 389 km,Benzyna,Manualna,SUV,1 197 cm3,116 KM,5,Czarny
+Nissan,Micra,2014,25 900 PLN,160 539 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Bordowy
+Nissan,Qashqai,2011,32 900 PLN,142 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Micra,2014,25 900 PLN,160 539 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Bordowy
+Nissan,Qashqai,2011,32 900 PLN,142 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Micra,2003,8 000 PLN,120 000 km,Benzyna,Manualna,Kompakt,998 cm3,60 KM,5,Niebieski
+Nissan,X-Trail,2015,56 700 PLN,155 800 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2018,73 900 PLN,77 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Nissan,Qashqai,2014,51 900 PLN,143 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Brązowy
+Nissan,Titan,2020,199 500 PLN,4 730 km,Benzyna,Automatyczna,Sedan,5 552 cm3,395 KM,4,Czarny
+Nissan,Qashqai,2009,19 800 PLN,213 783 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2019,70 000 PLN,86 930 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2016,59 900 PLN,81 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,Note,2014,21 500 PLN,250 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Szary
+Nissan,Juke,2012,38 007 PLN,170 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Granatowy
+Nissan,Qashqai,2016,65 700 PLN,62 302 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Qashqai,2017,64 000 PLN,104 630 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2011,35 400 PLN,162 800 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Szary
+Nissan,Juke,2013,34 999 PLN,154 131 km,Benzyna,Manualna,Kompakt,1 598 cm3,94 KM,5,Czarny
+Nissan,Micra,2006,9 300 PLN,121 500 km,Benzyna,Manualna,Auta małe,1 240 cm3,80 KM,5,Beżowy
+Nissan,Micra,2015,23 900 PLN,140 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Srebrny
+Nissan,Qashqai,2019,76 500 PLN,98 000 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Szary
+Nissan,Qashqai+2,2010,32 500 PLN,220 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Juke,2013,29 600 PLN,175 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2018,80 000 PLN,88 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Srebrny
+Nissan,Tiida,2010,17 300 PLN,119 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Niebieski
+Nissan,Qashqai,2011,31 900 PLN,145 090 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Czarny
+Nissan,Juke,2014,37 900 PLN,129 900 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Żółty
+Nissan,Micra,2007,2 590 PLN,229 000 km,Benzyna,Manualna,Kompakt,1 240 cm3,65 KM,5,Inny kolor
+Nissan,Juke,2015,38 999 PLN,179 000 km,Diesel,Manualna,Auta małe,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2015,24 900 PLN,136 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Inny kolor
+Nissan,Qashqai,2009,21 900 PLN,242 017 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czerwony
+Nissan,Qashqai,2011,41 900 PLN,116 800 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Qashqai,2017,70 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Fioletowy
+Nissan,X-Trail,2014,45 989 PLN,191 378 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czerwony
+Nissan,Qashqai,2019,69 800 PLN,143 000 km,Diesel,Manualna,SUV,1 749 cm3,150 KM,5,Bordowy
+Nissan,Qashqai,2012,39 900 PLN,181 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czerwony
+Nissan,Micra,2016,26 500 PLN,123 000 km,Benzyna+LPG,Manualna,Kompakt,1 198 cm3,80 KM,5,Inny kolor
+Nissan,Juke,2015,40 900 PLN,93 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Fioletowy
+Nissan,X-Trail,2004,14 900 PLN,145 000 km,Diesel,Manualna,SUV,2 184 cm3,136 KM,5,Złoty
+Nissan,Micra,2018,9 500 PLN,9 999 km,Benzyna,Manualna,Auta miejskie,998 cm3,71 KM,5,Czarny
+Nissan,Qashqai+2,2011,27 800 PLN,181 935 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Beżowy
+Nissan,Micra,2016,28 900 PLN,140 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Fioletowy
+Nissan,X-Trail,2017,62 300 PLN,75 923 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Qashqai,2016,57 900 PLN,68 046 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,X-Trail,2018,82 500 PLN,147 846 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Srebrny
+Nissan,Micra,2020,58 900 PLN,54 150 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,100 KM,5,Szary
+Nissan,Qashqai,2016,59 700 PLN,134 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Fioletowy
+Nissan,X-Trail,2023,147 500 PLN,18 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Biały
+Nissan,Qashqai,2019,69 900 PLN,142 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Czerwony
+Nissan,Qashqai,2007,15 900 PLN,270 000 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Czarny
+Nissan,Leaf,2020,69 900 PLN,64 580 km,Elektryczny,Automatyczna,Auta miejskie,,150 KM,5,Szary
+Nissan,Qashqai,2017,64 800 PLN,89 200 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Tiida,2008,16 700 PLN,58 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Srebrny
+Nissan,Pulsar,2015,28 800 PLN,208 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Biały
+Nissan,Qashqai,2012,40 900 PLN,102 483 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Biały
+Nissan,Qashqai,2018,74 500 PLN,98 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Inny kolor
+Nissan,Qashqai,2015,50 000 PLN,148 720 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,Juke,2013,37 500 PLN,140 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Szary
+Nissan,Juke,2010,33 900 PLN,141 985 km,Benzyna,Manualna,SUV,1 618 cm3,190 KM,5,Czarny
+Nissan,Micra,2010,11 900 PLN,151 000 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,80 KM,5,Biały
+Nissan,X-Trail,2018,63 800 PLN,140 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Zielony
+Nissan,X-Trail,2020,118 900 PLN,20 900 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2012,36 900 PLN,233 321 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Biały
+Nissan,Juke,2015,39 975 PLN,153 100 km,Benzyna,Automatyczna,SUV,1 618 cm3,190 KM,5,Niebieski
+Nissan,X-Trail,2007,27 850 PLN,213 510 km,Diesel,Manualna,SUV,1 995 cm3,173 KM,5,Brązowy
+Nissan,Qashqai,2020,73 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Qashqai,2020,73 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Qashqai,2012,35 900 PLN,175 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2013,39 600 PLN,167 700 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Almera,2003,2 300 PLN,219 090 km,Benzyna,Manualna,Kompakt,1 497 cm3,98 KM,5,Złoty
+Nissan,Qashqai,2008,25 500 PLN,179 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2015,52 000 PLN,154 260 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,370 Z,2013,88 900 PLN,160 000 km,Benzyna,Automatyczna,Coupe,3 696 cm3,328 KM,3,Czerwony
+Nissan,Juke,2011,32 700 PLN,132 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Bordowy
+Nissan,Qashqai,2015,43 900 PLN,149 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,Qashqai,2021,85 800 PLN,41 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,X-Trail,2017,51 900 PLN,98 000 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Biały
+Nissan,NV200,2011,22 900 PLN,230 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,4,Biały
+Nissan,Qashqai+2,2013,32 700 PLN,183 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Biały
+Nissan,Micra,1991,3 299 PLN,170 435 km,Benzyna,Manualna,Auta małe,988 cm3,50 KM,3,Szary
+Nissan,Qashqai,2017,65 000 PLN,62 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2013,41 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Biały
+Nissan,Qashqai,2013,43 999 PLN,149 938 km,Diesel,Manualna,SUV,1 598 cm3,131 KM,5,Biały
+Nissan,X-Trail,2016,62 900 PLN,158 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Note,2012,11 999 PLN,239 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Srebrny
+Nissan,Qashqai+2,2010,33 900 PLN,248 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Inny kolor
+Nissan,Qashqai,2018,71 000 PLN,86 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Note,2011,14 900 PLN,196 000 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Beżowy
+Nissan,Qashqai,2009,24 900 PLN,216 473 km,Diesel,Manualna,SUV,1 994 cm3,150 KM,5,Czarny
+Nissan,Patrol,1998,65 000 PLN,235 000 km,Diesel,Manualna,SUV,2 826 cm3,130 KM,3,Złoty
+Nissan,Qashqai,2015,49 900 PLN,69 400 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2015,59 600 PLN,99 510 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,X-Trail,2014,38 900 PLN,491 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Juke,2023,89 900 PLN,10 889 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Czarny
+Nissan,Qashqai,2017,73 000 PLN,112 004 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Biały
+Nissan,Qashqai,2014,44 999 PLN,149 689 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,Qashqai,2011,32 500 PLN,199 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Inny kolor
+Nissan,X-Trail,2019,89 900 PLN,39 500 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Biały
+Nissan,Leaf,2016,37 400 PLN,67 156 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Biały
+Nissan,Murano,2017,69 000 PLN,112 000 km,Benzyna,Automatyczna,SUV,3 498 cm3,256 KM,5,Czarny
+Nissan,Micra,2007,9 900 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 240 cm3,80 KM,3,Srebrny
+Nissan,Navara,2017,87 900 PLN,222 262 km,Diesel,Automatyczna,SUV,2 488 cm3,190 KM,4,Czarny
+Nissan,Micra,2017,35 900 PLN,55 000 km,Benzyna,Manualna,Kompakt,998 cm3,71 KM,5,Biały
+Nissan,Qashqai,2015,48 500 PLN,210 078 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Brązowy
+Nissan,Juke,2011,28 900 PLN,180 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai,2012,32 900 PLN,226 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2022,134 900 PLN,15 200 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Niebieski
+Nissan,Navara,2021,176 999,38 000 km,Diesel,Automatyczna,SUV,2 298 cm3,190 KM,5,Szary
+Nissan,Qashqai,2009,19 900 PLN,230 000 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Bordowy
+Nissan,Juke,2016,39 900 PLN,118 631 km,Benzyna,Manualna,Coupe,1 197 cm3,115 KM,5,Żółty
+Nissan,Navara,2018,73 333 PLN,146 468 km,Diesel,Automatyczna,SUV,2 299 cm3,190 KM,4,Biały
+Nissan,X-Trail,2014,39 000 PLN,219 600 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Zielony
+Nissan,Qashqai,2009,25 500 PLN,171 500 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Czarny
+Nissan,Pulsar,2014,39 900 PLN,99 485 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Szary
+Nissan,Micra,2011,23 500 PLN,96 350 km,Benzyna,Automatyczna,Auta małe,1 198 cm3,80 KM,5,Niebieski
+Nissan,Juke,2010,29 700 PLN,160 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Szary
+Nissan,Qashqai,2020,75 900 PLN,156 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Brązowy
+Nissan,Juke,2019,79 600 PLN,54 850 km,Benzyna,Automatyczna,SUV,999 cm3,117 KM,5,Bordowy
+Nissan,Qashqai,2017,69 900 PLN,18 986 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,X-Trail,2019,90 000 PLN,111 850 km,Diesel,Automatyczna,SUV,1 749 cm3,150 KM,5,Niebieski
+Nissan,Navara,2019,139 000 PLN,96 100 km,Diesel,Automatyczna,SUV,2 298 cm3,190 KM,5,Czarny
+Nissan,Qashqai,2018,55 000 PLN,169 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai+2,2012,43 900 PLN,141 291 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Fioletowy
+Nissan,Qashqai,2014,45 900 PLN,198 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Czarny
+Nissan,Qashqai,2019,77 000 PLN,165 000 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2012,34 900 PLN,219 153 km,Diesel,Manualna,SUV,1 600 cm3,130 KM,5,Biały
+Nissan,Titan,2015,46 900 PLN,178 495 km,Benzyna,Automatyczna,SUV,5 552 cm3,305 KM,4,Srebrny
+Nissan,Qashqai,2019,68 000 PLN,36 344 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,,
+Nissan,Note,2011,22 000 PLN,167 206 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Inny kolor
+Nissan,Juke,2015,39 900 PLN,113 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2021,72 000 PLN,185 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Qashqai,2011,35 599 PLN,115 581 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Beżowy
+Nissan,Juke,2020,74 900 PLN,48 000 km,Benzyna,Manualna,SUV,999 cm3,117 KM,5,Biały
+Nissan,X-Trail,2008,26 499 PLN,247 500 km,Diesel,Manualna,SUV,1 995 cm3,173 KM,5,Srebrny
+Nissan,Micra,2010,16 900 PLN,137 500 km,Benzyna,Manualna,Auta małe,1 198 cm3,80 KM,5,Czerwony
+Nissan,Pulsar,2016,16 900 PLN,122 000 km,Diesel,Manualna,Auta małe,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai,2007,16 500 PLN,246 416 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Szary
+Nissan,Pulsar,2017,35 900 PLN,132 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Biały
+Nissan,Micra,2021,47 000 PLN,59 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Niebieski
+Nissan,X-Trail,2015,54 900 PLN,280 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Juke,2014,39 900 PLN,171 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,Qashqai,2022,128 000 PLN,35 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,Micra,2018,37 900 PLN,87 500 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Bordowy
+Nissan,X-Trail,2020,95 000 PLN,60 600 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Pathfinder,2005,34 500 PLN,270 000 km,Benzyna+LPG,Automatyczna,SUV,3 954 cm3,269 KM,5,Czarny
+Nissan,Juke,2013,38 999 PLN,151 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Brązowy
+Nissan,Qashqai,2015,39 700 PLN,163 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Bordowy
+Nissan,Micra,2003,7 500 PLN,204 000 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,80 KM,5,Niebieski
+Nissan,Juke,2016,36 900 PLN,125 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2017,69 900 PLN,112 700 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Qashqai,2009,26 500 PLN,205 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Qashqai,2013,37 000 PLN,250 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Biały
+Nissan,Patrol,1993,39 900 PLN,248 000 km,Diesel,Manualna,SUV,2 826 cm3,116 KM,3,Szary
+Nissan,Micra,2015,17 900 PLN,187 186 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Srebrny
+Nissan,Qashqai,2011,37 400 PLN,181 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Nissan,Juke,2017,47 900 PLN,59 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2018,87 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,X-Trail,2018,74 999 PLN,140 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Pomarańczowy
+Nissan,X-Trail,2008,20 500 PLN,296 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,X-Trail,2014,55 000 PLN,114 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Zielony
+Nissan,Qashqai,2022,115 000 PLN,6 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Srebrny
+Nissan,Qashqai,2010,26 900 PLN,163 400 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Brązowy
+Nissan,Pulsar,2017,32 500 PLN,105 543 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2018,69 500 PLN,60 900 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Juke,2018,58 999 PLN,47 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Leaf,2015,37 900 PLN,144 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Czerwony
+Nissan,Almera,2001,6 500 PLN,84 500 km,Benzyna,Manualna,Kompakt,1 497 cm3,90 KM,5,Niebieski
+Nissan,X-Trail,2013,44 000 PLN,197 200 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2011,25 999 PLN,297 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Juke,2017,57 900 PLN,64 800 km,Benzyna,Automatyczna,Auta miejskie,1 598 cm3,117 KM,5,Biały
+Nissan,Qashqai,2011,31 900 PLN,144 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Nissan,Juke,2018,55 950 PLN,100 502 km,Benzyna,Manualna,SUV,1 598 cm3,112 KM,5,Biały
+Nissan,Qashqai,2016,66 000 PLN,159 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Inny kolor
+Nissan,Qashqai,2019,77 500 PLN,69 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Qashqai,2017,53 800 PLN,93 400 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Micra,2008,12 900 PLN,149 540 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,5,Inny kolor
+Nissan,X-Trail,2019,93 000 PLN,62 600 km,Diesel,Manualna,SUV,1 749 cm3,150 KM,5,Czarny
+Nissan,Juke,2021,82 500 PLN,9 435 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Brązowy
+Nissan,Juke,2013,32 800 PLN,150 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai,2014,41 000 PLN,206 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,X-Trail,2016,53 900 PLN,160 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Terrano,2003,22 900 PLN,207 000 km,Diesel,Manualna,SUV,2 953 cm3,154 KM,5,Srebrny
+Nissan,200 SX,2000,105 000 PLN,153 000 km,Benzyna,Manualna,Coupe,1 998 cm3,200 KM,2,Zielony
+Nissan,Qashqai,2018,51 900 PLN,33 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,370 Z,2015,127 000 PLN,45 000 km,Benzyna,Manualna,Coupe,3 696 cm3,328 KM,3,Biały
+Nissan,Qashqai+2,2009,28 700 PLN,187 000 km,Diesel,Automatyczna,SUV,1 995 cm3,149 KM,5,Granatowy
+Nissan,Juke,2011,27 500 PLN,153 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,117 KM,5,Szary
+Nissan,Leaf,2013,25 500 PLN,168 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Błękitny
+Nissan,Primastar,2009,36 000 PLN,254 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czarny
+Nissan,Juke,2014,36 900 PLN,158 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Brązowy
+Nissan,Micra,2011,20 000 PLN,52 427 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Niebieski
+Nissan,Qashqai,2012,33 800 PLN,150 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Qashqai,2009,21 900 PLN,216 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Bordowy
+Nissan,Patrol,2004,90 500 PLN,245 600 km,Diesel,Manualna,SUV,2 953 cm3,160 KM,5,Złoty
+Nissan,Qashqai,2009,31 700 PLN,195 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2010,38 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2016,59 900 PLN,70 201 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Juke,2015,40 900 PLN,210 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,Juke,2016,22 500 PLN,102 800 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai,2019,71 900 PLN,177 986 km,Diesel,Manualna,SUV,1 749 cm3,149 KM,5,Czarny
+Nissan,Leaf,2019,67 900 PLN,126 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Biały
+Nissan,Qashqai,2010,26 900 PLN,259 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Czarny
+Nissan,Micra,2014,30 000 PLN,103 200 km,Benzyna,Automatyczna,Kompakt,1 198 cm3,98 KM,5,Biały
+Nissan,Qashqai,2018,68 000 PLN,95 052 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czerwony
+Nissan,Qashqai,2018,77 600 PLN,66 670 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,280 ZX,1976,77 000 PLN,77 000 km,Benzyna,Manualna,Coupe,2 800 cm3,170 KM,2,Brązowy
+Nissan,NV200,2014,18 800 PLN,180 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Nissan,Juke,2011,32 900 PLN,176 011 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,X-Trail,2006,13 500 PLN,320 000 km,Diesel,Manualna,SUV,2 184 cm3,136 KM,5,Beżowy
+Nissan,Juke,2014,34 500 PLN,202 600 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Bordowy
+Nissan,Qashqai,2009,25 800 PLN,213 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,GT-R,2018,570 000 PLN,63 900 km,Benzyna,Automatyczna,Coupe,3 799 cm3,570 KM,2,Czarny
+Nissan,Qashqai,2024,129 000 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,X-Trail,2021,99 000 PLN,97 900 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2009,27 900 PLN,125 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2017,59 900 PLN,203 100 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2009,25 500 PLN,246 205 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Nissan,Murano,2010,36 700 PLN,254 700 km,Diesel,Automatyczna,SUV,2 488 cm3,190 KM,5,Beżowy
+Nissan,Navara,2019,149 500 PLN,31 000 km,Diesel,Automatyczna,SUV,2 298 cm3,190 KM,4,Czarny
+Nissan,370 Z,2016,99 900 PLN,115 000 km,Benzyna,Automatyczna,Coupe,3 696 cm3,328 KM,3,Inny kolor
+Nissan,Micra,2009,6 900 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,5,Czerwony
+Nissan,Leaf,2016,35 800 PLN,150 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Brązowy
+Nissan,Maxima,2002,15 500 PLN,165 000 km,Benzyna+LPG,Manualna,Sedan,3 498 cm3,255 KM,4,Szary
+Nissan,X-Trail,2001,10 000 PLN,300 000 km,Benzyna,Manualna,SUV,1 998 cm3,140 KM,5,Inny kolor
+Nissan,Navara,2013,68 864 PLN,154 847 km,Diesel,Automatyczna,SUV,2 993 cm3,231 KM,4,Czarny
+Nissan,X-Trail,2003,10 999 PLN,189 999 km,Benzyna,Manualna,SUV,2 488 cm3,165 KM,5,Czarny
+Nissan,X-Trail,2003,10 999 PLN,189 999 km,Benzyna,Manualna,SUV,2 488 cm3,165 KM,5,Czarny
+Nissan,Qashqai+2,2009,23 900 PLN,159 600 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Czerwony
+Nissan,Micra,2012,17 000 PLN,103 697 km,Benzyna,Manualna,Auta małe,1 198 cm3,80 KM,5,Brązowy
+Nissan,Juke,2011,27 900 PLN,160 500 km,Diesel,Manualna,Sedan,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2008,23 900 PLN,230 450 km,Diesel,Automatyczna,SUV,1 994 cm3,150 KM,5,Czarny
+Nissan,X-Trail,2017,67 800 PLN,186 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2009,22 500 PLN,260 000 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Granatowy
+Nissan,Titan,2007,66 556 PLN,234 170 km,Benzyna+LPG,Automatyczna,SUV,5 552 cm3,305 KM,4,Granatowy
+Nissan,Murano,2009,23 900 PLN,287 000 km,Benzyna,Automatyczna,SUV,3 498 cm3,252 KM,5,Czarny
+Nissan,Juke,2021,80 500 PLN,29 500 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Biały
+Nissan,Micra,2010,16 900 PLN,121 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Czarny
+Nissan,Qashqai,2017,59 900 PLN,105 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Qashqai+2,2011,24 500 PLN,239 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2018,82 900 PLN,110 710 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Biały
+Nissan,Qashqai,2007,23 900 PLN,190 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai+2,2010,38 000 PLN,220 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Nissan,Pulsar,2018,33 900 PLN,161 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Czarny
+Nissan,X-Trail,2014,58 500 PLN,184 098 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2013,42 800 PLN,170 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Qashqai,2019,73 500 PLN,82 896 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Juke,2015,30 900 PLN,134 900 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2014,45 900 PLN,145 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Qashqai,2012,38 500 PLN,169 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Bordowy
+Nissan,Juke,2014,37 900 PLN,125 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Juke,2020,87 000 PLN,28 000 km,Benzyna,Automatyczna,SUV,999 cm3,117 KM,5,Bordowy
+Nissan,Qashqai,2019,72 400 PLN,83 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2017,34 900 PLN,86 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,X-Trail,2015,60 000 PLN,187 600 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Note,2011,13 800 PLN,207 563 km,Diesel,Manualna,Auta małe,1 461 cm3,90 KM,5,Beżowy
+Nissan,Qashqai,2011,39 900 PLN,142 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Inny kolor
+Nissan,X-Trail,2014,46 900 PLN,231 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Zielony
+Nissan,Qashqai,2010,33 400 PLN,230 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Srebrny
+Nissan,Qashqai,2017,53 900 PLN,133 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2011,37 900 PLN,105 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Brązowy
+Nissan,Qashqai,2016,73 000 PLN,53 417 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Micra,2023,57 900 PLN,21 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Czarny
+Nissan,Qashqai,2008,22 800 PLN,251 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2007,24 950 PLN,170 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2012,34 400 PLN,181 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Brązowy
+Nissan,Leaf,2021,72 000 PLN,23 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Czarny
+Nissan,Qashqai,2010,34 900 PLN,191 287 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Fioletowy
+Nissan,Qashqai,2017,76 900 PLN,95 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2017,67 700 PLN,96 850 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Niebieski
+Nissan,Qashqai,2011,39 499 PLN,161 900 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Złoty
+Nissan,Qashqai,2012,39 800 PLN,144 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Biały
+Nissan,Almera,2005,2 600 PLN,189 651 km,Diesel,Manualna,Kompakt,1 461 cm3,82 KM,5,Błękitny
+Nissan,Qashqai,2024,176 550 PLN,3 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Zielony
+Nissan,Qashqai,2024,138 910 PLN,4 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Inny kolor
+Nissan,Leaf,2014,30 000 PLN,121 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Srebrny
+Nissan,Qashqai,2017,44 444 PLN,199 999 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Fioletowy
+Nissan,Micra,2022,21 800 PLN,9 800 km,Benzyna,Manualna,Auta małe,999 cm3,92 KM,5,Czarny
+Nissan,X-Trail,2007,25 000 PLN,275 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,X-Trail,2024,214 900 PLN,1 780 km,Hybryda,Automatyczna,SUV,1 497 cm3,213 KM,5,Inny kolor
+Nissan,Qashqai,2020,79 800 PLN,79 500 km,Diesel,Automatyczna,SUV,1 749 cm3,149 KM,5,Biały
+Nissan,Qashqai,2013,37 500 PLN,192 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Bordowy
+Nissan,Qashqai,2013,36 500 PLN,86 600 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Qashqai,2016,45 900 PLN,149 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Niebieski
+Nissan,Qashqai,2023,118 900 PLN,33 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2008,16 900 PLN,267 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2023,126 900 PLN,13 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Qashqai,2014,45 000 PLN,168 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2012,33 900 PLN,150 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,350 Z,2006,66 500 PLN,70 000 km,Benzyna,Manualna,Coupe,3 498 cm3,280 KM,2,Czarny
+Nissan,Qashqai,2009,26 900 PLN,160 000 km,Diesel,Automatyczna,SUV,1 749 cm3,149 KM,5,Czarny
+Nissan,Juke,2024,103 400 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Srebrny
+Nissan,Primera,2005,5 500 PLN,239 861 km,Benzyna+LPG,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2014,48 000 PLN,104 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Juke,2024,121 200 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,Note,2009,19 900 PLN,203 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Inny kolor
+Nissan,Qashqai,2023,135 900 PLN,11 500 km,Hybryda,Automatyczna,Kompakt,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2007,26 900 PLN,209 464 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Inny kolor
+Nissan,Qashqai,2011,22 900 PLN,254 200 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Pathfinder,2006,30 000 PLN,204 000 km,Benzyna,Automatyczna,SUV,3 954 cm3,269 KM,5,Czarny
+Nissan,Primastar,2013,46 799 PLN,144 000 km,Diesel,Manualna,Minivan,1 995 cm3,115 KM,4,Biały
+Nissan,Juke,2024,111 900 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Żółty
+Nissan,Qashqai,2022,99 900 PLN,38 336 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Srebrny
+Nissan,Juke,2024,106 900 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,Note,2007,9 500 PLN,271 000 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,110 KM,5,Inny kolor
+Nissan,X-Trail,2017,54 700 PLN,220 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Brązowy
+Nissan,Qashqai+2,2011,33 900 PLN,179 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Nissan,Qashqai,2014,40 999 PLN,261 915 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Srebrny
+Nissan,Almera,2004,5 900 PLN,206 467 km,Benzyna+LPG,Manualna,Kompakt,1 497 cm3,98 KM,5,Srebrny
+Nissan,X-Trail,2017,72 900 PLN,180 000 km,Diesel,Manualna,SUV,1 995 cm3,177 KM,5,Czarny
+Nissan,Qashqai,2018,75 900 PLN,107 780 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,Qashqai+2,2010,34 000 PLN,176 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Inny kolor
+Nissan,Qashqai,2024,136 290 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,NV300,2018,74 900 PLN,159 700 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Biały
+Nissan,Qashqai,2013,39 900 PLN,189 500 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Qashqai,2008,22 000 PLN,190 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Rogue,2016,52 900 PLN,158 800 km,Benzyna+LPG,Automatyczna,SUV,2 488 cm3,173 KM,5,Czarny
+Nissan,NV200,2016,24 900 PLN,166 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Nissan,NV200,2015,33 900 PLN,179 563 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Inny kolor
+Nissan,Micra,2014,20 999 PLN,175 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Zielony
+Nissan,GT-R,2018,599 999 PLN,27 509 km,Benzyna,Automatyczna,Coupe,3 799 cm3,570 KM,2,Pomarańczowy
+Nissan,Qashqai,2012,39 900 PLN,151 218 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai+2,2013,26 900 PLN,242 342 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Fioletowy
+Nissan,Patrol,1999,61 900 PLN,168 800 km,Diesel,Manualna,SUV,2 826 cm3,129 KM,3,Złoty
+Nissan,Qashqai,2022,94 900 PLN,82 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Primastar,2014,35 900 PLN,332 000 km,Diesel,Manualna,Kombi,1 996 cm3,114 KM,4,Biały
+Nissan,Qashqai,2019,76 900 PLN,32 600 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Juke,2020,72 000 PLN,16 000 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Czarny
+Nissan,Qashqai,2019,78 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Czarny
+Nissan,Navara,2018,90 000 PLN,109 800 km,Diesel,Manualna,SUV,2 299 cm3,163 KM,4,Biały
+Nissan,Qashqai,2016,53 999 PLN,156 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,Townstar,2023,99 000 PLN,11 000 km,Benzyna,Manualna,Minivan,1 333 cm3,130 KM,5,Srebrny
+Nissan,Qashqai,2020,81 500 PLN,87 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Inny kolor
+Nissan,Qashqai,2018,85 000 PLN,53 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Niebieski
+Nissan,Qashqai,2010,41 900 PLN,158 036 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,141 KM,5,Czarny
+Nissan,Qashqai,2015,49 900 PLN,160 000 km,Diesel,Manualna,SUV,1 600 cm3,130 KM,5,Srebrny
+Nissan,Qashqai,2014,40 900 PLN,190 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Micra,2015,28 999 PLN,79 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,98 KM,5,Czarny
+Nissan,Pixo,2010,8 800 PLN,139 760 km,Benzyna,Manualna,Auta miejskie,996 cm3,68 KM,5,Niebieski
+Nissan,Qashqai,2015,50 900 PLN,166 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,Qashqai,2013,32 000 PLN,258 642 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Note,2006,10 900 PLN,241 800 km,Benzyna+LPG,Manualna,Auta małe,1 386 cm3,88 KM,5,Inny kolor
+Nissan,X-Trail,2015,52 000 PLN,182 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai+2,2013,34 500 PLN,197 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,X-Trail,2016,66 900 PLN,117 800 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Qashqai,2017,76 000 PLN,44 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Brązowy
+Nissan,Qashqai,2011,39 400 PLN,132 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Srebrny
+Nissan,Qashqai,2013,43 999 PLN,74 175 km,Benzyna,Automatyczna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Qashqai,2010,29 900 PLN,209 135 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2012,35 500 PLN,232 330 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Inny kolor
+Nissan,Qashqai,2010,21 900 PLN,307 500 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Beżowy
+Nissan,Qashqai,2020,72 700 PLN,115 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Nissan,Micra,2021,44 900 PLN,38 761 km,Benzyna,Manualna,Auta małe,999 cm3,92 KM,5,Szary
+Nissan,Note,2016,39 000 PLN,63 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Szary
+Nissan,Qashqai,2011,35 900 PLN,187 655 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Fioletowy
+Nissan,Qashqai,2014,58 600 PLN,111 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,X-Trail,2021,112 700 PLN,43 063 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Brązowy
+Nissan,Qashqai,2016,54 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2015,54 900 PLN,90 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Szary
+Nissan,Juke,2015,42 000 PLN,118 800 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,115 KM,5,Czarny
+Nissan,X-Trail,2008,21 000 PLN,460 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Nissan,Qashqai,2010,38 700 PLN,106 066 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Fioletowy
+Nissan,Qashqai,2015,44 400 PLN,178 888 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Juke,2011,29 999 PLN,140 350 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Czarny
+Nissan,Tiida,2008,11 500 PLN,194 000 km,Benzyna,Manualna,Auta małe,1 797 cm3,126 KM,5,Bordowy
+Nissan,Qashqai,2017,78 800 PLN,84 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Juke,2020,85 000 PLN,39 000 km,Benzyna,Manualna,SUV,999 cm3,117 KM,5,Brązowy
+Nissan,Juke,2011,34 900 PLN,101 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Szary
+Nissan,Juke,2012,37 800 PLN,62 600 km,Benzyna,Manualna,SUV,1 618 cm3,190 KM,5,Bordowy
+Nissan,Micra,2018,16 900 PLN,50 000 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Czarny
+Nissan,Micra,2004,3 700 PLN,267 000 km,Benzyna,Manualna,Kompakt,1 240 cm3,65 KM,3,Niebieski
+Nissan,Qashqai,2017,69 900 PLN,93 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,Qashqai,2008,18 500 PLN,324 800 km,Diesel,Manualna,SUV,1 461 cm3,106 KM,5,Czarny
+Nissan,Qashqai,2011,30 999 PLN,175 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Srebrny
+Nissan,Micra,2011,16 100 PLN,116 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Niebieski
+Nissan,Qashqai,2015,49 800 PLN,140 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2011,34 800 PLN,146 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Qashqai+2,2010,33 400 PLN,284 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Inny kolor
+Nissan,Qashqai,2012,35 000 PLN,323 000 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Note,2017,35 300 PLN,117 701 km,Benzyna,Automatyczna,Auta małe,1 198 cm3,98 KM,5,Czarny
+Nissan,Navara,2010,21 000 PLN,200 000 km,Diesel,Manualna,SUV,2 488 cm3,190 KM,4,Czarny
+Nissan,Note,2010,17 900 PLN,117 500 km,Benzyna,Manualna,Kompakt,1 386 cm3,88 KM,5,Bordowy
+Nissan,Micra,2006,9 800 PLN,177 240 km,Benzyna,Manualna,Auta małe,1 240 cm3,65 KM,3,Inny kolor
+Nissan,Qashqai,2019,68 900 PLN,109 264 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Niebieski
+Nissan,Almera,1999,4 000 PLN,233 156 km,Benzyna,Manualna,Auta małe,1 390 cm3,75 KM,3,Pomarańczowy
+Nissan,Primastar,2009,30 900 PLN,230 000 km,Diesel,Manualna,Minivan,1 995 cm3,115 KM,5,Czarny
+Nissan,Note,2006,6 900 PLN,208 000 km,Benzyna,Manualna,Auta małe,1 386 cm3,88 KM,5,Niebieski
+Nissan,Qashqai,2022,94 900 PLN,34 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Tiida,2008,12 000 PLN,79 453 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,4,Zielony
+Nissan,Qashqai,2012,35 900 PLN,179 000 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Czarny
+Nissan,Juke,2010,29 900 PLN,196 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,117 KM,5,Brązowy
+Nissan,Qashqai,2019,69 700 PLN,165 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Czarny
+Nissan,Juke,2014,41 000 PLN,94 000 km,Benzyna,Manualna,SUV,1 598 cm3,94 KM,5,Biały
+Nissan,Qashqai+2,2009,24 900 PLN,200 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Bordowy
+Nissan,Juke,2016,51 900 PLN,90 000 km,Benzyna,Manualna,SUV,1 618 cm3,218 KM,5,Czarny
+Nissan,Qashqai,2020,79 900 PLN,16 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Pathfinder,2014,64 900 PLN,177 000 km,Diesel,Automatyczna,SUV,2 488 cm3,190 KM,5,Czarny
+Nissan,Sunny,1992,3 500 PLN,28 000 km,Benzyna,Manualna,Auta miejskie,1 392 cm3,75 KM,3,Srebrny
+Nissan,X-Trail,2015,47 900 PLN,246 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Granatowy
+Nissan,Leaf,2021,84 500 PLN,36 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Szary
+Nissan,Juke,2015,41 000 PLN,70 903 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2019,55 900 PLN,146 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Srebrny
+Nissan,X-Trail,2010,26 500 PLN,263 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,X-Trail,2011,33 900 PLN,172 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,X-Trail,2017,59 900 PLN,122 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Srebrny
+Nissan,Qashqai,2011,37 900 PLN,115 477 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Bordowy
+Nissan,Qashqai,2022,99 900 PLN,37 252 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Micra,2008,7 000 PLN,377 000 km,Diesel,Manualna,Kompakt,1 461 cm3,86 KM,3,Czerwony
+Nissan,Qashqai,2011,38 000 PLN,168 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Qashqai,2023,144 900 PLN,21 388 km,Benzyna,Automatyczna,SUV,1 497 cm3,158 KM,5,Czarny
+Nissan,Micra,2011,19 000 PLN,117 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Srebrny
+Nissan,Note,2010,16 500 PLN,133 000 km,Benzyna,Manualna,Kompakt,1 386 cm3,88 KM,5,Srebrny
+Nissan,Micra,2008,6 000 PLN,257 000 km,Diesel,Manualna,Kompakt,1 461 cm3,86 KM,3,Biały
+Nissan,Micra,2015,26 900 PLN,34 170 km,Benzyna,Manualna,Auta małe,1 198 cm3,80 KM,5,Beżowy
+Nissan,Juke,2013,16 600 PLN,125 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Leaf,2015,32 000 PLN,85 931 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Biały
+Nissan,Qashqai,2024,135 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Leaf,2021,85 900 PLN,31 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Szary
+Nissan,Juke,2024,111 900 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,Micra,2015,26 900 PLN,34 170 km,Benzyna,Manualna,Auta małe,1 198 cm3,80 KM,5,Beżowy
+Nissan,Juke,2013,16 600 PLN,125 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Leaf,2015,32 000 PLN,85 931 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Biały
+Nissan,Qashqai,2024,135 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Leaf,2021,85 900 PLN,31 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Szary
+Nissan,Juke,2024,111 900 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,Juke,2014,39 900 PLN,156 567 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Note,2010,13 700 PLN,232 000 km,Diesel,Manualna,Kompakt,1 461 cm3,86 KM,5,Złoty
+Nissan,Qashqai,2012,33 900 PLN,224 678 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Juke,2011,28 500 PLN,181 400 km,Benzyna,Manualna,Auta małe,1 598 cm3,117 KM,5,Biały
+Nissan,Note,2014,21 900 PLN,125 791 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Srebrny
+Nissan,Qashqai,2007,23 900 PLN,166 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,141 KM,5,Srebrny
+Nissan,Qashqai,2019,79 900 PLN,95 841 km,Diesel,Manualna,SUV,1 461 cm3,116 KM,5,Czarny
+Nissan,Qashqai,2024,165 050 PLN,7 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,Leaf,2016,20 900 PLN,60 315 km,Elektryczny,Automatyczna,Auta miejskie,,109 KM,5,Biały
+Nissan,Qashqai,2014,49 999 PLN,164 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2008,21 999 PLN,169 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Beżowy
+Nissan,Qashqai,2015,47 600 PLN,193 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Leaf,2022,89 900 PLN,32 000 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Biały
+Nissan,Ariya,2023,207 900 PLN,6 km,Elektryczny,Automatyczna,SUV,,218 KM,5,Złoty
+Nissan,X-Trail,2024,213 750 PLN,5 km,Hybryda,Automatyczna,SUV,1 497 cm3,163 KM,5,Czarny
+Nissan,Juke,2024,130 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Żółty
+Nissan,Juke,2024,114 400 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Bordowy
+Nissan,Qashqai,2024,155 600 PLN,5 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2014,47 999 PLN,129 300 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,X-Trail,2017,57 900 PLN,169 500 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Szary
+Nissan,Qashqai,2017,62 500 PLN,98 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Juke,2024,122 500 PLN,10 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Inny kolor
+Nissan,Juke,2019,72 900 PLN,31 415 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Niebieski
+Nissan,Qashqai,2023,127 900 PLN,10 741 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Srebrny
+Nissan,Qashqai,2023,124 900 PLN,47 938 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Note,2014,21 500 PLN,154 110 km,Diesel,Manualna,Auta małe,1 461 cm3,90 KM,5,Błękitny
+Nissan,Note,2014,21 500 PLN,154 110 km,Diesel,Manualna,Auta małe,1 461 cm3,90 KM,5,Błękitny
+Nissan,Juke,2020,72 900 PLN,39 007 km,Benzyna,Manualna,SUV,999 cm3,117 KM,5,Czarny
+Nissan,Qashqai,2012,37 900 PLN,180 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Qashqai,2016,48 900 PLN,134 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,X-Trail,2017,64 700 PLN,172 822 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Zielony
+Nissan,Juke,2019,82 000 PLN,42 000 km,Benzyna,Automatyczna,SUV,999 cm3,117 KM,5,Srebrny
+Nissan,Qashqai,2013,39 999 PLN,180 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,Juke,2019,56 949 PLN,58 266 km,Benzyna,Manualna,SUV,1 598 cm3,112 KM,5,Biały
+Nissan,Qashqai,2019,72 800 PLN,87 000 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Czarny
+Nissan,X-Trail,2016,70 600 PLN,139 900 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Szary
+Nissan,Qashqai,2016,58 900 PLN,78 500 km,Benzyna,Manualna,SUV,1 197 cm3,116 KM,5,Czarny
+Nissan,Townstar,2023,109 900 PLN,1 670 km,Benzyna,Manualna,Minivan,1 333 cm3,130 KM,5,Czerwony
+Nissan,Juke,2024,126 720 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Szary
+Nissan,Juke,2015,42 990 PLN,74 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,Qashqai,2019,89 800 PLN,93 596 km,Benzyna,Manualna,Kompakt,1 332 cm3,160 KM,5,Szary
+Nissan,Qashqai,2011,27 500 PLN,215 419 km,Diesel,Manualna,SUV,1 500 cm3,110 KM,5,Inny kolor
+Nissan,X-Trail,2024,237 550 PLN,1 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Szary
+Nissan,Qashqai,2019,77 000 PLN,86 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,159 KM,5,Bordowy
+Nissan,Qashqai,2024,139 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,Juke,2022,92 900 PLN,14 517 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Bordowy
+Nissan,X-Trail,2024,237 550 PLN,1 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Szary
+Nissan,Leaf,2021,79 900 PLN,37 740 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Biały
+Nissan,Juke,2023,119 500 PLN,9 250 km,Benzyna,Automatyczna,SUV,1 598 cm3,94 KM,5,Inny kolor
+Nissan,Micra,2015,16 500 PLN,207 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Srebrny
+Nissan,Townstar,2023,163 200 PLN,8 000 km,Elektryczny,Automatyczna,Kombi,,122 KM,5,Biały
+Nissan,NV200,2019,74 900 PLN,69 300 km,Elektryczny,Automatyczna,Minivan,,109 KM,5,Biały
+Nissan,Leaf,2017,44 900 PLN,43 305 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Czarny
+Nissan,Micra,2011,19 200 PLN,144 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,98 KM,5,Biały
+Nissan,Qashqai,2017,65 900 PLN,116 167 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2022,139 900 PLN,14 655 km,Benzyna,Automatyczna,SUV,1 497 cm3,158 KM,5,Szary
+Nissan,Qashqai,2018,87 500 PLN,48 785 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2022,109 900 PLN,27 870 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Niebieski
+Nissan,Qashqai,2018,59 900 PLN,167 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai+2,2008,22 900 PLN,316 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Nissan,Qashqai,2015,59 900 PLN,233 300 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,X-Trail,2023,141 900 PLN,7 730 km,Hybryda,Automatyczna,SUV,1 497 cm3,163 KM,5,Inny kolor
+Nissan,Qashqai,2015,41 800 PLN,110 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Micra,2017,41 900 PLN,61 000 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,5,Czerwony
+Nissan,Qashqai,2008,18 500 PLN,286 900 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Patrol,2000,105 000 PLN,172 000 km,Diesel,Manualna,SUV,2 953 cm3,158 KM,5,Bordowy
+Nissan,Juke,2018,52 000 PLN,80 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2018,69 500 PLN,67 300 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Niebieski
+Nissan,Juke,2022,107 000 PLN,14 338 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Szary
+Nissan,Juke,2024,146 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Biały
+Nissan,Juke,2021,86 500 PLN,15 010 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Brązowy
+Nissan,Qashqai,2014,50 000 PLN,71 848 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Juke,2018,25 900 PLN,81 310 km,Benzyna,Manualna,SUV,1 197 cm3,116 KM,5,Srebrny
+Nissan,X-Trail,2005,14 900 PLN,178 000 km,Diesel,Manualna,SUV,2 184 cm3,136 KM,5,Bordowy
+Nissan,Qashqai,2016,64 600 PLN,76 759 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2009,28 900 PLN,158 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Nissan,Juke,2015,39 900 PLN,113 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai+2,2012,36 900 PLN,211 000 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Nissan,X-Trail,2024,212 900 PLN,900 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Złoty
+Nissan,Pulsar,2015,38 900 PLN,141 000 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,116 KM,5,Biały
+Nissan,Qashqai+2,2012,38 999 PLN,240 221 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Inny kolor
+Nissan,Qashqai,2009,23 900 PLN,199 750 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Nissan,Almera,2002,5 222 PLN,217 000 km,Benzyna+LPG,Manualna,Auta małe,1 769 cm3,116 KM,3,Złoty
+Nissan,Micra,2016,22 900 PLN,81 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Inny kolor
+Nissan,Qashqai,2016,44 900 PLN,161 147 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Primastar,2007,18 600 PLN,260 000 km,Diesel,Manualna,Kombi,1 995 cm3,90 KM,5,Biały
+Nissan,Micra,2021,54 900 PLN,6 800 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Nissan,Juke,2022,101 900 PLN,19 805 km,Hybryda,Automatyczna,SUV,1 598 cm3,143 KM,5,Czarny
+Nissan,Pulsar,2015,35 700 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Biały
+Nissan,Qashqai,2021,86 900 PLN,53 612 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Pulsar,2015,35 700 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Biały
+Nissan,Qashqai,2021,86 900 PLN,53 612 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2021,85 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Srebrny
+Nissan,Qashqai,2008,32 900 PLN,146 300 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Inny kolor
+Nissan,Juke,2016,48 500 PLN,117 600 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Leaf,2013,29 520 PLN,164 132 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Czarny
+Nissan,Qashqai,2023,122 900 PLN,24 238 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai+2,2008,20 900 PLN,238 500 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Nissan,Qashqai,2016,59 900 PLN,105 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Szary
+Nissan,Qashqai,2007,29 999 PLN,194 300 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Inny kolor
+Nissan,X-Trail,2024,214 500 PLN,10 km,Hybryda,Automatyczna,SUV,1 497 cm3,213 KM,5,Biały
+Nissan,Pulsar,2016,25 800 PLN,124 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Szary
+Nissan,Micra,2012,13 800 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Srebrny
+Nissan,Qashqai,2015,42 900 PLN,229 123 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Juke,2014,33 900 PLN,156 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Nissan,Primastar,2005,17 950 PLN,222 150 km,Diesel,Manualna,Minivan,1 870 cm3,101 KM,4,Biały
+Nissan,Juke,2012,32 000 PLN,119 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czerwony
+Nissan,Qashqai,2022,94 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Nissan,Qashqai,2023,152 900 PLN,6 200 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Niebieski
+Nissan,Qashqai,2017,60 270 PLN,155 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,4,Bordowy
+Nissan,370 Z,2019,149 900 PLN,19 700 km,Benzyna,Automatyczna,Coupe,3 696 cm3,331 KM,2,Srebrny
+Nissan,Patrol,2003,105 000 PLN,139 000 km,Diesel,Manualna,SUV,2 953 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2017,66 900 PLN,180 756 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Brązowy
+Nissan,Micra,2016,25 900 PLN,179 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,80 KM,5,Czarny
+Nissan,Juke,2015,42 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Biały
+Nissan,Qashqai,2013,34 900 PLN,199 000 km,Diesel,Manualna,SUV,1 600 cm3,130 KM,5,Beżowy
+Nissan,Qashqai,2015,47 000 PLN,224 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Nissan,Qashqai,2023,149 900 PLN,19 659 km,Benzyna,Automatyczna,SUV,1 497 cm3,158 KM,5,Czerwony
+Nissan,Qashqai,2024,142 800 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,Qashqai+2,2009,29 900 PLN,208 400 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Nissan,Juke,2024,111 400 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Żółty
+Nissan,Juke,2011,28 900 PLN,166 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Juke,2024,118 200 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Czerwony
+Nissan,X-Trail,2021,119 900 PLN,51 632 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2024,148 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,X-Trail,2016,67 900 PLN,78 900 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Inny kolor
+Nissan,Juke,2019,65 899 PLN,34 924 km,Benzyna,Automatyczna,SUV,1 598 cm3,111 KM,,Biały
+Nissan,Qashqai,2020,40 000 PLN,67 098 km,Benzyna,Automatyczna,SUV,2 000 cm3,141 KM,5,Biały
+Nissan,Micra,2009,5 200 PLN,233 653 km,Benzyna,Manualna,Auta miejskie,1 240 cm3,65 KM,3,Biały
+Nissan,Qashqai,2023,122 900 PLN,24 238 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Juke,2023,14 400 EUR,29 129 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Czarny
+Nissan,Townstar,2023,118 300 PLN,7 km,Benzyna,Manualna,Kombi,1 333 cm3,130 KM,5,Czerwony
+Nissan,Qashqai,2016,62 900 PLN,96 300 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2022,143 900 PLN,8 km,Hybryda,Manualna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2019,38 000 PLN,50 431 km,Benzyna,Automatyczna,SUV,2 000 cm3,141 KM,5,Biały
+Nissan,Qashqai+2,2012,29 999 PLN,218 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Nissan,Juke,2023,113 900 PLN,607 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Bordowy
+Nissan,Juke,2014,39 900 PLN,115 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Nissan,Qashqai,2024,152 650,1 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai,2016,55 500 PLN,167 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Inny kolor
+Nissan,Qashqai,2017,62 800 PLN,140 100 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2020,79 000 PLN,39 184 km,Benzyna,Manualna,SUV,1 332 cm3,159 KM,5,Biały
+Nissan,Juke,2011,28 500 PLN,162 015 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,Qashqai,2010,29 900 PLN,125 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Nissan,Qashqai,2008,25 000 PLN,206 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Beżowy
+Nissan,Leaf,2023,123 500 PLN,1 km,Elektryczny,Automatyczna,Kompakt,,150 KM,5,Szary
+Nissan,Qashqai,2022,117 900 PLN,34 957 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Townstar,2024,150 100 PLN,5 km,Benzyna,Manualna,Minivan,1 333 cm3,130 KM,5,Biały
+Nissan,Qashqai,2015,40 000 PLN,180 806 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Nissan,Juke,2024,107 900 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Szary
+Nissan,Qashqai,2021,99 900 PLN,41 100 km,Benzyna,Manualna,SUV,1 332 cm3,158 KM,5,Niebieski
+Nissan,NV300,2021,139 999 PLN,53 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Szary
+Nissan,Patrol,2001,49 900 PLN,328 000 km,Diesel,Automatyczna,SUV,2 953 cm3,158 KM,5,Złoty
+Nissan,Qashqai,2022,155 000 PLN,8 km,Hybryda,Automatyczna,SUV,1 497 cm3,190 KM,5,Biały
+Nissan,Patrol,2001,49 900 PLN,328 000 km,Diesel,Automatyczna,SUV,2 953 cm3,158 KM,5,Złoty
+Nissan,Qashqai,2022,155 000 PLN,8 km,Hybryda,Automatyczna,SUV,1 497 cm3,190 KM,5,Biały
+Nissan,Qashqai,2023,120 000 PLN,39 038 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,NV200,2015,12 900 PLN,340 000 km,Benzyna,Automatyczna,Minivan,1 598 cm3,110 KM,5,Żółty
+Nissan,Qashqai,2019,69 900 PLN,149 000 km,Diesel,Manualna,SUV,1 749 cm3,150 KM,5,Szary
+Nissan,Patrol,2001,51 700 PLN,147 000 km,Diesel,Manualna,SUV,2 953 cm3,158 KM,5,Granatowy
+Nissan,Qashqai,2010,29 990 PLN,190 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Szary
+Nissan,Juke,2018,44 500 PLN,43 986 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Srebrny
+Nissan,Qashqai,2017,69 900 PLN,75 000 km,Benzyna,Manualna,SUV,1 618 cm3,163 KM,5,Czarny
+Nissan,Qashqai,2018,85 900 PLN,82 000 km,Benzyna,Manualna,SUV,1 599 cm3,163 KM,5,Brązowy
+Nissan,Leaf,2011,17 500 PLN,179 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Srebrny
+Nissan,Juke,2012,37 900 PLN,201 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,110 KM,5,Czarny
+Nissan,Qashqai,2014,44 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,116 KM,5,Biały
+Nissan,Note,2012,15 950 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 386 cm3,88 KM,5,Biały
+Nissan,Qashqai,2017,59 900 PLN,115 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2008,26 900 PLN,244 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Nissan,Leaf,2021,79 900 PLN,13 000 km,Elektryczny,Automatyczna,Auta miejskie,,150 KM,5,Biały
+Nissan,Qashqai,2016,47 900 PLN,95 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,115 KM,5,Szary
+Nissan,Qashqai,2024,139 980 PLN,2 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Granatowy
+Nissan,Qashqai,2024,144 900 PLN,15 100 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Nissan,Qashqai+2,2011,34 900 PLN,168 000 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Navara,2006,48 700 PLN,231 000 km,Diesel,Manualna,SUV,2 488 cm3,171 KM,5,Czarny
+Nissan,Juke,2014,43 900 PLN,104 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,117 KM,5,Biały
+Nissan,X-Trail,2021,119 900 PLN,31 800 km,Diesel,Manualna,SUV,1 749 cm3,150 KM,5,Biały
+Nissan,Qashqai,2009,23 900 PLN,252 000 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,141 KM,5,Czerwony
+Nissan,NV300,2017,89 990 PLN,88 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,5,Niebieski
+Nissan,Qashqai,2024,139 840 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czerwony
+Nissan,Qashqai,2024,160 000 PLN,7 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Zielony
+Nissan,Juke,2021,79 900 PLN,37 936 km,Benzyna,Manualna,SUV,999 cm3,114 KM,5,Brązowy
+Nissan,Qashqai,2023,159 900 PLN,20 180 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Niebieski
+Nissan,Leaf,2021,79 900 PLN,13 000 km,Elektryczny,Automatyczna,Auta miejskie,,150 KM,5,Biały
+Nissan,Qashqai,2019,68 500 PLN,55 600 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Nissan,X-Trail,2022,199 000 PLN,17 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,213 KM,5,Szary
+Nissan,Navara,2007,55 000 PLN,339 000 km,Diesel,Manualna,SUV,2 488 cm3,170 KM,4,Czarny
+Nissan,Qashqai,2023,132 900 PLN,15 448 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Nissan,Navara,2008,13 500 PLN,166 000 km,Diesel,Automatyczna,SUV,2 488 cm3,171 KM,4,Czarny
+Nissan,Qashqai+2,2010,32 900 PLN,203 150 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Nissan,Juke,2014,29 100 PLN,234 900 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Ariya,2023,222 900 PLN,5 km,Elektryczny,Automatyczna,SUV,,240 KM,5,Złoty
+Nissan,Qashqai,2023,142 900 PLN,16 270 km,Hybryda,Automatyczna,SUV,1 497 cm3,158 KM,5,Bordowy
+Nissan,Qashqai,2016,49 900 PLN,222 446 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Czarny
+Nissan,Qashqai,2023,123 900 PLN,28 250 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czerwony
+Nissan,Qashqai,2024,150 070,1 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Nissan,Qashqai,2007,23 900 PLN,182 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Brązowy
+Nissan,Almera Tino,2003,9 900 PLN,180 000 km,Benzyna,Manualna,Minivan,1 769 cm3,116 KM,5,Szary
+Nissan,Qashqai,2010,35 900 PLN,162 000 km,Benzyna,Manualna,SUV,1 997 cm3,141 KM,5,Niebieski
+Nissan,Juke,2024,122 200 PLN,10 km,Benzyna,Automatyczna,SUV,999 cm3,114 KM,5,Bordowy
+Nissan,Qashqai+2,2011,29 900 PLN,224 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Czarny
+Nissan,Qashqai,2011,35 900 PLN,148 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Srebrny
+Nissan,Note,2013,26 500 PLN,175 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,80 KM,5,Bordowy
+Nissan,Qashqai,2011,31 900 PLN,229 500 km,Benzyna,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Nissan,Qashqai+2,2011,30 890 PLN,208 100 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,X-Trail,2015,54 000 PLN,185 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Inny kolor
+Nissan,X-Trail,2016,39 900 PLN,160 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Nissan,Almera,2000,5 000 PLN,280 000 km,Diesel,Manualna,Auta małe,1 974 cm3,75 KM,3,Srebrny
+Nissan,Qashqai,2010,30 499 PLN,147 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Nissan,Qashqai,2018,60 900 PLN,155 000 km,Benzyna,Manualna,SUV,1 197 cm3,115 KM,5,Bordowy
+Nissan,X-Trail,2021,49 000 PLN,26 976 km,Benzyna,Automatyczna,SUV,2 500 cm3,181 KM,5,Biały
+Nissan,X-Trail,2019,38 000 PLN,31 306 km,Benzyna,Automatyczna,SUV,2 500 cm3,170 KM,5,Biały
+Nissan,Qashqai,2017,65 900 PLN,67 555 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,,
+Nissan,Qashqai,2019,80 900 PLN,33 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Bordowy
+Nissan,Juke,2012,10 500 PLN,87 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Bordowy
+Nissan,Pulsar,2016,45 900 PLN,92 000 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,116 KM,5,Bordowy
+Nissan,X-Trail,2016,73 900 PLN,64 145 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny

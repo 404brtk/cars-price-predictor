@@ -1,0 +1,801 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Fiat,Punto,2016,22 900 PLN,60 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Biały
+Fiat,Bravo,2011,21 900 PLN,195 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,140 KM,5,Szary
+Fiat,Tipo,2019,43 900 PLN,49 411 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,500,2019,41 000 PLN,23 153 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Cinquecento,1993,6 500 PLN,50 143 km,Benzyna,Manualna,Auta małe,903 cm3,41 KM,3,Srebrny
+Fiat,Punto,2010,25 461 PLN,137 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czarny
+Fiat,500X,2016,44 800 PLN,116 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Fiat,Tipo,2018,39 900 PLN,107 684 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Granatowy
+Fiat,Tipo,2019,43 000 PLN,42 300 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Inny kolor
+Fiat,Panda,2010,8 600 PLN,218 306 km,Benzyna+LPG,Manualna,Auta małe,1 108 cm3,54 KM,5,Biały
+Fiat,Tipo,2024,97 500 PLN,1 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Niebieski
+Fiat,500,2011,19 900 PLN,77 000 km,Benzyna,Automatyczna,Kabriolet,875 cm3,85 KM,2,Srebrny
+Fiat,Panda,2021,41 900 PLN,44 139 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Pomarańczowy
+Fiat,Punto Evo,2010,15 400 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Granatowy
+Fiat,126,1986,13 000 PLN,60 102 km,Benzyna,Manualna,Auta małe,650 cm3,15 KM,2,Niebieski
+Fiat,500,2015,15 800 PLN,164 000 km,Diesel,Manualna,Auta małe,1 248 cm3,95 KM,3,Czarny
+Fiat,Tipo,2017,39 900 PLN,69 263 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Szary
+Fiat,Panda,2017,32 900 PLN,40 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Szary
+Fiat,500,2013,25 500 PLN,94 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Brązowy
+Fiat,500X,2015,46 900 PLN,171 341 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Brązowy
+Fiat,Croma,2010,12 900 PLN,241 114 km,Diesel,Automatyczna,Kombi,1 910 cm3,150 KM,5,Szary
+Fiat,Panda,2016,26 000 PLN,125 400 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Bordowy
+Fiat,Punto,2010,14 000 PLN,170 506 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,3,Czarny
+Fiat,Croma,2008,14 600 PLN,185 000 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Inny kolor
+Fiat,Ducato,2011,64 000 PLN,505 000 km,Diesel,Manualna,Minivan,2 287 cm3,120 KM,4,Biały
+Fiat,Panda,2010,9 300 PLN,148 900 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,Panda,2005,5 599 PLN,176 137 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Srebrny
+Fiat,500,2016,34 500 PLN,53 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Bravo,2008,10 700 PLN,248 500 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czerwony
+Fiat,Tipo,2019,29 900 PLN,170 700 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,Punto,2013,18 900 PLN,103 670 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Inny kolor
+Fiat,126,1985,18 999 PLN,92 000 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Bordowy
+Fiat,Doblo,2024,113 326,1 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Biały
+Fiat,Doblo,2011,18 500 PLN,300 010 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czerwony
+Fiat,Panda,2011,9 500 PLN,155 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Czerwony
+Fiat,500,2023,59 000 PLN,12 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Fiorino,2017,21 500 PLN,293 295 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,500e,2014,29 900 PLN,84 100 km,Elektryczny,Automatyczna,Auta małe,,113 KM,3,Szary
+Fiat,500,2022,47 900 PLN,21 777 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,3,Czarny
+Fiat,Ducato,2019,67 650 PLN,316 500 km,Diesel,Manualna,Minivan,2 287 cm3,177 KM,2,Biały
+Fiat,Grande Punto,2008,11 900 PLN,95 420 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,3,Srebrny
+Fiat,Panda,2013,28 900 PLN,67 855 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Inny kolor
+Fiat,Grande Punto,2014,19 999 PLN,144 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,70 KM,5,Czarny
+Fiat,500,2008,17 900 PLN,97 708 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,2,Biały
+Fiat,Ducato,2013,27 060 PLN,277 400 km,Diesel,Manualna,Minivan,2 287 cm3,130 KM,2,Biały
+Fiat,500X,2015,44 500 PLN,173 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Fiat,Seicento,2004,2 000 PLN,397 745 km,Benzyna+LPG,Manualna,Auta małe,1 108 cm3,54 KM,3,Niebieski
+Fiat,Punto,2009,8 600 PLN,59 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,60 KM,5,Srebrny
+Fiat,Tipo,2018,46 000 PLN,75 600 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Srebrny
+Fiat,Tipo,2017,34 900 PLN,91 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Czarny
+Fiat,500,2019,49 500 PLN,21 304 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,2,Bordowy
+Fiat,Doblo,2011,17 999 PLN,228 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czerwony
+Fiat,500,2021,64 900 PLN,16 000 km,Elektryczny,Automatyczna,Auta małe,,95 KM,3,Czarny
+Fiat,Sedici,2010,24 900 PLN,155 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Fiat,Grande Punto,2007,11 999 PLN,166 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Niebieski
+Fiat,Grande Punto,2009,12 550 PLN,78 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,65 KM,3,Granatowy
+Fiat,Tipo,2024,92 865 PLN,1 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Pomarańczowy
+Fiat,Grande Punto,2009,14 900 PLN,122 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Błękitny
+Fiat,Panda,2006,7 999 PLN,140 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Inny kolor
+Fiat,Tipo,2016,34 900 PLN,95 000 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,5,Biały
+Fiat,500X,2019,60 000 PLN,59 388 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Szary
+Fiat,Sedici,2012,27 900 PLN,132 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Fioletowy
+Fiat,Panda,2006,8 450 PLN,153 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Żółty
+Fiat,500X,2016,43 900 PLN,149 875 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Szary
+Fiat,Ducato,2007,10 900 PLN,156 000 km,Diesel,Manualna,Auta małe,2 198 cm3,100 KM,4,Biały
+Fiat,Grande Punto,2009,7 300 PLN,160 990 km,Benzyna,Manualna,Auta małe,1 242 cm3,65 KM,5,Granatowy
+Fiat,126,1979,9 900 PLN,29 800 km,Benzyna,Manualna,Auta małe,652 cm3,23 KM,2,Inny kolor
+Fiat,500,2009,20 000 PLN,60 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Punto 2012,2013,18 500 PLN,79 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,77 KM,5,Inny kolor
+Fiat,Grande Punto,2008,8 000 PLN,119 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Czerwony
+Fiat,Croma,2007,11 000 PLN,341 770 km,Diesel,Automatyczna,Kombi,2 387 cm3,200 KM,5,Brązowy
+Fiat,Panda,2005,4 250 PLN,93 750 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Niebieski
+Fiat,500,2008,17 900 PLN,157 000 km,Benzyna+LPG,Manualna,Auta małe,1 368 cm3,100 KM,3,Biały
+Fiat,500,2016,16 800 PLN,100 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Doblo,2007,16 900 PLN,171 000 km,Diesel,Manualna,Minivan,1 248 cm3,85 KM,5,Srebrny
+Fiat,500L,2013,25 900 PLN,194 000 km,Benzyna,Manualna,Minivan,875 cm3,105 KM,5,Czerwony
+Fiat,500X,2018,58 900 PLN,80 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Zielony
+Fiat,Tipo,2017,21 800 PLN,93 200 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Czerwony
+Fiat,500,2016,37 500 PLN,62 300 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Inny kolor
+Fiat,Qubo,2015,27 999 PLN,130 000 km,Diesel,Manualna,Auta miejskie,1 300 cm3,75 KM,5,Srebrny
+Fiat,Bravo,2008,16 500 PLN,214 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,150 KM,5,Srebrny
+Fiat,Qubo,2015,27 900 PLN,164 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,5,Niebieski
+Fiat,Doblo,2018,44 900 PLN,91 800 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Fiat,Bravo,2014,25 900 PLN,112 971 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Brązowy
+Fiat,Bravo,2011,23 900 PLN,126 111 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Czarny
+Fiat,500,2020,49 500 PLN,35 800 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Szary
+Fiat,500,2016,28 000 PLN,34 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Szary
+Fiat,Panda,2010,8 000 PLN,163 200 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Inny kolor
+Fiat,500,2014,23 500 PLN,111 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Fiat,600,2024,115 700 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Błękitny
+Fiat,500,2008,19 900 PLN,138 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,3,Czerwony
+Fiat,Tipo,2021,34 900 PLN,97 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Srebrny
+Fiat,Grande Punto,2009,6 499 PLN,159 850 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,3,Czarny
+Fiat,Punto,2007,12 500 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Czarny
+Fiat,Tipo,2018,42 900 PLN,91 562 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Szary
+Fiat,500,2015,26 800 PLN,140 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Bravo,2009,14 500 PLN,282 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Inny kolor
+Fiat,500X,2016,49 000 PLN,37 125 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Biały
+Fiat,500,2010,19 900 PLN,175 678 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Beżowy
+Fiat,Tipo,2017,42 600 PLN,58 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Inny kolor
+Fiat,Punto Evo,2011,15 000 PLN,145 257 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,3,Granatowy
+Fiat,500,2014,31 700 PLN,139 150 km,Benzyna,Manualna,Auta miejskie,875 cm3,105 KM,3,Czerwony
+Fiat,Freemont,2012,39 900 PLN,199 000 km,Diesel,Manualna,SUV,1 956 cm3,170 KM,5,Biały
+Fiat,Punto,2010,11 700 PLN,186 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Granatowy
+Fiat,Bravo,2008,11 900 PLN,216 330 km,Diesel,Manualna,Kompakt,1 910 cm3,150 KM,5,Inny kolor
+Fiat,Punto,2015,21 900 PLN,117 234 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,3,Czarny
+Fiat,500,2014,27 800 PLN,49 670 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Niebieski
+Fiat,Sedici,2009,23 900 PLN,201 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Fiat,Tipo,2018,39 000 PLN,89 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,5,Szary
+Fiat,500,2008,13 990 PLN,110 300 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Żółty
+Fiat,Siena,1999,69 900 PLN,239 km,Benzyna,Manualna,Sedan,1 242 cm3,75 KM,4,Zielony
+Fiat,Linea,2008,5 400 PLN,150 000 km,Diesel,Manualna,Sedan,1 248 cm3,90 KM,4,Beżowy
+Fiat,Tipo,2019,29 700 PLN,176 000 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,4,Złoty
+Fiat,Grande Punto,2011,10 209 PLN,330 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,3,Biały
+Fiat,500,2019,45 900 PLN,37 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,500,2020,57 000 PLN,62 200 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Fiat,Tipo,2017,31 500 PLN,117 500 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Granatowy
+Fiat,500L,2014,24 900 PLN,223 000 km,Diesel,Manualna,Minivan,1 248 cm3,84 KM,5,Srebrny
+Fiat,500,2016,34 500 PLN,31 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Inny kolor
+Fiat,Doblo,2018,66 000 PLN,63 300 km,Benzyna,Manualna,Minivan,1 368 cm3,120 KM,5,Biały
+Fiat,500,2014,19 000 PLN,133 000 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,3,Czarny
+Fiat,Panda,2005,10 000 PLN,113 800 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,60 KM,5,Bordowy
+Fiat,Panda,2007,17 700 PLN,146 100 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,5,Czarny
+Fiat,Panda,2006,3 000 PLN,170 000 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Żółty
+Fiat,500e,2014,39 900 PLN,56 000 km,Elektryczny,Automatyczna,Auta miejskie,,113 KM,3,Inny kolor
+Fiat,500L,2016,39 900 PLN,45 413 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Beżowy
+Fiat,Sedici,2007,19 650 PLN,98 000 km,Diesel,Manualna,SUV,1 910 cm3,120 KM,5,Czarny
+Fiat,500X,2019,65 900 PLN,52 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Fiat,Seicento,2006,2 900 PLN,252 916 km,Benzyna+LPG,Manualna,Auta małe,1 108 cm3,54 KM,3,Biały
+Fiat,500,2015,32 000 PLN,63 300 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Bravo,2009,12 500 PLN,162 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,90 KM,5,Czerwony
+Fiat,Tipo,2017,38 900 PLN,239 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Czarny
+Fiat,Fiorino,2008,10 500 PLN,192 042 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,4,Biały
+Fiat,500X,2020,35 900 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Srebrny
+Fiat,Talento,2018,105 550 PLN,122 000 km,Diesel,Manualna,Minivan,1 598 cm3,121 KM,5,Beżowy
+Fiat,Punto,2009,3 900 PLN,168 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,60 KM,5,Srebrny
+Fiat,126,1997,11 111 PLN,5 081 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Czerwony
+Fiat,Bravo,2007,16 999 PLN,107 000 km,Diesel,Manualna,Kompakt,1 910 cm3,150 KM,5,Brązowy
+Fiat,Scudo,2011,28 900 PLN,288 000 km,Diesel,Manualna,Minivan,2 000 cm3,165 KM,5,Niebieski
+Fiat,Bravo,2008,19 900 PLN,182 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Biały
+Fiat,500,2009,18 900 PLN,158 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Freemont,2013,36 999 PLN,244 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czerwony
+Fiat,Grande Punto,2006,6 900 PLN,208 900 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Błękitny
+Fiat,Fiorino,2019,25 900 PLN,104 243 km,Benzyna,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,500,2022,73 900 PLN,11 948 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Zielony
+Fiat,500X,2017,54 900 PLN,164 400 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Inny kolor
+Fiat,500,2012,22 600 PLN,158 389 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,Grande Punto,2010,8 700 PLN,236 000 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,65 KM,5,Granatowy
+Fiat,Freemont,2016,51 900 PLN,168 400 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Szary
+Fiat,Punto,2011,14 900 PLN,118 600 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,3,Granatowy
+Fiat,Tipo,2019,40 000 PLN,120 000 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,95 KM,5,Srebrny
+Fiat,500L,2013,16 400 PLN,144 567 km,Benzyna,Manualna,Minivan,1 368 cm3,95 KM,5,Czarny
+Fiat,Freemont,2012,37 900 PLN,232 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Czarny
+Fiat,Croma,2005,4 999 PLN,250 000 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Inny kolor
+Fiat,Tipo,2018,28 900 PLN,194 000 km,Diesel,Manualna,Kompakt,1 248 cm3,95 KM,5,Biały
+Fiat,Tipo,2016,25 900 PLN,310 000 km,Diesel,Manualna,Sedan,1 598 cm3,120 KM,5,Biały
+Fiat,126,1999,39 900 PLN,36 863 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Zielony
+Fiat,Panda,2009,12 500 PLN,164 500 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Szary
+Fiat,500,2011,23 000 PLN,118 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Grande Punto,2007,8 900 PLN,187 200 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Szary
+Fiat,500,2013,21 000 PLN,134 802 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Grande Punto,2012,14 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,3,Biały
+Fiat,Doblo,2005,7 500 PLN,319 398 km,Diesel,Manualna,Minivan,1 910 cm3,105 KM,5,Zielony
+Fiat,Tipo,2022,56 900 PLN,43 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Fiat,500,2011,19 000 PLN,154 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,Tipo,2017,32 800 PLN,245 000 km,Benzyna+LPG,Manualna,Kombi,1 368 cm3,120 KM,5,Biały
+Fiat,Punto,2003,3 400 PLN,140 813 km,Benzyna,Manualna,Kompakt,1 242 cm3,60 KM,5,Czerwony
+Fiat,Panda,2006,19 900 PLN,261 000 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Inny kolor
+Fiat,Grande Punto,2006,11 900 PLN,172 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Czarny
+Fiat,Talento,2019,89 900 PLN,136 000 km,Diesel,Manualna,Minivan,1 997 cm3,145 KM,4,Szary
+Fiat,500,2019,26 900 PLN,98 123 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czarny
+Fiat,500,2019,19 900 PLN,33 123 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Sedici,2012,24 900 PLN,198 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Fiat,Tipo,2017,32 000 PLN,165 000 km,Diesel,Manualna,Kombi,1 248 cm3,95 KM,5,Szary
+Fiat,500,2008,14 500 PLN,135 789 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Pomarańczowy
+Fiat,Bravo,2010,18 900 PLN,149 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Inny kolor
+Fiat,Freemont,2015,49 900 PLN,149 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,500,2013,20 900 PLN,130 000 km,Benzyna,Manualna,Auta małe,875 cm3,85 KM,3,Granatowy
+Fiat,Grande Punto,2007,10 999 PLN,169 600 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,3,Granatowy
+Fiat,Punto,2016,22 500 PLN,70 000 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,77 KM,5,Szary
+Fiat,500,2021,75 000 PLN,34 200 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Inny kolor
+Fiat,500e,2022,74 900 PLN,19 000 km,Elektryczny,Automatyczna,Auta miejskie,,118 KM,3,Szary
+Fiat,Punto,2013,20 900 PLN,114 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Biały
+Fiat,Grande Punto,2010,14 900 PLN,166 440 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Doblo,2016,39 900 PLN,58 373 km,Benzyna,Manualna,Minivan,1 368 cm3,95 KM,5,Biały
+Fiat,Tipo,2019,47 499 PLN,71 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Biały
+Fiat,Grande Punto,2007,12 900 PLN,219 000 km,Benzyna+LPG,Manualna,Auta małe,1 368 cm3,95 KM,3,Szary
+Fiat,Bravo,2010,14 900 PLN,229 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Biały
+Fiat,500X,2015,49 077 PLN,137 000 km,Benzyna+LPG,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Fiat,500X,2015,41 100 PLN,190 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Szary
+Fiat,Punto Evo,2009,15 900 PLN,159 078 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Czarny
+Fiat,Bravo,2009,18 900 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,150 KM,5,Srebrny
+Fiat,Bravo,2001,2 390 PLN,215 455 km,Benzyna,Manualna,Kompakt,1 581 cm3,103 KM,3,Niebieski
+Fiat,Grande Punto,2009,13 900 PLN,147 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Brązowy
+Fiat,Punto Evo,2010,14 300 PLN,175 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Czarny
+Fiat,500,2018,34 900 PLN,190 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,500,2022,103 000 PLN,8 236 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Czarny
+Fiat,Grande Punto,2009,10 000 PLN,195 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,3,Czarny
+Fiat,Bravo,2008,13 999 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,90 KM,5,Czarny
+Fiat,Tipo,2019,43 900 PLN,29 930 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Srebrny
+Fiat,Punto,2009,9 900 PLN,188 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Granatowy
+Fiat,500X,2016,52 900 PLN,147 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Żółty
+Fiat,Doblo,2008,14 900 PLN,208 000 km,Diesel,Manualna,Minivan,1 248 cm3,84 KM,5,Zielony
+Fiat,Linea,2007,5 999 PLN,198 000 km,Diesel,Manualna,Sedan,1 248 cm3,90 KM,4,Szary
+Fiat,Grande Punto,2007,5 300 PLN,230 763 km,Diesel,Manualna,Kompakt,1 910 cm3,130 KM,3,Biały
+Fiat,Croma,2007,17 500 PLN,151 608 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Niebieski
+Fiat,Bravo,2011,23 500 PLN,111 307 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Biały
+Fiat,Sedici,2007,13 200 PLN,240 288 km,Benzyna,Manualna,Auta małe,1 586 cm3,107 KM,5,Niebieski
+Fiat,Talento,2018,79 900 PLN,198 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Szary
+Fiat,Bravo,2008,10 500 PLN,189 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Fiat,Doblo,2017,34 300 PLN,245 800 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Fiat,Panda,2012,21 900 PLN,78 000 km,Benzyna,Manualna,Auta małe,875 cm3,85 KM,5,Niebieski
+Fiat,Coupe,2000,19 500 PLN,251 184 km,Benzyna,Manualna,Coupe,1 747 cm3,131 KM,2,Błękitny
+Fiat,Bravo,2010,12 900 PLN,250 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,90 KM,5,Inny kolor
+Fiat,500,2020,77 999 PLN,26 220 km,Elektryczny,Automatyczna,Kabriolet,,118 KM,3,Czarny
+Fiat,Freemont,2014,49 900 PLN,158 778 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Biały
+Fiat,500,2010,18 800 PLN,165 460 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Błękitny
+Fiat,Tipo,2020,72 900 PLN,53 000 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Szary
+Fiat,Doblo,2017,39 900 PLN,188 321 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Fiat,Grande Punto,2012,14 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Szary
+Fiat,Grande Punto,2009,9 900 PLN,111 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,65 KM,5,Biały
+Fiat,500,2007,17 800 PLN,167 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,3,Biały
+Fiat,Scudo,2016,42 700 PLN,142 300 km,Diesel,Manualna,Minivan,1 997 cm3,128 KM,5,Srebrny
+Fiat,500,2009,19 800 PLN,116 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Seicento,2006,5 000 PLN,157 300 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,3,Inny kolor
+Fiat,Doblo,2004,3 800 PLN,155 486 km,Diesel,Manualna,Minivan,1 910 cm3,63 KM,4,Biały
+Fiat,Punto Evo,2010,12 500 PLN,195 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Czarny
+Fiat,500,2012,45 900 PLN,120 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,135 KM,3,Szary
+Fiat,Tipo,2018,28 000 PLN,168 885 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,5,Czerwony
+Fiat,Doblo,2014,27 000 PLN,260 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Fiat,500,2011,24 900 PLN,84 000 km,Benzyna,Manualna,Auta małe,875 cm3,85 KM,3,Czarny
+Fiat,Ducato,2002,6 000 PLN,287 000 km,Diesel,Manualna,Kombi,2 800 cm3,126 KM,4,Biały
+Fiat,Doblo,2013,28 500 PLN,174 400 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Fiat,Grande Punto,2009,11 900 PLN,196 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Czarny
+Fiat,Ducato,2006,21 200 PLN,153 000 km,Diesel,Manualna,Minivan,2 286 cm3,110 KM,5,Biały
+Fiat,Freemont,2015,43 900 PLN,195 611 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Czarny
+Fiat,Bravo,2010,15 900 PLN,185 000 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Szary
+Fiat,Fiorino,2012,17 835 PLN,162 500 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Biały
+Fiat,Doblo,2010,18 000 PLN,186 542 km,Diesel,Manualna,Minivan,1 248 cm3,90 KM,5,Srebrny
+Fiat,Grande Punto,2009,12 300 PLN,195 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Szary
+Fiat,500,2019,47 700 PLN,35 700 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Inny kolor
+Fiat,Punto Evo,2011,14 900 PLN,169 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Granatowy
+Fiat,Scudo,2010,23 000 PLN,450 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Srebrny
+Fiat,500,2013,25 900 PLN,107 335 km,Benzyna,Manualna,Auta małe,1 368 cm3,140 KM,3,Inny kolor
+Fiat,Tipo,2017,34 900 PLN,191 551 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Biały
+Fiat,Grande Punto,2009,6 900 PLN,197 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Srebrny
+Fiat,Grande Punto,2007,8 500 PLN,180 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,5,Niebieski
+Fiat,Freemont,2013,22 900 PLN,377 000 km,Diesel,Manualna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,500,2018,47 500 PLN,45 087 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Inny kolor
+Fiat,Tipo,2017,45 000 PLN,97 000 km,Benzyna,Manualna,Kombi,1 368 cm3,120 KM,5,Inny kolor
+Fiat,Grande Punto,2007,11 900 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,3,Niebieski
+Fiat,Panda,2012,6 800 PLN,296 000 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,125p,1990,19 499 PLN,80 000 km,Benzyna+LPG,Manualna,Sedan,1 300 cm3,60 KM,4,Niebieski
+Fiat,Grande Punto,2007,12 500 PLN,181 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,65 KM,5,Niebieski
+Fiat,Panda,2010,18 000 PLN,99 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Beżowy
+Fiat,Doblo,2010,15 200 PLN,245 000 km,Diesel,Manualna,Minivan,1 248 cm3,90 KM,5,Srebrny
+Fiat,Grande Punto,2006,6 990 PLN,235 000 km,Diesel,Manualna,Kompakt,1 910 cm3,130 KM,5,Czarny
+Fiat,Tipo,2016,41 999 PLN,105 000 km,Benzyna,Manualna,Kombi,1 368 cm3,120 KM,5,Granatowy
+Fiat,Fiorino,2017,22 500 PLN,133 000 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,500X,2016,41 000 PLN,159 800 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Czerwony
+Fiat,Talento,2017,85 900 PLN,217 200 km,Diesel,Manualna,Kombi,1 598 cm3,125 KM,4,Szary
+Fiat,500X,2017,54 500 PLN,74 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Beżowy
+Fiat,Panda,2019,32 900 PLN,28 800 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,500,2015,33 700 PLN,111 640 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,500L,2014,30 900 PLN,156 700 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Szary
+Fiat,Bravo,2008,15 900 PLN,177 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Inny kolor
+Fiat,Qubo,2016,33 000 PLN,85 725 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Pomarańczowy
+Fiat,500X,2019,66 900 PLN,81 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Fiat,Tipo,2018,32 000 PLN,155 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,5,Szary
+Fiat,500L,2013,26 500 PLN,138 000 km,Benzyna,Manualna,Auta miejskie,875 cm3,105 KM,5,Czarny
+Fiat,Bravo,2008,7 500 PLN,232 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Czarny
+Fiat,Fiorino,2018,28 500 PLN,90 456 km,Diesel,Manualna,Minivan,1 248 cm3,80 KM,4,Biały
+Fiat,Ducato,2002,7 000 PLN,287 000 km,Diesel,Manualna,Minivan,2 800 cm3,126 KM,2,Biały
+Fiat,Tipo,2016,30 500 PLN,140 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Szary
+Fiat,Tipo,2017,38 900 PLN,80 162 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Granatowy
+Fiat,Punto,2007,7 300 PLN,159 200 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,80 KM,3,Czerwony
+Fiat,Tipo,2017,40 000 PLN,58 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Brązowy
+Fiat,Grande Punto,2006,12 500 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,65 KM,3,Srebrny
+Fiat,Freemont,2013,45 600 PLN,185 600 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Czerwony
+Fiat,Freemont,2011,33 500 PLN,202 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Srebrny
+Fiat,Panda,2007,8 300 PLN,169 900 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Niebieski
+Fiat,Panda,2010,11 999 PLN,190 000 km,Benzyna,Manualna,Auta miejskie,1 108 cm3,54 KM,5,Żółty
+Fiat,Bravo,2007,9 900 PLN,188 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Niebieski
+Fiat,Doblo,2017,28 900 PLN,140 000 km,Diesel,Manualna,Minivan,1 598 cm3,95 KM,5,Biały
+Fiat,Scudo,2015,39 900 PLN,245 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,4,Niebieski
+Fiat,Bravo,2011,13 950 PLN,213 507 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Bordowy
+Fiat,500,2012,19 500 PLN,210 000 km,Benzyna,Manualna,Auta miejskie,875 cm3,85 KM,3,Beżowy
+Fiat,Punto,2014,23 000 PLN,50 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Czarny
+Fiat,Panda,2013,22 900 PLN,120 000 km,Benzyna,Automatyczna,Auta małe,875 cm3,86 KM,5,Bordowy
+Fiat,Tipo,2020,41 900 PLN,94 400 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Bordowy
+Fiat,Ducato,2016,58 900 PLN,87 273 km,Benzyna+CNG,Manualna,Minivan,2 999 cm3,136 KM,4,Zielony
+Fiat,500e,2022,75 900 PLN,18 200 km,Elektryczny,Automatyczna,Sedan,,118 KM,3,Inny kolor
+Fiat,126,1996,41 500 PLN,112 000 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Czerwony
+Fiat,Bravo,2009,12 500 PLN,174 700 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Czarny
+Fiat,Ducato,2010,39 900 PLN,273 000 km,Diesel,Manualna,Minivan,2 198 cm3,100 KM,4,Biały
+Fiat,Sedici,2012,35 900 PLN,158 550 km,Benzyna,Manualna,Auta małe,1 586 cm3,120 KM,5,Pomarańczowy
+Fiat,500,2015,30 500 PLN,121 222 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Panda,2012,8 900,180 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,Fiorino,2016,24 900 PLN,137 000 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,Fiorino,2017,26 900 PLN,112 365 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,Tipo,2018,39 900 PLN,62 345 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Czerwony
+Fiat,Tipo,2017,34 999 PLN,59 000 km,Benzyna+LPG,Manualna,Auta małe,1 368 cm3,120 KM,5,Biały
+Fiat,Doblo,2019,42 500 PLN,159 500 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czerwony
+Fiat,Doblo,2015,31 900 PLN,233 912 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Beżowy
+Fiat,Talento,2017,54 900 PLN,297 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Zielony
+Fiat,Freemont,2013,38 900 PLN,214 170 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Biały
+Fiat,125p,1988,34 500 PLN,85 000 km,Benzyna,Manualna,Sedan,1 600 cm3,72 KM,4,Inny kolor
+Fiat,125p,1988,23 900 PLN,86 000 km,Benzyna,Manualna,Kompakt,1 481 cm3,2 KM,5,Inny kolor
+Fiat,500,2017,28 000 PLN,202 456 km,Benzyna,Manualna,Auta małe,875 cm3,105 KM,3,Bordowy
+Fiat,Freemont,2014,41 900 PLN,205 635 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Szary
+Fiat,500,2019,69 500 PLN,83 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,164 KM,3,Czarny
+Fiat,500e,2021,94 000 PLN,45 000 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Inny kolor
+Fiat,Tipo,2017,35 999 PLN,120 283 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czarny
+Fiat,Tipo,2017,29 500 PLN,126 296 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,4,Biały
+Fiat,500,2017,33 000 PLN,51 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Bravo,2008,8 500 PLN,206 984 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Biały
+Fiat,Doblo,2006,8 500 PLN,401 000 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Żółty
+Fiat,Tipo,2016,33 900 PLN,125 740 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Brązowy
+Fiat,Bravo,2009,17 500 PLN,155 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Bordowy
+Fiat,Ducato,1994,48 000 PLN,160 000 km,Diesel,Manualna,Auta małe,2 500 cm3,75 KM,2,Biały
+Fiat,500,2015,29 500 PLN,81 400 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,2,Biały
+Fiat,Punto 2012,2012,19 900 PLN,125 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,3,Bordowy
+Fiat,Panda,2008,10 500 PLN,111 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Srebrny
+Fiat,500,2017,49 900 PLN,74 200 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Zielony
+Fiat,500,2019,43 900 PLN,61 711 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Qubo,2009,16 800 PLN,112 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,5,Zielony
+Fiat,Punto,2006,4 500 PLN,130 000 km,Diesel,Manualna,Kompakt,1 248 cm3,70 KM,3,Czarny
+Fiat,Doblo,2017,35 900 PLN,89 124 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Fiat,Tipo,2017,27 900 PLN,98 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Bordowy
+Fiat,Panda,2007,6 500 PLN,163 000 km,Diesel,Manualna,Auta małe,1 248 cm3,70 KM,5,Biały
+Fiat,Bravo,2008,25 000 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,150 KM,5,Czarny
+Fiat,600,1966,38 000 PLN,17 161 km,Benzyna,Manualna,Auta małe,767 cm3,32 KM,2,Beżowy
+Fiat,Punto,2001,22 000 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 747 cm3,130 KM,3,Żółty
+Fiat,Bravo,2007,3 900 PLN,266 100 km,Benzyna,Manualna,Kompakt,1 368 cm3,90 KM,5,Brązowy
+Fiat,Fiorino,2019,25 900 PLN,181 000 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,Panda,2006,8 900 PLN,207 300 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,60 KM,5,Srebrny
+Fiat,Bravo,2010,17 000 PLN,96 100 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Fiat,500e,2022,71 900 PLN,20 000 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Czarny
+Fiat,Panda,2016,27 999 PLN,130 000 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,Panda,2015,23 800 PLN,66 400 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czarny
+Fiat,Tipo,2018,43 900 PLN,25 057 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,5,Szary
+Fiat,Doblo,2018,39 000 PLN,168 000 km,Diesel,Manualna,Minivan,1 598 cm3,95 KM,5,Biały
+Fiat,Punto Evo,2010,19 900 PLN,199 500 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,135 KM,5,Inny kolor
+Fiat,Tipo,2020,39 999 PLN,55 300 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,Qubo,2012,13 200 PLN,213 000 km,Benzyna,Manualna,Minivan,1 360 cm3,73 KM,5,Srebrny
+Fiat,Panda,2006,5 700 PLN,204 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 108 cm3,54 KM,5,Srebrny
+Fiat,500,2011,17 900 PLN,148 000 km,Diesel,Manualna,Auta małe,1 248 cm3,95 KM,3,Czarny
+Fiat,Tipo,2017,19 900 PLN,305 000 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,5,Biały
+Fiat,500,2009,19 900 PLN,138 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,500X,2021,92 000 PLN,11 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Fiat,600,1965,67 000 PLN,69 196 km,Benzyna,Manualna,Auta małe,767 cm3,31 KM,2,Biały
+Fiat,Grande Punto,2007,6 900 PLN,263 000 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Niebieski
+Fiat,500,2011,21 900 PLN,120 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Granatowy
+Fiat,Bravo,2007,19 600 PLN,220 950 km,Diesel,Manualna,Kompakt,1 910 cm3,150 KM,5,Bordowy
+Fiat,Freemont,2012,41 900 PLN,163 527 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Czarny
+Fiat,Stilo,2006,6 900 PLN,193 349 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Szary
+Fiat,500e,2022,69 500 PLN,12 000 km,Elektryczny,Automatyczna,Auta małe,,95 KM,2,Błękitny
+Fiat,Tipo,2017,32 200 PLN,59 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Brązowy
+Fiat,500,2019,39 999 PLN,92 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Linea,2007,8 900 PLN,167 000 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,77 KM,4,Niebieski
+Fiat,500,2017,37 000 PLN,53 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Fiat,500X,2017,51 500 PLN,78 800 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Biały
+Fiat,Grande Punto,2006,6 000 PLN,182 800 km,Diesel,Manualna,Kompakt,1 910 cm3,130 KM,3,Pomarańczowy
+Fiat,Doblo,2018,46 900 PLN,190 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Szary
+Fiat,Freemont,2015,39 900 PLN,164 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Biały
+Fiat,Freemont,2013,36 500 PLN,115 000 km,Diesel,Manualna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,Bravo,2007,12 000 PLN,287 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,90 KM,5,Biały
+Fiat,Bravo,2008,14 590 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Granatowy
+Fiat,Panda,2011,15 900 PLN,69 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Biały
+Fiat,Freemont,2014,40 500 PLN,160 000 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Biały
+Fiat,Punto,2012,16 500 PLN,126 731 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Granatowy
+Fiat,Ducato,2014,54 120 PLN,330 000 km,Diesel,Manualna,Minivan,2 287 cm3,130 KM,4,Biały
+Fiat,Bravo,2013,19 900 PLN,272 918 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Brązowy
+Fiat,500X,2020,64 900 PLN,141 598 km,Benzyna,Automatyczna,SUV,1 332 cm3,149 KM,5,Czarny
+Fiat,500X,2018,52 900 PLN,64 210 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czarny
+Fiat,500,2009,24 900 PLN,213 600 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,69 KM,3,Szary
+Fiat,500,2008,15 900 PLN,172 530 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,Panda,2012,14 200 PLN,214 574 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czerwony
+Fiat,Punto,2009,13 100 PLN,55 791 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Biały
+Fiat,500,2022,138 000 PLN,1 km,Elektryczny,Automatyczna,Auta małe,,118 KM,3,Szary
+Fiat,Grande Punto,2012,7 900 PLN,149 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Szary
+Fiat,Punto,2017,33 400 PLN,89 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Szary
+Fiat,Tipo,2018,27 500 PLN,28 139 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Granatowy
+Fiat,600,2024,92 990 PLN,4 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Granatowy
+Fiat,Sedici,2006,14 900 PLN,199 111 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,107 KM,5,Srebrny
+Fiat,500X,2015,45 999 PLN,141 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Fiat,500L,2014,32 600 PLN,168 000 km,Benzyna,Manualna,SUV,1 368 cm3,120 KM,5,Czerwony
+Fiat,Panda,2024,64 900 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Czerwony
+Fiat,Bravo,2007,10 000 PLN,159 200 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Srebrny
+Fiat,Sedici,2011,22 800 PLN,149 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Biały
+Fiat,Punto,2005,9 999 PLN,193 965 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Niebieski
+Fiat,Tipo,2023,93 897 PLN,7 344 km,Hybryda,Automatyczna,Kompakt,1 469 cm3,130 KM,5,Czarny
+Fiat,500,2018,39 900 PLN,85 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Szary
+Fiat,Panda,2005,3 900 PLN,181 000 km,Benzyna,Manualna,Kompakt,1 108 cm3,54 KM,5,Srebrny
+Fiat,Bravo,2008,14 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Czerwony
+Fiat,Punto Evo,2012,12 000 PLN,215 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,3,Granatowy
+Fiat,Doblo,2011,26 999 PLN,229 598 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Brązowy
+Fiat,126,1991,18 500 PLN,48 800 km,Benzyna,Manualna,Kompakt,652 cm3,23 KM,2,Czerwony
+Fiat,Bravo,2013,18 999 PLN,199 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Fiat,500,2020,53 900 PLN,25 000 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Panda,2011,14 999 PLN,199 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,5,Szary
+Fiat,500L,2014,36 900 PLN,149 181 km,Benzyna,Automatyczna,Minivan,1 368 cm3,120 KM,5,Beżowy
+Fiat,Tipo,2021,43 900 PLN,67 647 km,Benzyna,Manualna,Sedan,999 cm3,100 KM,4,Brązowy
+Fiat,Punto,2011,15 900 PLN,149 600 km,Diesel,Manualna,Kompakt,1 248 cm3,95 KM,5,Srebrny
+Fiat,500X,2015,45 000 PLN,119 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Granatowy
+Fiat,600,2024,94 300 PLN,5 km,Benzyna,Automatyczna,SUV,1 200 cm3,100 KM,4,Inny kolor
+Fiat,Tipo,2019,45 900 PLN,41 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,500X,2017,58 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Czarny
+Fiat,Seicento,2002,2 500 PLN,131 900 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,3,Srebrny
+Fiat,Tipo,2019,43 500 PLN,81 500 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Szary
+Fiat,Tipo,2018,43 900 PLN,103 059 km,Benzyna,Manualna,Auta małe,1 368 cm3,95 KM,5,Czerwony
+Fiat,Bravo,2007,15 999 PLN,178 031 km,Benzyna,Manualna,Kompakt,1 368 cm3,150 KM,5,Szary
+Fiat,Grande Punto,2007,8 950 PLN,280 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,5,Beżowy
+Fiat,500,2023,63 315,14 900 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,3,Biały
+Fiat,500X,2016,45 000 PLN,108 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Czerwony
+Fiat,Freemont,2014,62 900 PLN,137 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,Freemont,2014,62 900 PLN,137 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,Qubo,2012,14 900 PLN,113 000 km,Benzyna,Manualna,Minivan,1 360 cm3,73 KM,5,Zielony
+Fiat,500,2016,39 900 PLN,60 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Szary
+Fiat,Tipo,2017,49 900 PLN,161 000 km,Benzyna,Manualna,Kombi,1 398 cm3,120 KM,5,Szary
+Fiat,Ducato,2021,73 800 PLN,320 000 km,Diesel,Manualna,Minivan,2 287 cm3,177 KM,2,Biały
+Fiat,Grande Punto,2006,6 900 PLN,149 000 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,3,Szary
+Fiat,600,2024,104 500 PLN,3 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Beżowy
+Fiat,600,2024,103 990 PLN,3 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Biały
+Fiat,600,2024,102 990 PLN,2 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Czerwony
+Fiat,Tipo,2016,31 500 PLN,195 700 km,Diesel,Manualna,Kompakt,1 248 cm3,95 KM,5,Czarny
+Fiat,Doblo,2023,94 850 PLN,13 591 km,Diesel,Manualna,Minivan,1 499 cm3,100 KM,4,Biały
+Fiat,Panda,2022,44 000 PLN,10 600 km,Benzyna,Manualna,Kompakt,999 cm3,70 KM,5,Biały
+Fiat,Panda,2007,15 700 PLN,166 000 km,Benzyna,Automatyczna,Auta miejskie,1 242 cm3,60 KM,5,Srebrny
+Fiat,Strada,2008,27 900 PLN,88 900 km,Diesel,Manualna,Auta miejskie,1 248 cm3,84 KM,2,Czerwony
+Fiat,Tipo,2017,28 500 PLN,142 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Szary
+Fiat,Freemont,2013,45 000 PLN,225 300 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Czarny
+Fiat,Panda,2006,12 500 PLN,192 000 km,Diesel,Manualna,Auta małe,1 248 cm3,70 KM,5,Żółty
+Fiat,500,2008,17 400 PLN,155 348 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Doblo,2024,93 547,1 km,Diesel,Manualna,Kombi,1 499 cm3,102 KM,5,Biały
+Fiat,Tipo,2018,52 900 PLN,81 090 km,Benzyna,Manualna,Kombi,1 368 cm3,120 KM,5,Czarny
+Fiat,Doblo,2016,38 900 PLN,187 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Czarny
+Fiat,Tipo,2016,34 500 PLN,33 145 km,Benzyna,Manualna,Auta małe,1 368 cm3,95 KM,4,Beżowy
+Fiat,600,1900,94 999 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 200 cm3,100 KM,5,Czerwony
+Fiat,Tipo,2021,57 900 PLN,40 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Fiat,Doblo,2015,25 000 PLN,100 000 km,Diesel,Manualna,Minivan,1 248 cm3,90 KM,5,Biały
+Fiat,500,2015,44 900 PLN,59 000 km,Benzyna,Automatyczna,Auta małe,1 368 cm3,145 KM,3,Czerwony
+Fiat,500,2011,13 900 PLN,96 100 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,500,2019,42 900 PLN,40 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Inny kolor
+Fiat,500L,2013,29 700 PLN,170 000 km,Benzyna,Manualna,Minivan,875 cm3,105 KM,5,Beżowy
+Fiat,Panda,2004,9 900 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Zielony
+Fiat,Qubo,2017,40 000 PLN,76 000 km,Benzyna+CNG,Manualna,Minivan,1 368 cm3,77 KM,5,Czerwony
+Fiat,500L,2017,22 900 PLN,145 000 km,Diesel,Automatyczna,Minivan,1 248 cm3,95 KM,5,Zielony
+Fiat,500L,2017,22 900 PLN,145 000 km,Diesel,Automatyczna,Minivan,1 248 cm3,95 KM,5,Zielony
+Fiat,Tipo,2023,113 990 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 469 cm3,130 KM,5,Czarny
+Fiat,Croma,2010,11 500 PLN,208 241 km,Diesel,Manualna,Kombi,1 910 cm3,150 KM,5,Biały
+Fiat,Punto,2006,7 000 PLN,123 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,3,Błękitny
+Fiat,Panda,2010,17 000 PLN,102 640 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,60 KM,5,Brązowy
+Fiat,Punto,2013,17 900 PLN,106 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Biały
+Fiat,Tipo,2017,39 900 PLN,124 646 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,Sedici,2010,18 999 PLN,199 000 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Biały
+Fiat,500,2010,23 900 PLN,159 000 km,Diesel,Manualna,Kabriolet,1 248 cm3,95 KM,2,Beżowy
+Fiat,Fiorino,2013,15 900 PLN,242 915 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Biały
+Fiat,500,2018,69 900 PLN,52 000 km,Benzyna,Automatyczna,Auta miejskie,1 400 cm3,145 KM,3,Biały
+Fiat,125p,1988,59 900 PLN,100 000 km,Benzyna,Manualna,Kombi,1 481 cm3,87 KM,5,Biały
+Fiat,500L,2018,42 888 PLN,112 345 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Fiat,Grande Punto,2007,8 500 PLN,313 000 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,77 KM,5,Srebrny
+Fiat,Talento,2016,74 999 PLN,179 529 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,5,Zielony
+Fiat,Talento,2019,67 900 PLN,172 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,4,Biały
+Fiat,Tipo,2020,49 900 PLN,59 300 km,Benzyna,Manualna,Kombi,1 368 cm3,95 KM,5,Granatowy
+Fiat,126,1986,48 800 PLN,34 074 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Żółty
+Fiat,Freemont,2012,37 900 PLN,195 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Szary
+Fiat,Punto,2008,8 400 PLN,251 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Szary
+Fiat,Panda,2013,19 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Biały
+Fiat,Tipo,2018,44 570 PLN,141 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,5,Biały
+Fiat,Tipo,2021,57 900 PLN,29 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Fiat,500X,2018,54 000 PLN,119 205 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Szary
+Fiat,600,2024,103 900 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Pomarańczowy
+Fiat,Tipo,2024,89 900 PLN,5 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Niebieski
+Fiat,Tipo,2016,26 900 PLN,190 000 km,Diesel,Manualna,Sedan,1 598 cm3,120 KM,4,Szary
+Fiat,Freemont,2013,37 800 PLN,203 101 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Biały
+Fiat,Fiorino,2009,11 800 PLN,230 880 km,Benzyna,Manualna,Minivan,1 360 cm3,73 KM,4,Zielony
+Fiat,500,2016,34 900 PLN,95 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Bordowy
+Fiat,500,2012,24 900 PLN,171 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,3,Czerwony
+Fiat,Punto,2004,1 400 PLN,110 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Szary
+Fiat,500,2014,23 900 PLN,125 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,Tipo,2020,38 500 PLN,93 934 km,Benzyna,Manualna,Sedan,999 cm3,100 KM,4,Biały
+Fiat,Ducato,2012,39 900 PLN,215 000 km,Diesel,Manualna,Minivan,2 287 cm3,130 KM,4,Biały
+Fiat,Talento,2019,99 900 PLN,98 500 km,Diesel,Manualna,Kombi,1 598 cm3,125 KM,4,Srebrny
+Fiat,500X,2018,47 800 PLN,103 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czarny
+Fiat,Freemont,2013,32 900 PLN,163 980 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Biały
+Fiat,Tipo,2019,45 800 PLN,52 347 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,500,2020,57 850 PLN,35 260 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,69 KM,3,Niebieski
+Fiat,Tipo,2019,45 900 PLN,87 138 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,95 KM,5,Biały
+Fiat,Scudo,2022,169 900 PLN,48 593 km,Diesel,Manualna,Minivan,2 000 cm3,145 KM,5,Szary
+Fiat,Tipo,2020,56 500 PLN,31 259 km,Diesel,Manualna,Sedan,1 248 cm3,95 KM,4,Czerwony
+Fiat,Sedici,2010,18 900 PLN,216 000 km,Diesel,Manualna,Auta miejskie,1 956 cm3,135 KM,5,Czerwony
+Fiat,500L,2016,32 900 PLN,156 000 km,Benzyna+CNG,Manualna,Minivan,875 cm3,80 KM,5,Bordowy
+Fiat,Ducato,2005,8 610 PLN,620 000 km,Diesel,Manualna,SUV,2 800 cm3,128 KM,4,Biały
+Fiat,500X,2015,43 900 PLN,156 080 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Niebieski
+Fiat,500,2023,58 500 PLN,17 705 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,3,Szary
+Fiat,Punto Evo,2010,17 900 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Czerwony
+Fiat,500L,2014,26 900 PLN,179 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Fiat,Tipo,2018,40 500 PLN,131 000 km,Benzyna,Manualna,Kombi,1 368 cm3,120 KM,5,Biały
+Fiat,Sedici,2011,32 800 PLN,112 000 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Czerwony
+Fiat,Tipo,2016,37 400 PLN,103 000 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,4,Szary
+Fiat,Albea,2003,2 900 PLN,225 000 km,Benzyna,Manualna,Sedan,1 242 cm3,80 KM,4,Inny kolor
+Fiat,500,2014,19 999 PLN,155 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,70 KM,3,Biały
+Fiat,Freemont,2014,47 900 PLN,193 000 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Szary
+Fiat,Barchetta,1996,8 000 PLN,152 500 km,Benzyna,Manualna,Kabriolet,1 747 cm3,130 KM,2,Czarny
+Fiat,Panda,2010,16 500 PLN,124 247 km,Benzyna+LPG,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Inny kolor
+Fiat,Scudo,2010,15 990 PLN,317 514 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,5,Srebrny
+Fiat,Tipo,2022,68 500 PLN,27 861 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Srebrny
+Fiat,500e,2024,151 900 PLN,1 km,Elektryczny,Automatyczna,Auta małe,,118 KM,2,Inny kolor
+Fiat,Ducato,2003,39 000 PLN,253 000 km,Diesel,Manualna,Minivan,2 800 cm3,127 KM,4,Granatowy
+Fiat,Tipo,2018,49 500 PLN,140 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Biały
+Fiat,Panda,2009,5 300 PLN,284 400 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Beżowy
+Fiat,Panda,2009,5 300 PLN,284 400 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Beżowy
+Fiat,Doblo,2010,14 900 PLN,342 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Fiat,Panda,2015,14 637 PLN,302 700 km,Benzyna+LPG,Manualna,Minivan,1 242 cm3,69 KM,5,Biały
+Fiat,Tipo,2024,96 420 PLN,5 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Inny kolor
+Fiat,Talento,2017,79 950 PLN,240 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Biały
+Fiat,Grande Punto,2006,9 900 PLN,179 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Błękitny
+Fiat,Fiorino,2019,34 500 PLN,33 000 km,Benzyna,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,Tipo,2019,40 400 PLN,97 033 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czarny
+Fiat,Tipo,2019,39 999 PLN,49 990 km,Benzyna,Manualna,Kombi,1 368 cm3,95 KM,5,Czarny
+Fiat,Scudo,2008,18 800 PLN,315 000 km,Diesel,Manualna,Kombi,1 997 cm3,120 KM,4,Biały
+Fiat,Panda,2024,64 900 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Niebieski
+Fiat,Doblo,2024,113 390,1 km,Diesel,Automatyczna,Kombi,1 499 cm3,130 KM,5,Szary
+Fiat,125p,1991,18 500 PLN,84 002 km,Benzyna,Manualna,Auta miejskie,1 481 cm3,70 KM,5,Biały
+Fiat,Panda,2009,7 499 PLN,96 000 km,Benzyna,Manualna,Auta miejskie,1 108 cm3,54 KM,5,Żółty
+Fiat,Panda,2005,2 699 PLN,160 615 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Czerwony
+Fiat,Bravo,2009,17 000 PLN,156 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Brązowy
+Fiat,Punto,2008,11 900 PLN,95 420 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,3,Srebrny
+Fiat,Grande Punto,2007,9 900 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Srebrny
+Fiat,500,2015,29 900 PLN,164 192 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,2,Fioletowy
+Fiat,Doblo,2015,32 000 PLN,221 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Fiat,600,2024,115 280 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Niebieski
+Fiat,Grande Punto,2007,10 000 PLN,141 841 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,3,Niebieski
+Fiat,Doblo,2008,25 000 PLN,220 000 km,Diesel,Manualna,Minivan,1 910 cm3,120 KM,5,Czarny
+Fiat,Freemont,2015,64 900 PLN,146 700 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,Panda,2021,13 999 PLN,40 000 km,Benzyna,Manualna,Kompakt,999 cm3,70 KM,5,Biały
+Fiat,600,2024,104 999 PLN,2 km,Hybryda,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Biały
+Fiat,500,2008,13 900 PLN,138 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,500,2014,27 500 PLN,99 000 km,Benzyna,Manualna,Kabriolet,875 cm3,85 KM,3,Szary
+Fiat,Panda,2019,49 900 PLN,46 004 km,Benzyna,Manualna,SUV,875 cm3,85 KM,5,Biały
+Fiat,Tipo,2019,43 900 PLN,90 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Brązowy
+Fiat,500X,2016,51 900 PLN,124 181 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Fiat,Freemont,2016,49 900 PLN,201 400 km,Diesel,Manualna,Minivan,1 956 cm3,140 KM,5,Szary
+Fiat,500,2010,23 900 PLN,194 000 km,Diesel,Manualna,Kabriolet,1 248 cm3,75 KM,2,Czerwony
+Fiat,Tipo,2022,72 900 PLN,11 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Szary
+Fiat,Doblo,2007,13 000 PLN,200 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,84 KM,4,Czerwony
+Fiat,500,2007,14 800 PLN,114 572 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,2,Niebieski
+Fiat,600,2024,114 840 PLN,2 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Biały
+Fiat,Tipo,2024,96 500 PLN,3 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Niebieski
+Fiat,Uno,1997,4 999 PLN,200 334 km,Benzyna,Manualna,Kompakt,999 cm3,45 KM,5,Bordowy
+Fiat,Grande Punto,2006,8 300 PLN,77 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Bordowy
+Fiat,Sedici,2009,21 800 PLN,220 100 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Fiat,Punto,2006,9 900 PLN,146 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Czarny
+Fiat,Panda,2015,29 500 PLN,21 500 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Brązowy
+Fiat,500L,2019,49 600 PLN,101 800 km,Benzyna,Manualna,Minivan,1 368 cm3,95 KM,5,Czarny
+Fiat,Grande Punto,2009,10 999 PLN,185 423 km,Benzyna,Manualna,Auta małe,1 368 cm3,77 KM,5,Szary
+Fiat,Tipo,2024,97 800 PLN,2 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Pomarańczowy
+Fiat,Tipo,2019,12 900 PLN,175 283 km,Diesel,Manualna,Kombi,1 248 cm3,95 KM,5,Biały
+Fiat,Tipo,2016,37 800 PLN,117 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Brązowy
+Fiat,500,2008,25 999 PLN,115 000 km,Benzyna,Automatyczna,Auta miejskie,1 242 cm3,69 KM,3,Srebrny
+Fiat,Freemont,2015,47 950 PLN,167 000 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Czarny
+Fiat,Panda,2024,66 500 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Niebieski
+Fiat,Bravo,2007,14 500 PLN,296 000 km,Diesel,Manualna,Auta miejskie,1 910 cm3,120 KM,5,Beżowy
+Fiat,500,2022,59 900 PLN,50 533 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,3,Biały
+Fiat,Punto,2014,18 000 PLN,116 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Granatowy
+Fiat,Doblo,2022,79 899,89 338 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Fiat,Doblo,2001,3 520 PLN,325 000 km,Benzyna,Manualna,Minivan,1 242 cm3,65 KM,4,Niebieski
+Fiat,500,2018,38 700 PLN,57 428 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Fiat,Fiorino,2019,24 231 PLN,168 000 km,Benzyna+LPG,Manualna,Minivan,1 368 cm3,77 KM,4,Biały
+Fiat,500,2015,29 500 PLN,49 700 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Szary
+Fiat,Sedici,2009,12 890 PLN,206 188 km,Diesel,Manualna,SUV,1 956 cm3,135 KM,5,Szary
+Fiat,Bravo,2007,11 900 PLN,219 860 km,Diesel,Manualna,Kompakt,1 910 cm3,150 KM,5,Szary
+Fiat,Freemont,2012,30 900 PLN,200 000 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Biały
+Fiat,Grande Punto,2009,12 900 PLN,199 000 km,Diesel,Manualna,Kompakt,1 248 cm3,90 KM,3,Czerwony
+Fiat,Bravo,2009,12 300 PLN,358 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Fiat,Panda,2024,63 272 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,600,2024,105 600 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Zielony
+Fiat,Doblo,2020,74 900 PLN,73 000 km,Diesel,Manualna,Minivan,1 600 cm3,105 KM,5,Bordowy
+Fiat,Bravo,2008,15 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Czarny
+Fiat,Panda,2024,63 976 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,Panda,2024,65 100 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,Panda,2024,65 900 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,Panda,2024,65 900 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,Panda,2019,36 900 PLN,40 444 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czarny
+Fiat,600,2024,105 600 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Fiat,600,2024,115 280 PLN,1 km,Hybryda,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Granatowy
+Fiat,Tipo,2023,87 900 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Srebrny
+Fiat,Tipo,2023,94 500 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Biały
+Fiat,600,2024,105 100 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Fiat,500L,2016,44 600 PLN,141 200 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Fiat,500,2010,21 900 PLN,152 985 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Fioletowy
+Fiat,Panda,2013,22 900 PLN,98 000 km,Benzyna,Manualna,Auta miejskie,875 cm3,85 KM,5,Czerwony
+Fiat,Freemont,2012,42 300 PLN,171 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Fiat,500,2011,21 000 PLN,160 000 km,Benzyna,Manualna,Kabriolet,875 cm3,85 KM,3,Biały
+Fiat,Tipo,2024,89 990 PLN,1 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Niebieski
+Fiat,Tipo,2021,54 900 PLN,15 500 km,Benzyna,Manualna,Sedan,999 cm3,100 KM,4,Szary
+Fiat,500,1967,77 900 PLN,99 km,Benzyna,Manualna,Auta małe,600 cm3,23 KM,2,Niebieski
+Fiat,Grande Punto,2009,10 900 PLN,218 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,3,Czarny
+Fiat,Qubo,2009,14 800 PLN,159 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,5,Czarny
+Fiat,500,2013,23 900 PLN,107 125 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,Grande Punto,2006,3 999 PLN,246 888 km,Diesel,Manualna,Kompakt,1 248 cm3,90 KM,3,Srebrny
+Fiat,500,2020,49 500 PLN,26 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Grande Punto,2009,9 900 PLN,170 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,77 KM,5,Czarny
+Fiat,Tipo,2020,47 850 PLN,55 097 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Czerwony
+Fiat,500,2021,49 899,66 240 km,Hybryda,Manualna,Kompakt,999 cm3,70 KM,3,Inny kolor
+Fiat,500X,2015,39 360 PLN,145 200 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Niebieski
+Fiat,Freemont,2013,46 900 PLN,177 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Fiat,Tipo,2020,47 850 PLN,55 097 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Czerwony
+Fiat,500,2021,49 899,66 240 km,Hybryda,Manualna,Kompakt,999 cm3,70 KM,3,Inny kolor
+Fiat,500X,2015,39 360 PLN,145 200 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Niebieski
+Fiat,Freemont,2013,46 900 PLN,177 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Fiat,500,2023,65 900 PLN,523 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,3,Czerwony
+Fiat,Punto,2009,12 900 PLN,161 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Granatowy
+Fiat,600,2024,114 000 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Biały
+Fiat,500L,2012,31 500 PLN,71 500 km,Benzyna,Manualna,Minivan,1 368 cm3,95 KM,5,Szary
+Fiat,Panda,2009,11 690 PLN,154 000 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Inny kolor
+Fiat,Tipo,2024,96 900 PLN,1 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Pomarańczowy
+Fiat,Tipo,2024,97 900 PLN,4 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Pomarańczowy
+Fiat,Bravo,2012,21 900 PLN,223 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,140 KM,4,Czarny
+Fiat,Tipo,2024,96 900 PLN,2 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Niebieski
+Fiat,Tipo,2024,101 000 PLN,2 km,Diesel,Manualna,Coupe,1 598 cm3,130 KM,5,Zielony
+Fiat,Doblo,2019,49 899,133 000 km,Diesel,Manualna,Kombi,1 248 cm3,95 KM,5,Biały
+Fiat,Punto,2006,5 100 PLN,198 938 km,Diesel,Manualna,Auta małe,1 248 cm3,70 KM,5,Błękitny
+Fiat,Fiorino,2015,10 000 PLN,111 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Biały
+Fiat,500L,2013,44 990 PLN,92 615 km,Benzyna,Automatyczna,Minivan,1 368 cm3,120 KM,5,Czarny
+Fiat,Tipo,2023,88 500 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Czerwony
+Fiat,500X,2016,43 300 PLN,190 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Brązowy
+Fiat,Tipo,2020,34 900 PLN,54 050 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Zielony
+Fiat,Panda,2024,65 520 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Biały
+Fiat,Panda,2024,65 900 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Niebieski
+Fiat,Panda,2024,62 490 PLN,1 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Czarny
+Fiat,Bravo,2011,18 900 PLN,168 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,140 KM,5,Czarny
+Fiat,500,2008,19 999 PLN,194 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Fiat,Bravo,2009,1 900 PLN,220 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Granatowy
+Fiat,500,2009,27 999 PLN,162 000 km,Benzyna+LPG,Automatyczna,Auta miejskie,1 368 cm3,100 KM,3,Czarny
+Fiat,500,2018,42 999 PLN,43 019 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Niebieski
+Fiat,Panda,2009,9 900 PLN,137 359 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Żółty
+Fiat,Talento,2020,95 000 PLN,83 700 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,4,Srebrny
+Fiat,Tipo,2018,66 000 PLN,76 400 km,Benzyna,Automatyczna,Kombi,1 598 cm3,110 KM,5,Inny kolor
+Fiat,Punto,2014,19 900 PLN,199 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Szary
+Fiat,Punto Evo,2010,12 900 PLN,192 357 km,Benzyna,Manualna,Kompakt,1 242 cm3,65 KM,3,Biały
+Fiat,125p,1986,29 900 PLN,56 509 km,Benzyna,Manualna,Sedan,1 481 cm3,75 KM,4,Szary
+Fiat,Punto Evo,2010,19 500 PLN,77 870 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Szary
+Fiat,Punto Evo,2009,17 900 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,135 KM,5,Niebieski
+Fiat,600,2024,112 800 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Inny kolor
+Fiat,Tipo,2021,69 900 PLN,24 605 km,Diesel,Manualna,Auta miejskie,1 248 cm3,95 KM,4,Zielony
+Fiat,Grande Punto,2006,8 199 PLN,150 400 km,Benzyna,Manualna,Auta małe,1 368 cm3,77 KM,5,Pomarańczowy
+Fiat,Tipo,2019,9 000 PLN,190 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Niebieski
+Fiat,Sedici,2011,32 900 PLN,137 800 km,Benzyna+LPG,Manualna,Kompakt,1 586 cm3,120 KM,5,Szary
+Fiat,600,2024,92 890 PLN,7 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Biały
+Fiat,Punto Evo,2010,15 900 PLN,152 300 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Niebieski
+Fiat,500e,2021,69 999 PLN,95 000 km,Elektryczny,Automatyczna,Auta miejskie,,118 KM,3,Biały
+Fiat,Bravo,2008,15 500 PLN,122 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,149 KM,5,Inny kolor
+Fiat,Seicento,1998,8 200 PLN,170 000 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,3,Żółty
+Fiat,Grande Punto,2008,8 900 PLN,179 900 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,5,Biały
+Fiat,Tipo,2019,39 500 PLN,160 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Czarny
+Fiat,Punto,2013,9 500 PLN,121 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,65 KM,5,Niebieski
+Fiat,500L,2016,45 000 PLN,40 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,95 KM,5,Szary
+Fiat,Tipo,2018,38 500 PLN,99 520 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Czerwony
+Fiat,Tipo,2017,38 900 PLN,110 000 km,Benzyna,Manualna,Sedan,1 368 cm3,95 KM,4,Biały
+Fiat,500,2022,48 000,43 705 km,Benzyna,Manualna,Kompakt,999 cm3,70 KM,3,Biały
+Fiat,500,2022,93 480 PLN,15 447 km,Elektryczny,Automatyczna,Auta miejskie,,118 KM,4,Inny kolor
+Fiat,500,2014,32 000 PLN,86 000 km,Elektryczny,Automatyczna,Auta miejskie,,100 KM,3,Niebieski
+Fiat,Grande Punto,2006,13 000 PLN,158 033 km,Benzyna+LPG,Manualna,Auta miejskie,1 368 cm3,77 KM,5,Niebieski
+Fiat,Tipo,2020,69 900 PLN,6 500 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Szary
+Fiat,Tipo,2016,37 500 PLN,138 063 km,Benzyna+LPG,Manualna,Sedan,1 368 cm3,95 KM,4,Szary
+Fiat,Tipo,2019,32 900 PLN,196 000 km,Benzyna,Manualna,Kombi,1 368 cm3,95 KM,5,Szary
+Fiat,500X,2023,70 000,54 447 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Niebieski
+Fiat,500L,2013,34 000 PLN,139 259 km,Benzyna,Manualna,Minivan,1 368 cm3,95 KM,5,Biały
+Fiat,500L,2013,24 900 PLN,206 640 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Brązowy
+Fiat,500X,2020,69 900 PLN,41 030 km,Benzyna,Automatyczna,Kompakt,1 332 cm3,170 KM,5,Czerwony
+Fiat,500,2016,36 000,65 012 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,3,Bordowy
+Fiat,Bravo,2009,17 000 PLN,160 673 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Srebrny
+Fiat,Bravo,2008,13 000 PLN,239 217 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Czarny
+Fiat,Tipo,2020,13 900 PLN,1 590 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,5,Srebrny
+Fiat,600,2024,93 190 PLN,7 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Niebieski
+Fiat,500,2008,16 200 PLN,116 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,600,2024,93 190 PLN,3 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Inny kolor
+Fiat,Panda,2010,7 700 PLN,140 000 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Żółty
+Fiat,Panda,2014,18 900 PLN,182 000 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,69 KM,5,Biały
+Fiat,Stilo,2004,5 500 PLN,158 002 km,Benzyna,Manualna,Kompakt,1 596 cm3,103 KM,3,Czarny
+Fiat,Doblo,2015,24 600 PLN,135 000 km,Diesel,Manualna,Minivan,1 248 cm3,90 KM,5,Żółty
+Fiat,Bravo,2010,24 900 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,140 KM,5,Biały
+Fiat,Tipo,2017,43 500 PLN,77 500 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,4,Szary
+Fiat,Panda,2004,9 900 PLN,155 916 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Srebrny
+Fiat,Grande Punto,2006,12 500 PLN,259 800 km,Diesel,Manualna,Auta miejskie,1 910 cm3,130 KM,3,Czerwony
+Fiat,500,2009,19 900 PLN,128 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czarny
+Fiat,500,2009,18 000 PLN,145 800 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,2,Czerwony
+Fiat,Freemont,2013,39 000 PLN,167 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Fiat,126,1984,22 000 PLN,49 000 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Żółty
+Fiat,Albea,2005,3 100 PLN,139 000 km,Benzyna,Manualna,Sedan,1 242 cm3,80 KM,4,Czerwony
+Fiat,Tipo,2017,44 600 PLN,162 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Biały
+Fiat,Freemont,2014,54 900 PLN,165 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Niebieski
+Fiat,Tipo,2021,61 900 PLN,31 500 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Pomarańczowy
+Fiat,124 Spider,2019,75 600 PLN,79 800 km,Benzyna,Manualna,Kabriolet,1 368 cm3,140 KM,2,Srebrny
+Fiat,124 Spider,2016,72 300 PLN,97 700 km,Benzyna,Manualna,Kabriolet,1 368 cm3,140 KM,2,Czerwony
+Fiat,Fullback,2018,70 900 PLN,141 000 km,Diesel,Manualna,SUV,2 442 cm3,180 KM,4,Zielony
+Fiat,Freemont,2015,61 900 PLN,160 500 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Biały
+Fiat,Tipo,2018,39 500 PLN,171 000 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,95 KM,5,Granatowy
+Fiat,126,1999,5 500 PLN,156 000 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Pomarańczowy
+Fiat,Linea,2007,10 500 PLN,91 000 km,Benzyna,Manualna,Sedan,1 368 cm3,77 KM,4,Złoty
+Fiat,126,1989,15 500 PLN,58 105 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,3,Czerwony
+Fiat,124 Spider,2017,94 000 PLN,53 000 km,Benzyna,Automatyczna,Kabriolet,1 368 cm3,170 KM,2,Biały
+Fiat,Linea,2007,10 500 PLN,91 000 km,Benzyna,Manualna,Sedan,1 368 cm3,77 KM,4,Złoty
+Fiat,126,1989,15 500 PLN,58 105 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,3,Czerwony
+Fiat,124 Spider,2017,94 000 PLN,53 000 km,Benzyna,Automatyczna,Kabriolet,1 368 cm3,170 KM,2,Biały
+Fiat,500X,2017,20 500 PLN,117 846 km,Benzyna,Manualna,SUV,1 600 cm3,110 KM,5,Biały
+Fiat,Punto,2012,11 500 PLN,125 683 km,Benzyna,Manualna,Kompakt,1 200 cm3,70 KM,3,Biały
+Fiat,500,2019,14 500 PLN,50 325 km,Benzyna,Manualna,Auta małe,1 200 cm3,69 KM,3,Niebieski
+Fiat,Doblo,2017,40 000 PLN,161 270 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Fiat,Freemont,2012,39 500 PLN,294 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Fiat,Punto Evo,2011,14 500 PLN,220 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Biały
+Fiat,500,2014,31 450 PLN,49 949 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Zielony
+Fiat,Scudo,2009,21 000 PLN,110 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Czarny
+Fiat,Panda,2015,24 900 PLN,57 100 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Biały
+Fiat,Sedici,2009,18 900 PLN,208 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Srebrny
+Fiat,Bravo,2009,13 800 PLN,227 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Szary
+Fiat,Uno,2002,3 500 PLN,77 500 km,Benzyna,Manualna,Kompakt,999 cm3,45 KM,5,Srebrny
+Fiat,Bravo,2007,7 500 PLN,224 365 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Niebieski
+Fiat,500,2007,15 999 PLN,126 500 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Punto 2012,2012,21 900 PLN,115 811 km,Benzyna,Manualna,Kompakt,1 368 cm3,77 KM,5,Czarny
+Fiat,500L,2014,16 700 PLN,211 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,,
+Fiat,Bravo,2008,5 300 PLN,184 814 km,Benzyna,Manualna,Kompakt,1 368 cm3,90 KM,5,Czerwony
+Fiat,126,1997,21 900 PLN,27 000 km,Benzyna,Manualna,Auta małe,652 cm3,24 KM,2,Czerwony
+Fiat,500,2009,19 999 PLN,141 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,3,Czarny
+Fiat,Punto,2012,17 500 PLN,138 500 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Granatowy
+Fiat,Bravo,2008,17 300 PLN,243 200 km,Benzyna+LPG,Manualna,Kompakt,1 368 cm3,120 KM,5,Bordowy
+Fiat,Seicento,2003,3 300 PLN,84 856 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,3,Srebrny
+Fiat,Bravo,2009,4 200 PLN,298 300 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Srebrny
+Fiat,Doblo,2012,25 900 PLN,145 700 km,Diesel,Manualna,Minivan,1 248 cm3,90 KM,5,Biały
+Fiat,Bravo,2011,17 900 PLN,250 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Brązowy
+Fiat,500,2022,52 500 PLN,32 800 km,Benzyna,Manualna,Auta małe,999 cm3,70 KM,3,Biały
+Fiat,Sedici,2008,17 500 PLN,213 000 km,Diesel,Manualna,SUV,1 910 cm3,120 KM,5,Brązowy
+Fiat,Tipo,2018,41 900 PLN,158 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Czarny
+Fiat,500X,2018,32 900 PLN,127 000 km,Diesel,Automatyczna,SUV,1 598 cm3,130 KM,5,Biały
+Fiat,Panda,2006,5 800 PLN,105 500 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Bordowy
+Fiat,Croma,2006,8 000 PLN,210 000 km,Diesel,Manualna,Kombi,1 910 cm3,150 KM,5,Granatowy
+Fiat,Croma,2011,14 900 PLN,170 965 km,Benzyna,Automatyczna,Kombi,2 198 cm3,147 KM,5,Brązowy
+Fiat,500e,2013,18 400 PLN,94 000 km,Elektryczny,Automatyczna,Auta miejskie,,112 KM,3,Czarny
+Fiat,500,2015,26 500 PLN,153 000 km,Benzyna,Automatyczna,Auta miejskie,1 368 cm3,100 KM,3,Czarny
+Fiat,500,2007,17 900 PLN,117 000 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,3,Błękitny
+Fiat,Tipo,2018,23 900 PLN,95 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Czarny
+Fiat,Stilo,2003,7 900 PLN,134 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,103 KM,5,Szary
+Fiat,Doblo,2021,48 500 PLN,88 000 km,Diesel,Manualna,Minivan,1 248 cm3,95 KM,5,Biały
+Fiat,Tipo,2021,62 300 PLN,36 781 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Czarny
+Fiat,500X,2015,41 900 PLN,179 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Zielony
+Fiat,500,2011,18 900 PLN,176 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,95 KM,2,Biały
+Fiat,500,2019,43 900 PLN,45 200 km,Benzyna,Manualna,Auta małe,1 200 cm3,69 KM,3,Biały
+Fiat,Doblo,2018,32 000 PLN,199 000 km,Diesel,Manualna,Minivan,1 598 cm3,95 KM,5,Biały
+Fiat,Tipo,2018,44 500 PLN,90 600 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Czarny
+Fiat,Tipo,2017,42 900 PLN,97 100 km,Benzyna,Manualna,Kombi,1 368 cm3,120 KM,5,Biały
+Fiat,Tipo,2017,18 700 PLN,246 000 km,Diesel,Manualna,Kombi,1 248 cm3,95 KM,5,Biały
+Fiat,Doblo,2022,77 000 PLN,32 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Fiat,Panda,2011,11 400 PLN,141 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czarny
+Fiat,Punto,2006,4 900 PLN,188 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,80 KM,5,Szary
+Fiat,Croma,2007,7 500 PLN,230 000 km,Benzyna,Manualna,Kombi,1 796 cm3,140 KM,5,Inny kolor
+Fiat,Panda,1994,13 000 PLN,112 232 km,Benzyna,Manualna,Auta małe,1 108 cm3,50 KM,3,Czerwony
+Fiat,Panda,2004,6 500 PLN,150 700 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,5,Niebieski
+Fiat,Scudo,2010,32 900 PLN,335 000 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,5,Szary
+Fiat,500,2018,42 000 PLN,40 900 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Fiat,500,2014,31 900 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Szary
+Fiat,Bravo,2009,17 900 PLN,164 850 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Bordowy
+Fiat,Talento,2017,73 500 PLN,219 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Srebrny
+Fiat,Punto,2006,6 800 PLN,187 203 km,Benzyna,Manualna,Kompakt,1 368 cm3,95 KM,3,Czarny
+Fiat,500,2007,21 500 PLN,86 658 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czarny
+Fiat,Tipo,2024,93 699 PLN,5 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Inny kolor
+Fiat,Bravo,2009,11 900 PLN,148 600 km,Benzyna,Manualna,Kompakt,1 368 cm3,120 KM,5,Czarny
+Fiat,Panda,2024,64 780 PLN,5 km,Hybryda,Manualna,Auta małe,999 cm3,70 KM,5,Niebieski
+Fiat,500X,2018,49 900 PLN,75 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Niebieski
+Fiat,Panda,2012,13 400 PLN,134 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,5,Czarny
+Fiat,500,2011,19 900 PLN,137 842 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,3,Biały
+Fiat,500,2013,29 200 PLN,88 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,600,2024,95 960 PLN,5 km,Benzyna,Automatyczna,SUV,,,,Inny kolor
+Fiat,Bravo,2009,12 500 PLN,110 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,90 KM,5,Złoty
+Fiat,Panda,2007,8 800 PLN,175 905 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Niebieski
+Fiat,600,2024,94 300 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 200 cm3,100 KM,5,Beżowy
+Fiat,Punto Evo,2010,7 900 PLN,300 000 km,Diesel,Manualna,Kompakt,1 248 cm3,90 KM,5,Srebrny
+Fiat,Bravo,1996,2 000 PLN,298 000 km,Benzyna+LPG,Manualna,Kompakt,1 581 cm3,103 KM,3,Granatowy
+Fiat,500,2014,26 900 PLN,109 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czarny
+Fiat,Panda,2004,3 500 PLN,315 000 km,Benzyna+LPG,Manualna,Auta małe,1 108 cm3,54 KM,5,Czerwony
+Fiat,600,2024,96 760 PLN,5 km,Hybryda,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Beżowy
+Fiat,Brava,2000,2 800 PLN,232 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,5,Zielony
+Fiat,Tipo,2023,86 900 PLN,2 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Srebrny
+Fiat,500X,2023,96 900 PLN,1 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Fiat,Punto,2015,19 500 PLN,144 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,69 KM,5,Czarny
+Fiat,Talento,2021,59 900 PLN,85 000 km,Diesel,Manualna,Minivan,1 997 cm3,170 KM,5,Srebrny
+Fiat,Doblo,2011,29 900 PLN,153 000 km,Diesel,Manualna,Minivan,1 956 cm3,135 KM,5,Bordowy
+Fiat,500,2023,67 900 PLN,200 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Fiat,Scudo,2014,38 800 PLN,253 000 km,Diesel,Manualna,Minivan,1 997 cm3,128 KM,5,Biały
+Fiat,Tipo,2022,80 990 PLN,8 451 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Brązowy
+Fiat,Panda,2004,5 500 PLN,143 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,60 KM,5,Czarny
+Fiat,500,2013,21 500 PLN,169 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,2,Czarny
+Fiat,500X,2016,42 500 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Biały
+Fiat,Seicento,2004,14 900 PLN,10 976 km,Benzyna,Manualna,Auta małe,1 108 cm3,54 KM,3,Niebieski
+Fiat,125p,1972,43 900 PLN,50 000 km,Benzyna,Manualna,Sedan,1 600 cm3,100 KM,4,Inny kolor
+Fiat,500,2010,19 900 PLN,133 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Fiat,Doblo,2020,63 900 PLN,116 800 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Fiat,Freemont,2015,51 800 PLN,152 000 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Czarny
+Fiat,Punto,2016,20 200 PLN,220 217 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,69 KM,5,Czarny

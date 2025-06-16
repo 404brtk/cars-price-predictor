@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+BMW,Seria 3,2021,144 000 PLN,46 500 km,Benzyna,Automatyczna,Kombi,1 998 cm3,156 KM,5,Biały
+BMW,Seria 3,2007,52 000 PLN,230 000 km,Diesel,Automatyczna,Coupe,2 993 cm3,285 KM,4,Szary
+BMW,X5,2024,317 200 PLN,4 100 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 5,2012,63 500 PLN,239 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Czarny
+BMW,Seria 5,2006,21 900 PLN,346 392 km,Benzyna+LPG,Manualna,Sedan,2 497 cm3,177 KM,5,Czarny
+BMW,Seria 5,2009,27 500 PLN,370 800 km,Diesel,Automatyczna,Kombi,2 993 cm3,286 KM,5,Czarny
+BMW,Seria 5,2020,148 888 PLN,144 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,252 KM,5,Srebrny
+BMW,Seria 3,2022,169 900 PLN,24 077 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,292 KM,4,Niebieski
+BMW,X6,2010,75 500 PLN,188 400 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+BMW,Seria 3,2010,66 000 PLN,172 000 km,Benzyna,Manualna,Coupe,2 979 cm3,306 KM,2,Czarny
+BMW,Seria 5,2007,19 900 PLN,269 908 km,Diesel,Manualna,Sedan,1 995 cm3,163 KM,5,Czarny
+BMW,X6,2020,410 000 PLN,69 283 km,Diesel,Automatyczna,SUV,2 993 cm3,400 KM,5,Czarny
+BMW,Seria 5,2006,28 900 PLN,240 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,231 KM,5,Granatowy
+BMW,Seria 3,2024,206 000 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Biały
+BMW,Seria 1,2010,24 900 PLN,219 000 km,Benzyna,Manualna,Coupe,1 995 cm3,122 KM,3,Czarny
+BMW,Seria 3,2007,30 500 PLN,204 830 km,Diesel,Manualna,Coupe,1 995 cm3,177 KM,2,Czarny
+BMW,3GT,2014,71 000 PLN,119 400 km,Benzyna,Automatyczna,Coupe,1 997 cm3,245 KM,5,Czarny
+BMW,Seria 3,2014,46 900 PLN,268 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,218 KM,5,Granatowy
+BMW,Seria 1,2004,18 500 PLN,287 000 km,Diesel,Manualna,Kompakt,1 995 cm3,163 KM,5,Inny kolor
+BMW,X6,2017,199 000 PLN,136 665 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,X3,2011,51 000 PLN,283 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+BMW,Seria 7,2016,163 900 PLN,169 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,265 KM,4,Szary
+BMW,Seria 3,2011,28 905 PLN,370 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Szary
+BMW,X5,2010,49 000 PLN,200 000 km,Benzyna,Automatyczna,SUV,2 979 cm3,306 KM,5,Szary
+BMW,Seria 3,2008,17 770 PLN,233 376 km,Diesel,Manualna,Sedan,1 995 cm3,177 KM,4,Szary
+BMW,X1,2022,172 500 PLN,27 800 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Biały
+BMW,Seria 5,2011,55 999 PLN,216 500 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Granatowy
+BMW,Seria 3,2008,19 900 PLN,228 500 km,Benzyna,Manualna,Sedan,1 995 cm3,143 KM,5,Srebrny
+BMW,Seria 5,2018,133 000 PLN,155 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,265 KM,5,Czarny
+BMW,X3,2011,9 999 PLN,260 055 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 4,2015,82 900 PLN,139 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,184 KM,2,Czarny
+BMW,Seria 3,2009,24 500 PLN,324 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,177 KM,5,Srebrny
+BMW,Seria 4,2015,82 900 PLN,139 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,184 KM,2,Czarny
+BMW,Seria 3,2009,24 500 PLN,324 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,177 KM,5,Srebrny
+BMW,Seria 1,2008,28 000 PLN,290 000 km,Diesel,Manualna,Coupe,1 995 cm3,204 KM,3,Czarny
+BMW,Seria 1,2005,14 999 PLN,264 430 km,Benzyna,Manualna,Kompakt,1 596 cm3,116 KM,5,Czarny
+BMW,Seria 3,2010,36 000 PLN,160 926 km,Benzyna,Manualna,Kombi,1 995 cm3,170 KM,5,Czarny
+BMW,Seria 5,2015,75 000 PLN,173 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,218 KM,5,Biały
+BMW,Seria 6,2013,95 000 PLN,93 000 km,Benzyna,Automatyczna,Kabriolet,4 395 cm3,449 KM,2,Czarny
+BMW,X3,2019,99 900 PLN,179 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2018,72 900 PLN,37 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,136 KM,4,Biały
+BMW,X6,2015,154 900 PLN,240 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Biały
+BMW,X3,2024,270 400 PLN,1 km,Diesel,Automatyczna,SUV,1 995 cm3,197 KM,5,Czarny
+BMW,Seria 7,2017,199 900 PLN,152 107 km,Diesel,Automatyczna,Sedan,2 993 cm3,320 KM,4,Czarny
+BMW,Seria 5,1997,52 000 PLN,73 000 km,Benzyna,Manualna,Sedan,2 494 cm3,170 KM,5,Czarny
+BMW,Seria 3,1982,34 777 PLN,180 000 km,Benzyna,Manualna,Sedan,1 573 cm3,75 KM,2,Złoty
+BMW,X5,2020,256 000 PLN,115 500 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Granatowy
+BMW,X3,2019,129 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Biały
+BMW,Seria 3,2013,36 000 PLN,177 933 km,Diesel,Manualna,Kombi,1 995 cm3,115 KM,5,Srebrny
+BMW,Seria 3,2020,92 800 PLN,180 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Szary
+BMW,Seria 3,2019,115 000 PLN,112 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Szary
+BMW,X3,2005,22 900 PLN,298 000 km,Diesel,Automatyczna,SUV,2 993 cm3,204 KM,5,Srebrny
+BMW,Seria 1,2014,37 450 PLN,227 000 km,Diesel,Manualna,Kompakt,1 598 cm3,116 KM,5,Czarny
+BMW,Seria 3,2019,99 500 PLN,95 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Srebrny
+BMW,Seria 4,2023,189 000 PLN,13 450 km,Diesel,Automatyczna,Kompakt,1 995 cm3,190 KM,5,Szary
+BMW,Seria 3,2014,38 900 PLN,255 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,143 KM,5,Szary
+BMW,Seria 1,2008,9 500 PLN,238 448 km,Benzyna,Manualna,Kompakt,1 597 cm3,122 KM,3,Srebrny
+BMW,i5,2023,437 500 PLN,20 000 km,Elektryczny,Automatyczna,Sedan,,598 KM,4,Czarny
+BMW,Seria 3,2005,15 950 PLN,268 540 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Srebrny
+BMW,Seria 5,2018,87 999 PLN,156 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,X5,2016,129 900 PLN,77 500 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+BMW,X3,2019,130 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Niebieski
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+BMW,Seria 2,2014,43 900 PLN,192 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Granatowy
+BMW,X3,2019,130 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Niebieski
+BMW,X3,2014,67 900 PLN,197 000 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Granatowy
+BMW,Seria 2,2014,43 900 PLN,192 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Granatowy
+BMW,X5,2012,77 700 PLN,255 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,245 KM,5,Czarny
+BMW,X5,2011,55 000 PLN,235 266 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Czarny
+BMW,Seria 3,2016,66 900 PLN,166 500 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Srebrny
+BMW,X5,2017,149 000 PLN,170 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Szary
+BMW,X5,2011,68 900 PLN,227 513 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+BMW,Seria 1,2008,12 000 PLN,254 000 km,Benzyna,Manualna,Kompakt,1 599 cm3,122 KM,5,Czarny
+BMW,Seria 3,2011,36 500 PLN,266 600 km,Diesel,Automatyczna,Sedan,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 3,2010,31 000 PLN,324 000 km,Diesel,Manualna,Kombi,1 995 cm3,184 KM,2,Szary
+BMW,Seria 3,2024,212 900 PLN,5 km,Hybryda Plug-in,Automatyczna,Kombi,1 998 cm3,184 KM,5,Czarny
+BMW,X5,2024,451 000 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,352 KM,5,Szary
+BMW,Seria 4,2015,78 900 PLN,173 656 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,5,Granatowy
+BMW,X6,2015,119 999 PLN,190 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+BMW,Seria 1,2009,26 900 PLN,118 300 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,3,Szary
+BMW,Seria 5,2013,55 000 PLN,300 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,218 KM,5,Czarny
+BMW,Seria 3,2018,81 180 PLN,68 500 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,252 KM,4,Czarny
+BMW,X3,2013,64 900 PLN,207 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 3,2013,49 900 PLN,223 583 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Inny kolor
+BMW,Seria 1,2004,13 000 PLN,219 308 km,Benzyna,Manualna,Kompakt,1 596 cm3,116 KM,5,Srebrny
+BMW,X6,2024,292 500 PLN,150 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Szary
+BMW,X3,2020,146 000 PLN,129 000 km,Diesel,Automatyczna,Kompakt,1 995 cm3,150 KM,5,Srebrny
+BMW,Seria 1,2021,112 000 PLN,19 000 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Biały
+BMW,X5,2013,102 000 PLN,199 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Brązowy
+BMW,X7,2019,335 000 PLN,89 000 km,Diesel,Automatyczna,SUV,2 993 cm3,400 KM,5,Biały
+BMW,Seria 1,2024,158 700 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Czerwony
+BMW,Seria 5,2001,11 500 PLN,295 000 km,Diesel,Manualna,Sedan,1 951 cm3,136 KM,5,Granatowy
+BMW,Seria 5,2011,58 500 PLN,190 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Srebrny
+BMW,Seria 3,2017,56 999,329 900 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Szary
+BMW,X1,2018,72 000 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Granatowy
+BMW,Seria 4,2018,130 000 PLN,116 000 km,Benzyna,Automatyczna,Coupe,2 998 cm3,326 KM,5,Biały
+BMW,X1,2018,98 900 PLN,119 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 4,2014,95 000 PLN,98 000 km,Diesel,Automatyczna,Kabriolet,1 995 cm3,184 KM,2,Brązowy
+BMW,X3,2017,41 900 PLN,129 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,X2,2024,292 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+BMW,Seria 5,2016,68 000 PLN,154 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Brązowy
+BMW,Seria 5,2015,85 000 PLN,204 600 km,Diesel,Automatyczna,Kombi,2 993 cm3,381 KM,5,Inny kolor
+BMW,Seria 5,1994,32 900 PLN,216 000 km,Benzyna,Manualna,Sedan,1 991 cm3,150 KM,5,Czarny
+BMW,Seria 5,2018,95 000 PLN,154 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Błękitny
+BMW,X3,2022,229 750 PLN,35 249 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 1,2018,79 900 PLN,94 800 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Czarny
+BMW,Seria 2,2014,53 000 PLN,118 834 km,Diesel,Automatyczna,Kompakt,1 995 cm3,149 KM,5,Czarny
+BMW,Seria 1,2018,83 000 PLN,105 000 km,Diesel,Manualna,Kompakt,1 995 cm3,150 KM,5,Niebieski
+BMW,Seria 3,2013,48 900 PLN,267 100 km,Benzyna,Automatyczna,Kombi,1 998 cm3,184 KM,5,Szary
+BMW,X5 M,2014,119 000 PLN,135 991 km,Diesel,Automatyczna,Kombi,2 993 cm3,381 KM,5,Srebrny
+BMW,5GT,2011,59 900 PLN,341 000 km,Diesel,Automatyczna,Kompakt,2 993 cm3,245 KM,5,Czarny
+BMW,Seria 5,2012,58 999 PLN,223 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Biały
+BMW,Seria 3,1998,7 000 PLN,264 449 km,Benzyna,Manualna,Sedan,1 895 cm3,118 KM,4,Inny kolor
+BMW,Seria 5,2016,74 900 PLN,166 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Biały
+BMW,X2,2019,72 800 PLN,79 036 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 5,2014,82 000 PLN,149 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,4,Czarny
+BMW,Seria 3,2019,135 000 PLN,70 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2019,69 900 PLN,85 345 km,Diesel,Manualna,Kombi,1 995 cm3,116 KM,5,Czarny
+BMW,Seria 1,2009,16 500 PLN,276 216 km,Diesel,Manualna,Kompakt,1 995 cm3,115 KM,5,Granatowy
+BMW,Seria 3,2013,49 500 PLN,97 600 km,Benzyna,Manualna,Sedan,1 598 cm3,136 KM,5,Czerwony
+BMW,Seria 5,2016,80 000 PLN,131 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,X3,2012,57 500 PLN,172 200 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,M2,2019,259 000 PLN,5 497 km,Benzyna,Automatyczna,Coupe,2 979 cm3,410 KM,2,Pomarańczowy
+BMW,X3,2016,88 850 PLN,119 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,245 KM,5,Biały
+BMW,M3,2022,359 000 PLN,15 000 km,Benzyna,Automatyczna,Sedan,2 993 cm3,550 KM,4,Szary
+BMW,Seria 5,2004,15 700 PLN,410 777 km,Benzyna+LPG,Manualna,Kombi,2 494 cm3,192 KM,5,Szary
+BMW,3GT,2014,68 000 PLN,180 000 km,Benzyna,Automatyczna,Kompakt,1 997 cm3,184 KM,5,Biały
+BMW,iX,2022,269 000 PLN,39 000 km,Elektryczny,Automatyczna,SUV,,326 KM,5,Szary
+BMW,Seria 5,2006,19 900 PLN,355 000 km,Diesel,Automatyczna,Kombi,2 497 cm3,177 KM,5,Srebrny
+BMW,X5,2020,285 000 PLN,71 000 km,Hybryda,Automatyczna,SUV,2 998 cm3,286 KM,5,Czarny
+BMW,Seria 7,1991,45 000 PLN,152 002 km,Benzyna,Automatyczna,Sedan,4 988 cm3,299 KM,4,Bordowy
+BMW,Seria 3,2017,77 500 PLN,126 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Inny kolor
+BMW,X5,2024,54 000 PLN,800 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Szary
+BMW,Seria 5,2012,39 500 PLN,235 997 km,Diesel,Automatyczna,Kombi,1 995 cm3,183 KM,5,Czarny
+BMW,Seria 1,2018,32 900 PLN,120 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,136 KM,5,Czarny
+BMW,X3,2013,57 900 PLN,149 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Srebrny
+BMW,Seria 4,2015,127 777 PLN,134 983 km,Benzyna,Automatyczna,Kabriolet,2 979 cm3,306 KM,2,Biały
+BMW,X5,2021,369 900 PLN,69 400 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+BMW,X1,2017,84 900 PLN,129 000 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Biały
+BMW,Seria 3,2003,10 400 PLN,210 000 km,Benzyna,Manualna,Kombi,1 995 cm3,143 KM,5,Srebrny
+BMW,Seria 3,2012,65 000 PLN,130 000 km,Diesel,Automatyczna,Auta miejskie,1 995 cm3,183 KM,5,Czarny
+BMW,X3,2013,66 700 PLN,172 600 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Brązowy
+BMW,Seria 3,2007,18 500 PLN,258 316 km,Diesel,Manualna,Sedan,1 995 cm3,163 KM,5,Inny kolor
+BMW,Seria 4,2014,72 000 PLN,251 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,184 KM,2,Czarny
+BMW,Seria 5,2015,55 000 PLN,220 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2010,32 500 PLN,270 000 km,Diesel,Manualna,Coupe,1 995 cm3,177 KM,4,Biały
+BMW,Seria 3,2019,76 900 PLN,123 500 km,Diesel,Automatyczna,Kompakt,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2002,5 700 PLN,404 000 km,Diesel,Automatyczna,Sedan,2 926 cm3,184 KM,4,Srebrny
+BMW,Seria 3,2023,204 999,25 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,245 KM,5,Biały
+BMW,Seria 1,2011,23 500 PLN,203 000 km,Benzyna,Manualna,Kompakt,1 995 cm3,122 KM,5,Srebrny
+BMW,X2,2018,99 900 PLN,51 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,192 KM,5,Czarny
+BMW,Seria 3,1992,55 800 PLN,256 686 km,Benzyna,Manualna,Coupe,1 991 cm3,150 KM,2,Czerwony
+BMW,Seria 5,2020,142 500 PLN,136 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Czarny
+BMW,X1,2017,58 000 PLN,70 553 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,M3,1998,150 000 PLN,223 188 km,Benzyna,Manualna,Kabriolet,3 201 cm3,321 KM,2,Niebieski
+BMW,X7,2022,478 999,28 000 km,Diesel,Automatyczna,SUV,2 993 cm3,340 KM,5,Czarny
+BMW,X1,2012,56 900 PLN,117 300 km,Diesel,Automatyczna,SUV,1 995 cm3,204 KM,5,Srebrny
+BMW,Seria 1,2008,22 500 PLN,242 748 km,Benzyna,Manualna,Auta miejskie,1 995 cm3,143 KM,5,Szary
+BMW,Seria 1,2009,16 900 PLN,230 000 km,Benzyna,Manualna,Coupe,1 995 cm3,122 KM,3,Czarny
+BMW,Seria 7,2017,164 999 PLN,131 000 km,Benzyna,Automatyczna,Sedan,2 998 cm3,326 KM,4,Biały
+BMW,Seria 1,2008,22 500 PLN,242 748 km,Benzyna,Manualna,Auta miejskie,1 995 cm3,143 KM,5,Szary
+BMW,Seria 1,2009,16 900 PLN,230 000 km,Benzyna,Manualna,Coupe,1 995 cm3,122 KM,3,Czarny
+BMW,Seria 7,2017,164 999 PLN,131 000 km,Benzyna,Automatyczna,Sedan,2 998 cm3,326 KM,4,Biały
+BMW,X4,2018,150 000 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,184 KM,5,Czarny
+BMW,Seria 5,2021,164 900 PLN,121 700 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2008,18 000 PLN,355 205 km,Diesel,Automatyczna,Kombi,1 995 cm3,163 KM,5,Czarny
+BMW,Seria 5,2018,139 900 PLN,152 397 km,Benzyna,Automatyczna,Sedan,4 395 cm3,462 KM,4,Szary
+BMW,Seria 4,2019,97 900 PLN,104 820 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,5,Srebrny
+BMW,Seria 3,2013,42 500 PLN,218 700 km,Diesel,Automatyczna,Kombi,1 995 cm3,116 KM,5,Szary
+BMW,M3,2022,276 750 PLN,13 000 km,Benzyna,Automatyczna,Sedan,2 993 cm3,510 KM,4,Biały
+BMW,X1,2016,87 000 PLN,151 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,Seria 5,2023,319 000 PLN,1 240 km,Benzyna,Automatyczna,Sedan,4 395 cm3,530 KM,4,Czarny
+BMW,Seria 7,2021,229 000 PLN,81 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,340 KM,4,Czarny
+BMW,X5,2024,526 500 PLN,6 km,Hybryda,Automatyczna,SUV,2 993 cm3,299 KM,5,Szary
+BMW,X5,2024,539 700 PLN,6 km,Hybryda,Automatyczna,SUV,2 993 cm3,340 KM,5,Szary
+BMW,Seria 5,2024,280 000 PLN,6 km,Diesel,Automatyczna,Sedan,1 995 cm3,197 KM,4,Szary
+BMW,Seria 1,2006,10 500 PLN,272 500 km,Benzyna,Manualna,Auta małe,1 596 cm3,116 KM,5,Czarny
+BMW,Seria 3,2008,14 700 PLN,281 800 km,Diesel,Automatyczna,Kombi,1 995 cm3,177 KM,5,Szary
+BMW,Seria 3,2023,269 000 PLN,6 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,4,Szary
+BMW,X5,2024,522 200 PLN,6 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Czarny
+BMW,Seria 5,2010,45 000 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Złoty
+BMW,X3,2019,120 000 PLN,109 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Czarny
+BMW,Seria 7,2009,69 000 PLN,320 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,245 KM,4,Czarny
+BMW,Seria 3,2009,28 000 PLN,179 000 km,Benzyna,Automatyczna,Kombi,2 996 cm3,218 KM,5,Niebieski
+BMW,Z3,1999,25 999 PLN,186 987 km,Benzyna,Manualna,Kabriolet,1 895 cm3,118 KM,2,Zielony
+BMW,Seria 3,2014,59 900 PLN,110 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,5,Błękitny
+BMW,Seria 3,2006,17 900 PLN,358 000 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Czerwony
+BMW,Seria 3,2023,179 000 PLN,1 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Biały
+BMW,i3,2014,61 000 PLN,113 000 km,Hybryda Plug-in,Automatyczna,Kompakt,647 cm3,170 KM,5,Biały
+BMW,Seria 3,2022,143 900 PLN,124 900 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,Seria 5,2008,27 000 PLN,269 400 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Czarny
+BMW,Seria 5,2006,22 140 PLN,160 300 km,Benzyna,Automatyczna,Sedan,2 497 cm3,218 KM,4,Biały
+BMW,iX2,2024,259 900 PLN,13 438 km,Elektryczny,Automatyczna,SUV,,272 KM,5,Szary
+BMW,X1,2010,39 899,207 600 km,Benzyna,Automatyczna,SUV,2 996 cm3,258 KM,5,Srebrny
+BMW,Seria 5,2020,171 900 PLN,88 200 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2007,43 000 PLN,269 360 km,Benzyna,Manualna,Coupe,2 996 cm3,272 KM,2,Szary
+BMW,Seria 4,2015,86 000 PLN,139 300 km,Benzyna,Automatyczna,Coupe,1 997 cm3,245 KM,5,Granatowy
+BMW,Seria 3,2013,38 000 PLN,237 000 km,Diesel,Manualna,Sedan,1 995 cm3,143 KM,5,Błękitny
+BMW,Seria 3,2024,192 240 PLN,1 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,1999,23 777 PLN,187 777 km,Benzyna,Manualna,Kompakt,1 895 cm3,105 KM,3,Czerwony
+BMW,Seria 5,2011,48 000 PLN,199 431 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,X1,2024,194 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Srebrny
+BMW,X5,2024,414 900 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,298 KM,5,Biały
+BMW,X5,2017,245 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,575 KM,5,Czarny
+BMW,X2,2024,192 200 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,170 KM,5,Czarny
+BMW,Seria 5,2010,39 900 PLN,273 000 km,Diesel,Manualna,Sedan,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 3,2021,184 999,49 900 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Czarny
+BMW,X1,2022,199 000 PLN,49 400 km,Benzyna,Automatyczna,SUV,1 998 cm3,192 KM,5,Niebieski
+BMW,Seria 3,2008,22 900 PLN,174 221 km,Benzyna,Automatyczna,Sedan,1 995 cm3,170 KM,4,Czarny
+BMW,Seria 3,2020,119 900 PLN,70 766 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,5,Szary
+BMW,X5,2020,235 500 PLN,77 100 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Czarny
+BMW,X6,2020,329 000 PLN,31 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+BMW,Seria 4,2017,96 000 PLN,123 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,252 KM,5,Czarny
+BMW,Seria 5,2008,28 500 PLN,239 756 km,Diesel,Manualna,Sedan,1 995 cm3,177 KM,5,Srebrny
+BMW,Seria 5,2016,72 000 PLN,222 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Czarny
+BMW,X1,2024,185 549 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Zielony
+BMW,Seria 1,2024,155 800 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Szary
+BMW,Seria 1,2014,37 900 PLN,185 000 km,Diesel,Manualna,Kompakt,1 995 cm3,116 KM,5,Czerwony
+BMW,X1,2024,240 500 PLN,1 km,Hybryda,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+BMW,X1,2021,144 900,39 050 km,Benzyna,Automatyczna,SUV,1 998 cm3,178 KM,5,Szary
+BMW,Seria 3,2012,43 900 PLN,361 883 km,Diesel,Manualna,Sedan,1 995 cm3,184 KM,5,Biały
+BMW,Seria 5,2013,58 900 PLN,219 511 km,Diesel,Automatyczna,Kombi,1 995 cm3,218 KM,5,Inny kolor
+BMW,i3,2013,48 500 PLN,124 600 km,Elektryczny,Automatyczna,Auta miejskie,,170 KM,5,Srebrny
+BMW,Seria 4,2023,213 999,14 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Niebieski
+BMW,Seria 5,2015,68 900 PLN,279 500 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Czarny
+BMW,5GT,2012,59 900 PLN,186 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,5,Czarny
+BMW,Seria 5,2004,26 900 PLN,311 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,218 KM,4,Granatowy
+BMW,X5,2015,125 000 PLN,182 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Czarny
+BMW,Seria 3,2013,36 500 PLN,238 995 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,4,Szary
+BMW,Seria 5,2008,26 500 PLN,482 000 km,Diesel,Manualna,Sedan,2 993 cm3,197 KM,4,Czarny
+BMW,Seria 4,2024,333 400 PLN,5 km,Benzyna,Automatyczna,Coupe,1 998 cm3,245 KM,5,Szary
+BMW,X3,2017,78 888 PLN,157 242 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,X1,2024,185 549 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Zielony
+BMW,X5,2012,59 000 PLN,280 000 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Brązowy
+BMW,Seria 5,1997,16 200 PLN,163 000 km,Benzyna,Manualna,Sedan,1 991 cm3,150 KM,5,Inny kolor
+BMW,Seria 5,2008,20 900 PLN,322 000 km,Benzyna,Manualna,Kombi,1 995 cm3,170 KM,5,Biały
+BMW,X5,2014,149 000 PLN,118 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Brązowy
+BMW,X3,2014,65 000 PLN,205 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+BMW,X6,2016,149 900 PLN,87 700 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Biały
+BMW,X1,2012,39 900 PLN,242 000 km,Diesel,Automatyczna,SUV,1 995 cm3,143 KM,5,Srebrny
+BMW,Seria 3,2012,29 700 PLN,206 000 km,Diesel,Manualna,Kombi,1 995 cm3,183 KM,5,Czarny
+BMW,X4,2020,179 000 PLN,39 916 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Srebrny
+BMW,X1,2014,53 000 PLN,160 000 km,Benzyna,Manualna,SUV,1 997 cm3,184 KM,5,Czarny
+BMW,Seria 7,2011,59 000 PLN,165 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,326 KM,4,Czarny
+BMW,Seria 3,2019,147 000 PLN,50 000 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,184 KM,4,Niebieski
+BMW,Seria 5,2019,217 900 PLN,84 716 km,Benzyna,Automatyczna,Sedan,2 998 cm3,340 KM,5,Srebrny
+BMW,X3,2017,139 000 PLN,85 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 5,1989,68 800 PLN,347 000 km,Benzyna,Manualna,Sedan,2 494 cm3,170 KM,5,Srebrny
+BMW,Seria 5,2011,60 000 PLN,260 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,4,Czarny
+BMW,X1,2013,44 900 PLN,229 000 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Szary
+BMW,X4,2015,91 900 PLN,172 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Inny kolor
+BMW,Seria 5,2015,69 500 PLN,210 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Biały
+BMW,Seria 7,2003,27 900 PLN,435 000 km,Diesel,Automatyczna,Sedan,3 901 cm3,258 KM,4,Czarny
+BMW,X5,2021,324 900 PLN,60 500 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 3,2022,203 999 PLN,8 400 km,Benzyna,Automatyczna,Kombi,1 998 cm3,184 KM,5,Szary
+BMW,Seria 5,2013,49 900 PLN,224 000 km,Benzyna,Automatyczna,Kombi,1 997 cm3,184 KM,5,Szary
+BMW,Seria 3,2009,31 999 PLN,320 500 km,Diesel,Manualna,Coupe,1 995 cm3,163 KM,4,Czarny
+BMW,X5,2022,332 900 PLN,48 878 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 1,2018,40 500 PLN,48 885 km,Benzyna,Manualna,Auta miejskie,1 499 cm3,136 KM,5,Brązowy
+BMW,Seria 3,2024,316 566 PLN,1 km,Hybryda,Automatyczna,Kombi,2 993 cm3,286 KM,5,Szary
+BMW,X4,2023,246 900 PLN,28 754 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Szary
+BMW,Seria 1,2008,24 000 PLN,229 285 km,Benzyna,Manualna,Kompakt,1 599 cm3,122 KM,5,Szary
+BMW,Seria 3,2009,24 900 PLN,288 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 5,2018,126 900 PLN,142 200 km,Diesel,Automatyczna,Sedan,1 995 cm3,231 KM,4,Czarny
+BMW,X4,2017,117 900 PLN,103 682 km,Benzyna,Automatyczna,SUV,1 997 cm3,184 KM,5,Czarny
+BMW,M3,2024,489 900 PLN,10 km,Benzyna,Automatyczna,Sedan,2 993 cm3,510 KM,4,Niebieski
+BMW,X4,2019,224 900 PLN,29 300 km,Benzyna,Automatyczna,SUV,2 998 cm3,360 KM,5,Bordowy
+BMW,Seria 3,2009,21 900 PLN,270 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 5,2016,82 500 PLN,306 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,313 KM,5,Czarny
+BMW,X3,2020,159 900 PLN,57 114 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,i3,2019,79 900 PLN,68 485 km,Elektryczny,Automatyczna,Kompakt,,170 KM,5,Czarny
+BMW,X3,2020,184 900 PLN,73 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Biały
+BMW,X6,2016,149 900 PLN,105 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Granatowy
+BMW,X3,2023,264 900 PLN,25 725 km,Benzyna,Automatyczna,SUV,1 998 cm3,245 KM,5,Czarny
+BMW,Seria 3,2019,149 900 PLN,98 567 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Srebrny
+BMW,X3,2021,230 900 PLN,68 510 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Czarny
+BMW,X1,2013,42 900 PLN,174 000 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Brązowy
+BMW,Seria 3,2019,135 300 PLN,70 100 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,5,Biały
+BMW,3GT,2018,75 900 PLN,80 700 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,252 KM,5,Biały
+BMW,Seria 7,2018,246 000 PLN,175 769 km,Diesel,Automatyczna,Sedan,2 993 cm3,400 KM,4,Czarny
+BMW,Seria 6,2013,90 000 PLN,170 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Czarny
+BMW,Seria 6,2015,64 999 PLN,230 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Czarny
+BMW,Seria 1,2008,16 500 PLN,263 000 km,Diesel,Automatyczna,Auta małe,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 7,2021,389 900 PLN,62 743 km,Benzyna,Automatyczna,Sedan,4 395 cm3,530 KM,4,Niebieski
+BMW,X3,2022,259 000 PLN,90 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,X6,2013,118 000 PLN,219 000 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Biały
+BMW,Seria 2,2023,145 900 PLN,23 500 km,Benzyna,Automatyczna,Coupe,1 499 cm3,140 KM,5,Biały
+BMW,X1,2013,46 999 PLN,188 200 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Biały
+BMW,X1,2013,46 999 PLN,188 200 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Biały
+BMW,X4,2022,249 000 PLN,54 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Szary
+BMW,X3,2007,25 000 PLN,287 000 km,Diesel,Manualna,SUV,1 995 cm3,149 KM,5,Granatowy
+BMW,X3,2014,75 900 PLN,205 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+BMW,Seria 3,2013,82 900 PLN,144 644 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,4,Czarny
+BMW,Seria 1,2021,128 800 PLN,70 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,306 KM,5,Niebieski
+BMW,Seria 1,2024,195 200 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,170 KM,5,Szary
+BMW,Seria 1,2024,211 200 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,170 KM,5,Niebieski
+BMW,X5,2016,95 000 PLN,125 644 km,Benzyna,Automatyczna,SUV,2 979 cm3,306 KM,5,Biały
+BMW,Seria 5,2015,75 000 PLN,125 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2008,26 999 PLN,355 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,235 KM,5,Niebieski
+BMW,Seria 3,2014,54 999 PLN,220 334 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Czarny
+BMW,Seria 7,1998,57 900 PLN,326 000 km,Benzyna,Automatyczna,Sedan,5 379 cm3,326 KM,4,Czarny
+BMW,X5,2014,97 700 PLN,220 000 km,Diesel,Automatyczna,SUV,1 995 cm3,218 KM,5,Szary
+BMW,X6,2024,449 310 PLN,4 000 km,Benzyna,Automatyczna,SUV,2 998 cm3,340 KM,5,Szary
+BMW,Seria 5,2017,149 900 PLN,128 200 km,Diesel,Automatyczna,Sedan,1 995 cm3,231 KM,4,Czarny
+BMW,Seria 7,2024,599 900 PLN,9 km,Diesel,Automatyczna,Sedan,2 993 cm3,286 KM,4,Złoty
+BMW,Seria 3,2007,23 000 PLN,280 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,163 KM,5,Biały
+BMW,Seria 3,2007,58 500 PLN,265 000 km,Diesel,Automatyczna,Coupe,2 993 cm3,286 KM,2,Czarny
+BMW,Seria 5,2019,225 900 PLN,89 024 km,Benzyna,Automatyczna,Sedan,2 998 cm3,340 KM,5,Czarny
+BMW,Seria 2,2024,169 452 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,178 KM,4,Biały
+BMW,Seria 3,2005,21 900 PLN,239 000 km,Benzyna,Manualna,Kabriolet,1 995 cm3,150 KM,2,Czarny
+BMW,X4,2015,97 500 PLN,143 104 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,X6,2016,172 200 PLN,175 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Czarny
+BMW,Seria 2,2024,164 044 PLN,1 km,Benzyna,Automatyczna,Coupe,1 499 cm3,136 KM,4,Niebieski
+BMW,Seria 3,2015,78 900 PLN,90 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,245 KM,4,Inny kolor
+BMW,Seria 3,2015,47 500 PLN,240 700 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Biały
+BMW,X1,2024,227 130 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Niebieski
+BMW,Seria 5,2006,25 200 PLN,266 254 km,Benzyna,Manualna,Kombi,2 497 cm3,218 KM,5,Czarny
+BMW,Seria 2,2024,151 065 PLN,1 km,Benzyna,Automatyczna,Coupe,1 499 cm3,136 KM,4,Biały
+BMW,3GT,2020,89 999 PLN,190 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,252 KM,5,Czarny
+BMW,Seria 3,2015,42 000 PLN,322 000 km,Diesel,Manualna,Sedan,1 995 cm3,116 KM,4,Czarny
+BMW,X4,2018,124 900 PLN,82 200 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 2,2021,247 830 PLN,23 623 km,Benzyna,Automatyczna,Coupe,2 998 cm3,374 KM,2,Czarny
+BMW,Seria 5,2015,80 000 PLN,265 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 4,2022,247 900 PLN,44 127 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,245 KM,2,Szary
+BMW,Seria 5,2013,45 500 PLN,223 000 km,Diesel,Manualna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 5,2009,27 900 PLN,328 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,163 KM,5,Inny kolor
+BMW,Seria 2,2017,80 700 PLN,96 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,252 KM,3,Beżowy
+BMW,X5,2018,149 000 PLN,130 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Biały
+BMW,Seria 5,2007,25 100 PLN,360 000 km,Diesel,Manualna,Sedan,1 995 cm3,163 KM,4,Czarny
+BMW,Seria 3,2002,21 700 PLN,211 600 km,Benzyna,Manualna,Coupe,2 494 cm3,192 KM,3,Srebrny
+BMW,Seria 1,2005,15 000 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 995 cm3,129 KM,5,Czarny
+BMW,Seria 3,2013,49 999 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Biały
+BMW,Seria 7,2021,332 100 PLN,117 000 km,Benzyna,Automatyczna,Sedan,4 395 cm3,530 KM,4,Czarny
+BMW,X6,2024,379 000 PLN,6 000 km,Benzyna,Automatyczna,SUV,2 998 cm3,381 KM,5,Szary
+BMW,Seria 3,2007,37 000 PLN,200 000 km,Diesel,Manualna,Coupe,2 993 cm3,231 KM,2,Srebrny
+BMW,Seria 5,2015,59 900 PLN,131 950 km,Diesel,Manualna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2008,56 000 PLN,219 399 km,Benzyna,Automatyczna,Coupe,2 996 cm3,218 KM,2,Biały
+BMW,Seria 5,2011,56 700 PLN,146 000 km,Benzyna,Automatyczna,Sedan,2 996 cm3,258 KM,4,Czarny
+BMW,Seria 4,2014,65 000 PLN,162 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,184 KM,5,Granatowy
+BMW,Seria 3,2002,5 900 PLN,262 000 km,Benzyna,Manualna,Kompakt,1 796 cm3,115 KM,3,Srebrny
+BMW,Seria 4,2018,89 999 PLN,185 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,184 KM,5,Szary
+BMW,X3,2024,322 830 PLN,1 km,Hybryda,Automatyczna,SUV,1 998 cm3,245 KM,5,Szary
+BMW,Seria 1,2007,25 900 PLN,276 008 km,Diesel,Automatyczna,Kompakt,1 995 cm3,177 KM,5,Biały
+BMW,Seria 2,2016,72 000 PLN,93 600 km,Diesel,Automatyczna,Kabriolet,1 995 cm3,149 KM,5,Biały
+BMW,Seria 3,2013,64 900 PLN,160 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Czarny
+BMW,Seria 5,2018,109 900 PLN,90 300 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Błękitny
+BMW,Seria 3,2016,54 900 PLN,186 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,116 KM,4,Czarny
+BMW,Seria 3,2012,62 000 PLN,210 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,306 KM,2,Biały
+BMW,Seria 1,2010,23 900 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 995 cm3,122 KM,5,Niebieski
+BMW,5GT,2014,62 000 PLN,174 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,5,Bordowy
+BMW,Seria 5,2024,265 800 PLN,5 km,Hybryda,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2019,135 000 PLN,79 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Czarny
+BMW,X3,2019,146 000 PLN,64 400 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,X3,2023,279 500 PLN,22 850 km,Benzyna,Automatyczna,SUV,1 998 cm3,245 KM,5,Czarny
+BMW,M3,2022,369 000 PLN,33 500 km,Benzyna,Automatyczna,Sedan,2 993 cm3,510 KM,5,Szary
+BMW,Seria 4,2023,325 000 PLN,43 000 km,Benzyna,Automatyczna,Coupe,2 998 cm3,374 KM,5,Pomarańczowy
+BMW,X6,2019,329 000 PLN,15 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Biały
+BMW,iX3,2022,225 000 PLN,42 000 km,Elektryczny,Automatyczna,SUV,,286 KM,5,Czarny
+BMW,Seria 5,2012,59 900 PLN,319 711 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Czarny
+BMW,X1,2023,179 900 PLN,26 500 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Zielony
+BMW,Seria 5,2008,26 990 PLN,290 500 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Szary
+BMW,Seria 7,2002,16 490 PLN,428 500 km,Diesel,Automatyczna,Sedan,3 901 cm3,258 KM,4,Czarny
+BMW,Seria 5,2004,16 500 PLN,356 000 km,Diesel,Manualna,Kombi,2 497 cm3,177 KM,5,Czarny
+BMW,Seria 4,2015,79 900 PLN,222 635 km,Benzyna,Automatyczna,Kabriolet,1 997 cm3,245 KM,2,Biały
+BMW,Seria 3,2014,77 900 PLN,152 022 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,5,Niebieski
+BMW,X1,2020,109 900 PLN,83 328 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,Seria 3,2020,114 900 PLN,76 040 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,5,Biały
+BMW,X1,2019,129 888 PLN,52 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Granatowy
+BMW,Seria 5,2021,260 000 PLN,47 100 km,Benzyna,Automatyczna,Sedan,2 998 cm3,340 KM,4,Inny kolor
+BMW,Seria 3,2008,13 500 PLN,222 000 km,Benzyna,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 7,2017,169 999 PLN,108 752 km,Diesel,Automatyczna,Sedan,2 993 cm3,400 KM,4,Brązowy
+BMW,Seria 3,2008,19 000 PLN,214 690 km,Benzyna,Automatyczna,Kombi,1 995 cm3,170 KM,5,Czarny
+BMW,Seria 5,2016,82 000 PLN,234 754 km,Diesel,Automatyczna,Sedan,1 995 cm3,218 KM,4,Niebieski
+BMW,Seria 3,2003,35 900 PLN,159 000 km,Benzyna,Automatyczna,Kabriolet,2 171 cm3,170 KM,2,Niebieski
+BMW,Seria 5,2015,68 400 PLN,179 800 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Czarny
+BMW,X3,2020,170 000 PLN,29 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2021,250 000 PLN,25 000 km,Benzyna,Automatyczna,Sedan,2 998 cm3,374 KM,4,Czarny
+BMW,Seria 3,1991,75 000 PLN,172 000 km,Benzyna,Manualna,Kabriolet,1 991 cm3,129 KM,2,Czerwony
+BMW,Seria 5,2004,19 900 PLN,220 000 km,Benzyna,Manualna,Sedan,2 171 cm3,170 KM,5,Brązowy
+BMW,X3,2012,62 000 PLN,220 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Biały
+BMW,X1,2018,56 800 PLN,87 032 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,X3,2020,138 000 PLN,122 453 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 7,2011,44 900 PLN,575 556 km,Diesel,Automatyczna,Sedan,2 993 cm3,245 KM,4,Czarny
+BMW,Seria 3,2023,189 900,42 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 7,2011,44 900 PLN,575 556 km,Diesel,Automatyczna,Sedan,2 993 cm3,245 KM,4,Czarny
+BMW,Seria 3,2023,189 900,42 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,M3,2002,124 900 PLN,265 000 km,Benzyna,Manualna,Coupe,3 246 cm3,343 KM,2,Granatowy
+BMW,X5,2024,380 000 PLN,8 900 km,Hybryda,Automatyczna,SUV,2 993 cm3,286 KM,5,Czarny
+BMW,X1,2018,69 000 PLN,55 900 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Srebrny
+BMW,Seria 3,2009,23 500 PLN,319 000 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Czarny
+BMW,X6,2012,84 000 PLN,187 081 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Czarny
+BMW,Seria 3,2023,149 900 PLN,10 700 km,Benzyna,Automatyczna,Sedan,1 998 cm3,156 KM,4,Biały
+BMW,Seria 3,2011,20 000 PLN,243 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Biały
+BMW,X1,2011,39 900 PLN,145 690 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Szary
+BMW,Seria 5,2019,125 000 PLN,89 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,5,Biały
+BMW,Seria 4,2022,203 620 PLN,35 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,190 KM,5,Szary
+BMW,Seria 5,2010,64 900 PLN,267 839 km,Diesel,Automatyczna,Kombi,2 993 cm3,300 KM,5,Szary
+BMW,Seria 7,2008,63 000 PLN,235 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,326 KM,4,Czarny
+BMW,Seria 4,2015,73 000 PLN,168 000 km,Benzyna,Automatyczna,Coupe,1 997 cm3,245 KM,5,Biały
+BMW,Seria 3,2018,75 000 PLN,145 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Brązowy
+BMW,X4,2022,409 900 PLN,4 000 km,Benzyna,Automatyczna,SUV,2 998 cm3,510 KM,5,Granatowy
+BMW,Seria 5,2013,39 999 PLN,321 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,258 KM,5,Czarny
+BMW,Seria 3,2008,13 000 PLN,346 000 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Srebrny
+BMW,Seria 3,2007,15 555 PLN,252 000 km,Diesel,Manualna,Sedan,1 995 cm3,163 KM,4,Czarny
+BMW,Seria 7,2010,45 000 PLN,170 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,306 KM,4,Czarny
+BMW,Seria 5,2011,51 900 PLN,246 700 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Szary
+BMW,M4,2019,233 700 PLN,84 200 km,Benzyna,Manualna,Kabriolet,2 979 cm3,450 KM,2,Czarny
+BMW,Seria 3,2007,30 000 PLN,273 000 km,Diesel,Manualna,Coupe,1 995 cm3,177 KM,2,Czarny
+BMW,i4,2024,344 231 PLN,1 km,Elektryczny,Automatyczna,Coupe,,544 KM,5,Niebieski
+BMW,iX2,2024,241 190 PLN,1 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Biały
+BMW,Seria 5,2017,120 999 PLN,190 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Biały
+BMW,Seria 2,2024,197 960 PLN,1 km,Diesel,Automatyczna,Kompakt,1 995 cm3,150 KM,5,Niebieski
+BMW,Seria 3,2024,229 570 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Szary
+BMW,Seria 3,2024,218 800 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Biały
+BMW,Seria 5,2009,38 500 PLN,220 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,177 KM,5,Szary
+BMW,X3,2024,270 800 PLN,1 km,Hybryda,Automatyczna,SUV,1 995 cm3,190 KM,5,Szary
+BMW,Seria 5,2009,38 500 PLN,220 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,177 KM,5,Szary
+BMW,X3,2024,270 800 PLN,1 km,Hybryda,Automatyczna,SUV,1 995 cm3,190 KM,5,Szary
+BMW,Seria 3,2011,34 500 PLN,224 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,183 KM,5,Błękitny
+BMW,Seria 3,2020,119 899,129 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Niebieski
+BMW,Seria 3,2024,224 188 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Biały
+BMW,X5,2021,279 000 PLN,100 500 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Czarny
+BMW,X3,2024,311 580 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,245 KM,5,Biały
+BMW,Seria 7,2024,629 900 PLN,9 km,Diesel,Automatyczna,Sedan,2 993 cm3,286 KM,4,Złoty
+BMW,X3,2008,27 900 PLN,253 750 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Niebieski
+BMW,Seria 3,2008,33 700 PLN,187 000 km,Benzyna,Manualna,Sedan,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 3,2024,257 582 PLN,1 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Szary
+BMW,Seria 3,2020,139 900 PLN,100 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Błękitny
+BMW,M5,2018,399 000 PLN,89 990 km,Benzyna,Automatyczna,Sedan,4 395 cm3,600 KM,4,Szary
+BMW,Seria 3,2022,158 900 PLN,90 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Granatowy
+BMW,Seria 7,2024,699 000 PLN,4 700 km,Diesel,Automatyczna,Sedan,2 993 cm3,286 KM,4,Czarny
+BMW,Seria 5,2011,56 000 PLN,191 000 km,Diesel,Manualna,Kombi,1 995 cm3,184 KM,5,Biały
+BMW,Seria 3,2023,184 900 PLN,18 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Biały
+BMW,Seria 3,2002,7 500 PLN,275 360 km,Benzyna,Automatyczna,Kombi,2 979 cm3,231 KM,5,Niebieski
+BMW,X3,2018,129 500 PLN,66 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Srebrny
+BMW,Seria 5,2011,42 000 PLN,340 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,X1,2024,197 280 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Srebrny
+BMW,Seria 3,2009,26 900 PLN,173 067 km,Diesel,Manualna,Sedan,1 995 cm3,143 KM,5,Biały
+BMW,X1,2016,81 000 PLN,81 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,Z4 M,2021,246 000 PLN,17 000 km,Benzyna,Automatyczna,Kabriolet,2 998 cm3,340 KM,2,Niebieski
+BMW,Seria 1,2019,83 900 PLN,94 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,184 KM,5,Biały
+BMW,X6,2008,51 000 PLN,240 500 km,Benzyna,Automatyczna,SUV,2 979 cm3,306 KM,5,Zielony
+BMW,Seria 5,2012,26 000 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Szary
+BMW,X3,2006,24 900 PLN,214 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,X6,2012,64 900 PLN,347 400 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Szary
+BMW,Seria 5,2008,32 000 PLN,196 000 km,Benzyna,Automatyczna,Sedan,2 996 cm3,272 KM,5,Czarny
+BMW,X1,2016,78 900 PLN,126 050 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Szary
+BMW,i3,2015,73 900 PLN,155 222 km,Elektryczny,Automatyczna,Auta miejskie,,170 KM,,
+BMW,Seria 5,2013,69 800 PLN,289 580 km,Diesel,Automatyczna,Sedan,1 995 cm3,218 KM,5,Czarny
+BMW,X1,2016,91 000 PLN,79 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Niebieski
+BMW,Seria 5,2020,174 900 PLN,178 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,265 KM,4,Czarny
+BMW,Seria 4,2017,119 900 PLN,76 500 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,252 KM,2,Szary
+BMW,X6,2021,320 000 PLN,74 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Granatowy
+BMW,X5,2009,43 500 PLN,311 234 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Czarny
+BMW,i3,2018,79 900 PLN,52 000 km,Elektryczny,Automatyczna,Auta miejskie,,170 KM,5,Czarny
+BMW,Seria 3,2009,16 900 PLN,318 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,X5,2024,382 000 PLN,500 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,X5,2018,149 800 PLN,142 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Biały
+BMW,5GT,2009,50 800 PLN,285 000 km,Diesel,Automatyczna,Kompakt,2 993 cm3,245 KM,5,Czarny
+BMW,Seria 2,2020,109 900 PLN,66 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,140 KM,4,Niebieski
+BMW,X6,2023,579 900 PLN,12 600 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+BMW,Seria 3,2008,20 999 PLN,178 000 km,Benzyna,Manualna,Sedan,1 995 cm3,143 KM,5,Czarny
+BMW,X5,2018,299 000 PLN,103 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Biały
+BMW,Seria 3,2015,49 950 PLN,139 500 km,Benzyna,Manualna,Sedan,1 499 cm3,136 KM,4,Czarny
+BMW,Seria 3,2019,152 833,183 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,258 KM,5,Niebieski
+BMW,Seria 3,2007,18 300 PLN,230 000 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Granatowy
+BMW,X3,2015,74 000 PLN,94 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,245 KM,5,Czerwony
+BMW,X5 M,2013,139 000 PLN,189 000 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Biały
+BMW,i3,2016,60 500 PLN,61 000 km,Elektryczny,Automatyczna,Auta miejskie,,170 KM,5,Biały
+BMW,X5,2017,136 900 PLN,81 000 km,Hybryda Plug-in,Automatyczna,SUV,2 998 cm3,313 KM,5,Czarny
+BMW,Seria 3,2013,48 900 PLN,199 600 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Czarny
+BMW,Seria 1,2012,28 900 PLN,162 400 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,3,Brązowy
+BMW,Seria 1,2015,56 900 PLN,173 000 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Biały
+BMW,Seria 3,2016,67 900 PLN,120 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,5,Biały
+BMW,M2,2018,182 000 PLN,125 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,370 KM,2,Niebieski
+BMW,Seria 5,2019,97 999,156 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Srebrny
+BMW,X3,2006,49 999 PLN,222 000 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Złoty
+BMW,Seria 7,2024,573 900 PLN,1 km,Diesel,Automatyczna,Sedan,2 993 cm3,299 KM,4,Czarny
+BMW,Seria 3,2019,178 000 PLN,37 500 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 8,2018,229 700 PLN,200 800 km,Diesel,Automatyczna,Coupe,2 993 cm3,320 KM,2,Pomarańczowy
+BMW,Seria 8,2018,229 700 PLN,200 800 km,Diesel,Automatyczna,Coupe,2 993 cm3,320 KM,2,Pomarańczowy
+BMW,Seria 5,2013,62 500 PLN,248 100 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 5,2018,148 900 PLN,148 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,252 KM,5,Czarny
+BMW,3GT,2015,69 900 PLN,185 000 km,Benzyna,Automatyczna,Coupe,1 997 cm3,245 KM,5,Biały
+BMW,X6,2024,499 990 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,340 KM,5,Szary
+BMW,X5,2012,77 000 PLN,196 400 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Brązowy
+BMW,Seria 5,2022,209 900 PLN,56 850 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Biały
+BMW,X3 M,2017,167 999 PLN,122 500 km,Benzyna,Automatyczna,SUV,2 998 cm3,360 KM,5,Granatowy
+BMW,Seria 7,2013,72 900 PLN,278 250 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Niebieski
+BMW,6GT,2018,159 900 PLN,185 850 km,Diesel,Automatyczna,Sedan,2 993 cm3,320 KM,5,Szary
+BMW,Seria 3,2016,51 500 PLN,137 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,,
+BMW,Seria 5,2001,8 350 PLN,345 000 km,Benzyna,Automatyczna,Kombi,2 171 cm3,170 KM,5,Srebrny
+BMW,X6M,2024,679 000 PLN,33 km,Benzyna,Automatyczna,SUV,4 395 cm3,625 KM,5,Niebieski
+BMW,X5,2021,239 000 PLN,90 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Biały
+BMW,X3,2023,219 900 PLN,27 400 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2023,294 475,28 602 km,Benzyna,Automatyczna,Sedan,1 998 cm3,190 KM,4,Niebieski
+BMW,X4,2023,264 998,25 600 km,Benzyna,Automatyczna,SUV,1 998 cm3,245 KM,5,Czarny
+BMW,Seria 3,2007,24 400 PLN,297 000 km,Benzyna,Automatyczna,Kombi,1 995 cm3,129 KM,5,Czarny
+BMW,Seria 5,2018,179 900 PLN,74 000 km,Benzyna,Automatyczna,Sedan,2 998 cm3,340 KM,4,Niebieski
+BMW,Seria 3,2005,18 200 PLN,258 000 km,Benzyna+LPG,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2009,23 800 PLN,1 543 465 km,Benzyna,Manualna,Sedan,1 995 cm3,143 KM,4,Czarny
+BMW,Seria 3,2021,109 999 PLN,139 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Niebieski
+BMW,i3,2021,107 900 PLN,19 300 km,Elektryczny,Automatyczna,Kompakt,,184 KM,5,Biały
+BMW,Seria 3,2013,44 900 PLN,246 284 km,Diesel,Automatyczna,Kombi,1 995 cm3,163 KM,5,Biały
+BMW,Seria 5,2017,116 500 PLN,131 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Inny kolor
+BMW,Seria 3,2017,59 900 PLN,101 000 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,184 KM,4,Biały
+BMW,Seria 3,2019,124 900 PLN,148 926 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,4,Szary
+BMW,Seria 5,2018,145 000 PLN,171 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Szary
+BMW,Seria 3,2020,137 999 PLN,104 721 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Niebieski
+BMW,X3,2007,27 000 PLN,377 800 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,X5,2023,429 900 PLN,9 000 km,Benzyna,Automatyczna,SUV,2 998 cm3,381 KM,5,Biały
+BMW,X1,2020,139 900 PLN,77 530 km,Benzyna,Automatyczna,SUV,1 998 cm3,192 KM,5,Niebieski
+BMW,Seria 3,2021,120 000 PLN,28 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Biały
+BMW,X3,2018,76 400 PLN,83 245 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Biały
+BMW,Seria 3,2021,137 999 PLN,99 989 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Niebieski
+BMW,Seria 3,2022,119 800 PLN,87 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,Seria 3,2024,339 900 PLN,10 km,Hybryda,Automatyczna,Sedan,2 998 cm3,374 KM,4,Szary
+BMW,X4,2019,177 500 PLN,85 259 km,Benzyna,Automatyczna,Coupe,1 998 cm3,184 KM,5,Czarny
+BMW,Seria 5,2014,84 800 PLN,243 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Inny kolor
+BMW,X1,2012,36 800 PLN,229 000 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 5,2010,29 500 PLN,424 000 km,Diesel,Manualna,Kombi,2 993 cm3,204 KM,5,Szary
+BMW,Seria 7,2013,61 900 PLN,182 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,306 KM,4,Czarny
+BMW,X6,2010,72 900 PLN,234 304 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Czarny
+BMW,Seria 5,2012,53 000 PLN,290 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,218 KM,5,Inny kolor
+BMW,X4 M,2016,129 900 PLN,90 000 km,Benzyna,Automatyczna,SUV,2 979 cm3,360 KM,5,Czarny
+BMW,Seria 5,2021,329 500 PLN,31 500 km,Benzyna,Automatyczna,Sedan,4 395 cm3,530 KM,4,Szary
+BMW,Seria 5,2017,82 900 PLN,175 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,X5,2023,235 500 PLN,46 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Czarny
+BMW,X5,2024,446 700 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,298 KM,5,Czarny
+BMW,X5,2024,517 900 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,X6,2024,438 600 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Szary
+BMW,X5,2023,235 500 PLN,41 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Brązowy
+BMW,Seria 3,2012,51 599 PLN,256 000 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Szary
+BMW,M5,2005,135 000 PLN,80 000 km,Benzyna,Automatyczna,Sedan,4 999 cm3,507 KM,5,Czarny
+BMW,Seria 5,2006,22 500 PLN,236 000 km,Benzyna,Automatyczna,Sedan,2 497 cm3,177 KM,5,Niebieski
+BMW,Seria 5,2019,199 999,87 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,265 KM,5,Granatowy
+BMW,Seria 5,2008,55 900 PLN,221 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,286 KM,5,Srebrny
+BMW,Seria 3,2007,19 900 PLN,220 000 km,Benzyna,Manualna,Sedan,1 995 cm3,129 KM,4,Inny kolor
+BMW,Seria 1,2007,15 300 PLN,292 000 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 5,2015,68 000 PLN,58 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Szary
+BMW,X1,2019,114 000 PLN,96 300 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Srebrny
+BMW,X4,2016,89 900 PLN,176 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,X7,2021,415 000 PLN,63 800 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Bordowy
+BMW,Seria 3,2024,191 278 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,156 KM,4,Niebieski
+BMW,Seria 3,2024,191 278 PLN,1 km,Benzyna,Automatyczna,Sedan,1 998 cm3,156 KM,4,Niebieski
+BMW,Seria 3,2015,57 900 PLN,172 300 km,Benzyna,Automatyczna,Sedan,1 997 cm3,184 KM,4,Biały
+BMW,Seria 3,2016,53 900 PLN,152 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Czarny
+BMW,Seria 1,2009,24 900 PLN,217 000 km,Diesel,Automatyczna,Auta miejskie,1 995 cm3,143 KM,5,Błękitny
+BMW,Seria 3,2017,69 000 PLN,116 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,136 KM,5,Czarny
+BMW,3GT,2017,66 999 PLN,111 245 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,184 KM,5,Szary
+BMW,Seria 7,2008,59 800 PLN,114 337 km,Diesel,Automatyczna,Sedan,2 993 cm3,245 KM,4,Czarny
+BMW,Seria 7,2016,163 000 PLN,179 244 km,Diesel,Automatyczna,Sedan,2 993 cm3,265 KM,4,Czarny
+BMW,Seria 5,2020,133 000 PLN,192 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,X5,2018,155 000 PLN,121 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Czarny
+BMW,Seria 6,2014,129 999 PLN,58 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,320 KM,2,Srebrny
+BMW,M4,2015,164 999 PLN,164 988 km,Benzyna,Automatyczna,Coupe,2 979 cm3,431 KM,2,Czarny
+BMW,iX1,2023,243 516 PLN,1 km,Elektryczny,Automatyczna,SUV,,313 KM,5,Zielony
+BMW,X1,2024,226 800 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Czarny
+BMW,Seria 5,2024,331 568 PLN,1 km,Diesel,Automatyczna,Kombi,1 995 cm3,197 KM,5,Czarny
+BMW,i4,2023,239 172 PLN,1 km,Elektryczny,Automatyczna,Coupe,,340 KM,5,Biały
+BMW,X5,2024,387 417 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 7,2024,596 260 PLN,1 km,Diesel,Automatyczna,Sedan,2 993 cm3,286 KM,4,Niebieski
+BMW,Seria 5,1996,23 500 PLN,245 000 km,Benzyna,Automatyczna,Sedan,4 398 cm3,286 KM,4,Srebrny
+BMW,Seria 5,2017,117 900 PLN,135 200 km,Diesel,Automatyczna,Kombi,2 993 cm3,265 KM,5,Srebrny
+BMW,X5,2020,179 000 PLN,149 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Szary
+BMW,X5,2024,632 824 PLN,1 km,Benzyna,Automatyczna,SUV,2 998 cm3,381 KM,5,Niebieski
+BMW,X1,2019,74 900 PLN,54 300 km,Benzyna,Manualna,SUV,1 499 cm3,140 KM,5,Biały
+BMW,Seria 6,2004,44 000 PLN,190 000 km,Benzyna+LPG,Automatyczna,Coupe,4 398 cm3,333 KM,2,Czarny
+BMW,Seria 5,2012,72 500 PLN,256 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Szary
+BMW,Seria 5,2019,119 000 PLN,139 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,5,Biały
+BMW,Seria 5,2016,67 900 PLN,195 600 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Inny kolor
+BMW,Seria 5,2019,119 000 PLN,134 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,4,Szary
+BMW,Seria 5,2010,29 999 PLN,242 000 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Srebrny
+BMW,X1,2024,266 409 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Zielony
+BMW,i5,2024,471 873 PLN,1 km,Elektryczny,Automatyczna,Kombi,,598 KM,5,Niebieski
+BMW,Seria 3,2024,256 086 PLN,1 km,Hybryda,Automatyczna,Sedan,1 995 cm3,190 KM,4,Niebieski
+BMW,M8,2024,899 900 PLN,1 km,Benzyna,Automatyczna,Coupe,4 395 cm3,626 KM,2,Czarny
+BMW,X3,2023,224 900 PLN,19 078 km,Benzyna,Automatyczna,SUV,1 998 cm3,183 KM,5,Niebieski
+BMW,X5,2023,279 900 PLN,45 315 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Niebieski
+BMW,Seria 1,2020,113 900,63 555 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,140 KM,5,Czarny
+BMW,i4,2024,254 988 PLN,1 km,Elektryczny,Automatyczna,Sedan,,285 KM,5,Zielony
+BMW,Seria 1,2014,47 500 PLN,106 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Biały
+BMW,Seria 5,2018,99 900 PLN,254 192 km,Diesel,Automatyczna,Kombi,1 995 cm3,231 KM,5,Czarny
+BMW,M2,2024,353 800 PLN,5 km,Benzyna,Automatyczna,Coupe,2 993 cm3,460 KM,3,Szary
+BMW,Seria 5,2019,109 000 PLN,98 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,X6,2021,317 000 PLN,38 000 km,Diesel,Automatyczna,SUV,2 993 cm3,400 KM,5,Bordowy
+BMW,Seria 3,2019,70 500 PLN,184 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,163 KM,5,Czarny
+BMW,Seria 5,2012,45 900 PLN,185 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,218 KM,5,Szary
+BMW,X5,2024,398 200 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,298 KM,5,Czarny
+BMW,Seria 3,2003,18 999 PLN,167 000 km,Benzyna,Manualna,Kabriolet,1 995 cm3,143 KM,3,Granatowy
+BMW,Seria 5,2016,75 900 PLN,115 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Szary
+BMW,X5,2019,188 000 PLN,82 800 km,Benzyna,Automatyczna,SUV,2 998 cm3,340 KM,5,Szary
+BMW,Seria 5,2022,165 000 PLN,79 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Czarny
+BMW,X5,2016,149 000 PLN,99 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Inny kolor
+BMW,Seria 3,2018,60 900 PLN,136 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,136 KM,4,Biały
+BMW,Seria 5,2013,60 000 PLN,190 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,245 KM,5,Biały
+BMW,Seria 5,2013,97 000 PLN,309 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,381 KM,5,Inny kolor
+BMW,3GT,2017,75 000 PLN,87 500 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Biały
+BMW,Seria 1,2012,33 900 PLN,220 000 km,Diesel,Manualna,Kompakt,1 995 cm3,116 KM,5,Czarny
+BMW,X3,2004,22 800 PLN,323 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2014,50 900 PLN,238 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,143 KM,5,Czarny
+BMW,M6,2010,149 000 PLN,170 000 km,Benzyna,Automatyczna,Kabriolet,4 999 cm3,507 KM,2,Srebrny
+BMW,Seria 3,2022,158 900,81 818 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Biały
+BMW,Seria 3,2021,139 900 PLN,140 963 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Niebieski
+BMW,Seria 5,2018,94 500 PLN,230 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,X6,2017,189 999 PLN,91 065 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Biały
+BMW,Seria 4,2020,96 900 PLN,142 600 km,Benzyna,Automatyczna,Coupe,1 998 cm3,184 KM,5,Biały
+BMW,iX1,2023,229 900 PLN,16 000 km,Elektryczny,Automatyczna,SUV,,313 KM,5,Zielony
+BMW,Seria 4,2020,96 900 PLN,142 600 km,Benzyna,Automatyczna,Coupe,1 998 cm3,184 KM,5,Biały
+BMW,iX1,2023,229 900 PLN,16 000 km,Elektryczny,Automatyczna,SUV,,313 KM,5,Zielony
+BMW,Seria 3,2014,46 000 PLN,168 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,X3,2017,79 900 PLN,119 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,245 KM,5,Granatowy
+BMW,X1,2016,59 999 PLN,229 500 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 1,2007,19 800 PLN,186 500 km,Benzyna,Manualna,Coupe,1 995 cm3,143 KM,3,Biały
+BMW,X5,2005,38 900 PLN,173 000 km,Diesel,Automatyczna,SUV,2 993 cm3,218 KM,5,Czarny
+BMW,Seria 5,2024,285 000 PLN,63 km,Benzyna,Automatyczna,Sedan,1 998 cm3,190 KM,4,Czarny
+BMW,X6,2017,195 000 PLN,126 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Biały
+BMW,Seria 5,2016,72 900 PLN,214 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Biały
+BMW,Seria 3,2017,89 000 PLN,65 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Biały
+BMW,Seria 3,2019,108 000 PLN,103 310 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Szary
+BMW,Seria 3,2006,18 450 PLN,302 058 km,Diesel,Manualna,Sedan,1 995 cm3,122 KM,5,Szary
+BMW,Seria 3,2021,138 000 PLN,64 600 km,Benzyna,Automatyczna,Kombi,1 998 cm3,184 KM,5,Biały
+BMW,X1,2020,99 900 PLN,167 000 km,Diesel,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+BMW,X3,2021,205 000 PLN,52 500 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,X3,2011,47 900 PLN,306 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+BMW,Seria 5,2011,73 800 PLN,310 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,300 KM,5,Granatowy
+BMW,Seria 5,2017,129 900 PLN,99 500 km,Benzyna,Automatyczna,Kombi,1 998 cm3,252 KM,5,Biały
+BMW,Seria 5,2018,118 850 PLN,193 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,252 KM,5,Szary
+BMW,Seria 1,2004,9 500 PLN,232 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,116 KM,5,Czerwony
+BMW,X3 M,2020,248 000 PLN,46 000 km,Benzyna,Automatyczna,SUV,2 993 cm3,480 KM,5,Czarny
+BMW,Seria 5,2013,41 500 PLN,363 138 km,Diesel,Automatyczna,Sedan,1 995 cm3,218 KM,5,Biały
+BMW,X3,2011,57 900 PLN,235 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Niebieski
+BMW,Seria 3,2019,128 000 PLN,185 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,5,Biały
+BMW,Seria 3,2013,84 900 PLN,115 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,5,Czarny
+BMW,Seria 6,2013,86 000 PLN,316 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Granatowy
+BMW,X5,2011,71 000 PLN,207 000 km,Benzyna,Automatyczna,SUV,2 979 cm3,306 KM,5,Czarny
+BMW,X6M,2010,128 000 PLN,206 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,555 KM,4,Czarny
+BMW,Seria 6,2017,189 000 PLN,98 000 km,Diesel,Automatyczna,Kompakt,2 993 cm3,313 KM,4,Złoty
+BMW,Seria 5,2018,166 000 PLN,192 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Niebieski
+BMW,Seria 2,2022,129 000 PLN,30 000 km,Benzyna,Automatyczna,Minivan,1 499 cm3,136 KM,5,Szary
+BMW,X6M,2010,128 000 PLN,206 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,555 KM,4,Czarny
+BMW,Seria 6,2017,189 000 PLN,98 000 km,Diesel,Automatyczna,Kompakt,2 993 cm3,313 KM,4,Złoty
+BMW,Seria 5,2018,166 000 PLN,192 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Niebieski
+BMW,Seria 2,2022,129 000 PLN,30 000 km,Benzyna,Automatyczna,Minivan,1 499 cm3,136 KM,5,Szary
+BMW,Seria 5,2013,74 900 PLN,215 124 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,5,Granatowy
+BMW,X2,2024,223 484 PLN,2 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Inny kolor
+BMW,Seria 5,2020,172 900,72 202 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Czarny
+BMW,M5,2001,155 000 PLN,215 000 km,Benzyna,Manualna,Sedan,4 941 cm3,400 KM,4,Czarny
+BMW,Seria 2,2016,42 500 PLN,171 000 km,Diesel,Automatyczna,Auta miejskie,1 496 cm3,116 KM,5,Czarny
+BMW,X1,2015,88 999 PLN,163 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,X5 M,2016,135 900 PLN,177 000 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,Seria 5,2015,69 999 PLN,106 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Brązowy
+BMW,X5,2023,355 900 PLN,16 000 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Biały
+BMW,M6,1987,205 000 PLN,210 000 km,Benzyna,Manualna,Coupe,3 453 cm3,260 KM,2,Czarny
+BMW,Seria 1,2014,41 900 PLN,233 400 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,5,Czarny
+BMW,3GT,2019,89 500 PLN,93 320 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,184 KM,5,Szary
+BMW,Seria 5,2008,25 900 PLN,221 000 km,Diesel,Manualna,Kombi,1 995 cm3,177 KM,5,Czarny
+BMW,Seria 3,2014,36 900 PLN,70 000 km,Benzyna,Manualna,Sedan,1 598 cm3,136 KM,4,Czarny
+BMW,X3,2019,87 900 PLN,170 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,252 KM,5,Srebrny
+BMW,M5,2018,269 000 PLN,88 000 km,Benzyna,Automatyczna,Sedan,4 395 cm3,600 KM,4,Czarny
+BMW,Seria 5,2015,76 900 PLN,213 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,258 KM,4,Czarny
+BMW,X4,2021,209 000 PLN,193 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Granatowy
+BMW,Seria 3,2023,179 900 PLN,19 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,5,Czarny
+BMW,Seria 1,2015,50 000 PLN,87 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,136 KM,5,Czarny
+BMW,X3,2008,33 000 PLN,175 000 km,Benzyna,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 5,2011,39 900 PLN,296 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Brązowy
+BMW,X5,2007,44 999 PLN,435 000 km,Diesel,Automatyczna,SUV,2 993 cm3,235 KM,5,Czarny
+BMW,Seria 5,2005,23 000 PLN,445 300 km,Diesel,Automatyczna,Kombi,2 993 cm3,272 KM,5,Srebrny
+BMW,Seria 1,2011,35 000 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Granatowy
+BMW,Seria 3,2022,111 400,129 821 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 4,2016,95 000 PLN,241 738 km,Diesel,Manualna,Coupe,1 995 cm3,190 KM,5,Czarny
+BMW,X5 M,2016,149 000 PLN,377 700 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,X5 M,2016,149 000 PLN,377 700 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,Seria 3,2006,12 177 PLN,291 463 km,Benzyna,Manualna,Sedan,1 995 cm3,129 KM,5,Czarny
+BMW,Seria 1,2011,25 000 PLN,170 050 km,Benzyna,Manualna,Kompakt,1 598 cm3,170 KM,5,Czarny
+BMW,X5 M,2016,164 500 PLN,155 350 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,Seria 5,2023,183 147 PLN,39 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 1,2018,69 900 PLN,47 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,136 KM,5,Szary
+BMW,Seria 3,2015,35 000 PLN,340 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Szary
+BMW,X6,2018,184 900 PLN,119 600 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Inny kolor
+BMW,X4 M,2021,410 528,74 500 km,Benzyna,Automatyczna,SUV,2 993 cm3,510 KM,5,Inny kolor
+BMW,X3 M,2019,197 500 PLN,62 000 km,Benzyna,Automatyczna,SUV,2 998 cm3,354 KM,5,Czarny
+BMW,Seria 4,2018,75 000 PLN,112 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,252 KM,5,Czarny
+BMW,Seria 5,2008,27 500 PLN,335 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,235 KM,5,Czarny
+BMW,3GT,2015,59 000 PLN,263 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,4,Czarny
+BMW,Seria 3,2015,34 900 PLN,356 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,116 KM,5,Inny kolor
+BMW,Seria 3,2020,126 500 PLN,94 333 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,5,Czarny
+BMW,X5,2017,129 900 PLN,93 900 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Szary
+BMW,Seria 3,2020,119 900 PLN,62 500 km,Benzyna,Automatyczna,Sedan,1 998 cm3,258 KM,4,Biały
+BMW,Seria 3,2012,35 900 PLN,181 000 km,Benzyna,Manualna,Coupe,1 995 cm3,170 KM,2,Czarny
+BMW,Seria 3,2014,58 000 PLN,257 882 km,Diesel,Automatyczna,Kombi,1 995 cm3,183 KM,2,Szary
+BMW,Seria 5,2014,89 000 PLN,232 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,381 KM,5,Srebrny
+BMW,Seria 3,2009,29 500 PLN,365 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,177 KM,2,Szary
+BMW,Seria 3,2019,158 000 PLN,112 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Szary
+BMW,Seria 5,2012,41 000 PLN,309 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 3,2005,33 500 PLN,200 000 km,Benzyna+LPG,Manualna,Sedan,2 497 cm3,218 KM,5,Szary
+BMW,Seria 7,2007,36 900 PLN,386 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,231 KM,4,Czarny
+BMW,Seria 1,2009,28 500 PLN,243 350 km,Diesel,Manualna,Kompakt,1 995 cm3,204 KM,5,Niebieski
+BMW,Seria 1,2019,67 000 PLN,96 000 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Biały
+BMW,Seria 1,2018,152 000 PLN,112 000 km,Benzyna,Automatyczna,Kompakt,2 998 cm3,340 KM,5,Czarny
+BMW,X3,2012,64 700 PLN,180 500 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,X1,2014,43 800 PLN,198 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Szary
+BMW,X3,2007,20 500 PLN,346 745 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 1,2014,39 800 PLN,174 000 km,Diesel,Manualna,Kompakt,1 598 cm3,116 KM,5,Biały
+BMW,Seria 5,2011,41 999 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Brązowy
+BMW,Seria 1,2010,21 500 PLN,206 000 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,5,Srebrny
+BMW,X1,2013,48 700 PLN,167 000 km,Diesel,Automatyczna,SUV,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 4,2014,75 000 PLN,180 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,5,Granatowy
+BMW,Seria 5,2012,51 900 PLN,259 712 km,Diesel,Automatyczna,Kabriolet,1 995 cm3,184 KM,5,Biały
+BMW,X5,2018,125 000 PLN,247 000 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Biały
+BMW,Seria 3,2015,57 500 PLN,83 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,136 KM,4,Czarny
+BMW,Seria 2,2015,49 999 PLN,200 000 km,Diesel,Automatyczna,Kompakt,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2024,299 800 PLN,23 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,197 KM,4,Czarny
+BMW,Seria 3,2008,15 000 PLN,217 074 km,Diesel,Manualna,Sedan,1 995 cm3,177 KM,5,Szary
+BMW,Seria 3,2010,29 000 PLN,240 000 km,Benzyna,Automatyczna,Kombi,1 995 cm3,143 KM,5,Biały
+BMW,Seria 5,2010,61 500 PLN,299 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,300 KM,4,Czarny
+BMW,Seria 3,2014,60 900 PLN,217 505 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Biały
+BMW,X1,2013,34 900 PLN,269 777 km,Diesel,Manualna,SUV,1 995 cm3,116 KM,5,Czarny
+BMW,M3,2024,444 970 PLN,5 km,Benzyna,Automatyczna,Kombi,2 993 cm3,510 KM,4,Niebieski
+BMW,Seria 3,2012,51 900 PLN,218 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,183 KM,5,Brązowy
+BMW,Seria 1,2008,23 900 PLN,118 000 km,Benzyna,Manualna,Auta małe,1 995 cm3,143 KM,3,Czarny
+BMW,Seria 3,2014,26 900 PLN,129 142 km,Diesel,Manualna,Sedan,1 995 cm3,115 KM,5,Czarny
+BMW,Seria 3,2011,34 000 PLN,299 985 km,Benzyna+LPG,Automatyczna,Sedan,2 996 cm3,230 KM,4,Niebieski
+BMW,Seria 5,2019,99 900 PLN,175 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,184 KM,4,Granatowy
+BMW,Seria 1,2009,12 000 PLN,211 000 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 3,2013,65 000 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,183 KM,5,Czarny
+BMW,Seria 3,2018,38 900 PLN,226 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,1994,25 900 PLN,187 100 km,Benzyna,Manualna,Sedan,1 991 cm3,149 KM,5,Fioletowy
+BMW,Seria 3,2012,88 900 PLN,181 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Biały
+BMW,Seria 3,2021,106 200 PLN,98 008 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Inny kolor
+BMW,X3,2007,28 900 PLN,200 300 km,Benzyna,Manualna,SUV,2 996 cm3,272 KM,5,Czarny
+BMW,Seria 5,2012,46 999 PLN,200 000 km,Diesel,Manualna,Kombi,1 995 cm3,218 KM,5,Czarny
+BMW,Seria 5,2014,75 000 PLN,229 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,5,Czarny
+BMW,X6,2016,167 000 PLN,143 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Szary
+BMW,Seria 1,2012,29 800 PLN,157 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Srebrny
+BMW,Seria 1,2013,38 500 PLN,145 961 km,Diesel,Automatyczna,Kompakt,1 995 cm3,150 KM,5,Czerwony
+BMW,Seria 3,2010,30 900 PLN,287 200 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 3,2015,67 750 PLN,150 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Czarny
+BMW,3GT,2014,68 500 PLN,111 000 km,Diesel,Automatyczna,Kompakt,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 3,2019,75 000 PLN,125 500 km,Benzyna,Automatyczna,Kombi,1 499 cm3,136 KM,5,Czarny
+BMW,Seria 1,2015,49 500 PLN,110 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Czarny
+BMW,Seria 1,2015,39 900 PLN,193 000 km,Diesel,Manualna,Auta małe,1 496 cm3,116 KM,5,Czarny
+BMW,X1,2019,135 000 PLN,64 600 km,Diesel,Automatyczna,SUV,1 995 cm3,231 KM,5,Czarny
+BMW,Seria 5,2011,54 000 PLN,380 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,258 KM,5,Czarny
+BMW,Seria 3,2006,14 900 PLN,349 500 km,Benzyna+LPG,Manualna,Sedan,1 995 cm3,150 KM,4,Szary
+BMW,X1,2019,109 900 PLN,77 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,140 KM,5,Biały
+BMW,Seria 3,2009,18 950 PLN,259 000 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,4,Fioletowy
+BMW,X3,2006,25 500 PLN,316 000 km,Diesel,Manualna,SUV,1 995 cm3,149 KM,5,Czarny
+BMW,Seria 1,2016,39 900 PLN,92 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,136 KM,5,Czarny
+BMW,Seria 2,2016,88 000 PLN,115 000 km,Benzyna,Automatyczna,Coupe,1 998 cm3,251 KM,2,Czarny
+BMW,Seria 3,2021,122 600 PLN,85 490 km,Benzyna,Automatyczna,Sedan,1 998 cm3,258 KM,5,Czarny
+BMW,Seria 1,2008,41 900 PLN,139 000 km,Benzyna,Manualna,Coupe,2 996 cm3,217 KM,2,Czarny
+BMW,Seria 3,2012,27 500 PLN,170 000 km,Benzyna,Manualna,Kombi,1 995 cm3,143 KM,5,Czarny
+BMW,X3,2015,76 900 PLN,142 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2005,18 300 PLN,235 660 km,Benzyna,Manualna,Sedan,1 995 cm3,129 KM,5,Srebrny
+BMW,Seria 7,2002,31 900 PLN,292 000 km,Benzyna+LPG,Automatyczna,Sedan,3 600 cm3,272 KM,4,Czarny
+BMW,Seria 1,2006,23 900 PLN,281 600 km,Diesel,Manualna,Kompakt,1 995 cm3,163 KM,5,Niebieski
+BMW,Seria 6,2012,99 999 PLN,114 000 km,Benzyna,Automatyczna,Kabriolet,4 395 cm3,450 KM,2,Inny kolor
+BMW,X3,2017,139 000 PLN,130 155 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 3,2016,56 900 PLN,155 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,163 KM,5,Czarny
+BMW,X1,2011,41 999 PLN,238 000 km,Diesel,Automatyczna,SUV,1 995 cm3,204 KM,5,Czarny
+BMW,Seria 5,2023,195 000 PLN,29 500 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,184 KM,4,Inny kolor
+BMW,6GT,2019,109 900 PLN,160 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Szary
+BMW,X1,2017,79 999 PLN,179 743 km,Diesel,Automatyczna,SUV,1 995 cm3,150 KM,5,Niebieski
+BMW,X1,2010,33 900 PLN,254 120 km,Diesel,Manualna,SUV,1 995 cm3,143 KM,5,Granatowy
+BMW,Seria 5,2012,43 900 PLN,314 580 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 3,2019,124 900 PLN,71 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,258 KM,5,Granatowy
+BMW,Seria 5,2012,29 900 PLN,230 000 km,Benzyna,Manualna,Sedan,2 000 cm3,272 KM,4,Inny kolor
+BMW,Seria 5,2018,125 900 PLN,136 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,320 KM,5,Czarny
+BMW,Seria 1,2011,35 900 PLN,280 000 km,Diesel,Manualna,Kompakt,1 995 cm3,184 KM,5,Czarny
+BMW,X3,2017,105 000 PLN,171 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 3,2001,7 500 PLN,200 000 km,Benzyna+LPG,Manualna,Coupe,1 796 cm3,115 KM,3,Srebrny
+BMW,Seria 1,2018,57 900 PLN,161 000 km,Diesel,Manualna,Kompakt,1 995 cm3,190 KM,5,Granatowy
+BMW,Seria 5,2013,40 900 PLN,249 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Granatowy
+BMW,X1,2021,55 900 PLN,96 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Czarny
+BMW,X2,2021,147 000 PLN,15 100 km,Hybryda Plug-in,Automatyczna,SUV,1 499 cm3,125 KM,5,Czarny
+BMW,X5,2016,157 900 PLN,149 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Biały
+BMW,X4,2016,81 999,211 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 7,2005,24 600 PLN,399 500 km,Diesel,Automatyczna,Sedan,2 993 cm3,231 KM,4,Czarny
+BMW,X5,2024,426 500 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,298 KM,5,Szary
+BMW,X3,2004,27 900 PLN,275 000 km,Diesel,Automatyczna,SUV,2 993 cm3,204 KM,5,Czarny
+BMW,X4,2023,267 998,11 300 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Inny kolor
+BMW,Seria 5,2011,59 800 PLN,289 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,4,Srebrny
+BMW,Seria 5,2019,113 999 PLN,95 200 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,4,Biały
+BMW,Seria 5,2008,26 500 PLN,266 000 km,Diesel,Manualna,Sedan,1 995 cm3,177 KM,5,Szary
+BMW,Seria 6,2011,150 000 PLN,109 126 km,Benzyna,Automatyczna,Kabriolet,4 395 cm3,407 KM,2,Brązowy
+BMW,Seria 1,2006,22 000 PLN,133 000 km,Benzyna,Automatyczna,Kombi,1 995 cm3,129 KM,5,Srebrny
+BMW,X6,2017,166 600 PLN,165 000 km,Diesel,Automatyczna,SUV,2 993 cm3,381 KM,5,Czarny
+BMW,Seria 5,2017,123 000 PLN,204 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,X5,2022,320 000 PLN,90 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 3,2012,36 900 PLN,378 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,143 KM,,
+BMW,Seria 5,1994,22 500 PLN,148 200 km,Diesel,Manualna,Sedan,2 498 cm3,143 KM,5,Bordowy
+BMW,Seria 7,2004,23 900 PLN,455 080 km,Diesel,Automatyczna,Sedan,2 993 cm3,218 KM,4,Czarny
+BMW,Seria 1,2021,84 000 PLN,63 500 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Niebieski
+BMW,Seria 7,2004,49 999 PLN,188 357 km,Benzyna+LPG,Automatyczna,Sedan,2 979 cm3,231 KM,4,Granatowy
+BMW,Seria 5,2017,124 800 PLN,137 005 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Niebieski
+BMW,Seria 5,2017,173 500 PLN,183 246 km,Diesel,Automatyczna,Kombi,2 993 cm3,265 KM,5,Granatowy
+BMW,Seria 1,2012,29 900 PLN,211 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,116 KM,5,Brązowy
+BMW,Seria 5,2011,57 800 PLN,288 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,258 KM,5,Szary
+BMW,Seria 3,2006,14 500 PLN,372 500 km,Benzyna+LPG,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 3,2006,14 500 PLN,372 500 km,Benzyna+LPG,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 5,2015,69 000 PLN,189 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Czarny
+BMW,Seria 1,2009,20 000 PLN,190 000 km,Benzyna,Manualna,Auta miejskie,1 995 cm3,122 KM,5,Czarny
+BMW,Seria 1,2007,23 999 PLN,250 000 km,Benzyna,Automatyczna,Kompakt,1 995 cm3,143 KM,5,Srebrny
+BMW,i3,2014,57 810 PLN,74 000 km,Elektryczny,Automatyczna,Auta miejskie,,170 KM,5,Szary
+BMW,X5,2024,439 900 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,286 KM,5,Szary
+BMW,X6,2013,96 700 PLN,269 000 km,Diesel,Manualna,SUV,2 993 cm3,306 KM,5,Granatowy
+BMW,X6,2024,513 500 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,340 KM,5,Czarny
+BMW,Seria 5,2015,47 900 PLN,276 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2016,71 500 PLN,229 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Czarny
+BMW,X6,2024,499 600 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,340 KM,5,Czarny
+BMW,X5,2024,390 800 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,298 KM,5,Czarny
+BMW,Seria 3,2016,75 777 PLN,170 000 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,184 KM,4,Brązowy
+BMW,Seria 5,2018,98 000 PLN,106 500 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Szary
+BMW,Seria 3,2011,27 800 PLN,293 000 km,Diesel,Manualna,Kombi,1 995 cm3,143 KM,5,Szary
+BMW,Seria 3,2009,12 500 PLN,220 000 km,Benzyna,Manualna,Kabriolet,1 995 cm3,150 KM,4,Czarny
+BMW,Seria 1,2010,24 490 PLN,134 623 km,Benzyna,Automatyczna,Kompakt,1 995 cm3,143 KM,3,Granatowy
+BMW,Seria 3,2013,37 999 PLN,320 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,143 KM,4,Czarny
+BMW,5GT,2013,82 900 PLN,116 000 km,Benzyna,Automatyczna,Auta miejskie,2 979 cm3,306 KM,5,Szary
+BMW,X5,2017,180 000 PLN,120 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+BMW,X3,2011,43 900 PLN,209 000 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Złoty
+BMW,Seria 5,2019,109 500 PLN,91 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,Seria 7,2017,189 000 PLN,189 751 km,Diesel,Automatyczna,Sedan,2 993 cm3,320 KM,4,Biały
+BMW,X1,2017,82 900 PLN,163 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Biały
+BMW,Seria 2,2016,65 000 PLN,123 000 km,Diesel,Manualna,Minivan,1 995 cm3,150 KM,5,Biały
+BMW,Seria 7,2003,10 999 PLN,268 767 km,Diesel,Automatyczna,Sedan,2 993 cm3,218 KM,4,Srebrny
+BMW,Seria 3,2004,24 500 PLN,266 000 km,Benzyna,Automatyczna,Coupe,2 171 cm3,170 KM,2,Srebrny
+BMW,Seria 5,2022,165 000,174 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,285 KM,5,Czarny
+BMW,Seria 3,2005,11 900 PLN,339 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Srebrny
+BMW,X3,2012,59 000 PLN,168 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,M4,2014,164 000 PLN,76 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,431 KM,2,Biały
+BMW,Seria 3,2011,26 700 PLN,304 000 km,Diesel,Manualna,Sedan,1 995 cm3,143 KM,5,Biały
+BMW,Seria 5,2022,165 000,174 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,285 KM,5,Czarny
+BMW,Seria 3,2005,11 900 PLN,339 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Srebrny
+BMW,X3,2012,59 000 PLN,168 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+BMW,M4,2014,164 000 PLN,76 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,431 KM,2,Biały
+BMW,Seria 3,2011,26 700 PLN,304 000 km,Diesel,Manualna,Sedan,1 995 cm3,143 KM,5,Biały
+BMW,X1,2022,139 999 PLN,36 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Biały
+BMW,Seria 5,2008,29 999 PLN,355 000 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Czarny
+BMW,X4,2015,90 000 PLN,240 091 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2017,71 900 PLN,83 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Granatowy
+BMW,Seria 1,2010,29 900 PLN,330 000 km,Diesel,Manualna,Auta miejskie,1 995 cm3,204 KM,5,Biały
+BMW,Seria 2,2020,127 500 PLN,8 200 km,Benzyna,Automatyczna,Coupe,1 998 cm3,231 KM,5,Czerwony
+BMW,Seria 6,2006,72 990 PLN,78 000 km,Benzyna,Automatyczna,Kabriolet,4 799 cm3,367 KM,2,Czarny
+BMW,X5,2007,39 900 PLN,389 000 km,Diesel,Automatyczna,SUV,2 993 cm3,235 KM,5,Czarny
+BMW,X3,2019,119 900 PLN,170 885 km,Benzyna,Automatyczna,SUV,1 998 cm3,184 KM,5,Czarny
+BMW,M6,2013,188 000 PLN,106 000 km,Benzyna,Automatyczna,Coupe,4 398 cm3,600 KM,2,Niebieski
+BMW,Seria 1,2009,21 999 PLN,233 421 km,Diesel,Manualna,Kompakt,1 995 cm3,116 KM,3,Czarny
+BMW,Seria 3,1998,14 900 PLN,243 230 km,Benzyna,Manualna,Sedan,1 991 cm3,150 KM,4,Granatowy
+BMW,Seria 1,2014,40 500 PLN,217 800 km,Diesel,Manualna,Kompakt,1 995 cm3,116 KM,5,Czarny
+BMW,Seria 1,2012,30 999 PLN,128 600 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Czarny
+BMW,Seria 5,2012,43 500 PLN,225 000 km,Diesel,Manualna,Kombi,1 995 cm3,218 KM,5,Czarny
+BMW,Seria 5,2003,28 900 PLN,287 000 km,Benzyna,Manualna,Sedan,2 979 cm3,231 KM,4,Inny kolor
+BMW,X3,2007,28 000 PLN,303 817 km,Benzyna,Automatyczna,SUV,2 497 cm3,218 KM,5,Czarny
+BMW,Seria 7,2013,89 900 PLN,276 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,313 KM,4,Czarny
+BMW,Seria 2,2017,64 800 PLN,7 100 km,Diesel,Automatyczna,Kombi,1 995 cm3,149 KM,5,Srebrny
+BMW,Seria 5,2019,92 900 PLN,229 500 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Inny kolor
+BMW,Seria 3,2002,10 500 PLN,216 000 km,Diesel,Manualna,Auta miejskie,1 951 cm3,115 KM,5,Czarny
+BMW,X6,2024,423 550 PLN,1 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Szary
+BMW,Seria 5,2019,105 900 PLN,180 591 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2010,32 900 PLN,316 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,2,Biały
+BMW,Seria 3,2013,48 000 PLN,173 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,143 KM,4,Szary
+BMW,Seria 2,2019,76 500 PLN,45 000 km,Benzyna,Automatyczna,Minivan,1 499 cm3,140 KM,5,Czarny
+BMW,Seria 3,2017,86 900 PLN,174 500 km,Diesel,Automatyczna,Coupe,1 995 cm3,190 KM,4,Szary
+BMW,Seria 2,2019,76 500 PLN,45 000 km,Benzyna,Automatyczna,Minivan,1 499 cm3,140 KM,5,Czarny
+BMW,Seria 3,2017,86 900 PLN,174 500 km,Diesel,Automatyczna,Coupe,1 995 cm3,190 KM,4,Szary
+BMW,Seria 3,2014,36 900 PLN,289 970 km,Diesel,Manualna,Kombi,1 995 cm3,183 KM,2,Czarny
+BMW,Seria 5,2020,164 900 PLN,105 509 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Czarny
+BMW,X3 M,2019,264 900 PLN,75 525 km,Benzyna,Automatyczna,SUV,2 993 cm3,510 KM,5,Złoty
+BMW,Seria 1,2007,12 900 PLN,320 000 km,Benzyna,Manualna,Kompakt,1 995 cm3,143 KM,3,Szary
+BMW,Seria 6,2013,98 000 PLN,167 000 km,Benzyna,Automatyczna,Coupe,2 979 cm3,320 KM,4,Biały
+BMW,i5,2023,362 800 PLN,5 km,Elektryczny,Automatyczna,Sedan,,598 KM,4,Czarny
+BMW,X1,2021,105 900 PLN,66 800 km,Hybryda Plug-in,Automatyczna,SUV,1 499 cm3,125 KM,5,Szary
+BMW,X2,2020,89 900 PLN,242 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Biały
+BMW,Seria 1,2019,72 900 PLN,43 000 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,136 KM,5,Biały
+BMW,Seria 1,2018,74 900 PLN,65 000 km,Benzyna,Automatyczna,Auta miejskie,1 499 cm3,136 KM,5,Inny kolor
+BMW,Seria 4,2015,56 900 PLN,126 000 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,245 KM,2,Szary
+BMW,Seria 3,2007,20 000 PLN,177 000 km,Benzyna+LPG,Automatyczna,Sedan,1 995 cm3,150 KM,5,Srebrny
+BMW,Seria 1,2009,21 000 PLN,186 115 km,Diesel,Manualna,Kompakt,1 995 cm3,115 KM,5,Czarny
+BMW,X1,2010,41 100 PLN,156 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,150 KM,5,Brązowy
+BMW,Seria 5,2021,199 000 PLN,29 200 km,Hybryda Plug-in,Automatyczna,Sedan,1 998 cm3,184 KM,4,Granatowy
+BMW,X3,2023,269 000 PLN,10 575 km,Diesel,Automatyczna,SUV,2 993 cm3,285 KM,5,Niebieski
+BMW,X2,2018,125 000 PLN,30 500 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2011,29 000 PLN,193 400 km,Diesel,Automatyczna,Kombi,1 995 cm3,143 KM,5,Srebrny
+BMW,Seria 1,2013,40 900 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Biały
+BMW,Seria 3,2012,26 900 PLN,322 500 km,Diesel,Automatyczna,Kombi,1 995 cm3,143 KM,5,Srebrny
+BMW,X5,2024,313 000 PLN,950 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Czarny
+BMW,Seria 1,2010,85 000 PLN,125 000 km,Benzyna,Manualna,Coupe,2 979 cm3,306 KM,2,Czarny
+BMW,M3,2021,300 000 PLN,26 500 km,Benzyna,Automatyczna,Sedan,2 993 cm3,510 KM,4,Czarny
+BMW,Seria 5,2012,71 000 PLN,264 241 km,Diesel,Automatyczna,Sedan,2 993 cm3,258 KM,4,Biały
+BMW,X3,2006,24 500 PLN,364 006 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Granatowy
+BMW,X1,2015,49 900 PLN,215 000 km,Diesel,Automatyczna,SUV,1 995 cm3,143 KM,5,Granatowy
+BMW,Seria 3,2005,15 900 PLN,298 455 km,Diesel,Manualna,Kombi,1 995 cm3,163 KM,5,Granatowy
+BMW,X5,2019,199 900 PLN,128 900 km,Benzyna,Automatyczna,SUV,2 998 cm3,340 KM,5,Czarny
+BMW,Seria 5,2014,89 500 PLN,252 586 km,Diesel,Automatyczna,Sedan,2 993 cm3,258 KM,5,Granatowy
+BMW,X5,2019,249 900 PLN,97 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Granatowy
+BMW,X5,2019,249 900 PLN,97 000 km,Diesel,Automatyczna,SUV,2 993 cm3,265 KM,5,Granatowy
+BMW,X5,2007,21 800 PLN,278 922 km,Diesel,Automatyczna,SUV,2 993 cm3,235 KM,5,Czarny
+BMW,X1,2017,75 500 PLN,191 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,231 KM,5,Czarny
+BMW,Seria 7,2019,365 000 PLN,80 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,400 KM,4,Beżowy
+BMW,Seria 3,2024,275 200 PLN,5 km,Hybryda Plug-in,Automatyczna,Kombi,1 998 cm3,184 KM,5,Czarny
+BMW,Seria 3,2018,63 500 PLN,232 100 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,5GT,2013,74 000 PLN,187 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,5,Granatowy
+BMW,X1,2014,50 000 PLN,195 000 km,Diesel,Automatyczna,SUV,1 995 cm3,143 KM,5,Czarny
+BMW,Seria 3,2002,17 000 PLN,312 400 km,Benzyna,Manualna,Coupe,2 171 cm3,170 KM,2,Srebrny
+BMW,Seria 5,2012,68 500 PLN,138 407 km,Diesel,Automatyczna,Sedan,1 995 cm3,184 KM,5,Biały
+BMW,Seria 3,2008,17 900 PLN,142 000 km,Benzyna,Manualna,Kombi,1 995 cm3,150 KM,5,Złoty
+BMW,Seria 3,2019,99 800 PLN,159 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Biały
+BMW,Seria 3,2003,6 700 PLN,220 000 km,Benzyna,Manualna,Coupe,1 796 cm3,115 KM,3,Czarny
+BMW,Seria 1,2012,25 900 PLN,280 000 km,Diesel,Automatyczna,Kompakt,1 995 cm3,143 KM,5,Szary
+BMW,Seria 3,2001,4 999 PLN,218 000 km,Benzyna,Manualna,Coupe,1 796 cm3,115 KM,3,Niebieski
+BMW,Seria 1,2016,74 900 PLN,52 700 km,Diesel,Automatyczna,Kompakt,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2021,66 600 PLN,71 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Biały
+BMW,Seria 7,2000,59 999 PLN,119 000 km,Benzyna,Automatyczna,Sedan,4 398 cm3,286 KM,4,Granatowy
+BMW,Seria 7,2001,59 999 PLN,150 000 km,Benzyna,Automatyczna,Sedan,4 398 cm3,286 KM,4,Inny kolor
+BMW,Seria 3,2006,8 250 PLN,210 000 km,Benzyna,Manualna,Kombi,1 995 cm3,129 KM,5,Srebrny
+BMW,Seria 3,2013,52 500 PLN,214 000 km,Benzyna,Automatyczna,Sedan,1 997 cm3,245 KM,4,Czarny
+BMW,X4,2023,269 900 PLN,19 990 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Szary
+BMW,Seria 3,2023,255 900 PLN,15 900 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,4,Szary
+BMW,X5,2015,94 000 PLN,241 000 km,Diesel,Automatyczna,SUV,1 995 cm3,218 KM,5,Biały
+BMW,Seria 5,1999,18 000 PLN,250 650 km,Benzyna,Automatyczna,Sedan,2 793 cm3,193 KM,4,Szary
+BMW,Seria 5,2020,154 999 PLN,45 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Granatowy
+BMW,X6,2017,177 990 PLN,134 000 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Czarny
+BMW,X5 M,2022,480 000 PLN,18 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,625 KM,5,Inny kolor
+BMW,X1,2012,37 800 PLN,290 000 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Biały
+BMW,Seria 1,2007,16 200 PLN,242 000 km,Diesel,Manualna,Auta małe,1 995 cm3,143 KM,5,Srebrny
+BMW,Seria 1,2015,44 500 PLN,161 000 km,Diesel,Automatyczna,Kompakt,1 995 cm3,184 KM,5,Czarny
+BMW,X3,2014,67 900 PLN,170 085 km,Diesel,Manualna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 5,2021,149 900 PLN,40 440 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Biały
+BMW,Seria 3,2005,24 900 PLN,222 464 km,Benzyna,Manualna,Sedan,2 497 cm3,218 KM,5,Szary
+BMW,Seria 1,2013,39 500 PLN,109 632 km,Benzyna,Manualna,Kompakt,1 598 cm3,136 KM,5,Biały
+BMW,Seria 5,2018,105 000 PLN,116 500 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,4,Czarny
+BMW,Seria 1,2021,95 800 PLN,102 402 km,Diesel,Automatyczna,Kompakt,1 995 cm3,150 KM,5,Szary
+BMW,Seria 5,2017,107 000 PLN,120 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,252 KM,5,Czarny
+BMW,Seria 3,2016,85 899,186 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,313 KM,5,Czarny
+BMW,Seria 5,2023,189 912 PLN,18 500 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Szary
+BMW,Seria 1,2007,17 900 PLN,219 000 km,Diesel,Manualna,Kompakt,1 995 cm3,143 KM,5,Czarny
+BMW,X2,2021,119 000 PLN,30 500 km,Benzyna,Automatyczna,SUV,1 499 cm3,136 KM,5,Biały
+BMW,X5,2024,419 500 PLN,5 km,Hybryda,Automatyczna,SUV,2 993 cm3,299 KM,5,Czarny
+BMW,X1,2024,223 300 PLN,5 km,Hybryda,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+BMW,X4,2016,88 800 PLN,150 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Inny kolor
+BMW,Seria 3,2020,110 000 PLN,132 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2022,57 900 PLN,100 053 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Czarny
+BMW,Seria 3,2013,37 999 PLN,224 082 km,Diesel,Manualna,Sedan,1 995 cm3,116 KM,5,Szary
+BMW,Seria 5,2021,249 000 PLN,55 000 km,Benzyna,Automatyczna,Sedan,2 998 cm3,340 KM,4,Inny kolor
+BMW,Seria 3,2021,105 079 PLN,171 747 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Czarny
+BMW,Seria 5,2017,95 900 PLN,212 000 km,Diesel,Automatyczna,Sedan,1 995 cm3,190 KM,5,Brązowy
+BMW,Seria 1,2015,49 900 PLN,176 000 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,136 KM,5,Czarny
+BMW,Seria 5,2018,89 900 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Błękitny
+BMW,X7,2023,385 000 PLN,65 000 km,Hybryda,Automatyczna,SUV,2 993 cm3,340 KM,5,Czarny
+BMW,Seria 1,2023,33 500 PLN,25 000 km,Benzyna,Automatyczna,Kompakt,1 499 cm3,140 KM,5,Czarny
+BMW,X1,2016,89 500 PLN,143 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Czarny
+BMW,X6,2016,169 900 PLN,175 500 km,Diesel,Automatyczna,SUV,2 993 cm3,313 KM,5,Czarny
+BMW,Seria 5,2011,44 700 PLN,189 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,184 KM,5,Czarny
+BMW,Seria 7,2019,259 000 PLN,100 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,266 KM,4,Biały
+BMW,Seria 7,2019,153 000 PLN,146 000 km,Diesel,Automatyczna,Sedan,2 993 cm3,265 KM,4,Inny kolor
+BMW,X4,2019,172 800 PLN,108 000 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Niebieski
+BMW,Seria 5,2013,63 000 PLN,178 000 km,Benzyna,Automatyczna,Sedan,2 979 cm3,306 KM,4,Srebrny
+BMW,X3,2023,230 900 PLN,20 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,184 KM,5,Czarny
+BMW,X2,2024,203 500 PLN,1 km,Benzyna,Automatyczna,SUV,1 499 cm3,170 KM,5,Czarny

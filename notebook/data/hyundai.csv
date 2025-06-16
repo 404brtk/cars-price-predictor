@@ -1,0 +1,865 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Hyundai,ix35,2013,39 990 PLN,173 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,i30,2024,105 190 PLN,1 km,Hybryda,Automatyczna,Kombi,1 482 cm3,140 KM,5,Biały
+Hyundai,Santa Fe,2016,55 000 PLN,241 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Czarny
+Hyundai,i20,2024,85 932 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,100 KM,5,Niebieski
+Hyundai,Tucson,2016,65 900 PLN,182 100 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i20,2024,91 100 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,100 KM,5,Niebieski
+Hyundai,Kona,2024,119 483 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Szary
+Hyundai,i30,2018,56 900 PLN,114 000 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Granatowy
+Hyundai,Tucson,2016,79 900 PLN,131 700 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Biały
+Hyundai,i20,2013,21 900 PLN,152 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Szary
+Hyundai,Tucson,2022,147 900 PLN,37 600 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Hyundai,IONIQ,2016,56 800 PLN,184 420 km,Hybryda,Automatyczna,Sedan,1 580 cm3,105 KM,5,Brązowy
+Hyundai,Tucson,2017,71 900 PLN,94 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Hyundai,Kona,2019,52 500 PLN,155 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Czerwony
+Hyundai,i30,2010,13 500 PLN,214 500 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Beżowy
+Hyundai,i20,2013,21 900 PLN,165 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Czarny
+Hyundai,Tucson,2021,104 500 PLN,61 050 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Srebrny
+Hyundai,Tucson,2016,64 700 PLN,77 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Granatowy
+Hyundai,Getz,2007,9 000 PLN,71 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,97 KM,5,Czerwony
+Hyundai,Kona,2024,141 470,1 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Niebieski
+Hyundai,Kona,2024,125 044,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Czarny
+Hyundai,i30,2017,42 900 PLN,51 290 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Srebrny
+Hyundai,i30,2008,14 500 PLN,176 762 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Szary
+Hyundai,ix35,2012,28 000 PLN,348 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,i30,2017,59 000 PLN,107 433 km,Benzyna,Manualna,Kompakt,1 353 cm3,140 KM,5,Srebrny
+Hyundai,ix20,2011,21 900 PLN,167 000 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Niebieski
+Hyundai,i40,2012,34 000 PLN,220 000 km,Diesel,Manualna,Kombi,1 685 cm3,115 KM,5,Biały
+Hyundai,i20,2010,9 800 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,75 KM,5,Czarny
+Hyundai,Tucson,2020,110 000 PLN,58 800 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Bordowy
+Hyundai,i20,2017,36 800 PLN,108 300 km,Benzyna,Manualna,Auta małe,1 248 cm3,75 KM,5,Niebieski
+Hyundai,ix20,2013,20 500 PLN,132 000 km,Diesel,Manualna,Kombi,1 396 cm3,77 KM,5,Niebieski
+Hyundai,Tucson,2005,11 000 PLN,236 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,Kona,2023,124 699,10 140 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Niebieski
+Hyundai,Tucson,2008,23 900 PLN,171 200 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,Santa Fe,2023,225 900 PLN,9 999 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Srebrny
+Hyundai,Kona,2023,128 700,11 428 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Czerwony
+Hyundai,ix35,2014,54 700 PLN,114 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2014,35 900 PLN,194 500 km,Benzyna,Automatyczna,Kompakt,1 591 cm3,135 KM,5,Czarny
+Hyundai,ix20,2012,28 900 PLN,134 600 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Szary
+Hyundai,Genesis,2020,158 000 PLN,27 690 km,Benzyna,Automatyczna,Sedan,3 342 cm3,370 KM,4,Szary
+Hyundai,ix35,2010,32 000 PLN,167 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Hyundai,i30,2010,15 800 PLN,254 000 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Szary
+Hyundai,i30,2018,37 900 PLN,275 000 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Srebrny
+Hyundai,Tucson,2015,72 900 PLN,156 200 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Czarny
+Hyundai,ix35,2012,40 900 PLN,199 900 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Czarny
+Hyundai,Santa Fe,2018,89 900 PLN,179 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Szary
+Hyundai,i30,2020,17 500 PLN,44 000 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,110 KM,5,Biały
+Hyundai,i30,2013,22 000 PLN,241 000 km,Diesel,Manualna,Auta małe,1 396 cm3,90 KM,3,Szary
+Hyundai,i30,2008,11 900 PLN,242 812 km,Diesel,Manualna,Kompakt,1 582 cm3,115 KM,5,Czarny
+Hyundai,i10,2017,16 900 PLN,82 000 km,Benzyna,Manualna,Auta małe,998 cm3,66 KM,5,Inny kolor
+Hyundai,i40,2014,20 999 PLN,305 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Brązowy
+Hyundai,Sonata,2009,12 500 PLN,151 000 km,Benzyna,Manualna,Sedan,1 998 cm3,164 KM,4,Srebrny
+Hyundai,Tucson,2019,98 000 PLN,47 549 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Beżowy
+Hyundai,Tucson,2024,166 150 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,230 KM,5,Niebieski
+Hyundai,Tucson,2018,79 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,i30,2010,18 800 PLN,160 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Szary
+Hyundai,Elantra,2021,83 000 PLN,54 000 km,Benzyna,Automatyczna,Sedan,1 598 cm3,123 KM,4,Szary
+Hyundai,i30,2012,25 990 PLN,110 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Bordowy
+Hyundai,Tucson,2016,76 000 PLN,115 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Brązowy
+Hyundai,i40,2012,37 900 PLN,144 433 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Czarny
+Hyundai,Tucson,2018,68 900 PLN,71 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Bordowy
+Hyundai,ix35,2014,52 900 PLN,109 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Inny kolor
+Hyundai,Tucson,2019,78 900 PLN,53 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,Kona,2019,73 700 PLN,109 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,Tucson,2024,135 643 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czerwony
+Hyundai,i30,2016,41 900 PLN,129 600 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Brązowy
+Hyundai,Kona,2021,69 900 PLN,19 600 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Niebieski
+Hyundai,Kona,2024,119 483 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Szary
+Hyundai,i10,2019,38 900 PLN,108 369 km,Benzyna,Manualna,Auta małe,1 248 cm3,87 KM,5,Czerwony
+Hyundai,i30,2023,82 762 PLN,29 500 km,Hybryda,Automatyczna,Kombi,1 482 cm3,160 KM,5,Biały
+Hyundai,Santa Fe,2024,271 600 PLN,10 km,Hybryda,Automatyczna,SUV,1 600 cm3,215 KM,5,Niebieski
+Hyundai,Santa Fe,2024,194 500 PLN,10 km,Hybryda,Automatyczna,SUV,1 600 cm3,215 KM,5,Srebrny
+Hyundai,i30,2022,88 400 PLN,18 300 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Czarny
+Hyundai,Tucson,2017,75 900 PLN,99 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,Tucson,2023,164 900 PLN,4 600 km,Hybryda,Automatyczna,SUV,1 598 cm3,230 KM,5,Bordowy
+Hyundai,Kona,2019,87 900 PLN,32 745 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,Tucson,2024,135 643 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Bordowy
+Hyundai,Tucson,2024,135 643 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Bordowy
+Hyundai,i30,2014,29 999 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Szary
+Hyundai,Kona,2021,96 700 PLN,40 589 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Inny kolor
+Hyundai,Getz,2009,8 999 PLN,140 000 km,Benzyna,Manualna,Auta miejskie,1 599 cm3,105 KM,5,Czarny
+Hyundai,Tucson,2020,86 900 PLN,107 300 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Bordowy
+Hyundai,i30,2013,38 999 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Niebieski
+Hyundai,Tucson,2024,168 381 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Biały
+Hyundai,i30,2009,14 500 PLN,241 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Biały
+Hyundai,Tucson,2018,88 000 PLN,69 585 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,i30 N,2021,138 900 PLN,12 500 km,Benzyna,Manualna,Kompakt,1 998 cm3,280 KM,5,Szary
+Hyundai,ix20,2011,25 900 PLN,137 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Inny kolor
+Hyundai,ix35,2013,44 900 PLN,149 000 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Czarny
+Hyundai,Tucson,2023,190 000 PLN,7 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Czerwony
+Hyundai,Elantra,2019,62 000 PLN,84 059 km,Benzyna,Manualna,Sedan,1 591 cm3,128 KM,4,Biały
+Hyundai,Tucson,2020,89 900 PLN,27 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Beżowy
+Hyundai,Tucson,2016,69 900 PLN,141 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Czarny
+Hyundai,ix20,2012,27 900 PLN,170 000 km,Diesel,Manualna,Kompakt,1 582 cm3,116 KM,5,Czarny
+Hyundai,Tucson,2017,78 900 PLN,176 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Brązowy
+Hyundai,ix35,2010,35 900 PLN,205 500 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Brązowy
+Hyundai,ix35,2010,35 900 PLN,205 500 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Brązowy
+Hyundai,i30,2010,13 900 PLN,205 000 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Inny kolor
+Hyundai,i20,2017,29 500 PLN,235 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Biały
+Hyundai,i30,2009,6 800 PLN,155 750 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Srebrny
+Hyundai,i40,2011,38 900 PLN,150 292 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Srebrny
+Hyundai,Tucson,2019,82 500 PLN,47 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Santa Fe,2022,155 000 PLN,28 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Hyundai,i20,2020,51 900 PLN,15 650 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Biały
+Hyundai,i30,2020,62 000 PLN,61 500 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Szary
+Hyundai,Tucson,2016,70 900 PLN,98 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,IONIQ,2018,69 500 PLN,40 030 km,Hybryda,Automatyczna,Sedan,1 580 cm3,105 KM,5,Biały
+Hyundai,i30,2011,19 700 PLN,134 000 km,Benzyna,Manualna,Kombi,1 396 cm3,109 KM,5,Czarny
+Hyundai,i30,2012,34 800 PLN,91 000 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,135 KM,5,Czarny
+Hyundai,i20,2020,53 500 PLN,70 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,75 KM,5,Szary
+Hyundai,Santa Fe,2007,21 500 PLN,270 500 km,Diesel,Manualna,SUV,2 188 cm3,150 KM,5,Srebrny
+Hyundai,i40,2017,46 900 PLN,233 355 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,4,Czarny
+Hyundai,Kona,2018,62 500 PLN,39 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Szary
+Hyundai,ix35,2012,42 900 PLN,178 100 km,Benzyna,Automatyczna,SUV,1 998 cm3,163 KM,5,Czarny
+Hyundai,ix35,2014,40 500 PLN,146 700 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Brązowy
+Hyundai,i40,2012,38 000 PLN,130 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,i30,2009,17 000 PLN,228 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Czarny
+Hyundai,Tucson,2015,59 999 PLN,150 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Brązowy
+Hyundai,Tucson,2018,62 900 PLN,214 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Biały
+Hyundai,i20,2017,36 500 PLN,125 700 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Srebrny
+Hyundai,i20,2015,26 900 PLN,135 035 km,Benzyna+LPG,Manualna,Kompakt,1 248 cm3,84 KM,5,Brązowy
+Hyundai,Santa Fe,2020,138 888 PLN,137 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Szary
+Hyundai,Tucson,2018,79 900 PLN,90 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,i30,2017,45 000 PLN,137 050 km,Benzyna,Manualna,Kombi,998 cm3,120 KM,5,Granatowy
+Hyundai,i30 N,2019,106 900 PLN,93 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,275 KM,5,Szary
+Hyundai,ix35,2011,43 900 PLN,95 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Szary
+Hyundai,ix20,2019,68 000 PLN,63 900 km,Benzyna,Automatyczna,Minivan,1 591 cm3,125 KM,5,Beżowy
+Hyundai,i10,2018,34 900 PLN,37 000 km,Benzyna,Manualna,Auta małe,998 cm3,67 KM,5,Biały
+Hyundai,Kona,2019,69 000 PLN,21 300 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Czerwony
+Hyundai,ix35,2012,37 900 PLN,171 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Hyundai,i10,2010,10 900 PLN,165 550 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,78 KM,5,Szary
+Hyundai,Tucson,2016,69 800 PLN,190 523 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Szary
+Hyundai,i20,2019,46 000 PLN,63 600 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Szary
+Hyundai,Santa Fe,2023,172 999 PLN,15 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Hyundai,i20,2017,35 000 PLN,91 190 km,Diesel,Manualna,Auta małe,1 120 cm3,75 KM,5,Szary
+Hyundai,i40,2013,33 900 PLN,220 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Biały
+Hyundai,i30,2014,44 900 PLN,67 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Beżowy
+Hyundai,i30,2010,13 400 PLN,270 300 km,Diesel,Manualna,Auta miejskie,1 582 cm3,90 KM,5,Srebrny
+Hyundai,Tucson,2005,11 400 PLN,70 123 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Szary
+Hyundai,i20,2015,24 000 PLN,181 000 km,Diesel,Manualna,Kompakt,1 120 cm3,75 KM,5,Biały
+Hyundai,i30,2019,57 000 PLN,115 235 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Inny kolor
+Hyundai,ix35,2012,34 900 PLN,203 204 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Srebrny
+Hyundai,i10,2015,21 500 PLN,198 032 km,Benzyna,Manualna,Auta małe,998 cm3,66 KM,5,Szary
+Hyundai,Tucson,2018,82 900 PLN,74 287 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,ix35,2015,46 900 PLN,166 912 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Czarny
+Hyundai,Kona,2019,68 000 PLN,49 300 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Biały
+Hyundai,Tucson,2015,63 500 PLN,193 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2021,103 000 PLN,48 800 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Granatowy
+Hyundai,i30,2013,27 900 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Niebieski
+Hyundai,Tucson,2024,185 052 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Biały
+Hyundai,Tucson,2016,66 900 PLN,79 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Beżowy
+Hyundai,Tucson,2016,65 900 PLN,128 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Inny kolor
+Hyundai,i30,2019,58 900 PLN,90 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Szary
+Hyundai,i30,2019,64 999 PLN,39 600 km,Benzyna,Manualna,Kompakt,1 353 cm3,140 KM,5,Czarny
+Hyundai,ix35,2012,33 900 PLN,188 017 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Biały
+Hyundai,Kona,2020,75 900 PLN,39 600 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Niebieski
+Hyundai,i30,2018,49 800 PLN,86 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Granatowy
+Hyundai,ix20,2012,32 900 PLN,84 000 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,125 KM,5,Niebieski
+Hyundai,ix35,2012,33 000 PLN,240 037 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Hyundai,Kona,2017,56 900 PLN,109 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Beżowy
+Hyundai,i20,2018,42 000 PLN,59 270 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Biały
+Hyundai,Veloster,2012,31 500 PLN,134 600 km,Benzyna,Manualna,Coupe,1 591 cm3,140 KM,4,Czarny
+Hyundai,Tucson,2021,92 899,99 914 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Hyundai,Tucson,2017,64 900 PLN,103 480 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,ix35,2011,35 500 PLN,260 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Srebrny
+Hyundai,ix35,2015,59 900 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,166 KM,5,Czarny
+Hyundai,Bayon,2024,89 200 PLN,5 km,Benzyna,Manualna,SUV,998 cm3,100 KM,5,Szary
+Hyundai,Tucson,2023,144 900 PLN,15 700 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Granatowy
+Hyundai,i30 N,2021,129 000 PLN,52 041 km,Benzyna,Automatyczna,Sedan,1 998 cm3,280 KM,5,Biały
+Hyundai,ix35,2011,35 400 PLN,237 600 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,ix20,2014,33 900 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Brązowy
+Hyundai,i40,2015,36 800 PLN,150 000 km,Diesel,Manualna,Sedan,1 685 cm3,136 KM,5,Szary
+Hyundai,Santa Fe,2007,17 900 PLN,330 500 km,Benzyna+LPG,Manualna,SUV,2 656 cm3,172 KM,5,Czarny
+Hyundai,i30,2023,78 900 PLN,14 100 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Bordowy
+Hyundai,Tucson,2024,147 600 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Hyundai,i40,2017,49 900 PLN,181 000 km,Diesel,Manualna,Kombi,1 685 cm3,141 KM,5,Biały
+Hyundai,ix35,2015,44 790 PLN,156 630 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,ix35,2012,37 500 PLN,174 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Niebieski
+Hyundai,i10,2020,39 900 PLN,42 157 km,Benzyna,Manualna,Auta małe,998 cm3,67 KM,5,Błękitny
+Hyundai,Veloster,2011,30 900 PLN,124 000 km,Benzyna,Manualna,Coupe,1 591 cm3,140 KM,4,Biały
+Hyundai,Kona,2023,106 900 PLN,8 500 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Zielony
+Hyundai,i30 N,2021,129 900 PLN,37 500 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,280 KM,5,Niebieski
+Hyundai,i40,2018,59 900 PLN,98 526 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Czarny
+Hyundai,Kona,2018,51 500 PLN,72 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Bordowy
+Hyundai,i40,2015,49 900 PLN,154 200 km,Diesel,Manualna,Kombi,1 685 cm3,141 KM,5,Inny kolor
+Hyundai,i40,2016,58 500 PLN,154 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Czarny
+Hyundai,Tucson,2022,109 800 PLN,26 505 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Hyundai,IONIQ 5,2022,132 840 PLN,46 000 km,Elektryczny,Automatyczna,Kompakt,,224 KM,5,Biały
+Hyundai,Tucson,2024,143 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Hyundai,IONIQ,2016,62 500 PLN,113 174 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Hyundai,Tucson,2022,118 000 PLN,42 400 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,Tucson,2024,143 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Granatowy
+Hyundai,Tucson,2024,143 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Granatowy
+Hyundai,i10,2018,42 000 PLN,41 444 km,Benzyna,Manualna,Auta małe,1 248 cm3,87 KM,5,Szary
+Hyundai,Tucson,2018,69 900 PLN,129 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,Tucson,2009,24 500 PLN,197 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,i30,2018,43 050 PLN,194 023 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Biały
+Hyundai,ix35,2015,53 900 PLN,157 357 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Brązowy
+Hyundai,i30,2015,36 200 PLN,193 500 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,5,Szary
+Hyundai,Tucson,2024,143 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Bordowy
+Hyundai,Tucson,2019,96 699,82 718 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Srebrny
+Hyundai,ix35,2014,49 900 PLN,149 800 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,Tucson,2018,68 200 PLN,183 580 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Biały
+Hyundai,Kona,2024,136 740,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Szary
+Hyundai,Bayon,2021,66 900 PLN,22 000 km,Benzyna,Manualna,SUV,1 197 cm3,84 KM,5,Biały
+Hyundai,i40,2014,26 000 PLN,310 332 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Srebrny
+Hyundai,i40,2012,35 000 PLN,218 200 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Niebieski
+Hyundai,Tucson,2024,177 342 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Hyundai,i20,2017,39 800 PLN,58 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Inny kolor
+Hyundai,i30,2020,58 900 PLN,44 500 km,Benzyna,Manualna,Kompakt,1 482 cm3,159 KM,5,Inny kolor
+Hyundai,Tucson,2024,177 342 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czerwony
+Hyundai,Tucson,2024,177 342 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Hyundai,IONIQ,2019,59 999 PLN,53 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Hyundai,ix35,2013,41 800 PLN,191 657 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Hyundai,ix35,2013,38 900 PLN,220 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,Tucson,2017,60 000 PLN,176 830 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Beżowy
+Hyundai,Santa Fe,2002,8 500 PLN,362 000 km,Diesel,Manualna,SUV,1 991 cm3,112 KM,5,Inny kolor
+Hyundai,i10,2016,29 900 PLN,127 000 km,Benzyna+LPG,Manualna,Auta miejskie,998 cm3,67 KM,5,Złoty
+Hyundai,i40,2016,39 900 PLN,90 000 km,Diesel,Manualna,Kombi,1 685 cm3,116 KM,5,Granatowy
+Hyundai,Elantra,2023,99 900 PLN,36 480 km,Benzyna,Automatyczna,Sedan,1 598 cm3,123 KM,5,Szary
+Hyundai,i30,2012,28 500 PLN,210 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,99 KM,5,Biały
+Hyundai,i20,2009,15 000 PLN,155 140 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,100 KM,5,Czarny
+Hyundai,i30,2013,32 900 PLN,181 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,99 KM,5,Czerwony
+Hyundai,i30,2013,22 700 PLN,240 000 km,Diesel,Manualna,Auta miejskie,1 582 cm3,110 KM,5,Biały
+Hyundai,i40,2012,33 500 PLN,130 000 km,Benzyna,Manualna,Kombi,1 999 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2015,79 900 PLN,86 300 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,i30,2012,25 999 PLN,243 000 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Srebrny
+Hyundai,i30,2013,32 900 PLN,139 666 km,Benzyna,Manualna,Kombi,1 396 cm3,100 KM,5,Srebrny
+Hyundai,Tucson,2017,73 500 PLN,48 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,ix35,2014,42 900 PLN,226 873 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,Santa Fe,2016,61 900 PLN,262 984 km,Diesel,Automatyczna,SUV,2 199 cm3,200 KM,5,Szary
+Hyundai,Tucson,2015,59 000 PLN,201 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,i30,2009,10 500 PLN,244 648 km,Diesel,Manualna,Kompakt,1 582 cm3,90 KM,5,Czarny
+Hyundai,i40,2014,28 900 PLN,291 000 km,Diesel,Manualna,Kombi,1 685 cm3,115 KM,5,Czarny
+Hyundai,i40,2013,26 000 PLN,358 125 km,Diesel,Manualna,Kombi,1 685 cm3,115 KM,5,Czarny
+Hyundai,ix35,2012,38 500 PLN,248 233 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+Hyundai,i30,2020,57 900 PLN,33 060 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Srebrny
+Hyundai,i20,2016,34 800 PLN,40 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Srebrny
+Hyundai,i30,2020,57 500 PLN,30 000 km,Benzyna,Manualna,Kombi,998 cm3,120 KM,5,Szary
+Hyundai,i20,2013,24 500 PLN,196 500 km,Benzyna,Manualna,Auta małe,1 248 cm3,86 KM,5,Czarny
+Hyundai,i40,2011,36 900 PLN,222 372 km,Diesel,Manualna,Kombi,1 685 cm3,116 KM,5,Inny kolor
+Hyundai,Kona,2020,94 900 PLN,50 800 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Granatowy
+Hyundai,i20,2011,13 900 PLN,155 000 km,Diesel,Manualna,Kompakt,1 396 cm3,75 KM,5,Granatowy
+Hyundai,Kona,2020,96 900 PLN,38 150 km,Elektryczny,Automatyczna,SUV,,136 KM,5,Biały
+Hyundai,Tucson,2024,147 600 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Hyundai,ix35,2010,34 200 PLN,249 236 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Inny kolor
+Hyundai,Tucson,2018,68 890 PLN,100 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,i30,2017,29 900 PLN,205 090 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Biały
+Hyundai,Santa Fe,2011,39 900 PLN,176 440 km,Benzyna,Automatyczna,SUV,3 474 cm3,281 KM,5,Granatowy
+Hyundai,i10,2013,18 900 PLN,55 150 km,Benzyna,Manualna,Auta małe,1 086 cm3,69 KM,5,Inny kolor
+Hyundai,Tucson,2019,82 900 PLN,95 680 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i40,2012,33 500 PLN,163 120 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Biały
+Hyundai,Tucson,2024,141 400 PLN,2 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Bordowy
+Hyundai,i30,2013,32 000 PLN,164 000 km,Benzyna,Manualna,Kombi,1 396 cm3,99 KM,5,Biały
+Hyundai,i40,2014,27 900 PLN,312 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,ix35,2014,400 PLN,299 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Hyundai,Tucson,2020,53 300 PLN,28 800 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Santa Fe,2015,54 900 PLN,241 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Hyundai,ix20,2010,22 200 PLN,174 064 km,Diesel,Manualna,Minivan,1 396 cm3,90 KM,5,Biały
+Hyundai,i40,2013,28 000 PLN,139 000 km,Diesel,Manualna,Kombi,1 685 cm3,116 KM,5,Srebrny
+Hyundai,Tucson,2018,74 900 PLN,102 516 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,i30,2010,16 500 PLN,239 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Czarny
+Hyundai,i30,2018,57 950 PLN,72 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Hyundai,Tucson,2015,65 500 PLN,166 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Srebrny
+Hyundai,i30,2018,63 200 PLN,138 000 km,Benzyna,Manualna,Kompakt,1 353 cm3,140 KM,5,Czarny
+Hyundai,i30,2014,33 850 PLN,203 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Brązowy
+Hyundai,i30,2015,39 800 PLN,153 123 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Biały
+Hyundai,i10,2020,18 900 PLN,42 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,67 KM,5,Szary
+Hyundai,ix35,2011,37 900 PLN,199 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,Tucson,2024,161 376 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Hyundai,Tucson,2009,18 900 PLN,193 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Biały
+Hyundai,Sonata,2018,69 900 PLN,5 900 km,Benzyna,Automatyczna,Sedan,2 359 cm3,185 KM,4,Niebieski
+Hyundai,i30,2020,57 000 PLN,29 300 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,110 KM,5,Szary
+Hyundai,i40,2016,37 900 PLN,216 000 km,Diesel,Manualna,Kombi,1 685 cm3,115 KM,5,Srebrny
+Hyundai,Tucson,2018,82 900 PLN,47 500 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Hyundai,i20,2016,39 999 PLN,68 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,84 KM,5,Inny kolor
+Hyundai,i20,2016,42 500 PLN,136 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,84 KM,5,Brązowy
+Hyundai,i10,2014,24 500 PLN,83 000 km,Benzyna,Manualna,Kompakt,998 cm3,67 KM,5,Szary
+Hyundai,i20,2017,45 900 PLN,125 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Błękitny
+Hyundai,Tucson,2019,87 900 PLN,57 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Złoty
+Hyundai,Tucson,2016,68 000 PLN,108 500 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Hyundai,Kona,2022,29 999 PLN,5 000 km,Elektryczny,Automatyczna,SUV,,136 KM,5,Granatowy
+Hyundai,Tucson,2015,58 000 PLN,143 493 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,ix20,2010,16 500 PLN,259 726 km,Diesel,Manualna,Minivan,1 396 cm3,77 KM,5,Szary
+Hyundai,i20,2024,78 900 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,79 KM,5,Zielony
+Hyundai,Tucson,2021,94 900 PLN,61 900 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,ix20,2011,22 900 PLN,112 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Czarny
+Hyundai,i30,2016,26 900 PLN,221 000 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Czarny
+Hyundai,i30,2016,29 000 PLN,270 000 km,Diesel,Manualna,Kombi,1 582 cm3,136 KM,5,Czarny
+Hyundai,ix20,2010,24 999 PLN,104 500 km,Diesel,Manualna,Kompakt,1 396 cm3,77 KM,5,Błękitny
+Hyundai,Tucson,2019,89 700 PLN,68 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,i10,2014,19 500 PLN,131 000 km,Benzyna,Manualna,Auta małe,998 cm3,66 KM,5,Czerwony
+Hyundai,ix35,2012,40 900 PLN,99 356 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Biały
+Hyundai,Tucson,2018,74 999 PLN,103 313 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Szary
+Hyundai,Tucson,2018,79 500 PLN,54 284 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Biały
+Hyundai,ix35,2014,54 900 PLN,128 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,i30,2008,15 000 PLN,213 000 km,Benzyna+LPG,Manualna,Kombi,1 591 cm3,122 KM,5,Beżowy
+Hyundai,i20,2018,37 800 PLN,100 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Czarny
+Hyundai,Tucson,2006,25 900 PLN,123 053 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Złoty
+Hyundai,Santa Fe,2014,60 000 PLN,133 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,264 KM,5,Biały
+Hyundai,i20,2019,50 000 PLN,65 500 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,100 KM,5,Biały
+Hyundai,i40,2015,43 000 PLN,127 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Granatowy
+Hyundai,i40,2012,41 900 PLN,158 400 km,Benzyna,Manualna,Kombi,1 999 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2019,96 800 PLN,47 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2021,104 900 PLN,117 087 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,Tucson,2016,65 900 PLN,159 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,ix20,2013,28 900 PLN,141 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Hyundai,ix35,2015,54 999 PLN,128 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,ix35,2014,42 800 PLN,169 713 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,ix20,2011,32 450 PLN,52 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Bordowy
+Hyundai,i40,2017,60 500 PLN,109 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Czarny
+Hyundai,ix35,2014,50 000 PLN,114 960 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Inny kolor
+Hyundai,ix20,2013,29 500 PLN,130 045 km,Benzyna+LPG,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Hyundai,i30,2009,20 295 PLN,257 250 km,Benzyna+LPG,Manualna,Kombi,1 396 cm3,109 KM,5,Srebrny
+Hyundai,Tucson,2019,74 900 PLN,165 400 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Szary
+Hyundai,i30,2013,21 800 PLN,240 000 km,Diesel,Manualna,Kombi,1 396 cm3,90 KM,5,Czarny
+Hyundai,i30,2009,16 800 PLN,234 841 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Czarny
+Hyundai,Tucson,2016,59 800 PLN,112 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,ix35,2015,48 900 PLN,120 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,i30,2013,22 400 PLN,262 000 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,5,Srebrny
+Hyundai,Tucson,2009,22 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,i40,2011,37 900 PLN,192 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,4,Szary
+Hyundai,Tucson,2019,99 300 PLN,70 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Hyundai,Santa Fe,2016,80 000 PLN,230 000 km,Diesel,Automatyczna,SUV,2 199 cm3,200 KM,5,Czerwony
+Hyundai,Tucson,2015,61 800 PLN,99 338 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,i20,2019,59 900 PLN,32 000 km,Benzyna,Automatyczna,Kompakt,998 cm3,100 KM,5,Biały
+Hyundai,Tucson,2018,79 900 PLN,150 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2005,21 000 PLN,132 000 km,Diesel,Manualna,SUV,1 991 cm3,113 KM,5,Srebrny
+Hyundai,Tucson,2022,115 000 PLN,40 500 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,i30,2013,28 900 PLN,174 850 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Szary
+Hyundai,ix35,2011,33 900 PLN,180 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,Kona,2018,59 900 PLN,60 600 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Biały
+Hyundai,i20,2016,35 000 PLN,196 500 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Brązowy
+Hyundai,i30,2012,33 400 PLN,124 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,99 KM,5,Biały
+Hyundai,Kona,2023,79 900 PLN,5 250 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Inny kolor
+Hyundai,Tucson,2016,63 900 PLN,153 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Brązowy
+Hyundai,i30,2014,39 500 PLN,215 000 km,Diesel,Manualna,Auta miejskie,1 582 cm3,128 KM,5,Czarny
+Hyundai,i30,2009,16 999 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Beżowy
+Hyundai,Tucson,2016,76 800 PLN,147 927 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Inny kolor
+Hyundai,i30,2015,36 500 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,120 KM,5,Srebrny
+Hyundai,i20,2013,17 700 PLN,108 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,3,Bordowy
+Hyundai,ix35,2011,38 900 PLN,174 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Srebrny
+Hyundai,Tucson,2018,79 000 PLN,95 000 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Brązowy
+Hyundai,i20,2015,38 900 PLN,69 238 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Błękitny
+Hyundai,i40,2012,34 900 PLN,219 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2017,43 500 PLN,160 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,Kona,2018,43 500 PLN,183 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Bordowy
+Hyundai,i40,2016,36 000 PLN,259 000 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,5,Inny kolor
+Hyundai,ix35,2011,39 900 PLN,164 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Hyundai,Tucson,2024,173 200 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Szary
+Hyundai,ix35,2013,56 950 PLN,78 837 km,Benzyna,Manualna,SUV,1 999 cm3,166 KM,5,Inny kolor
+Hyundai,i30,2018,34 900 PLN,197 600 km,Diesel,Manualna,Kompakt,1 582 cm3,115 KM,5,Czerwony
+Hyundai,ix35,2013,40 700 PLN,232 150 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Beżowy
+Hyundai,i30,2022,72 900 PLN,16 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Granatowy
+Hyundai,Tucson,2018,81 900 PLN,91 500 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Brązowy
+Hyundai,i30,2008,15 900 PLN,265 500 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,126 KM,5,Granatowy
+Hyundai,Tucson,2018,79 000 PLN,119 615 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Granatowy
+Hyundai,i30,2024,87 700 PLN,5 km,Benzyna,Manualna,Kompakt,1 498 cm3,110 KM,5,Fioletowy
+Hyundai,i30,2023,77 900 PLN,18 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Zielony
+Hyundai,i30,2022,69 900 PLN,11 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Granatowy
+Hyundai,i30,2014,29 900 PLN,191 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,Santa Fe,2019,85 000 PLN,162 000 km,Benzyna,Automatyczna,SUV,2 400 cm3,194 KM,5,Czarny
+Hyundai,i40,2012,35 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,i30,2021,54 900 PLN,95 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,110 KM,5,Srebrny
+Hyundai,Tucson,2010,26 300 PLN,190 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Szary
+Hyundai,ix35,2013,40 900 PLN,129 300 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,ix35,2010,33 500 PLN,180 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2022,65 900 PLN,52 200 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Brązowy
+Hyundai,i40,2014,37 800 PLN,200 600 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2018,78 600 PLN,71 001 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,ix35,2014,46 000 PLN,173 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,Kona,2021,64 900 PLN,47 000 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Biały
+Hyundai,i10,2010,9 900 PLN,175 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,66 KM,5,Czerwony
+Hyundai,Tucson,2024,171 100 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Czarny
+Hyundai,i30,2023,82 500 PLN,16 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Szary
+Hyundai,ix35,2013,41 999 PLN,155 650 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,i20,2011,16 300 PLN,139 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,78 KM,5,Czerwony
+Hyundai,Tucson,2024,165 476,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Hyundai,Tucson,2023,114 900 PLN,23 000 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Beżowy
+Hyundai,i30,2023,77 900 PLN,18 500 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Beżowy
+Hyundai,Tucson,2016,86 700 PLN,130 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Niebieski
+Hyundai,i30,2012,30 000 PLN,144 800 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Czarny
+Hyundai,i20,2014,16 900 PLN,165 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Czarny
+Hyundai,i20,2022,55 700 PLN,24 944 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Biały
+Hyundai,Tucson,2024,163 641 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Hyundai,Tucson,2024,155 345 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Inny kolor
+Hyundai,Tucson,2024,139 753 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Srebrny
+Hyundai,Santamo,1999,8 700 PLN,78 000 km,Benzyna,Manualna,SUV,1 997 cm3,138 KM,5,Srebrny
+Hyundai,i40,2014,28 000 PLN,267 930 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Niebieski
+Hyundai,i30,2019,55 900 PLN,80 500 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Biały
+Hyundai,i30,2014,32 900 PLN,203 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Brązowy
+Hyundai,Sonata,2015,21 500 PLN,177 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Niebieski
+Hyundai,i30,2012,23 900 PLN,225 100 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Czarny
+Hyundai,i30,2019,45 900 PLN,138 197 km,Diesel,Manualna,Kombi,1 600 cm3,116 KM,5,Czerwony
+Hyundai,ix35,2011,33 500 PLN,182 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Hyundai,ix20,2014,26 900 PLN,162 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Srebrny
+Hyundai,i40,2012,34 500 PLN,191 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Szary
+Hyundai,ix20,2011,22 990 PLN,156 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Srebrny
+Hyundai,Kona,2021,85 900 PLN,33 100 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Czarny
+Hyundai,Elantra,2012,29 900 PLN,127 515 km,Benzyna,Automatyczna,Sedan,1 798 cm3,145 KM,4,Czarny
+Hyundai,i40,2012,26 000 PLN,225 500 km,Diesel,Manualna,Kombi,1 685 cm3,115 KM,5,Szary
+Hyundai,Santa Fe,2003,4 900 PLN,200 000 km,Diesel,Automatyczna,SUV,1 991 cm3,125 KM,5,Szary
+Hyundai,ix35,2011,32 900 PLN,257 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,IONIQ,2018,41 900 PLN,84 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Hyundai,i20,2020,17 500 PLN,46 688 km,Benzyna,Automatyczna,SUV,998 cm3,100 KM,5,Szary
+Hyundai,ix35,2010,32 900 PLN,190 600 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,i30,2007,14 900 PLN,239 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,122 KM,5,Niebieski
+Hyundai,Tucson,2020,89 900 PLN,47 600 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,ix35,2012,39 900 PLN,192 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,Tucson,2024,175 316,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Hyundai,Tucson,2016,56 700 PLN,187 480 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Beżowy
+Hyundai,i40,2012,32 999 PLN,192 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2024,143 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Hyundai,Tucson,2024,165 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Biały
+Hyundai,ix35,2014,54 700 PLN,88 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,Tucson,2024,180 528 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Czerwony
+Hyundai,i20,2013,18 999 PLN,131 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,85 KM,5,Biały
+Hyundai,Tucson,2016,78 900 PLN,182 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Biały
+Hyundai,Tucson,2019,81 900 PLN,29 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2020,71 700 PLN,199 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Hyundai,Kona,2023,139 990 PLN,12 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,280 KM,5,Szary
+Hyundai,Santa Fe,2019,115 000 PLN,122 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Granatowy
+Hyundai,Tucson,2022,72 900 PLN,55 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Hyundai,i40,2011,31 900 PLN,160 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,ix35,2014,38 900 PLN,190 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Brązowy
+Hyundai,Tucson,2020,50 900 PLN,85 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,,
+Hyundai,Tucson,2024,175 360 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Hyundai,i30,2012,22 900 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,100 KM,5,Brązowy
+Hyundai,i20,2012,19 300 PLN,181 000 km,Benzyna,Manualna,Sedan,1 248 cm3,86 KM,5,Czarny
+Hyundai,i30,2015,38 400 PLN,108 065 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Czarny
+Hyundai,i20,2012,18 000 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,86 KM,5,Srebrny
+Hyundai,i30,2011,21 500 PLN,148 000 km,Benzyna,Manualna,Kombi,1 396 cm3,109 KM,5,Srebrny
+Hyundai,i10,2010,9 800 PLN,178 000 km,Benzyna,Manualna,Auta miejskie,1 086 cm3,67 KM,5,Czarny
+Hyundai,Tucson,2018,92 000 PLN,91 730 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Srebrny
+Hyundai,Kona,2021,82 000 PLN,74 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,198 KM,5,Czarny
+Hyundai,i30,2011,21 500 PLN,150 500 km,Benzyna+LPG,Automatyczna,Kombi,1 591 cm3,126 KM,5,Brązowy
+Hyundai,i30,2017,17 900 PLN,134 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,120 KM,5,Inny kolor
+Hyundai,Santa Fe,2016,61 500 PLN,123 500 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,264 KM,5,Szary
+Hyundai,i30,2018,42 500 PLN,83 500 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,,
+Hyundai,Santa Fe,2010,42 800 PLN,197 826 km,Diesel,Automatyczna,SUV,2 199 cm3,197 KM,5,Szary
+Hyundai,i30,2014,48 999 PLN,126 145 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,135 KM,5,Biały
+Hyundai,ix35,2015,49 900 PLN,184 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Hyundai,i10,2019,35 000 PLN,52 970 km,Benzyna,Manualna,Auta miejskie,998 cm3,67 KM,5,Biały
+Hyundai,i10,2009,11 500 PLN,175 500 km,Benzyna,Manualna,Auta małe,1 086 cm3,66 KM,5,Beżowy
+Hyundai,Tucson,2007,23 900 PLN,205 000 km,Diesel,Automatyczna,SUV,1 991 cm3,140 KM,5,Czarny
+Hyundai,i20,2016,35 600 PLN,27 600 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Niebieski
+Hyundai,i40,2012,40 000 PLN,161 000 km,Benzyna,Manualna,Kombi,1 999 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2018,77 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i30,2020,56 900 PLN,171 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Hyundai,i20,2009,15 600 PLN,29 037 km,Benzyna,Manualna,Auta małe,1 248 cm3,78 KM,5,Niebieski
+Hyundai,IONIQ,2018,59 900 PLN,91 000 km,Elektryczny,Automatyczna,Sedan,,120 KM,5,Szary
+Hyundai,Santa Fe,2007,18 900 PLN,349 989 km,Diesel,Automatyczna,SUV,2 188 cm3,155 KM,5,Srebrny
+Hyundai,Tucson,2018,89 000 PLN,185 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Granatowy
+Hyundai,ix35,2011,38 000 PLN,210 765 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Srebrny
+Hyundai,i30,2016,42 999 PLN,167 669 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Biały
+Hyundai,ix35,2015,49 900 PLN,220 147 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Beżowy
+Hyundai,i30,2012,33 900 PLN,56 700 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Czerwony
+Hyundai,Tucson,2016,72 000 PLN,140 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,i30,2011,18 900 PLN,240 323 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Czarny
+Hyundai,Tucson,2022,119 900 PLN,50 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,ix35,2015,58 000 PLN,94 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Hyundai,ix20,2012,30 900 PLN,53 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Szary
+Hyundai,ix35,2015,53 500 PLN,127 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2011,13 000 PLN,316 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Czarny
+Hyundai,Tucson,2020,92 500 PLN,33 450 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i10,2011,13 600 PLN,94 296 km,Benzyna,Manualna,Auta małe,1 086 cm3,69 KM,5,Inny kolor
+Hyundai,ix35,2014,48 900 PLN,137 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,i30,2019,66 700 PLN,81 300 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Szary
+Hyundai,i30,2012,15 500 PLN,166 411 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Czarny
+Hyundai,Kona,2020,87 900 PLN,68 200 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,i20,2018,37 900 PLN,126 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Srebrny
+Hyundai,Tucson,2007,15 700 PLN,189 876 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,ix35,2013,42 900 PLN,195 500 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Biały
+Hyundai,i30 N,2023,111 500 PLN,26 048 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,280 KM,5,Bordowy
+Hyundai,ix35,2011,39 900 PLN,215 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,163 KM,5,Inny kolor
+Hyundai,i30,2020,45 000 PLN,165 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,110 KM,5,Beżowy
+Hyundai,ix35,2015,41 000 PLN,228 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Hyundai,ix35,2012,37 800 PLN,188 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,163 KM,5,Błękitny
+Hyundai,i30,2011,15 000 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Czarny
+Hyundai,IONIQ,2017,63 960 PLN,59 600 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Czarny
+Hyundai,IONIQ,2017,63 960 PLN,59 600 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Czarny
+Hyundai,Tucson,2024,159 813 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Szary
+Hyundai,Coupe,2002,17 000 PLN,90 000 km,Benzyna,Automatyczna,Coupe,1 975 cm3,136 KM,2,Czerwony
+Hyundai,Tucson,2015,67 500 PLN,197 550 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Hyundai,Getz,2004,3 000 PLN,123 787 km,Benzyna,Manualna,Kompakt,1 086 cm3,63 KM,5,Czerwony
+Hyundai,Tucson,2020,98 000 PLN,47 077 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Beżowy
+Hyundai,i30,2022,65 000 PLN,39 500 km,Benzyna,Manualna,Kombi,1 498 cm3,110 KM,5,Czerwony
+Hyundai,i30,2015,31 900 PLN,197 304 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,Tucson,2017,73 500 PLN,154 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,i30,2009,20 500 PLN,138 821 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Bordowy
+Hyundai,i30,2019,62 000 PLN,47 500 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Srebrny
+Hyundai,i30,2016,31 500 PLN,259 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,i30,2015,29 900 PLN,249 000 km,Diesel,Manualna,Kombi,1 396 cm3,90 KM,5,Biały
+Hyundai,ix35,2015,52 900 PLN,128 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,IONIQ,2019,28 900 PLN,186 226 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Szary
+Hyundai,Tucson,2023,115 000 PLN,11 100 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Brązowy
+Hyundai,Tucson,2017,72 700 PLN,114 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,Elantra,2023,39 000 PLN,3 317 km,Benzyna,Automatyczna,Sedan,1 598 cm3,123 KM,4,Niebieski
+Hyundai,ix35,2015,55 900 PLN,115 786 km,Benzyna,Manualna,SUV,1 999 cm3,166 KM,5,Czarny
+Hyundai,ix35,2013,42 000 PLN,193 500 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Brązowy
+Hyundai,i30,2024,118 440 PLN,1 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Zielony
+Hyundai,i30,2010,14 900 PLN,325 000 km,Diesel,Manualna,Auta miejskie,1 582 cm3,90 KM,5,Biały
+Hyundai,Tucson,2024,138 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Niebieski
+Hyundai,ix20,2011,26 200 PLN,136 232 km,Benzyna,Manualna,Auta małe,1 396 cm3,90 KM,5,Błękitny
+Hyundai,i40,2013,34 300 PLN,184 300 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Czarny
+Hyundai,ix35,2012,36 900 PLN,260 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,166 KM,5,Czarny
+Hyundai,ix35,2015,49 900 PLN,112 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2013,26 500 PLN,305 500 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Inny kolor
+Hyundai,Elantra,2015,30 000 PLN,252 000 km,Benzyna,Manualna,Sedan,1 591 cm3,132 KM,4,Czarny
+Hyundai,Tucson,2021,99 800 PLN,57 000 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Biały
+Hyundai,i20,2011,19 700 PLN,108 149 km,Benzyna,Manualna,Kompakt,1 248 cm3,78 KM,5,Bordowy
+Hyundai,i30,2013,24 900 PLN,229 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,100 KM,3,Biały
+Hyundai,ix35,2010,43 999 PLN,138 304 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Szary
+Hyundai,ix35,2010,42 700 PLN,190 000 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,i30,2023,104 900 PLN,22 248 km,Hybryda,Manualna,Auta miejskie,1 482 cm3,160 KM,5,Szary
+Hyundai,ix35,2014,35 900 PLN,230 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2024,112 560 PLN,1 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Szary
+Hyundai,Tucson,2006,11 900 PLN,180 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,i10,2016,22 500 PLN,106 100 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,87 KM,5,Biały
+Hyundai,Tucson,2022,124 000 PLN,15 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Hyundai,i30,2021,78 900 PLN,99 299 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,159 KM,5,Biały
+Hyundai,Tucson,2009,26 900 PLN,204 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Biały
+Hyundai,Tucson,2018,71 500 PLN,128 500 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Szary
+Hyundai,Tucson,2016,54 500 PLN,302 500 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Szary
+Hyundai,i30,2013,21 500 PLN,189 000 km,Diesel,Manualna,Kombi,1 396 cm3,90 KM,5,Czarny
+Hyundai,Tucson,2005,15 000 PLN,257 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Srebrny
+Hyundai,i30,2016,29 700 PLN,190 866 km,Diesel,Manualna,Kombi,1 396 cm3,90 KM,5,Srebrny
+Hyundai,Tucson,2021,86 900 PLN,82 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Hyundai,Elantra,2021,73 000 PLN,89 986 km,Benzyna,Manualna,Sedan,1 598 cm3,123 KM,4,Czerwony
+Hyundai,Tucson,2017,75 555 PLN,119 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,ix35,2015,49 900 PLN,130 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,ix35,2014,55 800 PLN,108 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Hyundai,Tucson,2017,85 900 PLN,88 122 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,Kona,2022,89 100 PLN,25 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,280 KM,5,Niebieski
+Hyundai,Kona,2022,115 500 PLN,18 182 km,Benzyna,Automatyczna,SUV,1 998 cm3,280 KM,5,Biały
+Hyundai,NEXO,2021,146 000 PLN,44 800 km,Wodór,Automatyczna,SUV,,163 KM,5,Inny kolor
+Hyundai,Tucson,2024,165 476,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Hyundai,i20,2014,21 500 PLN,78 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,85 KM,5,Czarny
+Hyundai,ix35,2015,46 990 PLN,225 400 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,i30,2014,35 000 PLN,77 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Biały
+Hyundai,i30,2009,14 900 PLN,159 620 km,Benzyna,Manualna,Kombi,1 396 cm3,109 KM,5,Czarny
+Hyundai,ix35,2014,44 900 PLN,160 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,i30,2008,10 800 PLN,267 729 km,Diesel,Manualna,Kompakt,1 582 cm3,115 KM,5,Czerwony
+Hyundai,ix35,2010,36 500 PLN,198 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i40,2016,55 227 PLN,161 000 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,5,Brązowy
+Hyundai,i20,2016,33 900 PLN,103 153 km,Benzyna,Manualna,Auta małe,1 248 cm3,75 KM,5,Biały
+Hyundai,Kona,2018,73 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Hyundai,i30,2017,25 499 PLN,274 492 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Biały
+Hyundai,i40,2013,35 900 PLN,215 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Biały
+Hyundai,Tucson,2024,173 450 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Inny kolor
+Hyundai,i30,2022,96 699,14 841 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Inny kolor
+Hyundai,i10,2014,17 200 PLN,141 526 km,Benzyna,Automatyczna,Auta małe,1 248 cm3,87 KM,5,Czarny
+Hyundai,i30,2023,76 900 PLN,29 378 km,Benzyna,Automatyczna,Kombi,998 cm3,120 KM,5,Inny kolor
+Hyundai,i30,2008,12 500 PLN,240 000 km,Diesel,Manualna,Auta miejskie,1 582 cm3,115 KM,5,Szary
+Hyundai,Tucson,2016,68 900 PLN,112 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Hyundai,Kona,2019,67 900 PLN,122 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2016,67 900 PLN,157 201 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Hyundai,i40,2014,39 900 PLN,171 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,ix35,2014,53 900 PLN,120 242 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2010,3 500 PLN,220 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Szary
+Hyundai,Elantra,2014,34 900 PLN,177 000 km,Benzyna+LPG,Automatyczna,Sedan,1 591 cm3,132 KM,4,Biały
+Hyundai,i30,2014,29 500 PLN,63 213 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Srebrny
+Hyundai,Tucson,2017,69 900 PLN,174 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Czarny
+Hyundai,Tucson,2016,58 900 PLN,193 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,ix35,2012,36 500 PLN,204 000 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Hyundai,i40,2012,31 900 PLN,210 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Inny kolor
+Hyundai,Santa Fe,2007,19 900 PLN,268 000 km,Diesel,Manualna,SUV,2 188 cm3,150 KM,5,Srebrny
+Hyundai,ix35,2010,35 900 PLN,180 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,Veloster,2011,33 999 PLN,160 000 km,Benzyna,Manualna,Coupe,1 591 cm3,140 KM,4,Szary
+Hyundai,i20,2016,39 900 PLN,51 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Szary
+Hyundai,Tucson,2019,92 000 PLN,69 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Brązowy
+Hyundai,Elantra,2016,48 900 PLN,106 787 km,Benzyna,Manualna,Sedan,1 591 cm3,128 KM,4,Inny kolor
+Hyundai,ix35,2012,41 500 PLN,180 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,ix35,2015,49 999 PLN,180 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2012,35 700 PLN,65 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Srebrny
+Hyundai,i20,2014,21 900 PLN,148 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Biały
+Hyundai,Tucson,2016,69 900 PLN,117 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,Tucson,2016,75 000 PLN,68 500 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Szary
+Hyundai,Tucson,2018,85 500 PLN,38 081 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Beżowy
+Hyundai,Tucson,2017,85 000 PLN,89 486 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Brązowy
+Hyundai,i30,2013,36 900 PLN,175 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Czarny
+Hyundai,i30,2017,45 800 PLN,40 620 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Czerwony
+Hyundai,Kona,2019,58 900 PLN,93 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Szary
+Hyundai,ix35,2011,37 900 PLN,173 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Szary
+Hyundai,ix35,2010,38 500 PLN,177 532 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Hyundai,ix35,2014,51 900 PLN,114 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,Tucson,2016,75 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Błękitny
+Hyundai,ix20,2011,26 500 PLN,122 148 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Hyundai,Tucson,2021,142 600 PLN,11 643 km,Hybryda,Automatyczna,Auta miejskie,1 598 cm3,180 KM,5,Szary
+Hyundai,ix35,2013,46 500 PLN,217 646 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Brązowy
+Hyundai,ix35,2011,34 800 PLN,189 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Niebieski
+Hyundai,i30,2014,33 700 PLN,180 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Srebrny
+Hyundai,ix35,2011,41 800 PLN,160 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Hyundai,ix35,2014,50 800 PLN,120 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,Tucson,2016,69 900 PLN,169 000 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Szary
+Hyundai,i30,2017,44 000 PLN,215 000 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Szary
+Hyundai,Kona,2021,74 900 PLN,76 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Czerwony
+Hyundai,i30,2013,31 000 PLN,140 000 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,5,Niebieski
+Hyundai,i30,2020,65 800 PLN,149 151 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Hyundai,i30,2021,47 900 PLN,151 291 km,Benzyna,Manualna,Kombi,1 498 cm3,110 KM,5,Biały
+Hyundai,Tucson,2023,129 900 PLN,9 251 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,i20,2018,40 500 PLN,148 318 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Czerwony
+Hyundai,i30,2011,15 900 PLN,334 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Czarny
+Hyundai,Tucson,2017,73 500 PLN,138 800 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,Tucson,2015,46 800 PLN,136 055 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,Tucson,2009,20 600 PLN,155 000 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Szary
+Hyundai,Santa Fe,2024,265 824 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Srebrny
+Hyundai,Santa Fe,2024,261 024 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Szary
+Hyundai,Santa Fe,2024,261 024 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Szary
+Hyundai,ix35,2014,42 900 PLN,215 400 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Biały
+Hyundai,ix35,2014,41 700 PLN,227 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Czarny
+Hyundai,Tucson,2019,105 000 PLN,47 382 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Hyundai,i40,2013,37 800 PLN,180 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,Santa Fe,2018,99 000 PLN,211 100 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Beżowy
+Hyundai,ix20,2010,25 000 PLN,118 000 km,Benzyna+LPG,Manualna,Minivan,1 396 cm3,90 KM,5,Szary
+Hyundai,i40,2011,32 900 PLN,231 701 km,Diesel,Manualna,Kombi,1 685 cm3,116 KM,5,Czarny
+Hyundai,Tucson,2017,66 000 PLN,169 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i30,2009,12 500 PLN,257 800 km,Benzyna+LPG,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Czarny
+Hyundai,Elantra,2023,95 900 PLN,33 535 km,Benzyna,Automatyczna,Sedan,1 598 cm3,123 KM,4,Inny kolor
+Hyundai,Tucson,2023,137 700 PLN,13 614 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Hyundai,i30,2013,26 900 PLN,233 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,i30,2018,41 900 PLN,163 000 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Złoty
+Hyundai,Tucson,2019,85 800 PLN,88 456 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Biały
+Hyundai,Tucson,2019,115 000 PLN,94 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Biały
+Hyundai,i30 N,2022,144 999 PLN,9 490 km,Benzyna,Manualna,Kompakt,1 998 cm3,280 KM,5,Czerwony
+Hyundai,i30,2018,49 800 PLN,117 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Hyundai,ix35,2013,48 500 PLN,97 200 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Błękitny
+Hyundai,Tucson,2016,57 900 PLN,180 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Hyundai,ix20,2019,55 000 PLN,41 012 km,Benzyna,Manualna,Minivan,1 591 cm3,125 KM,5,Biały
+Hyundai,i10,2010,17 900 PLN,180 000 km,Benzyna,Automatyczna,Kompakt,1 086 cm3,67 KM,5,Czerwony
+Hyundai,ix35,2010,32 900 PLN,212 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Hyundai,i40,2014,38 900 PLN,217 090 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,Tucson,2020,82 500 PLN,93 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Bordowy
+Hyundai,i30,2014,38 900 PLN,154 556 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Szary
+Hyundai,Tucson,2016,69 900 PLN,153 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Brązowy
+Hyundai,i20,2014,18 200 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Biały
+Hyundai,i20,2010,11 900 PLN,95 240 km,Benzyna,Manualna,Kompakt,1 248 cm3,78 KM,5,Szary
+Hyundai,Tucson,2019,77 000 PLN,74 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Niebieski
+Hyundai,i20,2019,39 999 PLN,108 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,75 KM,5,Czerwony
+Hyundai,i30,2012,32 900 PLN,73 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Biały
+Hyundai,i30,2012,32 900 PLN,73 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Biały
+Hyundai,Tucson,2019,84 500 PLN,41 068 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czerwony
+Hyundai,Tucson,2024,202 536 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Zielony
+Hyundai,i30,2009,11 500 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Granatowy
+Hyundai,i30,2020,56 900 PLN,15 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Hyundai,Kona,2018,57 900 PLN,149 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Pomarańczowy
+Hyundai,Santa Fe,2024,196 500 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Hyundai,Santa Fe,2019,106 000 PLN,89 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,192 KM,5,Czarny
+Hyundai,ix35,2013,39 800 PLN,199 600 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,ix35,2013,52 000 PLN,147 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,ix20,2011,31 900 PLN,179 123 km,Benzyna,Automatyczna,Auta miejskie,1 591 cm3,125 KM,5,Szary
+Hyundai,i40,2016,39 300 PLN,212 800 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Czarny
+Hyundai,i30 N,2017,93 000 PLN,84 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,275 KM,5,Czarny
+Hyundai,i40,2017,47 999 PLN,328 440 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Beżowy
+Hyundai,i30,2012,27 900 PLN,208 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Brązowy
+Hyundai,i30,2017,44 900 PLN,211 850 km,Diesel,Automatyczna,Kombi,1 582 cm3,110 KM,5,Szary
+Hyundai,Santa Fe,2016,69 999 PLN,138 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,192 KM,5,Brązowy
+Hyundai,i30,2023,93 566 PLN,5 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czarny
+Hyundai,ix35,2015,48 900 PLN,164 000 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Szary
+Hyundai,Tucson,2020,72 500 PLN,160 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Brązowy
+Hyundai,Tucson,2024,161 376 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Hyundai,Tucson,2024,147 600 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Hyundai,Tucson,2024,157 276,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Zielony
+Hyundai,ix35,2014,49 600 PLN,118 600 km,Benzyna,Manualna,SUV,1 999 cm3,166 KM,5,Czarny
+Hyundai,Santa Fe,2023,259 900 PLN,91 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Hyundai,Terracan,2003,17 777 PLN,279 000 km,Diesel,Manualna,SUV,2 902 cm3,150 KM,5,Czarny
+Hyundai,Kona,2024,135 100 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,129 KM,5,Inny kolor
+Hyundai,Santa Fe,2012,35 500 PLN,152 000 km,Diesel,Automatyczna,SUV,2 199 cm3,197 KM,5,Biały
+Hyundai,i10,2014,29 800 PLN,102 500 km,Benzyna,Automatyczna,Auta małe,998 cm3,66 KM,5,Szary
+Hyundai,Tucson,2006,18 000 PLN,276 000 km,Diesel,Manualna,SUV,1 991 cm3,113 KM,5,Czarny
+Hyundai,i30,2024,115 370 PLN,5 000 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Niebieski
+Hyundai,Santa Fe,2020,115 000 PLN,156 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Granatowy
+Hyundai,i30,2012,29 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Inny kolor
+Hyundai,Sonata,2006,14 600 PLN,160 000 km,Benzyna,Automatyczna,Sedan,2 359 cm3,174 KM,4,Szary
+Hyundai,i30,2017,48 900 PLN,127 568 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Niebieski
+Hyundai,Tucson,2019,76 900 PLN,151 000 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Biały
+Hyundai,ix35,2010,38 999 PLN,200 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Szary
+Hyundai,i30,2009,12 999 PLN,209 541 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Granatowy
+Hyundai,Tucson,2021,112 900 PLN,40 000 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Beżowy
+Hyundai,Tucson,2024,147 600 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Biały
+Hyundai,i30,2012,26 900 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Brązowy
+Hyundai,Kona,2019,57 900 PLN,148 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Hyundai,Tucson,2016,68 500 PLN,183 300 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Złoty
+Hyundai,i20,2011,17 500 PLN,53 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,78 KM,5,Szary
+Hyundai,ix35,2011,38 500 PLN,132 500 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Hyundai,ix20,2018,51 800 PLN,39 288 km,Benzyna,Automatyczna,Auta miejskie,1 591 cm3,125 KM,5,Biały
+Hyundai,Tucson,2024,165 600 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Hyundai,i20,2024,100 900 PLN,10 km,Benzyna,Automatyczna,Auta miejskie,997 cm3,100 KM,5,Żółty
+Hyundai,i40,2017,39 900 PLN,276 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,136 KM,5,Szary
+Hyundai,i30,2012,27 900 PLN,195 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 396 cm3,100 KM,5,Biały
+Hyundai,Tucson,2018,71 400 PLN,86 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,Santa Fe,2014,89 800 PLN,72 500 km,Diesel,Manualna,SUV,2 199 cm3,197 KM,5,Czarny
+Hyundai,ix35,2014,49 900 PLN,175 346 km,Benzyna,Automatyczna,SUV,1 999 cm3,166 KM,5,Inny kolor
+Hyundai,i40,2013,39 900 PLN,132 400 km,Benzyna,Manualna,Kombi,1 999 cm3,177 KM,5,Szary
+Hyundai,i20,2016,32 900 PLN,93 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Szary
+Hyundai,i40,2017,54 900 PLN,152 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Biały
+Hyundai,ix35,2014,53 900 PLN,167 255 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,i30,2016,32 999 PLN,233 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,Kona,2020,99 900 PLN,30 000 km,Elektryczny,Automatyczna,SUV,,136 KM,5,Inny kolor
+Hyundai,i30,2012,18 700 PLN,184 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Biały
+Hyundai,i20,2012,19 500 PLN,193 705 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,86 KM,5,Czarny
+Hyundai,Elantra,2018,47 500 PLN,157 000 km,Diesel,Manualna,Sedan,1 582 cm3,136 KM,4,Biały
+Hyundai,i30,2022,63 900 PLN,107 000 km,Benzyna,Manualna,Kombi,1 498 cm3,110 KM,5,Czerwony
+Hyundai,Tucson,2019,99 900 PLN,80 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Inny kolor
+Hyundai,i30,2018,58 900 PLN,125 310 km,Benzyna,Automatyczna,Sedan,1 353 cm3,140 KM,5,Beżowy
+Hyundai,i20,2015,31 900 PLN,177 320 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Biały
+Hyundai,Tucson,2017,70 500 PLN,123 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,Tucson,2018,72 900 PLN,90 100 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Niebieski
+Hyundai,Tucson,2008,24 800 PLN,176 452 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,i30,2021,65 900 PLN,27 750 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Hyundai,i30,2019,35 500 PLN,245 000 km,Diesel,Manualna,Kombi,1 598 cm3,116 KM,5,Szary
+Hyundai,ix35,2014,55 500 PLN,102 300 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Hyundai,i20,2011,16 900 PLN,88 946 km,Benzyna,Manualna,Auta małe,1 248 cm3,78 KM,5,Złoty
+Hyundai,Tucson,2015,57 900 PLN,173 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Inny kolor
+Hyundai,i20,2016,29 900 PLN,97 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Srebrny
+Hyundai,Tucson,2017,73 900 PLN,94 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Brązowy
+Hyundai,ix20,2014,39 000 PLN,76 300 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Brązowy
+Hyundai,Elantra,2017,56 900 PLN,123 700 km,Benzyna,Manualna,Sedan,1 591 cm3,128 KM,4,Czarny
+Hyundai,i30,2008,17 900 PLN,185 000 km,Benzyna+LPG,Manualna,Auta małe,1 396 cm3,109 KM,5,Srebrny
+Hyundai,ix35,2013,39 900 PLN,199 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,i30,2014,22 900 PLN,349 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Hyundai,i40,2014,27 800 PLN,248 000 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2015,55 500 PLN,267 300 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Beżowy
+Hyundai,i20,2014,24 999 PLN,92 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Inny kolor
+Hyundai,ix35,2010,32 900 PLN,222 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Hyundai,ix35,2011,34 900 PLN,159 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2009,20 000 PLN,232 170 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,i40,2015,44 500 PLN,113 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Szary
+Hyundai,i20,2016,38 500 PLN,68 222 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Czarny
+Hyundai,Tucson,2022,85 550 PLN,12 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Hyundai,ix35,2012,36 000 PLN,240 097 km,Benzyna+LPG,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Hyundai,i30,2022,63 900 PLN,60 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,110 KM,5,Biały
+Hyundai,Tucson,2016,67 900 PLN,124 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Brązowy
+Hyundai,i30,2016,34 400 PLN,194 894 km,Diesel,Manualna,Auta miejskie,1 582 cm3,110 KM,5,Biały
+Hyundai,Tucson,2018,82 000 PLN,80 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Biały
+Hyundai,i30,2009,10 500 PLN,198 000 km,Benzyna,Manualna,Kombi,1 396 cm3,109 KM,5,Srebrny
+Hyundai,Tucson,2018,61 500 PLN,220 000 km,Benzyna+LPG,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,i30,2021,74 999 PLN,3 650 km,Benzyna,Manualna,Auta małe,1 482 cm3,159 KM,5,Biały
+Hyundai,ix35,2011,36 900 PLN,221 338 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Szary
+Hyundai,Santa Fe,2018,109 900 PLN,132 500 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Czarny
+Hyundai,i30,2012,21 000 PLN,347 000 km,Diesel,Manualna,Kompakt,1 582 cm3,90 KM,5,Czarny
+Hyundai,ix35,2012,37 000 PLN,117 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Hyundai,i40,2016,41 900 PLN,176 400 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Biały
+Hyundai,Kona,2021,67 900 PLN,37 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Szary
+Hyundai,Elantra,2018,61 000 PLN,49 555 km,Benzyna,Automatyczna,Sedan,1 591 cm3,128 KM,4,Szary
+Hyundai,i30,2019,45 900 PLN,109 178 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czarny
+Hyundai,i30,2023,98 800 PLN,29 030 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czarny
+Hyundai,Tucson,2019,96 900 PLN,56 700 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Srebrny
+Hyundai,i30,2023,97 500 PLN,33 088 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Srebrny
+Hyundai,ix20,2012,15 500 PLN,225 000 km,Diesel,Manualna,Kompakt,1 582 cm3,116 KM,5,Czerwony
+Hyundai,ix35,2010,37 900 PLN,157 400 km,Diesel,Manualna,SUV,1 685 cm3,116 KM,5,Inny kolor
+Hyundai,Tucson,2016,69 600 PLN,149 024 km,Diesel,Automatyczna,SUV,1 685 cm3,140 KM,5,Złoty
+Hyundai,i30,2013,27 700 PLN,116 741 km,Benzyna,Manualna,Kompakt,1 396 cm3,99 KM,5,Czarny
+Hyundai,Elantra,2017,59 900 PLN,36 000 km,Benzyna,Manualna,Sedan,1 591 cm3,127 KM,4,Szary
+Hyundai,ix20,2018,49 500 PLN,20 300 km,Benzyna,Manualna,Minivan,1 591 cm3,124 KM,5,Czarny
+Hyundai,Tucson,2020,89 900 PLN,44 027 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,Tucson,2020,54 800 PLN,54 500 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2008,17 900 PLN,230 300 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Hyundai,Sonata,2018,63 000 PLN,176 000 km,Benzyna,Automatyczna,Sedan,2 359 cm3,185 KM,5,Szary
+Hyundai,i40,2013,28 900 PLN,217 120 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2020,92 000 PLN,99 900 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2018,76 900 PLN,108 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,i20,2014,36 000 PLN,55 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Srebrny
+Hyundai,i40,2017,39 900 PLN,189 632 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Bordowy
+Hyundai,i20,2020,41 500 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Biały
+Hyundai,i30,2021,75 900 PLN,19 670 km,Benzyna,Manualna,Kompakt,1 498 cm3,110 KM,5,Srebrny
+Hyundai,ix20,2018,45 700 PLN,33 010 km,Benzyna,Manualna,SUV,1 396 cm3,90 KM,5,Srebrny
+Hyundai,i40,2016,42 900 PLN,298 000 km,Benzyna,Manualna,Sedan,1 999 cm3,177 KM,5,Czarny
+Hyundai,Tucson,2016,68 900 PLN,101 379 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i30,2015,32 900 PLN,157 357 km,Benzyna,Manualna,Kombi,1 396 cm3,99 KM,5,Szary
+Hyundai,ix20,2015,39 800 PLN,40 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Szary
+Hyundai,i40,2015,39 900 PLN,120 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Czarny
+Hyundai,i40,2012,20 000 PLN,165 005 km,Diesel,Manualna,Kombi,1 685 cm3,136 KM,5,Niebieski
+Hyundai,IONIQ,2016,64 900 PLN,93 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Hyundai,ix35,2015,54 700 PLN,138 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,ix35,2012,46 900 PLN,73 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czerwony
+Hyundai,i30,2020,47 800 PLN,147 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Inny kolor
+Hyundai,H-1,2008,20 500 PLN,291 545 km,Diesel,Manualna,Minivan,2 497 cm3,170 KM,5,Błękitny
+Hyundai,Kona,2018,71 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Hyundai,i30,2010,19 900 PLN,110 000 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Czerwony
+Hyundai,Kona,2021,81 900 PLN,23 800 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Hyundai,Kona,2021,68 600 PLN,59 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Niebieski
+Hyundai,i30,2012,15 900 PLN,200 000 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Szary
+Hyundai,i40,2015,49 999 PLN,153 203 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Inny kolor
+Hyundai,i30,2017,46 000 PLN,97 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Inny kolor
+Hyundai,Kona,2019,77 700 PLN,56 684 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,IONIQ,2018,38 500 PLN,145 865 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Hyundai,ix35,2014,49 900 PLN,171 168 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Czarny
+Hyundai,Elantra,2017,42 000 PLN,115 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,147 KM,5,Biały
+Hyundai,i10,2009,8 000 PLN,89 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,78 KM,5,Czerwony
+Hyundai,i30,2021,80 000 PLN,42 000 km,Hybryda,Manualna,Kombi,1 482 cm3,160 KM,5,Szary
+Hyundai,i30,2015,33 900 PLN,193 600 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Czarny
+Hyundai,i40,2012,29 800 PLN,292 569 km,Diesel,Automatyczna,Sedan,1 685 cm3,136 KM,4,Czarny
+Hyundai,Tucson,2020,84 900 PLN,127 265 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,ix35,2011,36 500 PLN,246 107 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Szary
+Hyundai,Tucson,2018,71 000 PLN,131 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Hyundai,i20,2016,27 900 PLN,198 000 km,Benzyna+LPG,Manualna,Kompakt,1 248 cm3,84 KM,5,Biały
+Hyundai,i10,2009,11 900 PLN,125 000 km,Benzyna,Manualna,Auta małe,1 086 cm3,69 KM,5,Szary
+Hyundai,Kona,2022,82 800 PLN,41 160 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Hyundai,Tucson,2017,71 900 PLN,168 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Niebieski
+Hyundai,Santa Fe,2007,29 900 PLN,168 000 km,Benzyna,Manualna,SUV,2 656 cm3,189 KM,5,Czarny
+Hyundai,ix35,2014,43 500 PLN,168 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Hyundai,i20,2015,25 000 PLN,227 000 km,Diesel,Manualna,Auta miejskie,1 120 cm3,75 KM,5,Niebieski
+Hyundai,Tucson,2017,67 000 PLN,158 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Granatowy
+Hyundai,Tucson,2019,96 000 PLN,50 660 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Elantra,2006,5 800 PLN,188 000 km,Benzyna,Manualna,Kompakt,1 599 cm3,105 KM,5,Złoty
+Hyundai,i30,2015,38 999 PLN,155 071 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Czarny
+Hyundai,Tucson,2022,115 000 PLN,14 000 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Srebrny
+Hyundai,Tucson,2018,68 880 PLN,196 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,Tucson,2018,77 700 PLN,58 160 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Hyundai,Tucson,2016,65 000 PLN,160 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Hyundai,i20,2017,35 900 PLN,119 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,120 KM,5,Szary
+Hyundai,i30,2008,14 800 PLN,186 000 km,Benzyna,Manualna,Auta miejskie,1 975 cm3,143 KM,5,Niebieski
+Hyundai,ix35,2014,47 500 PLN,171 800 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Hyundai,ix20,2012,33 800 PLN,107 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Czarny
+Hyundai,ix20,2010,22 550 PLN,130 121 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Czarny
+Hyundai,Tucson,2015,62 900 PLN,172 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Hyundai,i30,2022,63 000 PLN,16 000 km,Benzyna,Manualna,Kombi,998 cm3,120 KM,5,Czerwony
+Hyundai,Tucson,2018,33 700 PLN,71 334 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Niebieski
+Hyundai,i20,2023,69 900 PLN,7 700 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Inny kolor
+Hyundai,Terracan,2003,18 800 PLN,303 000 km,Diesel,Manualna,SUV,2 902 cm3,150 KM,5,Srebrny
+Hyundai,Tucson,2021,103 000 PLN,33 177 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Beżowy
+Hyundai,i20,2014,22 900 PLN,67 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,85 KM,3,Biały
+Hyundai,i30,2015,37 900 PLN,124 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Czarny
+Hyundai,ix35,2013,43 000 PLN,211 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Niebieski
+Hyundai,Tucson,2016,63 000 PLN,160 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Granatowy
+Hyundai,ix35,2015,55 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,166 KM,5,Czarny
+Hyundai,Tucson,2017,69 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Hyundai,Santa Fe,2015,38 000 PLN,238 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,264 KM,5,Szary
+Hyundai,ix20,2017,51 900 PLN,36 000 km,Benzyna,Manualna,Minivan,1 591 cm3,125 KM,5,Czarny
+Hyundai,i30,2021,46 900 PLN,120 000 km,Benzyna,Manualna,Kompakt,1 353 cm3,140 KM,5,Czarny
+Hyundai,Tucson,2020,54 200 PLN,72 600 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,Tucson,2020,54 200 PLN,72 600 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Hyundai,i20,2022,60 900 PLN,3 500 km,Benzyna,Manualna,Kompakt,1 197 cm3,84 KM,5,Szary
+Hyundai,i30,2013,29 999 PLN,179 400 km,Benzyna,Manualna,Kombi,1 396 cm3,99 KM,5,Czerwony
+Hyundai,ix20,2015,38 500 PLN,143 000 km,Benzyna,Manualna,Minivan,1 591 cm3,125 KM,5,Brązowy
+Hyundai,ix35,2010,34 900 PLN,228 100 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Biały
+Hyundai,Tucson,2016,68 900 PLN,169 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Hyundai,ix35,2014,54 999 PLN,97 340 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Czarny
+Hyundai,i20,2012,15 500 PLN,150 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,78 KM,5,Niebieski
+Hyundai,Tucson,2024,193 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,215 KM,5,Szary
+Hyundai,i30,2018,37 900 PLN,199 639 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Inny kolor
+Hyundai,Santa Fe,2023,239 000 PLN,7 500 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Srebrny
+Hyundai,Santa Fe,2023,225 000 PLN,38 360 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Hyundai,Bayon,2024,92 900 PLN,4 000 km,Benzyna,Manualna,SUV,998 cm3,100 KM,5,Niebieski
+Hyundai,ix20,2019,45 000 PLN,40 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,125 KM,5,Biały
+Hyundai,ix35,2011,33 900 PLN,256 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Hyundai,ix35,2012,32 400 PLN,270 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Czarny
+Hyundai,Tucson,2017,74 900 PLN,69 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czerwony
+Hyundai,Tucson,2021,99 900 PLN,69 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Bordowy
+Hyundai,i40,2014,34 900 PLN,180 300 km,Diesel,Manualna,Kombi,1 685 cm3,116 KM,5,Srebrny
+Hyundai,ix35,2013,39 800 PLN,127 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Hyundai,Elantra,2012,27 000 PLN,256 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,145 KM,4,Srebrny
+Hyundai,i30,2021,56 850 PLN,71 683 km,Benzyna,Automatyczna,Kompakt,998 cm3,120 KM,5,Szary
+Hyundai,Kona,2020,70 900 PLN,12 900 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Bordowy
+Hyundai,Santa Fe,2022,85 410 PLN,39 698 km,Benzyna,Automatyczna,SUV,2 598 cm3,277 KM,5,Biały
+Hyundai,i30,2016,36 950 PLN,111 000 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Biały
+Hyundai,Tucson,2024,145 900 PLN,15 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Hyundai,Tucson,2016,64 900 PLN,124 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Złoty
+Hyundai,ix20,2012,11 900 PLN,155 867 km,Benzyna,Automatyczna,Auta małe,1 591 cm3,125 KM,5,Czarny
+Hyundai,Tucson,2023,146 900 PLN,27 388 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Hyundai,i10,2018,44 900 PLN,54 000 km,Benzyna,Automatyczna,Auta małe,1 248 cm3,87 KM,5,Biały
+Hyundai,Kona,2023,144 900 PLN,8 504 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,198 KM,5,Szary

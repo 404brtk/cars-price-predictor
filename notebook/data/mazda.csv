@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Mazda,6,2017,69 900 PLN,160 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,CX-60,2024,190 000 PLN,15 500 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Srebrny
+Mazda,3,2010,14 900 PLN,260 000 km,Diesel,Manualna,Kompakt,2 184 cm3,185 KM,5,Niebieski
+Mazda,3,2020,85 000 PLN,33 000 km,Benzyna,Automatyczna,Kompakt,2 488 cm3,188 KM,5,Szary
+Mazda,6,2011,21 500 PLN,211 322 km,Diesel,Manualna,Kombi,2 184 cm3,179 KM,5,Czarny
+Mazda,CX-5,2019,97 000 PLN,70 650 km,Diesel,Automatyczna,SUV,2 191 cm3,150 KM,5,Czerwony
+Mazda,CX-30,2021,94 900 PLN,18 001 km,Benzyna,Automatyczna,SUV,1 998 cm3,122 KM,5,Czerwony
+Mazda,MX-5,2017,99 999 PLN,16 000 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,160 KM,2,Szary
+Mazda,3,2019,77 000,80 795 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Biały
+Mazda,2,2011,19 700 PLN,182 000 km,Benzyna+LPG,Automatyczna,Auta małe,1 498 cm3,102 KM,5,Biały
+Mazda,6,2015,51 900 PLN,29 805 km,Diesel,Manualna,Sedan,2 191 cm3,150 KM,5,Czerwony
+Mazda,CX-60,2023,215 999 PLN,9 393 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Granatowy
+Mazda,6,2009,19 900 PLN,264 000 km,Diesel,Manualna,Kombi,2 184 cm3,163 KM,5,Szary
+Mazda,3,2016,66 700 PLN,93 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czerwony
+Mazda,3,2014,38 000 PLN,119 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,150 KM,5,Biały
+Mazda,6,2015,59 000 PLN,199 500 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2019,97 000 PLN,55 391 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Szary
+Mazda,2,2018,57 900 PLN,67 216 km,Benzyna,Automatyczna,Kompakt,1 496 cm3,90 KM,5,Czarny
+Mazda,2,2016,35 500 PLN,92 000 km,Benzyna,Automatyczna,Auta małe,1 496 cm3,90 KM,5,Szary
+Mazda,2,2011,21 999 PLN,180 680 km,Benzyna,Manualna,Kompakt,1 349 cm3,75 KM,5,Niebieski
+Mazda,3,2013,23 999 PLN,160 653 km,Benzyna,Manualna,Kompakt,1 999 cm3,150 KM,5,Brązowy
+Mazda,CX-30,2020,85 000 PLN,151 250 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,CX-7,2010,24 900 PLN,184 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Czarny
+Mazda,6,2015,51 500 PLN,199 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,6,2012,29 900 PLN,215 268 km,Benzyna,Automatyczna,Kombi,1 999 cm3,155 KM,5,Czarny
+Mazda,3,2015,48 500 PLN,37 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,CX-5,2014,47 990 PLN,186 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,MX-5,2010,48 000 PLN,138 000 km,Benzyna,Manualna,Kabriolet,1 798 cm3,126 KM,2,Czarny
+Mazda,6,2010,15 500 PLN,280 000 km,Benzyna+LPG,Manualna,Kombi,1 798 cm3,120 KM,5,Srebrny
+Mazda,6,2015,55 000 PLN,127 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Biały
+Mazda,CX-3,2016,65 500 PLN,150 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Biały
+Mazda,CX-5,2018,85 000 PLN,108 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2018,96 500 PLN,31 500 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Czerwony
+Mazda,2,2004,5 000 PLN,244 744 km,Diesel,Manualna,Kompakt,1 399 cm3,68 KM,5,Czerwony
+Mazda,3,2018,66 000 PLN,55 700 km,Benzyna+LPG,Automatyczna,Sedan,1 998 cm3,165 KM,5,Szary
+Mazda,CX-7,2007,17 900 PLN,230 000 km,Benzyna+LPG,Manualna,SUV,2 261 cm3,260 KM,5,Czarny
+Mazda,CX-5,2013,54 364,188 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Granatowy
+Mazda,5,2006,9 900 PLN,244 000 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,5,Srebrny
+Mazda,6,2017,71 000 PLN,107 000 km,Benzyna,Manualna,Sedan,1 998 cm3,145 KM,4,Srebrny
+Mazda,CX-5,2012,49 000 PLN,125 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,2,2016,35 999 PLN,104 650 km,Benzyna,Manualna,Kompakt,1 496 cm3,90 KM,5,Czerwony
+Mazda,6,2008,19 000 PLN,231 692 km,Diesel,Manualna,Sedan,1 998 cm3,140 KM,5,Srebrny
+Mazda,6,2018,89 900 PLN,121 917 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Inny kolor
+Mazda,6,2013,52 000 PLN,187 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Biały
+Mazda,2,2015,47 000 PLN,113 400 km,Benzyna,Automatyczna,Auta małe,1 496 cm3,90 KM,4,Biały
+Mazda,6,2022,109 900 PLN,30 709 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Srebrny
+Mazda,CX-3,2018,70 900 PLN,132 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mazda,6,2017,85 000 PLN,104 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Biały
+Mazda,MX-5,2011,50 499 PLN,220 000 km,Benzyna,Manualna,Kabriolet,1 999 cm3,160 KM,2,Srebrny
+Mazda,6,2017,61 010 PLN,210 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-30,2019,90 000 PLN,102 866 km,Benzyna,Automatyczna,SUV,1 998 cm3,180 KM,5,Granatowy
+Mazda,2,2012,13 200 PLN,220 000 km,Benzyna,Manualna,Auta miejskie,1 349 cm3,86 KM,5,Biały
+Mazda,CX-5,2015,47 800 PLN,167 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,5,2012,7 900 PLN,136 000 km,Diesel,Manualna,SUV,1 560 cm3,116 KM,4,Czarny
+Mazda,CX-7,2009,17 000 PLN,218 000 km,Benzyna,Automatyczna,SUV,2 261 cm3,244 KM,5,Srebrny
+Mazda,6,2017,60 000 PLN,140 000 km,Benzyna,Manualna,Sedan,1 998 cm3,145 KM,5,Biały
+Mazda,6,2017,71 500 PLN,69 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2011,29 900 PLN,275 000 km,Diesel,Manualna,Kompakt,2 184 cm3,163 KM,5,Czarny
+Mazda,3,2011,16 000 PLN,228 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Granatowy
+Mazda,3,2009,10 900 PLN,247 307 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Czarny
+Mazda,6,2019,95 000 PLN,106 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,3,2017,62 900 PLN,134 800 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,120 KM,5,Czerwony
+Mazda,6,2010,13 900 PLN,360 000 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,6,2013,65 000 PLN,144 100 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,4,Czarny
+Mazda,6,2012,28 900 PLN,159 873 km,Benzyna,Manualna,Kompakt,1 999 cm3,155 KM,5,Granatowy
+Mazda,6,2009,21 900 PLN,225 498 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Niebieski
+Mazda,6,2012,31 900 PLN,267 000 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,5,Szary
+Mazda,6,2011,17 000 PLN,337 000 km,Diesel,Manualna,Kompakt,2 184 cm3,163 KM,5,Brązowy
+Mazda,2,2011,19 500 PLN,122 390 km,Benzyna,Manualna,Auta małe,1 349 cm3,84 KM,5,Niebieski
+Mazda,6,2013,52 900 PLN,78 000 km,Benzyna,Manualna,Sedan,1 998 cm3,145 KM,4,Czarny
+Mazda,CX-5,2013,48 000 PLN,184 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,6,2014,53 000 PLN,182 213 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,MX-5,2005,12 000 PLN,178 000 km,Benzyna,Manualna,Kabriolet,1 798 cm3,126 KM,2,Srebrny
+Mazda,CX-5,2020,95 600 PLN,67 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,6,2009,8 000 PLN,235 000 km,Diesel,Manualna,Kombi,2 184 cm3,185 KM,5,Inny kolor
+Mazda,CX-5,2023,170 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 989 cm3,165 KM,5,Czerwony
+Mazda,CX-3,2017,69 999 PLN,93 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mazda,6,2016,82 900 PLN,109 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Błękitny
+Mazda,CX-3,2018,69 900 PLN,101 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,149 KM,5,Biały
+Mazda,6,2014,56 900 PLN,97 400 km,Benzyna,Manualna,Kompakt,1 998 cm3,165 KM,4,Biały
+Mazda,CX-30,2020,85 700 PLN,127 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Niebieski
+Mazda,CX-3,2018,73 900 PLN,90 850 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Inny kolor
+Mazda,CX-5,2023,155 600 PLN,14 848 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Inny kolor
+Mazda,CX-5,2014,58 900 PLN,170 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,2,2011,19 900 PLN,160 000 km,Benzyna,Automatyczna,Auta małe,1 498 cm3,102 KM,5,Zielony
+Mazda,6,2019,84 999 PLN,77 250 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-3,2015,67 700 PLN,130 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mazda,6,2013,49 999 PLN,117 950 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,CX-9,2008,27 000 PLN,103 363 km,Benzyna,Automatyczna,SUV,3 726 cm3,270 KM,5,Czerwony
+Mazda,CX-30,2020,92 800 PLN,49 500 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Czarny
+Mazda,2,2010,15 500 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 349 cm3,75 KM,5,Czarny
+Mazda,5,2007,8 300 PLN,268 000 km,Benzyna+LPG,Manualna,Minivan,1 999 cm3,145 KM,5,Szary
+Mazda,6,2014,24 900 PLN,240 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Czarny
+Mazda,6,2016,74 500 PLN,128 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Inny kolor
+Mazda,CX-3,2018,77 900 PLN,57 350 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Bordowy
+Mazda,5,2010,17 500 PLN,190 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Srebrny
+Mazda,MX-30,2024,67 900 PLN,3 000 km,Hybryda Plug-in,Automatyczna,SUV,830 cm3,75 KM,5,Bordowy
+Mazda,5,2011,31 999 PLN,108 000 km,Benzyna,Automatyczna,Minivan,1 999 cm3,145 KM,5,Czarny
+Mazda,3,2018,49 900 PLN,190 000 km,Diesel,Manualna,Sedan,1 499 cm3,105 KM,5,Czerwony
+Mazda,CX-5,2019,94 000 PLN,27 700 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,CX-30,2022,107 900 PLN,18 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,186 KM,5,Biały
+Mazda,6,2018,110 000 PLN,114 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,194 KM,5,Szary
+Mazda,CX-5,2017,87 800 PLN,109 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,CX-3,2017,69 800 PLN,68 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-30,2021,99 900 PLN,56 900 km,Hybryda,Manualna,Kombi,1 998 cm3,150 KM,5,Bordowy
+Mazda,5,2012,31 999 PLN,162 250 km,Benzyna,Manualna,SUV,1 999 cm3,150 KM,5,Szary
+Mazda,5,2005,8 999 PLN,176 484 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Srebrny
+Mazda,6,2016,61 300 PLN,142 000 km,Diesel,Manualna,Sedan,2 191 cm3,150 KM,4,Szary
+Mazda,MX-5,1997,41 900 PLN,190 673 km,Benzyna,Manualna,Kabriolet,1 598 cm3,90 KM,2,Niebieski
+Mazda,CX-3,2018,79 500 PLN,70 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Bordowy
+Mazda,CX-5,2018,93 480 PLN,62 421 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,6,2014,40 900 PLN,147 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Szary
+Mazda,6,2013,46 900 PLN,181 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,3,2009,16 700 PLN,212 000 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,4,Srebrny
+Mazda,CX-5,2022,148 000 PLN,50 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Srebrny
+Mazda,CX-30,2019,117 000 PLN,74 750 km,Benzyna,Automatyczna,SUV,1 998 cm3,180 KM,5,Granatowy
+Mazda,6,2015,50 900 PLN,256 500 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Biały
+Mazda,3,2014,43 000 PLN,115 000 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Czerwony
+Mazda,RX-8,2005,23 000 PLN,173 000 km,Benzyna,Manualna,Coupe,1 308 cm3,192 KM,4,Czerwony
+Mazda,6,2014,39 900 PLN,266 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Inny kolor
+Mazda,2,2009,8 500 PLN,166 735 km,Benzyna,Manualna,Kompakt,1 349 cm3,86 KM,3,Bordowy
+Mazda,CX-5,2013,61 500 PLN,136 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czarny
+Mazda,6,2018,87 900 PLN,83 700 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,3,2014,48 500 PLN,118 500 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Czerwony
+Mazda,CX-5,2012,58 500 PLN,167 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Niebieski
+Mazda,CX-30,2020,106 900 PLN,48 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mazda,6,2015,60 999 PLN,215 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,3,2021,92 999 PLN,43 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,149 KM,5,Bordowy
+Mazda,CX-5,2018,87 500 PLN,125 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czarny
+Mazda,CX-5,2020,100 000 PLN,44 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,5,2006,13 600 PLN,198 213 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Szary
+Mazda,CX-3,2021,73 900 PLN,64 800 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Niebieski
+Mazda,6,2007,18 900 PLN,166 250 km,Benzyna,Automatyczna,Sedan,1 999 cm3,147 KM,5,Złoty
+Mazda,6,2015,58 500 PLN,150 000 km,Benzyna,Manualna,Kombi,1 998 cm3,164 KM,5,Srebrny
+Mazda,CX-5,2016,75 999 PLN,132 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Bordowy
+Mazda,CX-5,2015,69 900 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Czarny
+Mazda,5,2010,21 800 PLN,214 300 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mazda,CX-30,2020,114 999 PLN,29 852 km,Benzyna,Manualna,SUV,1 998 cm3,180 KM,5,Czarny
+Mazda,CX-30,2020,87 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Szary
+Mazda,6,2015,37 600 PLN,164 421 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,4,Brązowy
+Mazda,3,2019,77 700 PLN,27 170 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,186 KM,5,Biały
+Mazda,CX-5,2017,89 000 PLN,97 800 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Granatowy
+Mazda,CX-30,2019,88 500 PLN,40 353 km,Benzyna,Manualna,Kompakt,1 998 cm3,122 KM,5,Czerwony
+Mazda,CX-5,2014,40 900 PLN,160 233 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Czarny
+Mazda,2,2014,26 900 PLN,104 300 km,Benzyna,Manualna,Kompakt,1 349 cm3,86 KM,5,Czerwony
+Mazda,5,2010,22 900 PLN,102 100 km,Benzyna,Automatyczna,Minivan,1 999 cm3,145 KM,5,Czarny
+Mazda,CX-5,2022,136 900 PLN,14 300 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czerwony
+Mazda,CX-5,2017,115 000 PLN,34 500 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,5,2012,28 800 PLN,209 000 km,Benzyna,Manualna,Minivan,1 798 cm3,115 KM,5,Szary
+Mazda,6,2019,89 900 PLN,29 900 km,Benzyna,Automatyczna,Sedan,2 488 cm3,194 KM,4,Biały
+Mazda,CX-5,2018,101 000 PLN,156 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,3,2010,25 000 PLN,160 500 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,4,Srebrny
+Mazda,CX-3,2019,78 999 PLN,47 436 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Szary
+Mazda,CX-5,2016,81 900 PLN,107 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,192 KM,5,Biały
+Mazda,6,2020,57 810 PLN,54 886 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,3,2014,33 000 PLN,261 000 km,Diesel,Manualna,Kompakt,2 191 cm3,150 KM,5,Czerwony
+Mazda,6,2017,67 000 PLN,171 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,6,2016,69 000 PLN,181 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2015,67 000 PLN,129 000 km,Diesel,Automatyczna,Sedan,2 191 cm3,175 KM,5,Czerwony
+Mazda,CX-3,2019,80 900 PLN,95 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Szary
+Mazda,5,2012,27 000 PLN,208 429 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Błękitny
+Mazda,6,2016,39 000 PLN,191 900 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Bordowy
+Mazda,323,1994,5 500 PLN,133 701 km,Benzyna,Manualna,Sedan,1 840 cm3,128 KM,4,Czerwony
+Mazda,6,2013,61 900 PLN,166 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Srebrny
+Mazda,6,2018,117 000 PLN,37 900 km,Benzyna,Automatyczna,Sedan,2 488 cm3,194 KM,4,Szary
+Mazda,CX-9,2014,52 000 PLN,160 000 km,Benzyna,Automatyczna,SUV,3 726 cm3,277 KM,5,Szary
+Mazda,3,2017,51 000 PLN,160 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,150 KM,4,Szary
+Mazda,3,2012,23 500 PLN,167 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Błękitny
+Mazda,MX-5,2006,35 000 PLN,199 600 km,Benzyna,Manualna,Kabriolet,1 798 cm3,126 KM,2,Czarny
+Mazda,6,2015,61 700 PLN,155 100 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Srebrny
+Mazda,CX-3,2015,51 000 PLN,142 000 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Biały
+Mazda,3,2015,57 900 PLN,94 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,120 KM,4,Szary
+Mazda,CX-5,2019,103 000 PLN,68 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,6,2010,27 500 PLN,179 000 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,5,Czarny
+Mazda,CX-5,2019,115 900 PLN,124 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,CX-5,2023,129 900 PLN,13 130 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Srebrny
+Mazda,CX-5,2015,53 000 PLN,146 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Granatowy
+Mazda,6,2010,26 900 PLN,231 000 km,Benzyna,Manualna,Sedan,1 999 cm3,155 KM,5,Czarny
+Mazda,6,2018,84 900 PLN,138 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Szary
+Mazda,CX-30,2019,84 900 PLN,91 500 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Czerwony
+Mazda,3,2019,97 000 PLN,56 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,120 KM,4,Szary
+Mazda,CX-3,2015,59 900 PLN,49 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,6,2019,117 500 PLN,61 700 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2020,121 900 PLN,50 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,MX-5,1990,39 900 PLN,141 000 km,Benzyna,Manualna,Kabriolet,1 598 cm3,116 KM,2,Niebieski
+Mazda,MX-5,2006,35 900 PLN,153 400 km,Benzyna,Manualna,Kabriolet,1 999 cm3,160 KM,2,Szary
+Mazda,CX-5,2014,64 900 PLN,114 142 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Inny kolor
+Mazda,6,2013,52 000 PLN,192 000 km,Diesel,Automatyczna,Sedan,2 191 cm3,175 KM,4,Srebrny
+Mazda,CX-5,2023,175 900 PLN,21 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,CX-30,2019,94 900 PLN,59 553 km,Hybryda,Manualna,SUV,1 998 cm3,122 KM,5,Bordowy
+Mazda,6,2014,75 900 PLN,113 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Biały
+Mazda,CX-3,2016,54 500 PLN,111 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,120 KM,5,Biały
+Mazda,MX-5,1990,62 900 PLN,270 500 km,Benzyna,Manualna,Kabriolet,1 598 cm3,116 KM,2,Niebieski
+Mazda,CX-30,2022,118 000 PLN,15 146 km,Benzyna,Automatyczna,SUV,2 500 cm3,250 KM,5,Szary
+Mazda,3,2013,29 900 PLN,140 730 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Biały
+Mazda,5,2005,10 990 PLN,300 000 km,Diesel,Manualna,Kombi,1 998 cm3,142 KM,5,Inny kolor
+Mazda,5,2012,28 900 PLN,94 000 km,Benzyna,Manualna,Minivan,1 798 cm3,115 KM,5,Inny kolor
+Mazda,CX-3,2015,57 500 PLN,150 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,120 KM,5,Biały
+Mazda,CX-3,2019,76 900 PLN,58 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Niebieski
+Mazda,2,2008,11 900 PLN,208 000 km,Benzyna,Manualna,Auta miejskie,1 349 cm3,86 KM,5,Błękitny
+Mazda,6,2017,75 900 PLN,99 400 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Szary
+Mazda,5,2012,22 999 PLN,197 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Niebieski
+Mazda,6,2009,24 900 PLN,189 900 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,3,2015,53 500 PLN,72 000 km,Benzyna,Manualna,Coupe,1 998 cm3,120 KM,5,Biały
+Mazda,CX-5,2014,52 000 PLN,193 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,2,2017,45 900 PLN,94 000 km,Benzyna,Manualna,Kompakt,1 496 cm3,90 KM,5,Niebieski
+Mazda,CX-5,2018,95 900 PLN,22 655 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2016,63 000 PLN,176 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2012,41 800 PLN,190 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,6,2013,45 500 PLN,187 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,6,2014,50 000 PLN,111 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,,
+Mazda,CX-5,2016,65 500 PLN,188 700 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Brązowy
+Mazda,3,2010,15 700 PLN,259 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Inny kolor
+Mazda,2,2023,69 900 PLN,18 000 km,Benzyna,Automatyczna,Auta małe,1 496 cm3,90 KM,5,Szary
+Mazda,6,2015,54 500 PLN,213 379 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2018,92 500 PLN,58 500 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Srebrny
+Mazda,CX-5,2014,35 900 PLN,218 000 km,Diesel,Manualna,SUV,2 191 cm3,175 KM,5,Czarny
+Mazda,6,2012,53 000 PLN,178 500 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2002,6 900 PLN,290 000 km,Benzyna+LPG,Manualna,Sedan,1 999 cm3,141 KM,5,Srebrny
+Mazda,6,2010,28 999 PLN,182 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Czarny
+Mazda,2,2010,14 000 PLN,164 000 km,Benzyna+LPG,Manualna,Auta małe,1 349 cm3,75 KM,5,Zielony
+Mazda,3,2014,39 900 PLN,208 424 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,CX-3,2021,69 900 PLN,46 170 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Niebieski
+Mazda,CX-5,2017,82 900 PLN,126 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Bordowy
+Mazda,6,2008,20 550 PLN,194 989 km,Benzyna,Manualna,Kompakt,1 798 cm3,120 KM,5,Błękitny
+Mazda,3,2009,17 900 PLN,164 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,109 KM,5,Szary
+Mazda,CX-5,2023,156 000 PLN,3 300 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czerwony
+Mazda,6,2021,89 800 PLN,101 062 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Niebieski
+Mazda,CX-30,2020,89 999 PLN,35 785 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mazda,6,2015,48 150 PLN,138 400 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Szary
+Mazda,CX-5,2018,70 000 PLN,218 798 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,6,2017,64 900 PLN,186 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Czarny
+Mazda,2,2005,6 500 PLN,155 500 km,Benzyna,Manualna,Kompakt,1 388 cm3,80 KM,5,Błękitny
+Mazda,3,2007,15 200 PLN,140 290 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Czarny
+Mazda,CX-3,2019,86 000 PLN,16 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Czerwony
+Mazda,6,2013,57 700 PLN,159 420 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Szary
+Mazda,CX-30,2019,87 900 PLN,62 000 km,Hybryda,Automatyczna,SUV,1 998 cm3,122 KM,5,Szary
+Mazda,6,2017,69 000 PLN,124 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Inny kolor
+Mazda,CX-30,2020,89 900 PLN,67 000 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Inny kolor
+Mazda,2,2016,38 900 PLN,46 000 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,90 KM,5,Czarny
+Mazda,CX-5,2014,69 900 PLN,104 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,192 KM,5,Szary
+Mazda,CX-5,2013,52 900 PLN,141 777 km,Diesel,Manualna,SUV,2 191 cm3,175 KM,5,Niebieski
+Mazda,6,2013,41 000 PLN,239 500 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Szary
+Mazda,CX-9,2009,36 900 PLN,248 000 km,Benzyna+LPG,Automatyczna,SUV,3 726 cm3,277 KM,5,Bordowy
+Mazda,CX-5,2023,149 900 PLN,5 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,CX-5,2013,51 800 PLN,161 810 km,Diesel,Automatyczna,SUV,2 191 cm3,150 KM,5,Czarny
+Mazda,CX-5,2019,76 500 PLN,221 000 km,Diesel,Automatyczna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,CX-3,2017,65 900 PLN,75 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,150 KM,5,Czerwony
+Mazda,5,2005,9 200 PLN,192 600 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Srebrny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Mazda,3,2009,18 500 PLN,205 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Niebieski
+Mazda,6,2014,48 000 PLN,213 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Błękitny
+Mazda,2,2016,45 900 PLN,22 000 km,Benzyna,Automatyczna,Auta małe,1 496 cm3,90 KM,5,Brązowy
+Mazda,CX-5,2019,99 900 PLN,78 053 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,2,2008,13 500 PLN,109 635 km,Benzyna,Manualna,Auta małe,1 498 cm3,103 KM,5,Czerwony
+Mazda,CX-3,2016,77 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-30,2021,62 500 PLN,33 882 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Szary
+Mazda,MX-30,2021,92 900 PLN,39 000 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Szary
+Mazda,CX-60,2023,229 999 PLN,6 383 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Czarny
+Mazda,6,2015,39 700 PLN,238 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Czarny
+Mazda,5,2006,9 500 PLN,241 000 km,Diesel,Manualna,SUV,1 998 cm3,110 KM,5,Srebrny
+Mazda,CX-5,2023,121 000 PLN,10 170 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,2,2009,14 000 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,103 KM,3,Czarny
+Mazda,3,2009,17 000 PLN,180 117 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Inny kolor
+Mazda,CX-3,2016,72 900 PLN,45 900 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,6,2008,24 500 PLN,190 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Czarny
+Mazda,6,2018,104 000 PLN,111 500 km,Diesel,Automatyczna,Kombi,2 191 cm3,184 KM,5,Szary
+Mazda,6,2010,21 000 PLN,254 000 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,6,2015,53 000 PLN,282 500 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Czerwony
+Mazda,6,2019,54 800 PLN,190 215 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,4,Szary
+Mazda,CX-5,2012,56 200 PLN,149 300 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,5,2011,21 900 PLN,163 222 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Mazda,6,2017,76 900 PLN,85 350 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Biały
+Mazda,6,2017,67 000 PLN,150 400 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Niebieski
+Mazda,CX-5,2013,56 500 PLN,235 625 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Biały
+Mazda,CX-5,2018,92 500 PLN,72 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2015,64 900 PLN,78 917 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,CX-7,2012,39 900 PLN,204 000 km,Benzyna,Manualna,SUV,2 261 cm3,260 KM,5,Inny kolor
+Mazda,CX-5,2019,104 900 PLN,43 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,6,2015,34 900 PLN,214 822 km,Diesel,Manualna,Kombi,2 191 cm3,184 KM,5,Czarny
+Mazda,5,2007,13 600 PLN,138 718 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Szary
+Mazda,6,2008,19 000 PLN,257 000 km,Diesel,Manualna,Sedan,1 998 cm3,140 KM,5,Granatowy
+Mazda,6,2016,75 500 PLN,115 000 km,Benzyna,Manualna,Sedan,2 488 cm3,192 KM,5,Czarny
+Mazda,CX-5,2018,94 000 PLN,53 200 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Brązowy
+Mazda,CX-5,2013,59 500 PLN,129 030 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,CX-5,2015,69 899 PLN,172 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,CX-5,2013,49 899 PLN,198 212 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Bordowy
+Mazda,CX-5,2020,99 900 PLN,30 370 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Inny kolor
+Mazda,CX-5,2017,88 888 PLN,98 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,6,2013,25 000 PLN,357 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Niebieski
+Mazda,CX-5,2013,51 000 PLN,210 041 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2019,88 899,111 500 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2013,45 900 PLN,221 000 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Bordowy
+Mazda,CX-3,2018,83 600 PLN,84 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,3,2014,43 500 PLN,160 308 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,5,Brązowy
+Mazda,3,2015,18 000 PLN,90 000 km,Diesel,Manualna,Sedan,2 191 cm3,150 KM,5,Czarny
+Mazda,CX-5,2023,144 900 PLN,41 600 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Srebrny
+Mazda,6,2014,26 000 PLN,150 162 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Czarny
+Mazda,6,2013,48 900 PLN,224 589 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Szary
+Mazda,3,2019,83 700 PLN,68 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,186 KM,4,Czarny
+Mazda,CX-30,2023,145 900 PLN,2 000 km,Hybryda,Automatyczna,SUV,1 998 cm3,186 KM,5,Biały
+Mazda,6,2008,16 600 PLN,230 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,CX-3,2016,60 000 PLN,94 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Biały
+Mazda,CX-5,2022,121 000 PLN,11 363 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,2,2022,42 999 PLN,19 000 km,Benzyna,Automatyczna,Auta miejskie,1 496 cm3,90 KM,5,Złoty
+Mazda,6,2014,45 500 PLN,240 000 km,Benzyna+LPG,Automatyczna,Sedan,2 488 cm3,192 KM,5,Czerwony
+Mazda,6,2008,14 900 PLN,335 008 km,Benzyna+LPG,Manualna,Kombi,2 488 cm3,170 KM,5,Inny kolor
+Mazda,6,2016,75 900 PLN,156 800 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Bordowy
+Mazda,CX-5,2022,124 900 PLN,17 629 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,CX-5,2014,36 999 PLN,225 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,CX-3,2016,54 500 PLN,159 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Czarny
+Mazda,CX-5,2021,115 900 PLN,72 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Inny kolor
+Mazda,CX-3,2017,68 900 PLN,83 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Biały
+Mazda,3,2019,89 900 PLN,49 000 km,Hybryda,Manualna,Sedan,1 998 cm3,122 KM,4,Czerwony
+Mazda,CX-5,2017,89 900 PLN,81 517 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,5,2008,13 700 PLN,110 000 km,Benzyna,Manualna,Auta miejskie,1 798 cm3,116 KM,5,Srebrny
+Mazda,3,2011,16 999 PLN,189 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Czarny
+Mazda,3,2005,6 900 PLN,272 680 km,Diesel,Manualna,Coupe,1 560 cm3,109 KM,5,Szary
+Mazda,CX-3,2019,82 500 PLN,27 300 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Biały
+Mazda,2,2003,4 200 PLN,291 000 km,Diesel,Manualna,Auta małe,1 399 cm3,68 KM,5,Szary
+Mazda,6,2015,46 900 PLN,286 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Srebrny
+Mazda,3,2003,10 900 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Zielony
+Mazda,CX-30,2023,125 000 PLN,23 000 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Czerwony
+Mazda,CX-5,2020,88 800 PLN,84 500 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,3,2020,95 900 PLN,68 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,150 KM,4,Czerwony
+Mazda,6,2016,57 900 PLN,116 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Bordowy
+Mazda,CX-7,2010,24 000 PLN,188 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Czarny
+Mazda,CX-3,2018,67 900 PLN,186 000 km,Diesel,Automatyczna,SUV,1 499 cm3,105 KM,5,Granatowy
+Mazda,3,2015,41 900 PLN,157 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Inny kolor
+Mazda,CX-60,2023,299 999 PLN,9 700 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Czerwony
+Mazda,CX-9,2019,114 900 PLN,127 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Szary
+Mazda,3,2020,95 999 PLN,72 400 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,180 KM,5,Szary
+Mazda,6,2009,24 900 PLN,163 918 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Srebrny
+Mazda,CX-5,2021,112 000 PLN,17 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,6,2009,19 900 PLN,199 000 km,Benzyna,Manualna,Sedan,1 798 cm3,120 KM,5,Srebrny
+Mazda,3,2007,10 000 PLN,194 551 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Mazda,3,2009,22 000 PLN,193 000 km,Benzyna,Manualna,Kompakt,1 999 cm3,151 KM,5,Brązowy
+Mazda,6,2008,16 000 PLN,329 209 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Srebrny
+Mazda,CX-3,2018,49 900 PLN,101 912 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Granatowy
+Mazda,6,2015,62 000 PLN,243 635 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,4,Czerwony
+Mazda,6,2014,47 000 PLN,175 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Biały
+Mazda,3,2017,61 900 PLN,105 850 km,Benzyna,Manualna,Auta małe,1 998 cm3,120 KM,5,Czarny
+Mazda,CX-9,2015,65 000 PLN,285 373 km,Benzyna+LPG,Automatyczna,SUV,3 726 cm3,277 KM,5,Brązowy
+Mazda,6,2015,71 500 PLN,175 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Srebrny
+Mazda,CX-3,2017,52 000 PLN,159 455 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Biały
+Mazda,5,2014,27 999 PLN,214 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Biały
+Mazda,CX-5,2012,49 500 PLN,237 076 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Szary
+Mazda,CX-5,2019,99 000 PLN,85 555 km,Diesel,Manualna,SUV,2 191 cm3,184 KM,5,Czarny
+Mazda,3,2018,59 999 PLN,124 300 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,3,2022,117 000 PLN,1 200 km,Benzyna,Manualna,Kompakt,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-5,2020,119 900 PLN,39 700 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Czerwony
+Mazda,CX-3,2019,57 900 PLN,105 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Granatowy
+Mazda,CX-3,2017,57 000 PLN,39 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Czarny
+Mazda,CX-5,2019,116 000 PLN,79 000 km,Diesel,Automatyczna,SUV,2 191 cm3,184 KM,5,Niebieski
+Mazda,CX-30,2021,68 800 PLN,31 145 km,Hybryda,Automatyczna,SUV,1 998 cm3,186 KM,5,Szary
+Mazda,5,2010,17 900 PLN,220 000 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Srebrny
+Mazda,CX-5,2013,52 900 PLN,213 167 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,2,2016,11 800 PLN,43 657 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,90 KM,5,Biały
+Mazda,5,2011,17 900 PLN,165 000 km,Diesel,Manualna,SUV,1 560 cm3,115 KM,5,Brązowy
+Mazda,3,2003,8 500 PLN,229 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Mazda,6,2015,62 499 PLN,121 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Biały
+Mazda,3,2014,42 900 PLN,178 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,165 KM,5,Niebieski
+Mazda,CX-5,2015,64 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czerwony
+Mazda,CX-30,2021,94 800 PLN,22 500 km,Benzyna,Automatyczna,SUV,2 488 cm3,193 KM,5,Czerwony
+Mazda,CX-3,2020,69 999 PLN,57 700 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,3,2019,69 990 PLN,139 149 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,5,Czarny
+Mazda,3,2016,53 000 PLN,128 000 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Inny kolor
+Mazda,3,2012,29 900 PLN,112 000 km,Benzyna,Automatyczna,Auta miejskie,1 598 cm3,105 KM,5,Szary
+Mazda,3,2019,77 000 PLN,61 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,165 KM,5,Szary
+Mazda,CX-9,2008,26 000 PLN,370 000 km,Benzyna+LPG,Automatyczna,SUV,3 726 cm3,270 KM,5,Granatowy
+Mazda,CX-30,2019,108 500 PLN,58 600 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,122 KM,5,Niebieski
+Mazda,6,2010,15 300 PLN,413 000 km,Diesel,Manualna,Sedan,2 184 cm3,179 KM,5,Brązowy
+Mazda,6,2014,43 900 PLN,164 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,MX-3,1994,14 350 PLN,216 000 km,Benzyna,Manualna,Coupe,1 598 cm3,107 KM,2,Inny kolor
+Mazda,3,2015,48 888 PLN,120 000 km,Benzyna,Manualna,Coupe,1 998 cm3,120 KM,5,Czarny
+Mazda,CX-3,2015,44 900 PLN,194 320 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Biały
+Mazda,6,2019,74 600 PLN,149 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Granatowy
+Mazda,CX-30,2020,93 700 PLN,128 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,180 KM,5,Granatowy
+Mazda,CX-7,2010,28 900 PLN,231 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Brązowy
+Mazda,3,2005,10 800 PLN,148 000 km,Benzyna,Automatyczna,Sedan,1 598 cm3,105 KM,4,Niebieski
+Mazda,CX-5,2023,149 900 PLN,21 552 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2012,45 999 PLN,176 650 km,Diesel,Manualna,SUV,2 191 cm3,175 KM,5,Czarny
+Mazda,3,2017,47 500 PLN,106 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2011,31 980 PLN,95 000 km,Benzyna,Manualna,Sedan,1 999 cm3,155 KM,4,Czarny
+Mazda,3,2008,14 500 PLN,164 000 km,Benzyna+LPG,Manualna,Auta małe,1 598 cm3,105 KM,4,Błękitny
+Mazda,3,2009,28 700 PLN,152 000 km,Benzyna+LPG,Manualna,Sedan,1 598 cm3,105 KM,5,Srebrny
+Mazda,CX-5,2024,161 000 PLN,700 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,CX-30,2021,109 800 PLN,60 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Czarny
+Mazda,CX-3,2020,74 900 PLN,71 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Czarny
+Mazda,3,2015,19 000 PLN,24 823 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,186 KM,5,Biały
+Mazda,5,2012,31 999 PLN,187 000 km,Benzyna,Manualna,Minivan,1 798 cm3,115 KM,5,Szary
+Mazda,6,2016,69 000 PLN,192 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Biały
+Mazda,6,2017,70 900 PLN,210 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Czarny
+Mazda,CX-5,2014,62 800 PLN,158 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czarny
+Mazda,3,2010,24 900 PLN,163 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Inny kolor
+Mazda,CX-5,2014,54 900 PLN,228 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,6,2014,51 500 PLN,194 766 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2016,73 900 PLN,157 472 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Biały
+Mazda,2,2009,18 900 PLN,151 000 km,Benzyna,Manualna,Auta miejskie,1 349 cm3,75 KM,5,Niebieski
+Mazda,3,2014,57 900 PLN,75 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,165 KM,5,Czerwony
+Mazda,5,2007,8 600 PLN,240 000 km,Benzyna,Manualna,Kompakt,1 999 cm3,145 KM,5,Czarny
+Mazda,CX-30,2020,84 999 PLN,165 120 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Niebieski
+Mazda,MX-3,1998,15 900 PLN,137 000 km,Benzyna,Manualna,Coupe,1 598 cm3,107 KM,2,Czerwony
+Mazda,CX-5,2018,88 800 PLN,95 225 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Biały
+Mazda,CX-3,2018,63 900 PLN,112 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,120 KM,5,Szary
+Mazda,6,2015,35 900 PLN,230 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Granatowy
+Mazda,3,2006,6 500 PLN,332 700 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Czarny
+Mazda,3,2007,14 900 PLN,154 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Mazda,3,2010,43 000 PLN,190 000 km,Benzyna,Manualna,Kompakt,2 261 cm3,260 KM,5,Czarny
+Mazda,5,2008,19 900 PLN,197 000 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Błękitny
+Mazda,3,2014,32 900 PLN,98 000 km,Benzyna,Manualna,Kompakt,1 496 cm3,101 KM,5,Niebieski
+Mazda,CX-5,2022,120 000 PLN,37 000 km,Benzyna+LPG,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,MX-5,2000,24 500 PLN,202 250 km,Benzyna,Manualna,Kabriolet,1 840 cm3,139 KM,2,Granatowy
+Mazda,6,2018,79 900 PLN,116 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2014,58 900 PLN,139 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Czerwony
+Mazda,CX-5,2020,122 000 PLN,39 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Błękitny
+Mazda,CX-5,2020,122 000 PLN,39 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Błękitny
+Mazda,3,2005,4 500 PLN,251 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Czerwony
+Mazda,3,2020,86 900 PLN,51 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,180 KM,5,Szary
+Mazda,6,2017,75 000 PLN,71 100 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Czerwony
+Mazda,6,2017,74 900 PLN,84 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Bordowy
+Mazda,6,2014,39 999 PLN,203 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Szary
+Mazda,2,2010,16 900 PLN,163 000 km,Benzyna,Manualna,Auta małe,1 498 cm3,103 KM,5,Szary
+Mazda,3,2020,74 900 PLN,87 300 km,Benzyna,Manualna,Kompakt,1 998 cm3,122 KM,5,Srebrny
+Mazda,5,2009,14 900 PLN,220 448 km,Diesel,Manualna,SUV,1 998 cm3,143 KM,5,Szary
+Mazda,2,2010,13 100 PLN,156 575 km,Benzyna,Manualna,Auta małe,1 349 cm3,75 KM,5,Czarny
+Mazda,3,2005,11 900 PLN,131 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Mazda,2,2019,31 900 PLN,55 000 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,75 KM,5,Inny kolor
+Mazda,3,2019,69 990 PLN,110 000 km,Diesel,Manualna,Kompakt,1 759 cm3,116 KM,5,Biały
+Mazda,6,2022,103 937,37 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-5,2012,55 000 PLN,144 737 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czarny
+Mazda,3,2019,74 800 PLN,61 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,179 KM,4,Czarny
+Mazda,6,2013,50 900 PLN,134 100 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-5,2019,81 900 PLN,78 900 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Biały
+Mazda,3,2015,34 900 PLN,197 412 km,Diesel,Manualna,Kompakt,2 184 cm3,150 KM,5,Czarny
+Mazda,6,2009,22 900 PLN,218 325 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Srebrny
+Mazda,MX-5,1998,19 999 PLN,221 000 km,Benzyna+LPG,Manualna,Kabriolet,1 598 cm3,116 KM,2,Czarny
+Mazda,CX-30,2019,106 948,82 000 km,Hybryda,Manualna,SUV,1 998 cm3,180 KM,5,Szary
+Mazda,5,2007,8 500 PLN,328 000 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Szary
+Mazda,3,2009,15 900 PLN,189 421 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Srebrny
+Mazda,6,2015,69 900 PLN,120 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Czerwony
+Mazda,6,2018,82 900 PLN,82 462 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,6,2011,22 900 PLN,278 000 km,Diesel,Manualna,Sedan,2 184 cm3,163 KM,5,Biały
+Mazda,6,2017,69 000 PLN,162 722 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Srebrny
+Mazda,6,2017,81 500 PLN,85 600 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Szary
+Mazda,6,2016,72 900 PLN,55 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-5,2015,69 000 PLN,188 200 km,Benzyna,Automatyczna,SUV,2 488 cm3,192 KM,5,Czarny
+Mazda,5,2010,35 900 PLN,56 000 km,Benzyna,Manualna,Minivan,1 999 cm3,150 KM,5,Błękitny
+Mazda,5,2010,35 900 PLN,56 000 km,Benzyna,Manualna,Minivan,1 999 cm3,150 KM,5,Błękitny
+Mazda,MX-3,1995,9 500 PLN,115 000 km,Benzyna,Manualna,Coupe,1 598 cm3,107 KM,2,Srebrny
+Mazda,CX-60,2023,229 990 PLN,20 500 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Srebrny
+Mazda,CX-5,2015,72 900 PLN,67 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,192 KM,5,Srebrny
+Mazda,CX-5,2022,132 000 PLN,32 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Biały
+Mazda,3,2013,43 900 PLN,174 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Szary
+Mazda,CX-3,2015,55 900 PLN,133 900 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Czarny
+Mazda,MX-5,2017,80 000 PLN,145 000 km,Benzyna,Manualna,Kabriolet,1 998 cm3,160 KM,2,Czerwony
+Mazda,6,2014,28 900 PLN,306 000 km,Diesel,Automatyczna,Kombi,2 184 cm3,129 KM,5,Czarny
+Mazda,6,2010,20 000 PLN,283 903 km,Diesel,Manualna,Sedan,2 184 cm3,163 KM,5,Brązowy
+Mazda,6,2012,20 000 PLN,245 000 km,Diesel,Manualna,Kombi,2 184 cm3,163 KM,5,Szary
+Mazda,CX-3,2017,58 500 PLN,123 477 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Szary
+Mazda,3,2007,9 500 PLN,340 000 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,105 KM,5,Niebieski
+Mazda,3,2010,19 999 PLN,100 585 km,Benzyna,Automatyczna,Sedan,1 999 cm3,150 KM,5,Szary
+Mazda,CX-5,2019,114 900 PLN,87 005 km,Diesel,Manualna,SUV,2 191 cm3,184 KM,5,Szary
+Mazda,CX-5,2013,43 900 PLN,224 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,6,2011,22 100 PLN,201 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,4,Czarny
+Mazda,CX-3,2016,46 999 PLN,177 320 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Inny kolor
+Mazda,6,2015,68 999 PLN,113 245 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Czarny
+Mazda,CX-5,2013,39 900 PLN,231 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Niebieski
+Mazda,2,2016,39 800 PLN,129 800 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,90 KM,5,Czerwony
+Mazda,6,2010,21 500 PLN,242 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Błękitny
+Mazda,6,2008,17 500 PLN,242 794 km,Benzyna,Automatyczna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,6,2014,49 999 PLN,145 000 km,Benzyna,Manualna,Sedan,1 998 cm3,145 KM,5,Biały
+Mazda,MX-30,2021,24 999 PLN,20 600 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Szary
+Mazda,5,2009,15 900 PLN,219 200 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Czarny
+Mazda,6,2008,9 900 PLN,311 890 km,Diesel,Manualna,Sedan,1 998 cm3,140 KM,5,Czarny
+Mazda,6,2016,72 999 PLN,145 842 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Błękitny
+Mazda,2,2012,16 800 PLN,128 576 km,Benzyna,Manualna,Auta małe,1 349 cm3,75 KM,5,Czarny
+Mazda,6,2008,17 900 PLN,181 421 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Biały
+Mazda,CX-5,2015,59 000 PLN,157 000 km,Benzyna+LPG,Automatyczna,SUV,2 488 cm3,183 KM,5,Czarny
+Mazda,3,2015,49 000 PLN,92 000 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,5,Srebrny
+Mazda,MX-5,1997,27 999 PLN,232 101 km,Benzyna,Manualna,Kabriolet,1 598 cm3,90 KM,2,Czerwony
+Mazda,6,2019,115 000 PLN,38 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,194 KM,5,Granatowy
+Mazda,CX-5,2012,45 900 PLN,119 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Granatowy
+Mazda,CX-5,2022,120 000 PLN,37 000 km,Benzyna+LPG,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,MX-5,2004,59 900 PLN,190 000 km,Benzyna,Manualna,Kabriolet,1 840 cm3,146 KM,2,Szary
+Mazda,2,2020,68 800 PLN,39 999 km,Benzyna,Automatyczna,Auta miejskie,1 496 cm3,90 KM,5,Brązowy
+Mazda,6,2017,99 900 PLN,25 306 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,CX-5,2018,114 400 PLN,85 878 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,3,2016,52 500 PLN,134 200 km,Benzyna,Manualna,Auta miejskie,1 998 cm3,120 KM,5,Czarny
+Mazda,3,2018,65 999 PLN,72 500 km,Benzyna,Manualna,Auta miejskie,1 998 cm3,120 KM,5,Czerwony
+Mazda,2,2015,19 900 PLN,47 000 km,Benzyna,Manualna,Kompakt,1 496 cm3,90 KM,5,Inny kolor
+Mazda,CX-30,2019,110 000 PLN,21 671 km,Benzyna,Automatyczna,SUV,1 998 cm3,179 KM,4,Czerwony
+Mazda,CX-7,2009,30 900 PLN,262 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Czarny
+Mazda,6,2018,92 900 PLN,117 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Szary
+Mazda,6,2013,49 800 PLN,198 800 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Srebrny
+Mazda,MX-5,2008,59 900 PLN,122 500 km,Benzyna,Manualna,Kabriolet,1 999 cm3,160 KM,2,Czarny
+Mazda,6,2014,54 900 PLN,107 852 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Błękitny
+Mazda,3,2010,24 900 PLN,196 000 km,Benzyna,Manualna,Kompakt,1 999 cm3,150 KM,5,Biały
+Mazda,626,1996,12 500 PLN,141 000 km,Benzyna,Manualna,Sedan,1 991 cm3,115 KM,4,Czerwony
+Mazda,6,2011,29 999 PLN,189 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Granatowy
+Mazda,CX-5,2013,51 200 PLN,129 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Czarny
+Mazda,3,2019,60 000 PLN,260 000 km,Diesel,Automatyczna,Kompakt,1 759 cm3,116 KM,5,Biały
+Mazda,3,2017,62 800 PLN,68 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,165 KM,5,Szary
+Mazda,3,2009,10 999 PLN,221 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Niebieski
+Mazda,6,2017,75 900 PLN,100 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Szary
+Mazda,3,2019,83 900 PLN,54 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,120 KM,5,Szary
+Mazda,CX-5,2015,46 900 PLN,174 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,165 KM,5,Biały
+Mazda,CX-5,2017,93 900 PLN,139 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czarny
+Mazda,6,2007,7 500 PLN,189 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Srebrny
+Mazda,CX-5,2018,93 900 PLN,118 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2022,114 900 PLN,28 700 km,Benzyna,Automatyczna,Sedan,2 000 cm3,165 KM,4,Srebrny
+Mazda,6,2022,118 900 PLN,30 600 km,Benzyna,Automatyczna,Kombi,2 000 cm3,165 KM,5,Czarny
+Mazda,6,2022,117 900 PLN,36 700 km,Benzyna,Automatyczna,Sedan,2 000 cm3,165 KM,4,Czarny
+Mazda,CX-30,2021,92 500 PLN,85 600 km,Benzyna,Automatyczna,SUV,2 000 cm3,122 KM,5,Niebieski
+Mazda,6,2014,49 900 PLN,192 231 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Czarny
+Mazda,6,2019,89 000 PLN,23 453 km,Benzyna,Automatyczna,Kombi,1 998 cm3,145 KM,5,Granatowy
+Mazda,6,2022,113 900 PLN,35 300 km,Benzyna,Automatyczna,Sedan,2 000 cm3,165 KM,4,Niebieski
+Mazda,3,2006,7 200 PLN,240 000 km,Benzyna+LPG,Manualna,Sedan,1 598 cm3,105 KM,5,Inny kolor
+Mazda,CX-30,2022,112 900 PLN,9 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Czerwony
+Mazda,5,2011,20 900 PLN,232 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Brązowy
+Mazda,CX-3,2022,23 900 PLN,14 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Szary
+Mazda,6,2017,65 000 PLN,155 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,CX-5,2015,42 500 PLN,151 000 km,Diesel,Automatyczna,SUV,2 191 cm3,150 KM,5,Czarny
+Mazda,CX-5,2019,86 700 PLN,60 155 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Srebrny
+Mazda,6,2016,71 000 PLN,116 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Brązowy
+Mazda,6,2009,19 900 PLN,194 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Srebrny
+Mazda,MX-5,2000,19 999 PLN,230 500 km,Benzyna,Manualna,Kabriolet,1 598 cm3,110 KM,2,Czarny
+Mazda,CX-5,2013,57 999 PLN,112 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Bordowy
+Mazda,CX-3,2016,64 500 PLN,88 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Biały
+Mazda,CX-30,2021,115 000 PLN,47 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mazda,CX-5,2022,149 900 PLN,28 900 km,Benzyna,Automatyczna,SUV,2 488 cm3,253 KM,5,Czarny
+Mazda,CX-5,2013,38 900 PLN,215 425 km,Diesel,Manualna,SUV,2 191 cm3,175 KM,5,Biały
+Mazda,CX-7,2011,24 500 PLN,158 500 km,Diesel,Manualna,Minivan,2 184 cm3,173 KM,5,Inny kolor
+Mazda,6,2017,72 800 PLN,92 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Szary
+Mazda,6,2014,52 900 PLN,101 500 km,Diesel,Automatyczna,Sedan,2 191 cm3,175 KM,4,Czarny
+Mazda,CX-5,2015,52 900 PLN,165 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Czarny
+Mazda,6,2018,79 000 PLN,25 449 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,6,2015,58 900 PLN,175 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,CX-5,2018,108 500 PLN,118 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,3,2017,58 700 PLN,91 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Niebieski
+Mazda,3,2008,30 000 PLN,160 000 km,Benzyna,Manualna,Kompakt,2 261 cm3,260 KM,5,Czerwony
+Mazda,3,2016,59 900 PLN,85 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czarny
+Mazda,6,2014,54 900 PLN,161 870 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Czerwony
+Mazda,CX-5,2021,119 800 PLN,31 819 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,6,2014,31 900 PLN,242 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Bordowy
+Mazda,CX-5,2020,119 000 PLN,40 800 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Niebieski
+Mazda,3,2013,43 000 PLN,115 000 km,Benzyna,Manualna,Sedan,1 496 cm3,100 KM,4,Szary
+Mazda,6,2004,8 000 PLN,230 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,141 KM,5,Szary
+Mazda,CX-5,2013,46 900 PLN,221 200 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,MX-5,2022,135 000 PLN,2 928 km,Benzyna,Manualna,Kabriolet,1 998 cm3,184 KM,2,Czerwony
+Mazda,MX-5,2000,17 000 PLN,220 000 km,Benzyna,Manualna,Kabriolet,1 598 cm3,110 KM,2,Inny kolor
+Mazda,3,2020,70 000 PLN,42 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,186 KM,4,Szary
+Mazda,5,2009,15 900 PLN,233 000 km,Diesel,Manualna,Minivan,1 998 cm3,110 KM,5,Czarny
+Mazda,CX-3,2017,62 900 PLN,121 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Szary
+Mazda,CX-3,2017,79 000 PLN,77 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-5,2018,82 000 PLN,79 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czerwony
+Mazda,CX-5,2019,89 900 PLN,75 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,6,2014,49 500 PLN,270 850 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Szary
+Mazda,5,2007,4 000 PLN,186 006 km,Benzyna,Manualna,Minivan,1 798 cm3,115 KM,5,Srebrny
+Mazda,6,2019,74 900 PLN,142 000 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Granatowy
+Mazda,CX-3,2018,69 000 PLN,61 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Czerwony
+Mazda,3,2010,22 900 PLN,163 223 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Mazda,6,2008,19 800 PLN,234 123 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Błękitny
+Mazda,CX-7,2010,14 999 PLN,242 322 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Biały
+Mazda,3,2014,43 000 PLN,122 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,6,2015,59 000 PLN,149 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Srebrny
+Mazda,6,2018,86 900 PLN,72 888 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-60,2022,219 000 PLN,12 000 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Czerwony
+Mazda,3,2015,13 400 PLN,320 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,120 KM,4,Czarny
+Mazda,RX-8,2004,33 000 PLN,147 300 km,Benzyna,Manualna,Coupe,1 308 cm3,192 KM,4,Srebrny
+Mazda,CX-5,2018,89 900 PLN,96 600 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Biały
+Mazda,CX-3,2019,66 500 PLN,135 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Bordowy
+Mazda,6,2022,116 900 PLN,24 400 km,Benzyna,Automatyczna,Sedan,2 000 cm3,165 KM,4,Niebieski
+Mazda,CX-9,2021,162 900 PLN,14 014 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Srebrny
+Mazda,CX-5,2016,62 000 PLN,80 700 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2019,84 000 PLN,73 036 km,Benzyna,Automatyczna,Sedan,1 998 cm3,145 KM,4,Czarny
+Mazda,3,2009,15 900 PLN,254 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,4,Złoty
+Mazda,3,2019,88 500 PLN,58 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,120 KM,4,Czerwony
+Mazda,CX-5,2018,87 900 PLN,86 000 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Niebieski
+Mazda,CX-5,2022,58 000 PLN,16 796 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,6,2015,57 900 PLN,145 314 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Czarny
+Mazda,6,2010,17 200 PLN,350 000 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,3,2006,5 000 PLN,250 485 km,Diesel,Manualna,Auta małe,1 560 cm3,109 KM,5,Szary
+Mazda,6,2008,18 000 PLN,297 211 km,Benzyna,Manualna,Sedan,1 999 cm3,147 KM,5,Granatowy
+Mazda,3,2007,7 900 PLN,310 000 km,Diesel,Manualna,Kompakt,1 998 cm3,143 KM,5,Czarny
+Mazda,CX-3,2019,71 999 PLN,125 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mazda,6,2015,72 500 PLN,77 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2019,87 900 PLN,172 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Srebrny
+Mazda,CX-3,2016,71 000 PLN,72 000 km,Diesel,Automatyczna,SUV,1 499 cm3,105 KM,5,Brązowy
+Mazda,CX-30,2022,116 900 PLN,22 000 km,Hybryda,Manualna,SUV,1 998 cm3,186 KM,5,Szary
+Mazda,3,2010,21 500 PLN,143 025 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,4,Srebrny
+Mazda,6,2008,18 000 PLN,211 848 km,Benzyna,Manualna,Kompakt,1 798 cm3,120 KM,5,Czarny
+Mazda,CX-7,2010,21 000 PLN,300 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Granatowy
+Mazda,6,2009,17 900 PLN,257 000 km,Diesel,Manualna,Sedan,1 998 cm3,140 KM,4,Inny kolor
+Mazda,6,2008,20 500 PLN,268 175 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,5,Czarny
+Mazda,CX-3,2018,75 900 PLN,128 712 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mazda,2,2008,9 300 PLN,197 777 km,Diesel,Manualna,Kompakt,1 399 cm3,68 KM,5,Zielony
+Mazda,6,2014,52 000 PLN,212 500 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Granatowy
+Mazda,3,2017,54 000 PLN,120 000 km,Benzyna,Manualna,Auta miejskie,1 998 cm3,120 KM,4,Biały
+Mazda,6,2019,69 900 PLN,197 000 km,Benzyna,Manualna,Kombi,1 998 cm3,164 KM,5,Czarny
+Mazda,6,2013,45 900 PLN,264 000 km,Benzyna,Manualna,Kombi,1 998 cm3,164 KM,5,Szary
+Mazda,6,2008,17 500 PLN,187 000 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,CX-3,2019,56 000 PLN,89 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Szary
+Mazda,3,2011,23 500 PLN,88 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Brązowy
+Mazda,6,2007,7 999 PLN,210 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Niebieski
+Mazda,3,2011,19 900 PLN,243 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Inny kolor
+Mazda,6,2016,64 000 PLN,131 500 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Biały
+Mazda,3,2015,52 000 PLN,96 768 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czerwony
+Mazda,3,2015,52 000 PLN,96 768 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czerwony
+Mazda,3,2009,19 900 PLN,205 000 km,Benzyna,Manualna,Kompakt,1 999 cm3,151 KM,5,Granatowy
+Mazda,2,2015,35 500 PLN,95 200 km,Diesel,Manualna,Auta małe,1 499 cm3,105 KM,5,Biały
+Mazda,2,2004,6 300 PLN,233 750 km,Benzyna,Manualna,Kompakt,1 388 cm3,80 KM,5,Błękitny
+Mazda,CX-3,2015,38 900 PLN,218 000 km,Diesel,Manualna,SUV,1 499 cm3,105 KM,5,Czerwony
+Mazda,CX-3,2016,58 700 PLN,100 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Biały
+Mazda,CX-5,2014,56 000 PLN,170 821 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Biały
+,,Unknown,Przerwa techniczna,,,,,,,,
+Mazda,CX-3,2016,58 700 PLN,142 660 km,Benzyna,Automatyczna,SUV,1 998 cm3,120 KM,5,Czerwony
+Mazda,6,2005,7 900 PLN,275 000 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,147 KM,5,Srebrny
+Mazda,6,2022,116 900 PLN,35 400 km,Benzyna,Automatyczna,Kombi,2 000 cm3,165 KM,5,Czarny
+Mazda,6,2022,122 900 PLN,13 700 km,Benzyna,Automatyczna,Sedan,2 000 cm3,165 KM,4,Srebrny
+Mazda,6,2011,20 500 PLN,230 000 km,Diesel,Manualna,Kombi,2 184 cm3,180 KM,5,Czarny
+Mazda,CX-5,2020,97 500 PLN,72 500 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Błękitny
+Mazda,CX-3,2015,66 900 PLN,52 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Granatowy
+Mazda,2,2016,46 740 PLN,46 000 km,Benzyna,Automatyczna,Auta miejskie,1 496 cm3,90 KM,5,Szary
+Mazda,3,2006,10 000 PLN,195 000 km,Benzyna+LPG,Automatyczna,Sedan,2 261 cm3,171 KM,4,Czarny
+Mazda,5,2006,9 900 PLN,215 900 km,Benzyna+LPG,Manualna,SUV,1 999 cm3,145 KM,5,Inny kolor
+Mazda,5,2010,22 900 PLN,225 755 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Niebieski
+Mazda,6,2010,30 600 PLN,175 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Inny kolor
+Mazda,CX-60,2022,249 900 PLN,11 242 km,Hybryda,Automatyczna,SUV,2 488 cm3,191 KM,5,Czerwony
+Mazda,6,2018,99 000 PLN,137 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,194 KM,4,Czerwony
+Mazda,6,2016,68 900 PLN,107 874 km,Benzyna,Manualna,Sedan,1 998 cm3,145 KM,4,Czarny
+Mazda,6,2008,21 999 PLN,269 000 km,Benzyna,Manualna,Sedan,1 790 cm3,120 KM,4,Srebrny
+Mazda,CX-5,2024,187 800 PLN,5 km,Benzyna,Automatyczna,Kombi,1 998 cm3,164 KM,5,Granatowy
+Mazda,6,2007,8 500 PLN,321 000 km,Diesel,Manualna,Kombi,1 998 cm3,143 KM,5,Czarny
+Mazda,CX-7,2008,26 999 PLN,176 780 km,Benzyna,Manualna,SUV,2 261 cm3,260 KM,5,Srebrny
+Mazda,6,2014,37 600 PLN,242 000 km,Diesel,Manualna,Sedan,2 191 cm3,175 KM,4,Czarny
+Mazda,626,1998,2 200 PLN,191 445 km,Benzyna,Manualna,Sedan,1 840 cm3,90 KM,4,Srebrny
+Mazda,6,2015,47 800 PLN,138 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Czarny
+Mazda,6,2022,126 900 PLN,23 015 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Niebieski
+Mazda,2,2023,84 900 PLN,30 020 km,Hybryda,Automatyczna,Kompakt,1 390 cm3,116 KM,5,Szary
+Mazda,6,2004,4 500 PLN,199 450 km,Benzyna,Manualna,Kombi,1 999 cm3,141 KM,5,Szary
+Mazda,CX-5,2018,69 900 PLN,127 000 km,Diesel,Automatyczna,SUV,2 191 cm3,184 KM,4,Niebieski
+Mazda,6,2022,129 900 PLN,9 965 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,2,2008,11 500 PLN,201 000 km,Benzyna,Manualna,Auta małe,1 349 cm3,86 KM,5,Czerwony
+Mazda,6,2019,108 999 PLN,18 145 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,5,Bordowy
+Mazda,3,2013,27 500 PLN,100 000 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,105 KM,5,Szary
+Mazda,6,2007,12 500 PLN,177 000 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,5,Niebieski
+Mazda,6,2013,41 900 PLN,190 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Czarny
+Mazda,5,2007,16 900 PLN,226 000 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Srebrny
+Mazda,6,2009,19 900 PLN,205 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Srebrny
+Mazda,CX-3,2019,82 000 PLN,62 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,121 KM,5,Biały
+Mazda,3,2023,119 990 PLN,14 900 km,Benzyna,Manualna,Kompakt,1 998 cm3,150 KM,5,Szary
+Mazda,6,2021,133 900 PLN,19 700 km,Benzyna,Automatyczna,Sedan,2 488 cm3,194 KM,4,Czerwony
+Mazda,6,2009,15 900 PLN,209 300 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Inny kolor
+Mazda,CX-5,2024,223 800 PLN,5 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,MX-30,2023,148 000 PLN,3 780 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Srebrny
+Mazda,6,2016,65 500 PLN,119 700 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Brązowy
+Mazda,6,2021,89 900 PLN,95 477 km,Benzyna,Automatyczna,Kombi,1 998 cm3,145 KM,5,Czarny
+Mazda,6,2009,22 999 PLN,167 150 km,Benzyna,Manualna,Sedan,1 798 cm3,120 KM,5,Szary
+Mazda,CX-7,2009,25 000 PLN,220 000 km,Diesel,Manualna,SUV,2 184 cm3,173 KM,5,Brązowy
+Mazda,6,2014,44 900 PLN,190 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Czerwony
+Mazda,6,2006,8 700 PLN,240 000 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,4,Czarny
+Mazda,CX-5,2024,187 800 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,CX-30,2024,159 700 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Złoty
+Mazda,CX-30,2024,166 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Czerwony
+Mazda,CX-3,2018,62 800 PLN,71 500 km,Diesel,Manualna,SUV,1 759 cm3,115 KM,5,Biały
+Mazda,6,2016,31 700 PLN,184 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Czerwony
+Mazda,3,2015,55 900 PLN,102 500 km,Benzyna,Automatyczna,Kompakt,2 488 cm3,192 KM,5,Brązowy
+Mazda,CX-30,2024,150 000 PLN,5 km,Hybryda,Automatyczna,SUV,1 998 cm3,149 KM,5,Szary
+Mazda,CX-80,2024,325 900 PLN,1 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Inny kolor
+Mazda,CX-30,2023,127 600 PLN,22 157 km,Benzyna,Automatyczna,SUV,1 998 cm3,122 KM,5,Inny kolor
+Mazda,CX-5,2023,134 900 PLN,21 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-80,2024,335 800 PLN,1 km,Diesel,Automatyczna,SUV,3 300 cm3,254 KM,5,Bordowy
+Mazda,2,2016,32 800 PLN,170 792 km,Benzyna,Manualna,Kompakt,1 496 cm3,75 KM,5,Szary
+Mazda,CX-5,2016,59 900 PLN,142 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,192 KM,5,Granatowy
+Mazda,6,2018,74 000 PLN,117 350 km,Benzyna,Automatyczna,Kombi,1 998 cm3,145 KM,4,Biały
+Mazda,CX-5,2021,122 900 PLN,36 722 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,CX-30,2020,110 000 PLN,32 407 km,Benzyna,Automatyczna,SUV,2 448 cm3,194 KM,5,Bordowy
+Mazda,CX-5,2013,46 900 PLN,180 446 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Szary
+Mazda,6,2010,32 000 PLN,258 000 km,Benzyna+LPG,Manualna,Kombi,2 488 cm3,170 KM,5,Srebrny
+Mazda,3,2024,150 200 PLN,5 km,Benzyna,Automatyczna,Sedan,1 998 cm3,150 KM,5,Czarny
+Mazda,CX-9,2022,165 900 PLN,74 813 km,Benzyna,Automatyczna,SUV,2 488 cm3,250 KM,5,Czarny
+Mazda,CX-30,2020,96 000 PLN,110 000 km,Benzyna,Automatyczna,SUV,2 448 cm3,194 KM,5,Bordowy
+Mazda,6,2015,55 000 PLN,135 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,175 KM,5,Czerwony
+Mazda,CX-60,2024,268 600 PLN,1 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Inny kolor
+Mazda,5,2006,6 500 PLN,250 000 km,Benzyna+LPG,Manualna,SUV,1 999 cm3,145 KM,5,Granatowy
+Mazda,CX-30,2024,158 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mazda,CX-5,2023,191 900 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,194 KM,5,Biały
+Mazda,6,2022,129 900 PLN,30 945 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Niebieski
+Mazda,6,2023,129 000 PLN,27 200 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,5,Srebrny
+Mazda,CX-3,2015,60 000 PLN,118 025 km,Benzyna,Automatyczna,SUV,1 991 cm3,120 KM,5,Czarny
+Mazda,CX-30,2021,92 900 PLN,60 094 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,6,2022,129 900 PLN,31 500 km,Benzyna,Automatyczna,Kombi,1 998 cm3,165 KM,5,Czarny
+Mazda,CX-5,2022,134 900 PLN,28 647 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,2,2024,112 800 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 490 cm3,116 KM,5,Biały
+Mazda,CX-60,2022,174 999 PLN,12 300 km,Diesel,Automatyczna,SUV,3 283 cm3,200 KM,5,Czarny
+Mazda,CX-5,2022,138 900 PLN,12 063 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Granatowy
+Mazda,CX-3,2016,62 990 PLN,99 890 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czarny
+Mazda,6,2011,28 800 PLN,204 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Szary
+Mazda,CX-3,2016,59 900 PLN,172 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Bordowy
+Mazda,3,2005,5 500 PLN,316 740 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Czarny
+Mazda,3,2022,115 000 PLN,47 700 km,Benzyna,Automatyczna,Sedan,1 998 cm3,149 KM,5,Czarny
+Mazda,6,2022,129 900 PLN,35 298 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Szary
+Mazda,6,2013,41 700 PLN,222 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,150 KM,5,Biały
+Mazda,CX-5,2020,64 700 PLN,62 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,6,2017,59 700 PLN,124 000 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Czarny
+Mazda,CX-3,2017,70 900 PLN,106 715 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,CX-5,2023,139 900 PLN,38 747 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Granatowy
+Mazda,CX-60,2022,230 900 PLN,9 069 km,Diesel,Automatyczna,SUV,3 283 cm3,200 KM,5,Czerwony
+Mazda,6,2016,79 900 PLN,118 413 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Beżowy
+Mazda,CX-5,2023,159 900 PLN,27 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Granatowy
+Mazda,3,2022,127 500 PLN,3 558 km,Benzyna,Automatyczna,Kompakt,2 448 cm3,248 KM,5,Czarny
+Mazda,CX-5,2014,58 900 PLN,173 616 km,Benzyna,Manualna,SUV,1 998 cm3,160 KM,5,Czarny
+Mazda,3,2017,64 800 PLN,133 532 km,Benzyna,Manualna,Kompakt,1 998 cm3,165 KM,5,Czerwony
+Mazda,5,2009,15 900 PLN,220 000 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Czarny
+Mazda,CX-5,2018,73 000 PLN,113 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Srebrny
+Mazda,CX-3,2016,67 000 PLN,64 500 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Czerwony
+Mazda,CX-5,2021,127 900 PLN,67 140 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Inny kolor
+Mazda,CX-5,2023,181 900 PLN,12 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,CX-5,2018,79 900 PLN,233 000 km,Benzyna,Automatyczna,SUV,2 000 cm3,165 KM,5,Niebieski
+Mazda,CX-5,2024,196 800 PLN,5 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,6,2009,23 500 PLN,170 000 km,Benzyna,Automatyczna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,CX-60,2022,189 900 PLN,46 500 km,Diesel,Automatyczna,SUV,3 283 cm3,200 KM,5,Biały
+Mazda,5,2006,9 700 PLN,266 000 km,Benzyna,Manualna,Minivan,1 798 cm3,116 KM,5,Granatowy
+Mazda,3,2005,5 535 PLN,287 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Czerwony
+Mazda,6,2023,129 900 PLN,19 692 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Srebrny
+Mazda,CX-5,2013,49 900 PLN,216 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-30,2020,107 700 PLN,19 695 km,Benzyna,Manualna,SUV,1 998 cm3,179 KM,5,Szary
+Mazda,CX-30,2021,126 900 PLN,32 000 km,Hybryda,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mazda,MX-5,2016,35 900 PLN,68 300 km,Benzyna,Manualna,Kabriolet,1 496 cm3,130 KM,2,Czerwony
+Mazda,CX-5,2024,224 800 PLN,5 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,CX-5,2012,43 900 PLN,140 000 km,Diesel,Automatyczna,SUV,2 191 cm3,150 KM,5,Biały
+Mazda,6,2009,17 900 PLN,214 799 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,CX-5,2024,177 800 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,3,2024,137 400 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,150 KM,5,Inny kolor
+Mazda,MX-30,2021,95 900 PLN,8 995 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Inny kolor
+Mazda,6,2015,42 500 PLN,314 201 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,CX-30,2024,150 500 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Inny kolor
+Mazda,CX-5,2013,49 500 PLN,212 000 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Granatowy
+Mazda,6,2015,59 900 PLN,174 987 km,Benzyna,Manualna,Kombi,1 998 cm3,145 KM,5,Biały
+Mazda,CX-3,2018,71 900 PLN,162 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Granatowy
+Mazda,3,2023,124 900 PLN,21 341 km,Benzyna,Automatyczna,Sedan,1 998 cm3,150 KM,4,Szary
+Mazda,CX-5,2024,171 800 PLN,1 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2023,157 900 PLN,15 048 km,Benzyna,Automatyczna,SUV,1 998 cm3,164 KM,5,Biały
+Mazda,2,2022,72 000 PLN,5 800 km,Benzyna,Manualna,Kompakt,1 496 cm3,90 KM,5,Szary
+Mazda,MX-30,2024,142 900 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,830 cm3,74 KM,5,Szary
+Mazda,MX-5,2002,29 000 PLN,174 998 km,Benzyna,Manualna,Kabriolet,1 598 cm3,110 KM,2,Szary
+Mazda,6,2017,75 900 PLN,118 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czarny
+Mazda,CX-5,2024,188 400 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2024,222 900 PLN,1 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Inny kolor
+Mazda,CX-60,2023,228 600 PLN,1 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Czerwony
+Mazda,CX-9,2016,114 900 PLN,88 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,253 KM,5,Srebrny
+Mazda,3,2021,70 900 PLN,44 000 km,Benzyna,Manualna,Sedan,1 998 cm3,122 KM,4,Niebieski
+Mazda,CX-9,2018,91 900 PLN,118 312 km,Benzyna,Automatyczna,SUV,2 500 cm3,250 KM,5,Srebrny
+Mazda,3,2012,20 700 PLN,249 000 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,4,Szary
+Mazda,CX-5,2017,95 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Inny kolor
+Mazda,6,2007,8 800 PLN,265 429 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Inny kolor
+Mazda,CX-60,2023,247 900 PLN,1 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Szary
+Mazda,5,2006,12 800 PLN,177 000 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Inny kolor
+Mazda,CX-3,2020,86 000 PLN,46 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Niebieski
+Mazda,6,2018,84 500 PLN,127 184 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Biały
+Mazda,6,2009,20 950 PLN,278 800 km,Diesel,Manualna,Kombi,2 184 cm3,185 KM,5,Brązowy
+Mazda,3,2014,38 000 PLN,164 445 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Szary
+Mazda,6,2019,77 900 PLN,90 000 km,Diesel,Automatyczna,Kombi,2 191 cm3,184 KM,5,Szary
+Mazda,5,2007,10 000 PLN,227 000 km,Benzyna+LPG,Manualna,Minivan,1 798 cm3,116 KM,5,Szary
+Mazda,3,2019,89 900 PLN,62 499 km,Benzyna,Automatyczna,Sedan,2 488 cm3,188 KM,4,Bordowy
+Mazda,3,2018,69 900 PLN,111 299 km,Benzyna,Automatyczna,Sedan,1 998 cm3,120 KM,4,Czerwony
+Mazda,CX-5,2012,49 900 PLN,219 000 km,Benzyna,Manualna,Minivan,1 998 cm3,165 KM,5,Inny kolor
+Mazda,3,2009,17 900 PLN,262 398 km,Benzyna,Manualna,Kompakt,1 999 cm3,151 KM,5,Szary
+Mazda,3,2010,21 500 PLN,210 660 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Mazda,CX-60,2023,259 900 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,2 489 cm3,327 KM,5,Szary
+Mazda,CX-5,2024,186 800 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Inny kolor
+Mazda,2,2022,85 900 PLN,3 100 km,Hybryda,Automatyczna,Auta miejskie,1 490 cm3,116 KM,5,Srebrny
+Mazda,CX-60,2023,259 000 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,327 KM,5,Czerwony
+Mazda,CX-60,2023,260 000 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,327 KM,5,Biały
+Mazda,CX-30,2024,155 300 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mazda,2,2023,91 900 PLN,11 697 km,Hybryda,Automatyczna,Kompakt,1 490 cm3,116 KM,5,Biały
+Mazda,CX-60,2023,254 900 PLN,35 900 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Srebrny
+Mazda,CX-5,2016,69 900 PLN,168 666 km,Benzyna,Manualna,SUV,1 998 cm3,162 KM,5,Biały
+Mazda,CX-5,2013,48 500 PLN,143 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Niebieski
+Mazda,CX-5,2013,48 500 PLN,205 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Inny kolor
+Mazda,CX-5,2023,159 900 PLN,9 800 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,6,2019,81 000 PLN,143 000 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-3,2018,72 700 PLN,84 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Szary
+Mazda,6,2008,16 000 PLN,281 273 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,5,Czarny
+Mazda,CX-30,2020,81 000 PLN,126 317 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Srebrny
+Mazda,6,2019,73 999 PLN,140 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,145 KM,5,Granatowy
+Mazda,MX-30,2020,82 990 PLN,11 000 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Biały
+Mazda,MX-5,2024,214 200 PLN,5 km,Benzyna,Manualna,Kabriolet,1 998 cm3,184 KM,2,Szary
+Mazda,CX-9,2009,31 000 PLN,310 248 km,Benzyna+LPG,Automatyczna,SUV,3 726 cm3,270 KM,5,Srebrny
+Mazda,CX-30,2023,123 000 PLN,6 875 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Czerwony
+Mazda,3,2006,9 000 PLN,160 000 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,4,Szary
+Mazda,2,2008,12 700 PLN,190 000 km,Diesel,Manualna,Kompakt,1 399 cm3,68 KM,5,Zielony
+Mazda,6,2015,58 900 PLN,165 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Czerwony
+Mazda,CX-5,2024,168 800 PLN,8 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,2,2023,94 900 PLN,5 900 km,Hybryda,Automatyczna,Auta małe,1 496 cm3,90 KM,5,Biały
+Mazda,3,2006,6 000 PLN,171 000 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,105 KM,5,Granatowy
+Mazda,CX-30,2024,150 500 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mazda,CX-3,2015,59 700 PLN,100 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Biały
+Mazda,CX-5,2024,169 400 PLN,11 km,Benzyna,Manualna,SUV,1 998 cm3,164 KM,5,Czerwony
+Mazda,CX-5,2024,169 400 PLN,11 km,Benzyna,Manualna,SUV,1 998 cm3,164 KM,5,Czerwony
+Mazda,2,2016,29 999 PLN,186 000 km,Diesel,Manualna,Kompakt,1 499 cm3,105 KM,5,Granatowy
+Mazda,CX-5,2020,84 900 PLN,176 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Niebieski
+Mazda,6,2008,15 700 PLN,284 000 km,Diesel,Manualna,Kombi,1 998 cm3,140 KM,4,Czerwony
+Mazda,3,2021,39 900 PLN,32 000 km,Benzyna,Manualna,Sedan,1 998 cm3,150 KM,4,Szary
+Mazda,CX-5,2022,139 000 PLN,22 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Granatowy
+Mazda,6,2007,16 000 PLN,289 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,147 KM,4,Srebrny
+Mazda,CX-3,2019,88 900 PLN,19 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-60,2023,250 000 PLN,25 238 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Biały
+Mazda,6,2023,185 000 PLN,6 569 km,Benzyna,Automatyczna,Sedan,2 488 cm3,194 KM,4,Biały
+Mazda,CX-5,2013,41 900 PLN,206 000 km,Diesel,Manualna,SUV,2 191 cm3,150 KM,5,Biały
+Mazda,CX-60,2024,269 600 PLN,1 km,Hybryda,Automatyczna,SUV,3 283 cm3,254 KM,5,Biały
+Mazda,3,2022,122 500 PLN,2 656 km,Benzyna,Manualna,Sedan,1 998 cm3,149 KM,5,Beżowy
+Mazda,CX-30,2024,155 300 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Inny kolor
+Mazda,3,2024,142 200 PLN,5 km,Benzyna,Automatyczna,Sedan,1 998 cm3,149 KM,5,Czarny
+Mazda,CX-60,2023,259 900 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,191 KM,5,Biały
+Mazda,CX-30,2024,157 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mazda,MX-30,2023,137 900 PLN,2 875 km,Elektryczny,Automatyczna,SUV,,145 KM,4,Zielony
+Mazda,3,2024,141 200 PLN,5 km,Benzyna,Automatyczna,Sedan,1 998 cm3,149 KM,5,Inny kolor
+Mazda,6,2016,37 900 PLN,205 211 km,Diesel,Automatyczna,Kombi,2 191 cm3,184 KM,5,Biały
+Mazda,6,2010,27 900 PLN,237 000 km,Benzyna,Manualna,Kombi,1 999 cm3,155 KM,5,Szary
+Mazda,6,2006,3 333 PLN,252 000 km,Benzyna,Manualna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,6,2013,8 900 PLN,178 000 km,Diesel,Manualna,Kombi,2 191 cm3,150 KM,5,Szary
+Mazda,BT-50,2009,10 900 PLN,139 000 km,Diesel,Manualna,SUV,2 500 cm3,143 KM,4,Czarny
+Mazda,CX-30,2024,167 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Inny kolor
+Mazda,6,2014,57 000 PLN,143 618 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,4,Czerwony
+Mazda,3,2022,114 990 PLN,11 500 km,Benzyna,Manualna,Kompakt,1 998 cm3,150 KM,5,Czerwony
+Mazda,CX-30,2019,94 990 PLN,82 100 km,Benzyna,Manualna,SUV,1 998 cm3,122 KM,5,Szary
+Mazda,3,2017,64 900 PLN,89 434 km,Benzyna,Manualna,Sedan,1 998 cm3,120 KM,4,Czarny
+Mazda,CX-3,2018,44 900 PLN,137 000 km,Benzyna,Manualna,SUV,1 998 cm3,120 KM,5,Szary
+Mazda,3,2019,77 900 PLN,76 500 km,Benzyna,Automatyczna,Sedan,1 998 cm3,186 KM,4,Szary
+Mazda,6,2005,6 700 PLN,326 500 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,147 KM,5,Szary
+Mazda,CX-5,2022,135 000 PLN,24 072 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Szary
+Mazda,CX-5,2022,157 900 PLN,19 366 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Zielony
+Mazda,CX-30,2024,156 600 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mazda,6,2022,109 900 PLN,19 418 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,4,Niebieski
+Mazda,CX-5,2018,107 000 PLN,61 334 km,Benzyna,Automatyczna,SUV,1 998 cm3,160 KM,5,Czerwony
+Mazda,3,2004,10 000 PLN,171 517 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,4,Granatowy
+Mazda,2,2023,103 900 PLN,4 248 km,Hybryda,Automatyczna,Kompakt,1 490 cm3,92 KM,5,Brązowy
+Mazda,2,2009,11 900 PLN,157 000 km,Benzyna,Manualna,Auta miejskie,1 349 cm3,75 KM,3,Czarny
+Mazda,CX-5,2013,47 990 PLN,170 000 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Czarny
+Mazda,3,2015,46 500 PLN,129 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,MX-30,2023,119 900 PLN,11 500 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Szary
+Mazda,2,2021,54 900 PLN,139 000 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,75 KM,5,Niebieski
+Mazda,CX-60,2023,246 620 PLN,1 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Biały
+Mazda,CX-5,2022,150 000 PLN,12 785 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Czarny
+Mazda,6,2009,22 900 PLN,199 000 km,Benzyna,Manualna,Sedan,1 798 cm3,120 KM,5,Srebrny
+Mazda,6,2015,59 000 PLN,130 000 km,Benzyna,Manualna,Sedan,1 998 cm3,165 KM,4,Srebrny
+Mazda,CX-5,2016,63 900 PLN,221 000 km,Benzyna,Manualna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2024,203 800 PLN,10 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,3,2018,65 900 PLN,43 600 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Czerwony
+Mazda,6,2016,75 000 PLN,132 000 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,5,Granatowy
+Mazda,MX-5,2021,99 900 PLN,53 000 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,184 KM,2,Czarny
+Mazda,3,2018,62 000 PLN,115 586 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,120 KM,5,Niebieski
+Mazda,5,2014,35 990 PLN,204 700 km,Benzyna,Automatyczna,Minivan,1 999 cm3,145 KM,5,Czarny
+Mazda,CX-5,2024,185 400 PLN,10 km,Benzyna,Automatyczna,SUV,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2020,99 900 PLN,30 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Błękitny
+Mazda,MX-30,2021,84 000 PLN,43 000 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Szary
+Mazda,CX-30,2021,103 000 PLN,22 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mazda,CX-30,2021,42 000 PLN,41 014 km,Benzyna,Automatyczna,SUV,2 499 cm3,227 KM,4,Czarny
+Mazda,6,2016,58 900 PLN,243 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Szary
+Mazda,3,2009,12 800 PLN,126 019 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,4,Niebieski
+Mazda,CX-5,2018,105 900 PLN,123 000 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Czerwony
+Mazda,6,2018,94 900 PLN,73 354 km,Benzyna,Manualna,Kombi,1 998 cm3,165 KM,4,Biały
+Mazda,CX-3,2020,79 990 PLN,77 000 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Biały
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Mazda,Premacy,2001,2 900 PLN,186 000 km,Benzyna,Manualna,Minivan,1 840 cm3,100 KM,5,Inny kolor
+Mazda,CX-5,2024,206 800 PLN,5 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Szary
+Mazda,CX-30,2019,89 900 PLN,113 000 km,Hybryda,Manualna,SUV,1 998 cm3,122 KM,5,Szary
+Mazda,MX-30,2022,114 900 PLN,9 297 km,Elektryczny,Automatyczna,SUV,,145 KM,5,Szary
+Mazda,2,2009,6 150 PLN,235 000 km,Diesel,Manualna,Auta małe,1 399 cm3,68 KM,5,Szary
+Mazda,3,2013,32 500 PLN,165 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,149 KM,4,Szary
+Mazda,CX-5,2012,48 900 PLN,209 000 km,Diesel,Automatyczna,SUV,2 191 cm3,175 KM,5,Niebieski
+Mazda,3,2020,94 900 PLN,11 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,122 KM,5,Bordowy
+Mazda,3,2019,88 900 PLN,17 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,120 KM,5,Bordowy
+Mazda,CX-30,2024,170 300 PLN,5 km,Benzyna,Automatyczna,SUV,1 998 cm3,186 KM,5,Beżowy
+Mazda,6,2023,137 900 PLN,12 725 km,Benzyna,Automatyczna,Sedan,1 998 cm3,165 KM,5,Czerwony
+Mazda,CX-5,2023,189 300 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,194 KM,5,Czerwony
+Mazda,CX-5,2023,189 300 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,194 KM,5,Czerwony
+Mazda,MX-5,2024,156 700 PLN,5 km,Benzyna,Manualna,Kabriolet,1 499 cm3,132 KM,2,Czerwony
+Mazda,CX-5,2023,178 300 PLN,1 km,Benzyna,Automatyczna,SUV,2 489 cm3,194 KM,5,Inny kolor
+Mazda,6,2007,15 900 PLN,286 200 km,Diesel,Manualna,Kompakt,1 998 cm3,140 KM,5,Inny kolor
+Mazda,6,2017,75 000 PLN,86 700 km,Benzyna,Automatyczna,Kombi,2 488 cm3,192 KM,4,Granatowy
+Mazda,5,2011,37 900 PLN,82 500 km,Benzyna,Manualna,Minivan,1 999 cm3,150 KM,5,Szary
+Mazda,6,2008,22 000 PLN,240 000 km,Benzyna,Manualna,Sedan,2 488 cm3,170 KM,5,Biały
+Mazda,6,2015,51 900 PLN,221 000 km,Benzyna,Automatyczna,Sedan,2 488 cm3,192 KM,4,Bordowy
+Mazda,CX-3,2019,62 500 PLN,39 555 km,Benzyna,Manualna,SUV,1 998 cm3,121 KM,5,Czarny
+Mazda,CX-60,2022,224 900 PLN,29 354 km,Diesel,Automatyczna,SUV,3 283 cm3,254 KM,5,Czerwony
+Mazda,Seria B,2005,25 900 PLN,319 125 km,Diesel,Manualna,SUV,2 499 cm3,109 KM,4,Zielony
+Mazda,MX-5,2021,76 000 PLN,60 000 km,Benzyna,Automatyczna,Kabriolet,1 998 cm3,184 KM,2,Granatowy
+Mazda,3,2015,43 900 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 998 cm3,120 KM,5,Bordowy
+Mazda,CX-5,2024,204 800 PLN,10 km,Benzyna,Automatyczna,SUV,2 488 cm3,194 KM,5,Biały
+Mazda,CX-7,2008,25 000 PLN,160 000 km,Benzyna,Manualna,SUV,2 261 cm3,260 KM,5,Inny kolor
+Mazda,CX-3,2017,55 500 PLN,212 640 km,Benzyna,Automatyczna,SUV,1 998 cm3,120 KM,5,Szary
+Mazda,2,2022,73 999 PLN,21 500 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,90 KM,5,Inny kolor
+Mazda,5,2014,22 900 PLN,171 265 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary

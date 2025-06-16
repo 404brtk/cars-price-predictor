@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Volkswagen,Passat,2020,78 900 PLN,194 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat CC,2009,28 900 PLN,204 371 km,Benzyna,Manualna,Sedan,1 798 cm3,160 KM,4,Czarny
+Volkswagen,Touareg,2006,8 900 PLN,293 000 km,Diesel,Manualna,SUV,2 460 cm3,174 KM,5,Szary
+Volkswagen,Polo,2009,9 900 PLN,211 564 km,Benzyna+LPG,Manualna,Auta miejskie,1 198 cm3,60 KM,5,Czarny
+Volkswagen,Caddy,2018,69 000 PLN,192 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Biały
+Volkswagen,Passat,2017,86 500 PLN,100 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Biały
+Volkswagen,Golf Plus,2009,21 500 PLN,186 000 km,Diesel,Manualna,Minivan,1 968 cm3,110 KM,5,Czarny
+Volkswagen,Golf,2009,24 000 PLN,83 851 km,Benzyna,Manualna,Kompakt,1 390 cm3,122 KM,5,Srebrny
+Volkswagen,Golf,2007,13 500 PLN,308 807 km,Diesel,Manualna,Kompakt,1 896 cm3,90 KM,5,Srebrny
+Volkswagen,New Beetle,1998,6 900 PLN,159 000 km,Diesel,Manualna,Coupe,1 896 cm3,90 KM,2,Żółty
+Volkswagen,Sharan,2011,34 900 PLN,345 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Touareg,2004,45 000 PLN,203 000 km,Benzyna+LPG,Automatyczna,SUV,4 172 cm3,310 KM,5,Srebrny
+Volkswagen,Passat Alltrack,2013,47 900 PLN,274 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,177 KM,5,Szary
+Volkswagen,Golf,2020,92 000 PLN,106 700 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Tiguan,2019,95 000 PLN,258 000 km,Diesel,Automatyczna,SUV,1 968 cm3,240 KM,5,Szary
+Volkswagen,T-Roc,2023,112 000 PLN,53 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Passat,2019,79 950 PLN,183 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,4,Biały
+Volkswagen,Golf,2024,196 900 PLN,1 km,Benzyna,,Coupe,1 984 cm3,,,Czerwony
+Volkswagen,Golf,2009,22 000 PLN,229 251 km,Benzyna,Manualna,Kompakt,1 390 cm3,160 KM,5,Czarny
+Volkswagen,Passat,2013,32 500 PLN,160 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Szary
+Volkswagen,Golf,2019,74 500 PLN,63 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Szary
+Volkswagen,T-Roc,2019,99 900 PLN,64 507 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Brązowy
+Volkswagen,Tiguan,2019,137 900 PLN,54 113 km,Diesel,Automatyczna,SUV,1 968 cm3,240 KM,5,Srebrny
+Volkswagen,Passat,2001,10 900 PLN,247 440 km,Benzyna,Manualna,Sedan,1 781 cm3,150 KM,5,Niebieski
+Volkswagen,Golf,2017,85 900 PLN,48 250 km,Benzyna,Automatyczna,Kompakt,1 395 cm3,125 KM,5,Granatowy
+Volkswagen,Golf,2002,5 000 PLN,354 745 km,Diesel,Manualna,Kombi,1 896 cm3,100 KM,5,Granatowy
+Volkswagen,Passat,2001,5 200 PLN,342 660 km,Diesel,Automatyczna,Kombi,1 896 cm3,130 KM,5,Srebrny
+Volkswagen,Crafter,2009,57 900 PLN,224 685 km,Diesel,Manualna,Minivan,2 461 cm3,136 KM,4,Biały
+Volkswagen,Golf,1996,11 600 PLN,89 000 km,Benzyna,Manualna,Auta małe,1 391 cm3,60 KM,5,Fioletowy
+Volkswagen,T-Roc,2020,69 500 PLN,45 000 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Czerwony
+Volkswagen,Tiguan,2012,43 900 PLN,117 000 km,Benzyna,Manualna,SUV,1 390 cm3,160 KM,5,Biały
+Volkswagen,Polo,2010,23 800 PLN,157 458 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Czarny
+Volkswagen,Golf,2009,18 500 PLN,167 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,80 KM,5,Szary
+Volkswagen,Tiguan Allspace,2019,148 000 PLN,104 000 km,Diesel,Automatyczna,SUV,1 968 cm3,240 KM,5,Srebrny
+Volkswagen,Polo,2007,14 950 PLN,83 998 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,80 KM,5,Granatowy
+Volkswagen,T-Cross,2024,108 900 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,116 KM,5,Czerwony
+Volkswagen,Taigo,2023,119 000 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Volkswagen,T-Cross,2023,105 000 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Srebrny
+Volkswagen,ID.3,2023,199 900 PLN,1 km,Elektryczny,Automatyczna,Kompakt,,204 KM,5,Biały
+Volkswagen,Taigo,2023,121 500 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Volkswagen,Passat,2024,178 000 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,T-Cross,2023,105 000 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Srebrny
+Volkswagen,Golf,2024,114 790 PLN,1 km,Diesel,Manualna,Kombi,1 968 cm3,116 KM,5,Szary
+Volkswagen,Arteon,2020,144 800 PLN,75 292 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Szary
+Volkswagen,T-Roc,2024,143 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czerwony
+Volkswagen,Passat,2021,135 800 PLN,25 810 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czarny
+Volkswagen,Tiguan,2010,35 900 PLN,181 030 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Volkswagen,New Beetle,2003,9 000 PLN,249 000 km,Diesel,Manualna,Auta małe,1 896 cm3,100 KM,2,Srebrny
+Volkswagen,Passat,2007,16 500 PLN,307 623 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2013,36 500 PLN,263 600 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Szary
+Volkswagen,Polo,2008,14 400 PLN,171 605 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Inny kolor
+Volkswagen,Passat,2014,47 000 PLN,241 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,Polo,2014,36 900 PLN,52 660 km,Benzyna,Manualna,Kompakt,999 cm3,75 KM,5,Inny kolor
+Volkswagen,New Beetle,2000,7 300 PLN,230 500 km,Benzyna+LPG,Manualna,Auta małe,1 984 cm3,115 KM,3,Zielony
+Volkswagen,Golf Plus,2011,27 900 PLN,247 131 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Volkswagen,Touran,2020,84 000 PLN,180 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,115 KM,5,Czarny
+Volkswagen,Polo,2011,20 400 PLN,189 021 km,Diesel,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Niebieski
+Volkswagen,Tiguan,2021,119 990 PLN,62 000 km,Benzyna+LPG,Automatyczna,SUV,1 984 cm3,190 KM,5,Zielony
+Volkswagen,Caddy,2019,54 800 PLN,200 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Polo,2012,24 500 PLN,168 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Niebieski
+Volkswagen,Passat,2013,36 900 PLN,240 250 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Touran,2019,85 500 PLN,76 500 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2011,32 000 PLN,260 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Tiguan,2019,110 000 PLN,94 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Caddy,2010,40 000 PLN,383 000 km,Diesel,Manualna,Minivan,1 896 cm3,104 KM,5,Srebrny
+Volkswagen,Polo,2000,2 500 PLN,270 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Granatowy
+Volkswagen,Tiguan,2012,49 999 PLN,165 900 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Garbus,1969,24 999 PLN,83 000 km,Benzyna,Manualna,Kabriolet,1 476 cm3,44 KM,2,Czerwony
+Volkswagen,Passat,2020,109 800 PLN,114 018 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Volkswagen,Tiguan,2021,149 800 PLN,72 374 km,Benzyna,Automatyczna,SUV,1 984 cm3,245 KM,5,Czerwony
+Volkswagen,California,2019,240 000 PLN,172 000 km,Diesel,Automatyczna,Minivan,2 000 cm3,204 KM,4,Biały
+Volkswagen,Scirocco,2011,24 999 PLN,173 000 km,Benzyna,Manualna,Coupe,1 390 cm3,122 KM,3,Szary
+Volkswagen,Passat,2015,53 700 PLN,238 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Czarny
+Volkswagen,Passat,2013,24 900 PLN,460 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Granatowy
+Volkswagen,Passat,2020,49 000 PLN,140 258 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2013,35 750 PLN,176 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Touran,2021,129 500 PLN,39 253 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2018,47 900 PLN,181 700 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Biały
+Volkswagen,Passat,2007,18 500 PLN,192 459 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Polo,2014,34 599 PLN,58 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,5,Biały
+Volkswagen,Passat,2013,27 900 PLN,270 000 km,Benzyna,Manualna,Kombi,1 390 cm3,160 KM,5,Czarny
+Volkswagen,Passat,2016,68 500 PLN,135 560 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,4,Czarny
+Volkswagen,Polo,2016,33 900 PLN,132 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,90 KM,5,Niebieski
+Volkswagen,Passat,2011,47 000 PLN,77 052 km,Benzyna,Automatyczna,Kombi,1 984 cm3,211 KM,5,Czarny
+Volkswagen,Passat,2016,42 900 PLN,248 800 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Granatowy
+Volkswagen,Arteon,2024,208 339,9 800 km,Benzyna,Automatyczna,Coupe,1 984 cm3,190 KM,5,Szary
+Volkswagen,Passat,2003,3 000 PLN,593 000 km,Diesel,Manualna,Sedan,1 896 cm3,130 KM,5,Granatowy
+Volkswagen,Caddy,2009,16 900 PLN,218 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Bordowy
+Volkswagen,Polo,2011,19 999 PLN,16 854 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,69 KM,5,Srebrny
+Volkswagen,Golf,2010,17 900 PLN,225 000 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Czarny
+Volkswagen,Passat,1999,1 700 PLN,294 000 km,Benzyna,Manualna,Sedan,1 781 cm3,125 KM,4,Zielony
+Volkswagen,Golf Plus,2007,18 500 PLN,139 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Niebieski
+Volkswagen,Arteon,2022,208 990,18 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Szary
+Volkswagen,Jetta,2015,35 800 PLN,182 600 km,Benzyna,Manualna,Sedan,1 197 cm3,105 KM,4,Biały
+Volkswagen,Caddy,2019,89 800 PLN,145 740 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,4,Biały
+Volkswagen,Golf,2013,35 900 PLN,204 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Golf,2018,57 500 PLN,138 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czarny
+Volkswagen,Passat,2020,139 800 PLN,83 586 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Niebieski
+Volkswagen,Golf,2020,94 900 PLN,32 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Żółty
+Volkswagen,Arteon,2021,173 800 PLN,37 091 km,Diesel,Automatyczna,Kompakt,1 968 cm3,200 KM,5,Czarny
+Volkswagen,Passat,2008,8 500 PLN,319 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Golf,1996,3 600 PLN,273 000 km,Diesel,Manualna,Kompakt,1 896 cm3,64 KM,5,Biały
+Volkswagen,Sharan,2011,35 900 PLN,288 163 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Arteon,2017,129 499 PLN,93 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,240 KM,5,Bordowy
+Volkswagen,Polo,2011,15 800 PLN,221 700 km,Diesel,Manualna,Kompakt,1 199 cm3,75 KM,5,Szary
+Volkswagen,ID.3,2023,154 900 PLN,4 700 km,Elektryczny,Automatyczna,Kompakt,,204 KM,5,Czerwony
+Volkswagen,Atlas,2021,146 000 PLN,76 500 km,Benzyna,Automatyczna,SUV,1 984 cm3,235 KM,5,Biały
+Volkswagen,Golf,2019,59 900 PLN,42 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Volkswagen,Passat,2020,85 000 PLN,63 842 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Transporter,2016,104 900 PLN,86 500 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,4,Biały
+Volkswagen,Touran,2009,22 900 PLN,212 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Volkswagen,Arteon,2020,109 900 PLN,109 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2024,249 000 PLN,4 928 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,319 KM,5,Biały
+Volkswagen,Caddy,2017,53 900 PLN,135 800 km,Diesel,Manualna,Minivan,1 968 cm3,75 KM,5,Biały
+Volkswagen,Multivan,2006,48 900 PLN,295 000 km,Diesel,Manualna,Minivan,1 900 cm3,102 KM,4,Szary
+Volkswagen,Tiguan,2014,59 900 PLN,127 500 km,Diesel,Automatyczna,SUV,1 968 cm3,177 KM,5,Biały
+Volkswagen,Golf,2012,28 800 PLN,326 800 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Granatowy
+Volkswagen,Passat,2009,24 500 PLN,259 982 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Multivan,2024,285 900 PLN,5 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2015,54 900 PLN,250 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Volkswagen,CC,2017,78 000 PLN,138 793 km,Benzyna,Automatyczna,Sedan,1 984 cm3,211 KM,4,Czarny
+Volkswagen,Sharan,2011,32 500 PLN,296 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Arteon,2024,197 380,13 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Szary
+Volkswagen,Tiguan,2015,59 900 PLN,161 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Volkswagen,Multivan,2024,414 510 PLN,1 100 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Srebrny
+Volkswagen,Passat,2011,27 900 PLN,239 900 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Golf Sportsvan,2015,44 900 PLN,46 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Inny kolor
+Volkswagen,Golf,2006,11 800 PLN,173 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Srebrny
+Volkswagen,Golf Sportsvan,2015,44 900 PLN,46 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Inny kolor
+Volkswagen,Golf,2006,11 800 PLN,173 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Srebrny
+Volkswagen,Crafter,2018,69 900 PLN,270 000 km,Diesel,Automatyczna,Minivan,2 000 cm3,177 KM,5,Niebieski
+Volkswagen,Polo,2017,35 900 PLN,129 400 km,Benzyna,Manualna,Kompakt,1 197 cm3,90 KM,5,Biały
+Volkswagen,Passat,2021,79 900 PLN,112 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf Plus,2005,15 900 PLN,104 700 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Srebrny
+Volkswagen,California,2024,328 900 PLN,5 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Czerwony
+Volkswagen,Amarok,2024,292 999 PLN,5 km,Diesel,Automatyczna,SUV,2 998 cm3,240 KM,4,Czarny
+Volkswagen,Passat CC,2011,39 000 PLN,274 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,4,Czarny
+Volkswagen,Golf Plus,2008,14 600 PLN,264 300 km,Benzyna+LPG,Manualna,Auta miejskie,1 595 cm3,102 KM,5,Czarny
+Volkswagen,Passat CC,2009,26 000 PLN,215 693 km,Benzyna,Automatyczna,Sedan,1 984 cm3,200 KM,4,Srebrny
+Volkswagen,Golf Plus,2009,22 900 PLN,160 085 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Biały
+Volkswagen,Tiguan,2015,39 900 PLN,250 565 km,Benzyna,Manualna,SUV,1 395 cm3,125 KM,5,Biały
+Volkswagen,Passat,2021,58 500 PLN,80 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,4,Czerwony
+Volkswagen,Jetta,2014,37 000 PLN,196 927 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,4,Srebrny
+Volkswagen,up!,2016,26 700 PLN,116 000 km,Benzyna,Automatyczna,Auta małe,999 cm3,60 KM,5,Biały
+Volkswagen,Passat,2017,120 000 PLN,153 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Szary
+Volkswagen,Passat,2017,74 900 PLN,229 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,240 KM,5,Granatowy
+Volkswagen,T-Roc,2021,104 000 PLN,15 648 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Passat,2008,14 800 PLN,350 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,4,Niebieski
+Volkswagen,Golf,2011,28 900 PLN,239 000 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,3,Szary
+Volkswagen,Touran,2008,16 999 PLN,174 448 km,Benzyna,Automatyczna,Minivan,1 390 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2017,82 900 PLN,213 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Volkswagen,Tiguan,2016,59 900 PLN,198 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Granatowy
+Volkswagen,Scirocco,2010,29 300 PLN,248 000 km,Diesel,Manualna,Coupe,1 968 cm3,140 KM,3,Czarny
+Volkswagen,Touran,2024,155 830 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Golf,2024,132 900 PLN,1 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Szary
+Volkswagen,Polo,2024,154 650 PLN,1 km,Benzyna,Automatyczna,Auta małe,1 984 cm3,206 KM,5,Czerwony
+Volkswagen,Caddy,2024,193 900 PLN,5 km,Diesel,Automatyczna,Minivan,1 968 cm3,122 KM,5,Beżowy
+Volkswagen,Amarok,2024,308 899,2 000 km,Diesel,Automatyczna,SUV,2 993 cm3,240 KM,4,Niebieski
+Volkswagen,Amarok,2024,185 900 PLN,5 km,Diesel,Manualna,SUV,1 968 cm3,170 KM,5,Biały
+Volkswagen,Caddy,2024,151 999,5 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Amarok,2024,185 900 PLN,5 km,Diesel,Manualna,SUV,1 968 cm3,170 KM,5,Biały
+Volkswagen,Caddy,2024,151 999,5 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Passat,2018,88 900 PLN,158 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Biały
+Volkswagen,Passat,2010,10 000 PLN,390 000 km,Diesel,Manualna,Sedan,1 968 cm3,110 KM,4,Biały
+Volkswagen,Golf,2017,49 500 PLN,112 686 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Złoty
+Volkswagen,Golf,2015,51 500 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Czarny
+Volkswagen,Passat,2018,60 500 PLN,166 500 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,4,Czarny
+Volkswagen,Touran,2013,38 499 PLN,200 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Niebieski
+Volkswagen,Multivan,2015,159 900 PLN,178 800 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Szary
+Volkswagen,Caddy,2013,34 900 PLN,260 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,102 KM,5,Zielony
+Volkswagen,Passat,2024,239 000 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Czerwony
+Volkswagen,Amarok,2023,249 900,9 000 km,Diesel,Automatyczna,Minivan,2 993 cm3,240 KM,4,Niebieski
+Volkswagen,Polo,2007,11 000 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,64 KM,5,Czarny
+Volkswagen,Caddy,2024,142 399,5 km,Benzyna,Manualna,Minivan,1 498 cm3,114 KM,5,Szary
+Volkswagen,Touran,2014,38 999 PLN,154 032 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Volkswagen,Tiguan,2020,109 300 PLN,48 356 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,4,Czarny
+Volkswagen,Passat,2015,45 900 PLN,252 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Szary
+Volkswagen,Golf,2017,63 999 PLN,136 685 km,Benzyna,Manualna,Kompakt,1 984 cm3,220 KM,5,Biały
+Volkswagen,Passat,2016,68 900 PLN,182 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Volkswagen,Golf,2019,56 900 PLN,82 012 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Szary
+Volkswagen,Jetta,2007,8 900 PLN,253 000 km,Diesel,Automatyczna,Sedan,1 896 cm3,105 KM,4,Srebrny
+Volkswagen,Touran,2024,160 600 PLN,1 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,ID.5,2022,169 900 PLN,31 673 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Czerwony
+Volkswagen,Passat,2002,8 750 PLN,390 900 km,Diesel,Manualna,Kombi,1 896 cm3,130 KM,5,Szary
+Volkswagen,Polo,2018,55 000 PLN,53 400 km,Benzyna,Automatyczna,Auta małe,999 cm3,95 KM,5,Czerwony
+Volkswagen,Multivan,2017,149 000 PLN,90 000 km,Diesel,Automatyczna,Minivan,1 998 cm3,204 KM,4,Czarny
+Volkswagen,California,2024,369 000 PLN,66 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,4,Żółty
+Volkswagen,Tiguan Allspace,2024,195 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Volkswagen,Arteon,2023,199 900 PLN,3 992 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Niebieski
+Volkswagen,Taigo,2024,103 300 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,116 KM,5,Czerwony
+Volkswagen,Tiguan Allspace,2024,194 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Srebrny
+Volkswagen,Passat,2024,186 900 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Tiguan Allspace,2024,221 380 PLN,1 km,Diesel,Automatyczna,SUV,1 968 cm3,193 KM,5,Czarny
+Volkswagen,Golf,2024,129 900 PLN,1 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,Caddy,2024,126 900 PLN,5 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Multivan,2024,293 500,5 km,Benzyna,Automatyczna,Minivan,1 984 cm3,204 KM,5,Srebrny
+Volkswagen,Passat,2020,69 999,146 900 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2018,69 977 PLN,74 831 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Szary
+Volkswagen,Arteon,2020,137 000 PLN,98 000 km,Benzyna,Automatyczna,Coupe,1 984 cm3,190 KM,5,Złoty
+Volkswagen,Amarok,2024,189 407,1 km,Diesel,Manualna,SUV,1 996 cm3,170 KM,4,Biały
+Volkswagen,Transporter,2009,31 500 PLN,327 000 km,Diesel,Manualna,Minivan,2 460 cm3,130 KM,4,Srebrny
+Volkswagen,Bora,1999,3 950 PLN,315 500 km,Diesel,Manualna,Sedan,1 896 cm3,90 KM,4,Zielony
+Volkswagen,Jetta,2016,34 700 PLN,230 000 km,Diesel,Manualna,Sedan,1 968 cm3,110 KM,4,Biały
+Volkswagen,Multivan,2018,189 900 PLN,138 850 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Czarny
+Volkswagen,Golf,2011,42 500 PLN,325 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Tiguan,2019,95 000 PLN,85 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Niebieski
+Volkswagen,Touareg,2021,269 000 PLN,95 000 km,Hybryda Plug-in,Automatyczna,SUV,2 995 cm3,340 KM,5,Inny kolor
+Volkswagen,Golf Plus,2009,24 000 PLN,175 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 595 cm3,102 KM,5,Granatowy
+Volkswagen,Tiguan,2019,129 000 PLN,168 000 km,Diesel,Automatyczna,SUV,1 968 cm3,239 KM,5,Czarny
+Volkswagen,Caravelle,2000,23 000 PLN,460 000 km,Diesel,Manualna,Minivan,2 461 cm3,102 KM,4,Czarny
+Volkswagen,Golf,2024,120 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Czerwony
+Volkswagen,Passat,2020,99 900 PLN,62 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2024,140 000 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 498 cm3,150 KM,,Niebieski
+Volkswagen,Arteon,2024,192 000 PLN,1 km,Benzyna,Manualna,Kombi,1 984 cm3,,5,Biały
+Volkswagen,Golf,2024,195 200 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,265 KM,5,Czarny
+Volkswagen,Passat,2013,45 999 PLN,229 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Tiguan,2008,32 999 PLN,285 388 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Biały
+Volkswagen,Touran,2024,169 310 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Polo,2024,146 900 PLN,1 km,Benzyna,Automatyczna,Auta małe,1 984 cm3,206 KM,5,Szary
+Volkswagen,Tiguan,2022,139 900 PLN,40 820 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Tiguan,2021,149 900 PLN,71 000 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Niebieski
+Volkswagen,Golf,2010,23 900 PLN,216 080 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Volkswagen,Golf Sportsvan,2015,43 800 PLN,165 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Inny kolor
+Volkswagen,Arteon,2018,114 900 PLN,107 200 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,280 KM,5,Czarny
+Volkswagen,Passat,2016,59 900 PLN,141 000 km,Benzyna,Manualna,Sedan,1 798 cm3,180 KM,4,Niebieski
+Volkswagen,California,2024,320 900 PLN,3 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,177 KM,4,Srebrny
+Volkswagen,Caddy,2011,25 900 PLN,238 212 km,Diesel,Manualna,Minivan,1 598 cm3,102 KM,4,Biały
+Volkswagen,up!,2012,16 500 PLN,176 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,75 KM,3,Czerwony
+Volkswagen,Scirocco,2010,32 999 PLN,141 711 km,Benzyna,Manualna,Coupe,1 390 cm3,122 KM,3,Inny kolor
+Volkswagen,Polo,2018,56 400 PLN,65 500 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Volkswagen,Golf,2016,58 450 PLN,151 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Crafter,2018,104 919 PLN,236 000 km,Diesel,Manualna,Minivan,1 968 cm3,177 KM,3,Biały
+Volkswagen,Multivan,2003,45 000 PLN,298 000 km,Diesel,Manualna,Minivan,2 461 cm3,174 KM,5,Srebrny
+Volkswagen,CC,2015,52 900 PLN,191 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,211 KM,4,Biały
+Volkswagen,Tiguan,2014,58 999 PLN,157 350 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Biały
+Volkswagen,Polo,2024,147 900 PLN,1 km,Benzyna,Automatyczna,Auta małe,1 984 cm3,206 KM,5,Niebieski
+Volkswagen,Passat,2020,76 900 PLN,196 897 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Szary
+Volkswagen,Golf,2004,7 500 PLN,278 088 km,Benzyna,Manualna,Auta małe,1 390 cm3,75 KM,5,Srebrny
+Volkswagen,Tiguan,2015,56 900 PLN,99 060 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Szary
+Volkswagen,Tiguan,2017,89 600 PLN,99 150 km,Benzyna,Automatyczna,SUV,1 395 cm3,149 KM,5,Szary
+Volkswagen,Passat,2011,29 900 PLN,217 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Jetta,2011,25 499 PLN,146 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,4,Granatowy
+Volkswagen,Passat,2008,15 900 PLN,283 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Golf,2009,18 900 PLN,189 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Srebrny
+Volkswagen,Caddy,2017,59 900 PLN,172 752 km,Diesel,Manualna,Kombi,1 968 cm3,102 KM,5,Szary
+Volkswagen,T-Roc,2023,189 900 PLN,2 985 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Czerwony
+Volkswagen,Tiguan,2009,24 700 PLN,367 300 km,Diesel,Manualna,SUV,1 968 cm3,170 KM,5,Beżowy
+Volkswagen,Golf,2021,69 900 PLN,164 300 km,Benzyna,Automatyczna,Kombi,1 498 cm3,130 KM,5,Szary
+Volkswagen,Passat,2020,88 560 PLN,112 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Inny kolor
+Volkswagen,Golf,2018,33 000 PLN,289 551 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Volkswagen,Arteon,2022,187 999,27 800 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Czarny
+Volkswagen,Golf,2002,6 250 PLN,296 000 km,Diesel,Manualna,Kompakt,1 896 cm3,90 KM,5,Srebrny
+Volkswagen,Golf,2017,93 000 PLN,94 000 km,Benzyna,Automatyczna,Kompakt,1 395 cm3,125 KM,5,Biały
+Volkswagen,ID. Buzz,2024,235 900 PLN,5 km,Elektryczny,Automatyczna,Minivan,,204 KM,5,Srebrny
+Volkswagen,Sharan,2004,9 900 PLN,390 500 km,Diesel,Manualna,Minivan,1 896 cm3,130 KM,5,Srebrny
+Volkswagen,Multivan,2024,295 802,10 km,Benzyna,Automatyczna,Minivan,1 984 cm3,204 KM,5,Srebrny
+Volkswagen,Tiguan,2021,125 000 PLN,79 500 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Caddy,2015,15 900 PLN,240 000 km,Diesel,Manualna,Minivan,1 598 cm3,102 KM,5,Szary
+Volkswagen,Passat,2015,49 900 PLN,180 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Beżowy
+Volkswagen,Polo,2012,37 900 PLN,155 000 km,Benzyna,Automatyczna,Auta miejskie,1 390 cm3,180 KM,5,Czarny
+Volkswagen,Golf,2018,53 500 PLN,146 800 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Granatowy
+Volkswagen,Golf,2017,57 900 PLN,162 427 km,Benzyna,Automatyczna,Kombi,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Tiguan,2015,72 900 PLN,99 486 km,Diesel,Automatyczna,SUV,1 968 cm3,177 KM,5,Brązowy
+Volkswagen,Caravelle,2016,115 500 PLN,40 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Bordowy
+Volkswagen,Passat CC,2009,40 900 PLN,342 000 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,4,Czarny
+Volkswagen,Golf,2018,60 800 PLN,150 000 km,Benzyna,Automatyczna,Kombi,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2012,38 500 PLN,171 280 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Czarny
+Volkswagen,Golf,2010,35 000 PLN,201 440 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Golf,2003,4 000 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,75 KM,5,Srebrny
+Volkswagen,Touran,2006,8 000 PLN,335 678 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Passat,2021,124 900 PLN,119 242 km,Diesel,Automatyczna,Sedan,1 968 cm3,200 KM,4,Biały
+Volkswagen,Multivan,2013,74 999 PLN,331 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,199 KM,5,Srebrny
+Volkswagen,Passat,2010,13 600 PLN,260 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Granatowy
+Volkswagen,Passat,2021,94 800 PLN,180 355 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Niebieski
+Volkswagen,Beetle,2014,23 500 PLN,128 764 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,3,Biały
+Volkswagen,Tiguan,2023,169 900 PLN,7 348 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Szary
+Volkswagen,Touran,2008,17 900 PLN,214 000 km,Benzyna,Manualna,Minivan,1 390 cm3,140 KM,5,Srebrny
+Volkswagen,Golf,2020,80 000 PLN,62 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Passat,2020,52 500 PLN,140 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,4,Szary
+Volkswagen,Tiguan,2021,155 900 PLN,76 042 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Czarny
+Volkswagen,Tiguan,2016,79 500 PLN,173 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2018,50 000 PLN,130 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Volkswagen,Arteon,2024,204 400 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2014,28 900 PLN,259 910 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Granatowy
+Volkswagen,Golf,2008,22 900 PLN,246 500 km,Benzyna,Manualna,Auta małe,1 595 cm3,102 KM,5,Szary
+Volkswagen,Touran,2017,66 900 PLN,51 000 km,Benzyna,Manualna,Minivan,1 395 cm3,150 KM,5,Złoty
+Volkswagen,Amarok,2024,293 970 PLN,5 km,Diesel,Automatyczna,SUV,2 993 cm3,240 KM,5,Czarny
+Volkswagen,Touran,2008,23 900 PLN,192 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Volkswagen,Golf,2005,7 450 PLN,322 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,3,Niebieski
+Volkswagen,Tiguan,2018,82 000 PLN,162 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Beżowy
+Volkswagen,Caddy,2024,119 900 PLN,5 km,Benzyna,Manualna,Minivan,1 498 cm3,115 KM,5,Biały
+Volkswagen,Golf,2013,35 000 PLN,252 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Czarny
+Volkswagen,Golf Sportsvan,2014,43 900 PLN,144 000 km,Benzyna,Manualna,Minivan,1 395 cm3,125 KM,5,Czarny
+Volkswagen,Tiguan,2013,46 500 PLN,290 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Beżowy
+Volkswagen,Taigo,2022,99 999 PLN,23 428 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czerwony
+Volkswagen,Arteon,2022,205 000,24 900 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Biały
+Volkswagen,Passat,2006,16 500 PLN,304 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,140 KM,4,Czarny
+Volkswagen,Golf,2005,22 900 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,200 KM,3,Czerwony
+Volkswagen,Touareg,2004,18 500 PLN,246 325 km,Diesel,Automatyczna,SUV,2 460 cm3,174 KM,5,Czarny
+Volkswagen,Passat,2015,50 900 PLN,184 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Inny kolor
+Volkswagen,Arteon,2024,195 200 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Polo,2011,24 990 PLN,120 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Czarny
+Volkswagen,Passat,2024,233 900 PLN,5 km,Benzyna,Automatyczna,Kombi,1 984 cm3,264 KM,5,Szary
+Volkswagen,CC,2010,26 500 PLN,360 000 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,4,Czarny
+Volkswagen,Golf,2019,52 000 PLN,139 380 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Złoty
+Volkswagen,Passat,2020,73 900 PLN,159 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Touran,2010,23 000 PLN,270 000 km,Benzyna,Automatyczna,Minivan,1 390 cm3,140 KM,5,Szary
+Volkswagen,Polo,2014,27 900 PLN,166 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,60 KM,5,Biały
+Volkswagen,Golf,2024,129 900 PLN,5 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Tiguan,2017,76 000 PLN,93 600 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Beżowy
+Volkswagen,Golf,2010,23 500 PLN,305 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,160 KM,5,Szary
+Volkswagen,Passat,2021,69 900 PLN,177 626 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,4,Srebrny
+Volkswagen,T-Roc,2020,119 000 PLN,28 249 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Passat,2024,189 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2020,74 900 PLN,167 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Polo,2004,7 900 PLN,157 645 km,Benzyna,Manualna,Auta małe,1 390 cm3,75 KM,5,Srebrny
+Volkswagen,T-Roc,2019,129 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,300 KM,5,Niebieski
+Volkswagen,Passat,2016,55 900 PLN,223 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2016,53 000 PLN,245 500 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Szary
+Volkswagen,up!,2016,17 900 PLN,145 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Volkswagen,Golf,2001,3 950 PLN,332 656 km,Benzyna,Manualna,Coupe,1 390 cm3,75 KM,3,Czarny
+Volkswagen,Passat,2006,8 500 PLN,369 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,4,Czarny
+Volkswagen,Golf,2017,38 500 PLN,212 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czerwony
+Volkswagen,Tiguan,2015,32 900 PLN,252 220 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Golf,2016,49 900 PLN,222 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Inny kolor
+Volkswagen,Polo,2013,28 900 PLN,105 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,3,Czerwony
+Volkswagen,Caddy,2012,42 000 PLN,210 000 km,Diesel,Manualna,Minivan,1 598 cm3,102 KM,5,Zielony
+Volkswagen,Golf,2009,22 900 PLN,108 431 km,Benzyna,Manualna,Kompakt,1 390 cm3,122 KM,3,Biały
+Volkswagen,Arteon,2024,189 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,T-Roc,2024,164 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Szary
+Volkswagen,Caddy,2006,2 000 PLN,330 000 km,Benzyna+CNG,Manualna,Kombi,1 984 cm3,109 KM,5,Biały
+Volkswagen,Jetta,2014,40 900 PLN,89 070 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,4,Granatowy
+Volkswagen,Touareg,2009,35 900 PLN,279 900 km,Diesel,Automatyczna,SUV,2 967 cm3,240 KM,5,Czarny
+Volkswagen,up!,2020,29 998,108 765 km,Benzyna,Manualna,Auta małe,999 cm3,65 KM,3,Biały
+Volkswagen,Passat,2022,149 900 PLN,26 374 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Szary
+Volkswagen,Touran,2019,94 900 PLN,112 413 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Biały
+Volkswagen,Tiguan,2014,49 900 PLN,251 855 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Biały
+Volkswagen,T-Roc,2020,84 900 PLN,82 700 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Tiguan,2021,124 900 PLN,86 199 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,T-Roc,2020,85 900 PLN,98 500 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Golf,2013,27 500 PLN,216 260 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Tiguan,2016,83 900 PLN,192 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Volkswagen,Garbus,1969,21 000 PLN,22 300 km,Benzyna,Manualna,Auta małe,1 192 cm3,38 KM,3,Inny kolor
+Volkswagen,Arteon,2018,121 999 PLN,140 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Złoty
+Volkswagen,Golf,2011,23 500 PLN,187 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Volkswagen,Passat,2017,63 900 PLN,237 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2018,58 400 PLN,179 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Golf,2009,17 000 PLN,239 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,122 KM,3,Srebrny
+Volkswagen,Polo,2011,24 400 PLN,146 360 km,Diesel,Manualna,Kompakt,1 598 cm3,90 KM,5,Granatowy
+Volkswagen,Phaeton,2009,33 900 PLN,387 000 km,Diesel,Automatyczna,Sedan,2 967 cm3,240 KM,4,Czarny
+Volkswagen,Passat,2008,11 900 PLN,432 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Passat,2011,28 900 PLN,270 000 km,Benzyna,Automatyczna,Kombi,1 390 cm3,122 KM,5,Szary
+Volkswagen,Passat,2008,11 900 PLN,432 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Passat,2011,28 900 PLN,270 000 km,Benzyna,Automatyczna,Kombi,1 390 cm3,122 KM,5,Szary
+Volkswagen,Golf,2019,49 900 PLN,168 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Bordowy
+Volkswagen,Passat,2018,86 999 PLN,123 982 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Szary
+Volkswagen,Tiguan,2020,123 900 PLN,122 922 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Volkswagen,Passat,2009,37 999 PLN,262 250 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,4,Złoty
+Volkswagen,Golf,2016,22 700 PLN,228 500 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Srebrny
+Volkswagen,up!,2014,18 900 PLN,87 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Srebrny
+Volkswagen,Golf,2019,50 900 PLN,246 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,Golf,2006,7 700 PLN,180 828 km,Benzyna,Manualna,Auta małe,1 390 cm3,75 KM,3,Niebieski
+Volkswagen,Arteon,2020,129 900 PLN,82 141 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Złoty
+Volkswagen,Arteon,2021,142 900 PLN,74 903 km,Diesel,Automatyczna,Kombi,1 968 cm3,199 KM,5,Srebrny
+Volkswagen,Passat,2014,56 900 PLN,154 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Passat,2015,47 700 PLN,190 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Polo,2013,42 000 PLN,61 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Brązowy
+Volkswagen,Touran,2010,16 900 PLN,221 000 km,Benzyna+LPG,Manualna,Minivan,1 390 cm3,140 KM,5,Niebieski
+Volkswagen,Karmann Ghia,1969,85 590 PLN,63 000 km,Benzyna,Manualna,Coupe,1 300 cm3,40 KM,2,Niebieski
+Volkswagen,Polo,2011,26 900 PLN,136 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Srebrny
+Volkswagen,Golf,2018,77 200 PLN,56 000 km,Benzyna,Automatyczna,Auta miejskie,1 984 cm3,310 KM,5,Szary
+Volkswagen,Taigo,2023,125 000 PLN,6 525 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2024,123 900 PLN,5 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2024,161 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,Golf,2024,150 900 PLN,5 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2009,24 900 PLN,168 000 km,Benzyna,Manualna,Kombi,1 984 cm3,210 KM,5,Czerwony
+Volkswagen,Golf,2024,127 900 PLN,5 km,Diesel,Manualna,Kombi,1 968 cm3,116 KM,5,Niebieski
+Volkswagen,Passat,2024,189 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2014,35 000 PLN,218 000 km,Diesel,Manualna,Kombi,1 968 cm3,149 KM,4,Czarny
+Volkswagen,Golf,2016,54 000 PLN,105 781 km,Benzyna,Manualna,Auta małe,1 395 cm3,125 KM,5,Srebrny
+Volkswagen,CC,2015,56 000 PLN,195 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,211 KM,4,Niebieski
+Volkswagen,Polo,2024,146 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,206 KM,5,Czerwony
+Volkswagen,Tiguan,2010,39 990 PLN,150 000 km,Benzyna,Manualna,SUV,1 984 cm3,200 KM,5,Czarny
+Volkswagen,Passat,2021,95 900 PLN,185 643 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Czarny
+Volkswagen,Tiguan,2010,39 990 PLN,150 000 km,Benzyna,Manualna,SUV,1 984 cm3,200 KM,5,Czarny
+Volkswagen,Passat,2021,95 900 PLN,185 643 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Czarny
+Volkswagen,Golf,2024,203 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,,,Biały
+Volkswagen,Passat,2020,88 900 PLN,137 631 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Touran,2024,159 990 PLN,5 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Taigo,2024,109 900 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,116 KM,5,Srebrny
+Volkswagen,Golf,2024,199 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,,,Czerwony
+Volkswagen,Passat,2021,79 800 PLN,187 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,4,Szary
+Volkswagen,Passat,2014,39 900 PLN,195 300 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,California,2024,352 997,1 km,Diesel,Automatyczna,Minivan,1 968 cm3,177 KM,5,Szary
+Volkswagen,Passat,2024,183 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Volkswagen,Arteon,2021,149 900 PLN,55 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Biały
+Volkswagen,Passat,2015,68 900 PLN,181 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,Tiguan,2017,72 000 PLN,185 000 km,Benzyna,Automatyczna,SUV,1 395 cm3,150 KM,5,Czerwony
+Volkswagen,Tiguan,2018,99 800 PLN,103 100 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Volkswagen,up!,2016,27 900 PLN,79 400 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Czerwony
+Volkswagen,Golf,2016,34 700 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Granatowy
+Volkswagen,Passat,2007,12 900 PLN,346 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,4,Czarny
+Volkswagen,Caddy,2019,52 000 PLN,285 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Granatowy
+Volkswagen,ID.5,2022,159 190 PLN,31 000 km,Elektryczny,Automatyczna,Kompakt,,204 KM,5,Szary
+Volkswagen,Tiguan,2024,207 000 PLN,10 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Volkswagen,T-Roc,2024,135 710 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,up!,2014,27 200 PLN,72 500 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Biały
+Volkswagen,Caravelle,2014,67 900 PLN,330 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,4,Czarny
+Volkswagen,Passat,2016,59 900 PLN,145 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,4,Brązowy
+Volkswagen,Scirocco,2008,16 700 PLN,197 720 km,Benzyna,Manualna,Coupe,1 390 cm3,160 KM,3,Czerwony
+Volkswagen,Passat,2015,69 900 PLN,168 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,4,Złoty
+Volkswagen,T-Cross,2024,118 800 PLN,676 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,Amarok,2016,85 200 PLN,151 076 km,Diesel,Automatyczna,SUV,2 967 cm3,224 KM,4,Biały
+Volkswagen,Passat,2024,205 000 PLN,3 499 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Srebrny
+Volkswagen,Tiguan,2013,44 000 PLN,117 854 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Czarny
+Volkswagen,Caddy,2008,11 500 PLN,194 000 km,Diesel,Manualna,Minivan,1 968 cm3,70 KM,4,Czerwony
+Volkswagen,Passat,2010,22 500 PLN,321 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Tiguan,2018,71 000 PLN,100 000 km,Benzyna,Manualna,SUV,1 395 cm3,125 KM,5,Złoty
+Volkswagen,Golf,2014,37 000 PLN,192 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Volkswagen,Polo,2016,36 800 PLN,138 089 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,90 KM,5,Szary
+Volkswagen,Tiguan,2020,101 900 PLN,87 421 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Tiguan,2024,234 900 PLN,10 km,Diesel,Automatyczna,SUV,2 000 cm3,150 KM,5,Czerwony
+Volkswagen,Passat,2000,7 900 PLN,430 000 km,Diesel,Manualna,Kombi,1 896 cm3,90 KM,5,Srebrny
+Volkswagen,Polo,2009,16 900 PLN,40 936 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Szary
+Volkswagen,Golf,2020,54 900 PLN,142 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Beżowy
+Volkswagen,T-Cross,2020,77 750 PLN,59 000 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Biały
+Volkswagen,Passat,2024,233 900 PLN,5 km,Benzyna,Automatyczna,Kombi,1 984 cm3,265 KM,5,Szary
+Volkswagen,Golf,2011,14 900 PLN,340 000 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Czerwony
+Volkswagen,Polo,2019,57 900 PLN,49 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Biały
+Volkswagen,Golf,2009,17 500 PLN,338 500 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Arteon,2017,125 900 PLN,81 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,280 KM,5,Biały
+Volkswagen,Passat,2024,185 000 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2024,164 600 PLN,10 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,Polo,2024,99 160 PLN,10 km,Benzyna,Automatyczna,Kompakt,999 cm3,95 KM,5,Niebieski
+Volkswagen,Golf,2023,127 900 PLN,10 730 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2007,12 500 PLN,326 000 km,Diesel,Manualna,Kombi,1 968 cm3,136 KM,5,Błękitny
+Volkswagen,Multivan,2023,303 760,5 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Granatowy
+Volkswagen,Multivan,2010,86 990 PLN,108 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Brązowy
+Volkswagen,Scirocco,2013,42 000 PLN,94 228 km,Diesel,Manualna,Coupe,1 968 cm3,140 KM,3,Biały
+Volkswagen,T-Cross,2022,99 900 PLN,24 445 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Passat,2018,69 900 PLN,155 551 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,4,Czarny
+Volkswagen,Polo,2024,143 570 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,206 KM,5,Czarny
+Volkswagen,up!,2016,33 900 PLN,114 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Volkswagen,Tiguan,2019,105 900 PLN,84 029 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2023,79 900 PLN,10 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Volkswagen,Passat,2019,92 900 PLN,59 309 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,4,Niebieski
+Volkswagen,Scirocco,2009,27 500 PLN,201 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,160 KM,3,Czerwony
+Volkswagen,Tiguan Allspace,2024,222 940 PLN,1 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Volkswagen,Scirocco,2009,27 500 PLN,201 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,160 KM,3,Czerwony
+Volkswagen,Tiguan Allspace,2024,222 940 PLN,1 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Volkswagen,Tiguan Allspace,2019,126 900 PLN,148 250 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Volkswagen,Touran,2008,15 800 PLN,315 500 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Golf Sportsvan,2019,49 950 PLN,223 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,115 KM,5,Czarny
+Volkswagen,Polo,1982,23 000 PLN,156 000 km,Benzyna,Manualna,Coupe,1 272 cm3,75 KM,3,Czerwony
+Volkswagen,Touran,2007,15 700 PLN,206 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Szary
+Volkswagen,Passat,2015,48 200 PLN,243 471 km,Diesel,Manualna,Sedan,1 598 cm3,120 KM,4,Srebrny
+Volkswagen,Passat,2018,106 900 PLN,111 520 km,Diesel,Automatyczna,Sedan,1 968 cm3,240 KM,4,Srebrny
+Volkswagen,Caddy,2021,85 900 PLN,93 354 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,CC,2012,62 000 PLN,229 500 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,4,Biały
+Volkswagen,Passat,2016,55 000 PLN,270 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Volkswagen,Passat,2019,92 900 PLN,182 300 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Volkswagen,Caravelle,2021,209 900 PLN,93 400 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Beżowy
+Volkswagen,Passat,2019,84 900 PLN,185 550 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Volkswagen,Taigo,2023,104 900 PLN,2 258 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Volkswagen,Polo,2002,6 500 PLN,252 035 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,3,Srebrny
+Volkswagen,Passat,2018,58 500 PLN,302 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Touran,2012,31 900 PLN,220 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Passat,2015,62 500 PLN,194 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Czarny
+Volkswagen,Golf,2013,30 000 PLN,216 600 km,Benzyna,Automatyczna,Auta małe,1 395 cm3,122 KM,5,Biały
+Volkswagen,Passat,2013,35 000 PLN,204 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Biały
+Volkswagen,Touran,2017,78 900 PLN,88 000 km,Benzyna,Manualna,Minivan,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2015,27 000 PLN,213 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Golf,2024,116 590 PLN,5 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Szary
+Volkswagen,Polo,2024,116 000 PLN,5 km,Benzyna,Automatyczna,Kompakt,999 cm3,116 KM,5,Srebrny
+Volkswagen,Golf,2024,169 000 PLN,5 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Polo,2024,101 900 PLN,5 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Volkswagen,Bora,1998,5 900 PLN,233 975 km,Benzyna+LPG,Manualna,Sedan,1 595 cm3,100 KM,4,Srebrny
+Volkswagen,Golf,2015,32 000 PLN,12 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,86 KM,5,Czarny
+Volkswagen,Passat,2019,68 900 PLN,125 703 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2015,35 000 PLN,204 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Golf,2007,15 300 PLN,207 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,140 KM,5,Srebrny
+Volkswagen,Caddy,2017,31 500 PLN,299 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Multivan,2024,259 999 PLN,5 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Czerwony
+Volkswagen,Passat,2010,22 900 PLN,248 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Szary
+Volkswagen,Polo,2009,14 000 PLN,242 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,75 KM,5,Srebrny
+Volkswagen,Tiguan,2017,78 000 PLN,174 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Szary
+Volkswagen,Sharan,2019,95 000 PLN,154 346 km,Diesel,Automatyczna,Minivan,1 968 cm3,177 KM,5,Biały
+Volkswagen,Polo,2008,4 300 PLN,236 900 km,Diesel,Manualna,Kompakt,1 422 cm3,70 KM,5,Czarny
+Volkswagen,Golf,2017,61 900 PLN,43 000 km,Benzyna,Automatyczna,Kompakt,1 395 cm3,125 KM,3,Szary
+Volkswagen,Golf,2012,27 999 PLN,171 508 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,3,Czarny
+Volkswagen,Passat,2014,38 990 PLN,250 340 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Golf,2022,109 000 PLN,9 350 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Biały
+Volkswagen,Tiguan,2013,52 500 PLN,154 000 km,Benzyna,Manualna,SUV,1 390 cm3,122 KM,5,Szary
+Volkswagen,Caddy,2014,35 900 PLN,204 184 km,Diesel,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Volkswagen,Touran,2018,63 000 PLN,274 319 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Niebieski
+Volkswagen,Multivan,2023,305 899,16 900 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,4,Szary
+Volkswagen,Touareg,2013,95 000 PLN,201 112 km,Diesel,Automatyczna,SUV,4 134 cm3,340 KM,5,Biały
+Volkswagen,Taigo,2023,89 000 PLN,6 000 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Biały
+Volkswagen,Passat,2017,53 900 PLN,175 000 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Czarny
+Volkswagen,Arteon,2021,169 900 PLN,34 536 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Biały
+Volkswagen,Golf,2020,64 900 PLN,173 898 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2020,114 900 PLN,116 445 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Czarny
+Volkswagen,T-Roc,2019,89 800 PLN,51 115 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czerwony
+Volkswagen,Golf,2019,65 900 PLN,69 209 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,130 KM,5,Srebrny
+Volkswagen,Polo,2016,54 612 PLN,152 584 km,Benzyna,Manualna,Kompakt,1 798 cm3,192 KM,3,Biały
+Volkswagen,Passat,2016,58 900 PLN,203 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Tiguan,2017,95 500 PLN,83 600 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2020,90 900 PLN,38 900 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Złoty
+Volkswagen,CC,2015,49 900 PLN,145 000 km,Benzyna,Automatyczna,Sedan,1 390 cm3,160 KM,4,Biały
+Volkswagen,Tiguan,2019,97 500 PLN,37 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Tiguan,2022,168 000 PLN,61 000 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Niebieski
+Volkswagen,Touran,2006,11 000 PLN,305 370 km,Diesel,Manualna,Minivan,1 896 cm3,90 KM,5,Czarny
+Volkswagen,Touran,2006,14 900 PLN,236 600 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Czarny
+Volkswagen,Caddy,2023,111 900,25 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Szary
+Volkswagen,Touran,2007,16 500 PLN,288 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Srebrny
+Volkswagen,Polo,2008,12 000 PLN,216 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,3,Srebrny
+Volkswagen,Tiguan,2020,95 000 PLN,96 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Volkswagen,Touran,2007,19 800 PLN,255 000 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Volkswagen,Polo,2005,9 450 PLN,109 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,64 KM,5,Czarny
+Volkswagen,Polo,2008,12 900 PLN,147 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,80 KM,5,Granatowy
+Volkswagen,Caddy,2010,20 500 PLN,475 000 km,Diesel,Manualna,Minivan,1 896 cm3,104 KM,5,Srebrny
+Volkswagen,Polo,2010,18 900 PLN,213 800 km,Benzyna,Manualna,Auta małe,1 197 cm3,105 KM,5,Pomarańczowy
+Volkswagen,T-Roc,2024,140 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Golf Plus,2011,28 000 PLN,245 341 km,Diesel,Automatyczna,Auta miejskie,1 598 cm3,105 KM,5,Szary
+Volkswagen,Golf,2015,45 900 PLN,74 600 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,105 KM,5,Srebrny
+Volkswagen,Passat,2019,85 900 PLN,144 214 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Volkswagen,Arteon,2021,184 900 PLN,78 877 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Niebieski
+Volkswagen,Arteon,2023,199 999 PLN,15 832 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Szary
+Volkswagen,Touran,2024,147 600 PLN,1 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,T-Roc,2023,119 000 PLN,15 900 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2018,79 950 PLN,119 000 km,Benzyna,Automatyczna,Auta małe,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Jetta,2012,26 500 PLN,235 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,4,Czarny
+Volkswagen,Polo,2013,26 500 PLN,119 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,69 KM,5,Czarny
+Volkswagen,Passat,2002,5 900 PLN,350 000 km,Diesel,Manualna,Kombi,1 896 cm3,100 KM,5,Czarny
+Volkswagen,Passat,2016,79 500 PLN,240 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Czarny
+Volkswagen,Fox,2005,6 100 PLN,125 300 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,55 KM,3,Niebieski
+Volkswagen,Passat,2021,78 800 PLN,42 000 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Szary
+Volkswagen,Passat,2016,64 900 PLN,215 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Volkswagen,Polo,2007,22 900 PLN,85 000 km,Benzyna,Automatyczna,Kompakt,1 390 cm3,80 KM,5,Czarny
+Volkswagen,Golf,2024,109 900 PLN,5 km,Benzyna,Manualna,Kombi,1 498 cm3,116 KM,5,Biały
+Volkswagen,Passat,2018,59 900 PLN,148 000 km,Diesel,Manualna,Sedan,1 598 cm3,120 KM,4,Szary
+Volkswagen,Polo,2007,8 800 PLN,179 670 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,5,Czerwony
+Volkswagen,Tiguan,2024,184 500 PLN,5 km,Diesel,Automatyczna,SUV,1 989 cm3,150 KM,5,Szary
+Volkswagen,Golf,2019,64 900 PLN,73 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,130 KM,5,Granatowy
+Volkswagen,Golf,2020,17 466 EUR,84 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,3,Szary
+Volkswagen,Caddy,2018,39 900 PLN,294 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Jetta,2008,15 900 PLN,231 680 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,4,Szary
+Volkswagen,T-Roc,2024,119 999 PLN,12 km,Benzyna,Manualna,Kabriolet,1 498 cm3,150 KM,5,Szary
+Volkswagen,Golf Plus,2007,10 900 PLN,314 900 km,Benzyna,Manualna,Minivan,1 390 cm3,122 KM,5,Inny kolor
+Volkswagen,Touran,2014,40 500 PLN,187 139 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Arteon,2024,190 900 PLN,1 500 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Srebrny
+Volkswagen,Taigo,2023,99 900 PLN,1 500 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Beżowy
+Volkswagen,Tiguan,2012,43 900 PLN,190 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Niebieski
+Volkswagen,Tiguan,2009,35 000 PLN,323 000 km,Diesel,Manualna,SUV,1 968 cm3,170 KM,5,Biały
+Volkswagen,Arteon,2020,149 000 PLN,57 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Biały
+Volkswagen,Touran,2008,16 500 PLN,176 000 km,Benzyna,Manualna,Minivan,1 390 cm3,140 KM,5,Bordowy
+Volkswagen,Passat,2018,56 900 PLN,206 800 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Passat,2020,87 900 PLN,177 994 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Czarny
+Volkswagen,Golf Sportsvan,2014,29 800 PLN,98 182 km,Diesel,Manualna,Minivan,1 598 cm3,110 KM,5,Biały
+Volkswagen,Touran,2019,57 900 PLN,159 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,115 KM,5,Czarny
+Volkswagen,Passat,2011,27 900 PLN,183 000 km,Benzyna,Manualna,Kombi,1 390 cm3,122 KM,5,Szary
+Volkswagen,Tiguan,2024,163 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2005,15 900 PLN,143 985 km,Benzyna,Manualna,Auta miejskie,1 595 cm3,102 KM,5,Szary
+Volkswagen,Golf,2024,105 900 PLN,5 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Szary
+Volkswagen,Caddy,2019,55 500 PLN,191 300 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Polo,2024,95 600 PLN,5 km,Benzyna,Automatyczna,Kompakt,999 cm3,95 KM,5,Srebrny
+Volkswagen,Golf,2024,146 900 PLN,5 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Szary
+Volkswagen,New Beetle,2006,12 900 PLN,160 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,2,Srebrny
+Volkswagen,Polo,2014,16 300 PLN,112 250 km,Diesel,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Szary
+Volkswagen,Tiguan,2010,32 900 PLN,158 000 km,Benzyna,Manualna,SUV,1 395 cm3,149 KM,5,Szary
+Volkswagen,Passat,2023,145 900 PLN,17 200 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2004,9 900 PLN,201 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,90 KM,5,Srebrny
+Volkswagen,Passat,2010,6 999 PLN,316 698 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Volkswagen,Golf,2012,15 900 PLN,306 007 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Granatowy
+Volkswagen,Multivan,1981,64 999 PLN,235 200 km,Diesel,Manualna,Minivan,1 900 cm3,75 KM,4,Czerwony
+Volkswagen,Golf,2024,109 900 PLN,1 km,Diesel,Manualna,Kombi,,,,Biały
+Volkswagen,Caddy,2024,233 386 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,122 KM,5,Czarny
+Volkswagen,Caddy,2024,155 905 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,122 KM,5,Biały
+Volkswagen,Passat,2011,32 000 PLN,228 500 km,Benzyna,Automatyczna,Kombi,1 984 cm3,211 KM,5,Granatowy
+Volkswagen,Touareg,2011,63 900 PLN,198 265 km,Diesel,Automatyczna,SUV,2 967 cm3,245 KM,5,Czarny
+Volkswagen,Arteon,2017,79 950 PLN,320 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,240 KM,5,Czarny
+Volkswagen,Passat,2015,46 800 PLN,169 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Volkswagen,Arteon,2018,99 800 PLN,92 185 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Biały
+Volkswagen,Golf,2020,56 800 PLN,120 100 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Beżowy
+Volkswagen,Tiguan,2013,49 900 PLN,155 000 km,Benzyna,Manualna,SUV,1 390 cm3,160 KM,5,Biały
+Volkswagen,Passat,2013,40 590 PLN,270 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Srebrny
+Volkswagen,T-Roc,2018,71 500 PLN,184 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Volkswagen,Passat,2008,14 900 PLN,299 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Srebrny
+Volkswagen,Arteon,2022,139 000 PLN,80 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Amarok,2024,312 284 PLN,1 km,Diesel,Automatyczna,Kombi,2 993 cm3,240 KM,4,Niebieski
+Volkswagen,Golf,2010,16 900 PLN,209 000 km,Benzyna,Automatyczna,Kombi,1 390 cm3,122 KM,5,Szary
+Volkswagen,Tiguan,2017,87 900 PLN,191 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Inny kolor
+Volkswagen,Caddy,2012,32 900 PLN,150 500 km,Benzyna,Manualna,Minivan,1 197 cm3,105 KM,5,Brązowy
+Volkswagen,Passat,2005,10 900 PLN,267 000 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Niebieski
+Volkswagen,Caravelle,2017,85 900 PLN,295 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Biały
+Volkswagen,Caddy,2020,47 777 PLN,181 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Golf,2022,179 000 PLN,74 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,320 KM,5,Niebieski
+Volkswagen,Polo,2012,19 800 PLN,157 900 km,Diesel,Manualna,Auta małe,1 199 cm3,75 KM,3,Biały
+Volkswagen,Caddy,2019,53 333 PLN,178 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Biały
+Volkswagen,Polo,2022,71 900 PLN,11 700 km,Benzyna,Manualna,Auta miejskie,999 cm3,110 KM,5,Czarny
+Volkswagen,Touareg,2008,33 900 PLN,277 000 km,Diesel,Automatyczna,SUV,2 967 cm3,224 KM,5,Czarny
+Volkswagen,Caddy,2005,19 300 PLN,212 500 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Niebieski
+Volkswagen,Polo,2008,11 900 PLN,132 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,60 KM,3,Inny kolor
+Volkswagen,Caddy,2009,21 900 PLN,240 500 km,Benzyna,Manualna,Minivan,1 390 cm3,80 KM,5,Czerwony
+Volkswagen,T-Roc,2024,129 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Szary
+Volkswagen,Golf,2011,20 900 PLN,190 000 km,Benzyna,Manualna,Minivan,1 395 cm3,140 KM,5,Biały
+Volkswagen,T-Roc,2022,120 540 PLN,27 700 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Amarok,2024,289 898 PLN,1 km,Diesel,Automatyczna,Kombi,2 993 cm3,240 KM,4,Czerwony
+Volkswagen,Amarok,2024,312 284 PLN,1 km,Diesel,Automatyczna,Kombi,2 993 cm3,240 KM,4,Niebieski
+Volkswagen,Multivan,2006,73 000 PLN,293 500 km,Diesel,Manualna,Minivan,2 461 cm3,174 KM,4,Czarny
+Volkswagen,Golf,2017,56 900 PLN,91 700 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Szary
+Volkswagen,Caravelle,2024,225 285 PLN,1 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,4,Szary
+Volkswagen,Golf,2019,74 444 PLN,175 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Szary
+Volkswagen,Caddy,2019,69 000 PLN,240 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,4,Szary
+Volkswagen,Golf,2006,24 400 PLN,186 000 km,Benzyna,Manualna,Kompakt,3 189 cm3,250 KM,5,Srebrny
+Volkswagen,T-Roc,2023,172 500 PLN,32 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,300 KM,5,Szary
+Volkswagen,Golf,2018,44 000 PLN,138 200 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Inny kolor
+Volkswagen,Golf Plus,2009,22 900 PLN,92 000 km,Benzyna,Manualna,Minivan,1 390 cm3,122 KM,5,Szary
+Volkswagen,Jetta,2007,13 500 PLN,147 000 km,Benzyna,Manualna,Sedan,1 595 cm3,102 KM,4,Czarny
+Volkswagen,Tiguan,2015,48 900 PLN,215 000 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Brązowy
+Volkswagen,Polo,2014,18 900 PLN,181 026 km,Diesel,Manualna,Auta miejskie,1 422 cm3,90 KM,5,Biały
+Volkswagen,Tiguan,2013,45 900 PLN,236 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,T-Roc,2019,89 999 PLN,85 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2016,46 900 PLN,124 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,110 KM,5,Niebieski
+Volkswagen,Tiguan,2018,78 400 PLN,177 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,Tiguan,2010,39 999 PLN,142 000 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Szary
+Volkswagen,Touran,2005,9 999 PLN,284 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Bora,2004,6 000 PLN,347 000 km,Diesel,Manualna,Sedan,1 896 cm3,68 KM,4,Granatowy
+Volkswagen,Passat,2005,19 999 PLN,377 898 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czerwony
+Volkswagen,Tiguan,2017,94 000 PLN,165 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2010,41 000 PLN,215 000 km,Benzyna,Automatyczna,Auta małe,1 984 cm3,210 KM,3,Szary
+Volkswagen,Golf Plus,2009,20 000 PLN,230 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Polo,2005,5 900 PLN,262 573 km,Diesel,Manualna,Auta małe,1 896 cm3,100 KM,5,Czarny
+Volkswagen,Polo,2016,33 900 PLN,137 500 km,Diesel,Manualna,Kompakt,1 422 cm3,90 KM,5,Szary
+Volkswagen,Passat,2012,35 000 PLN,270 200 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,5,Inny kolor
+Volkswagen,Tiguan Allspace,2018,98 000 PLN,138 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2015,51 900 PLN,172 300 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Golf,2009,18 900 PLN,145 989 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Srebrny
+Volkswagen,Golf,2007,16 900 PLN,241 200 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Czarny
+Volkswagen,Golf,2009,18 900 PLN,189 000 km,Benzyna,Manualna,Kombi,1 390 cm3,170 KM,5,Czarny
+Volkswagen,Golf,2009,18 900 PLN,189 000 km,Benzyna,Manualna,Kombi,1 390 cm3,170 KM,5,Czarny
+Volkswagen,Passat,2013,33 000 PLN,333 000 km,Benzyna,Manualna,Sedan,1 984 cm3,211 KM,5,Srebrny
+Volkswagen,Passat,2004,10 500 PLN,260 000 km,Benzyna,Manualna,Sedan,1 984 cm3,130 KM,4,Srebrny
+Volkswagen,Caddy,2001,4 700 PLN,324 324 km,Diesel,Manualna,Minivan,1 896 cm3,75 KM,4,Srebrny
+Volkswagen,Caddy,2017,69 900 PLN,195 850 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Biały
+Volkswagen,Passat,2008,12 500 PLN,319 419 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Golf,2018,99 900 PLN,66 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,245 KM,5,Niebieski
+Volkswagen,Passat,2012,37 500 PLN,159 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,211 KM,5,Szary
+Volkswagen,Touran,2019,84 000 PLN,49 800 km,Benzyna,Manualna,Minivan,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Caddy,2011,29 900 PLN,250 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2015,45 900 PLN,230 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Touran,2019,59 999 PLN,158 700 km,Diesel,Automatyczna,Minivan,1 598 cm3,115 KM,5,Srebrny
+Volkswagen,Golf,2019,75 900 PLN,226 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,183 KM,5,Biały
+Volkswagen,Arteon,2022,241 000 PLN,31 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,320 KM,5,Niebieski
+Volkswagen,Tiguan,2021,119 000 PLN,92 500 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2012,35 900 PLN,290 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Zielony
+Volkswagen,Touran,2007,9 000 PLN,351 691 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Tiguan,2012,46 500 PLN,208 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Polo,2019,22 900 PLN,140 000 km,Diesel,Manualna,Kompakt,1 598 cm3,95 KM,5,Biały
+Volkswagen,Passat,2014,39 500 PLN,236 200 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Sharan,2011,34 700 PLN,257 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Polo,2010,21 900 PLN,178 966 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,5,Inny kolor
+Volkswagen,Golf,2017,56 499 PLN,229 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Polo,2015,33 000 PLN,96 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,5,Biały
+Volkswagen,Polo,2015,31 900 PLN,79 214 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Bordowy
+Volkswagen,Arteon,2020,130 900 PLN,115 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,190 KM,5,Złoty
+Volkswagen,Transporter,2020,131 610 PLN,154 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,149 KM,4,Inny kolor
+Volkswagen,Golf,2010,31 500 PLN,162 500 km,Benzyna,Automatyczna,Auta małe,1 390 cm3,160 KM,5,Srebrny
+Volkswagen,Golf,2019,68 900 PLN,105 380 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Transporter,2018,78 800 PLN,196 760 km,Diesel,Manualna,Kombi,2 000 cm3,150 KM,4,Biały
+Volkswagen,Polo,2011,21 999 PLN,189 076 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,5,Biały
+Volkswagen,Passat,2019,84 900 PLN,169 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Srebrny
+Volkswagen,Polo,2011,21 999 PLN,189 076 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,5,Biały
+Volkswagen,Passat,2019,84 900 PLN,169 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Srebrny
+Volkswagen,T-Roc,2020,103 000 PLN,44 300 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Tiguan,2015,54 300 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 390 cm3,160 KM,5,Brązowy
+Volkswagen,Golf,2018,67 900 PLN,120 100 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2010,26 900 PLN,185 000 km,Benzyna,Automatyczna,Auta małe,1 390 cm3,122 KM,5,Srebrny
+Volkswagen,Multivan,2018,209 000 PLN,152 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,204 KM,5,Inny kolor
+Volkswagen,Polo,2012,25 500 PLN,168 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,105 KM,3,Czerwony
+Volkswagen,Golf,2012,43 500 PLN,176 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Golf Plus,2011,28 999 PLN,243 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Polo,2011,21 900 PLN,194 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Biały
+Volkswagen,Polo,2016,14 900 PLN,148 931 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,5,Szary
+Volkswagen,Touran,2023,175 000 PLN,11 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2010,58 700 PLN,82 000 km,Benzyna,Automatyczna,Auta miejskie,1 984 cm3,300 KM,5,Czarny
+Volkswagen,Caddy,2023,141 500 PLN,73 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Biały
+Volkswagen,Golf,2019,77 900 PLN,85 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Bordowy
+Volkswagen,Golf Plus,2009,22 900 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,122 KM,5,Srebrny
+Volkswagen,Golf,2009,16 700 PLN,188 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Srebrny
+Volkswagen,Touran,2008,23 900 PLN,238 500 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2015,48 900 PLN,252 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Volkswagen,T-Roc,2019,93 900 PLN,71 000 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Scirocco,2011,35 000 PLN,145 000 km,Benzyna,Manualna,Coupe,1 984 cm3,210 KM,3,Brązowy
+Volkswagen,Touran,2014,26 900 PLN,237 929 km,Diesel,Automatyczna,Minivan,1 598 cm3,105 KM,5,Złoty
+Volkswagen,CC,2012,32 500 PLN,149 200 km,Benzyna,Manualna,Sedan,1 390 cm3,160 KM,4,Czarny
+Volkswagen,Transporter,2010,59 900 PLN,271 000 km,Diesel,Manualna,Minivan,1 968 cm3,84 KM,4,Biały
+Volkswagen,Golf Plus,2005,7 900 PLN,198 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Tiguan,2014,44 900 PLN,169 589 km,Benzyna,Manualna,SUV,1 390 cm3,122 KM,5,Brązowy
+Volkswagen,Polo,2013,22 400 PLN,240 000 km,Diesel,Manualna,Auta małe,1 199 cm3,75 KM,5,Srebrny
+Volkswagen,Passat,1999,6 900 PLN,267 000 km,Benzyna+LPG,Manualna,Sedan,1 595 cm3,100 KM,4,Srebrny
+Volkswagen,Tiguan,2018,128 000 PLN,94 500 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2019,26 999 PLN,128 000 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Czarny
+Volkswagen,Passat,2016,54 900 PLN,261 989 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,Passat,2018,68 900 PLN,167 845 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,4,Biały
+Volkswagen,Golf,2018,55 900 PLN,35 600 km,Benzyna,Manualna,Kompakt,999 cm3,85 KM,5,Niebieski
+Volkswagen,Polo,2016,38 000 PLN,73 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Niebieski
+Volkswagen,Passat,2015,57 000 PLN,118 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Szary
+Volkswagen,Multivan,2004,46 900 PLN,281 000 km,Diesel,Manualna,Minivan,2 460 cm3,130 KM,5,Granatowy
+Volkswagen,Tiguan,2017,76 900 PLN,183 000 km,Diesel,Manualna,SUV,1 968 cm3,190 KM,5,Pomarańczowy
+Volkswagen,Passat,2007,19 500 PLN,192 000 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Passat,2015,55 500 PLN,98 800 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Touran,2018,88 700 PLN,115 700 km,Benzyna,Automatyczna,Minivan,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Arteon,2020,138 018,121 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Czerwony
+Volkswagen,T-Roc,2023,135 000 PLN,9 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Tiguan,2017,102 500 PLN,150 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,179 KM,5,Biały
+Volkswagen,Golf,2013,21 500 PLN,314 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Szary
+Volkswagen,Tiguan,2019,85 500 PLN,62 300 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Volkswagen,Arteon,2020,111 000 PLN,102 400 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Szary
+Volkswagen,Polo,2008,12 600 PLN,207 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,69 KM,5,Szary
+Volkswagen,Caddy,2014,39 999 PLN,157 000 km,Diesel,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Volkswagen,Golf,2012,14 400 PLN,149 500 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,3,Niebieski
+Volkswagen,Polo,2012,24 999 PLN,98 120 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,105 KM,3,Czarny
+Volkswagen,Tiguan Allspace,2019,102 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Bordowy
+Volkswagen,Touran,2014,33 900 PLN,271 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Transporter,2016,76 000 PLN,246 700 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,4,Biały
+Volkswagen,Arteon,2020,124 900 PLN,59 600 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2018,79 999 PLN,177 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,4,Brązowy
+Volkswagen,Polo,2007,17 900 PLN,207 000 km,Diesel,Manualna,Auta miejskie,1 896 cm3,130 KM,5,Srebrny
+Volkswagen,Polo,2015,39 999 PLN,198 000 km,Benzyna,Automatyczna,Auta miejskie,1 395 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2018,74 500 PLN,119 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2015,63 900 PLN,252 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Biały
+Volkswagen,Polo,2019,44 500 PLN,74 000 km,Benzyna,Manualna,Kompakt,999 cm3,65 KM,5,Czarny
+Volkswagen,Golf,2012,43 900 PLN,241 500 km,Benzyna,Automatyczna,Auta miejskie,1 984 cm3,211 KM,5,Czarny
+Volkswagen,Passat,2003,12 900 PLN,95 250 km,Benzyna,Manualna,Sedan,1 595 cm3,102 KM,5,Szary
+Volkswagen,T-Roc,2018,98 000 PLN,40 375 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Passat,2003,12 900 PLN,95 250 km,Benzyna,Manualna,Sedan,1 595 cm3,102 KM,5,Szary
+Volkswagen,T-Roc,2018,98 000 PLN,40 375 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Golf,2005,28 000 PLN,219 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,200 KM,5,Niebieski
+Volkswagen,Tiguan,2021,118 000 PLN,62 811 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Caravelle,2018,129 500 PLN,142 700 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2015,64 900 PLN,166 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Złoty
+Volkswagen,Touran,2018,66 800 PLN,199 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,115 KM,5,Szary
+Volkswagen,Golf,2012,24 900 PLN,99 900 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Brązowy
+Volkswagen,Golf,2012,36 900 PLN,232 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Biały
+Volkswagen,Polo,2014,31 900 PLN,104 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,90 KM,5,Czarny
+Volkswagen,Golf Plus,2008,15 699 PLN,149 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Granatowy
+Volkswagen,Golf,2014,37 700 PLN,129 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Biały
+Volkswagen,Polo,2008,9 900 PLN,195 706 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,3,Biały
+Volkswagen,Passat CC,2008,29 397 PLN,198 000 km,Benzyna,Manualna,Coupe,1 798 cm3,160 KM,4,Biały
+Volkswagen,Tiguan,2017,88 000 PLN,168 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Volkswagen,Jetta,2013,29 999 PLN,185 600 km,Benzyna,Manualna,Sedan,1 390 cm3,122 KM,4,Złoty
+Volkswagen,Tiguan,2007,28 900 PLN,245 414 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Golf,2012,19 900 PLN,200 000 km,Diesel,Manualna,Auta małe,1 598 cm3,105 KM,2,Srebrny
+Volkswagen,Polo,2010,21 500 PLN,111 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Czerwony
+Volkswagen,T-Roc,2023,134 900 PLN,8 600 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Touran,2013,17 900 PLN,226 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Granatowy
+Volkswagen,Passat,2006,10 000 PLN,255 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Szary
+Volkswagen,Tiguan,2015,54 999 PLN,76 000 km,Benzyna,Manualna,SUV,1 395 cm3,125 KM,5,Czarny
+Volkswagen,Golf,2019,35 500 PLN,61 141 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Volkswagen,Golf,2018,43 500 PLN,178 832 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Jetta,2015,39 500 PLN,106 000 km,Benzyna,Automatyczna,Sedan,1 797 cm3,170 KM,4,Srebrny
+Volkswagen,CC,2013,35 200 PLN,234 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,211 KM,4,Czarny
+Volkswagen,Golf,2018,76 000 PLN,28 500 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,5,Szary
+Volkswagen,Golf,2009,13 900 PLN,224 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Czarny
+Volkswagen,Touran,2014,37 900 PLN,270 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,105 KM,5,Szary
+Volkswagen,Polo,2010,21 500 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Czarny
+Volkswagen,Golf,2019,48 900 PLN,205 800 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Czarny
+Volkswagen,Golf Sportsvan,2018,16 900 PLN,29 000 km,Benzyna,Automatyczna,Minivan,1 498 cm3,130 KM,5,Błękitny
+Volkswagen,Tiguan,2013,48 900 PLN,230 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,T-Roc,2021,106 499,19 450 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Volkswagen,Golf Plus,2010,16 000 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,122 KM,5,Czarny
+Volkswagen,Tiguan,2013,56 900 PLN,230 000 km,Diesel,Automatyczna,SUV,1 968 cm3,170 KM,5,Biały
+Volkswagen,Passat,2020,94 900 PLN,66 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Volkswagen,Polo,2012,19 500 PLN,170 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,3,Biały
+Volkswagen,Caddy,2018,59 000 PLN,169 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Srebrny
+Volkswagen,CC,2011,37 000 PLN,263 000 km,Diesel,Manualna,Coupe,1 968 cm3,170 KM,4,Biały
+Volkswagen,Amarok,2018,129 150 PLN,189 000 km,Diesel,Automatyczna,SUV,2 967 cm3,258 KM,4,Złoty
+Volkswagen,Tiguan,2022,118 500 PLN,37 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Arteon,2018,106 000 PLN,164 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Biały
+Volkswagen,Passat,2011,24 900 PLN,269 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Scirocco,2016,66 800 PLN,76 000 km,Diesel,Automatyczna,Coupe,1 968 cm3,150 KM,3,Niebieski
+Volkswagen,Transporter,2019,99 900 PLN,121 000 km,Diesel,Manualna,Minivan,1 968 cm3,110 KM,4,Biały
+Volkswagen,Scirocco,2012,34 500 PLN,178 000 km,Benzyna,Manualna,Coupe,1 390 cm3,122 KM,3,Srebrny
+Volkswagen,Tiguan,2016,89 000 PLN,134 600 km,Benzyna,Automatyczna,SUV,1 984 cm3,180 KM,5,Srebrny
+Volkswagen,Golf,2020,59 900 PLN,170 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Volkswagen,Polo,2014,24 600 PLN,158 000 km,Diesel,Manualna,Kompakt,1 422 cm3,90 KM,5,Czarny
+Volkswagen,Transporter,2014,59 000 PLN,320 000 km,Diesel,Manualna,SUV,1 968 cm3,102 KM,4,Srebrny
+Volkswagen,Passat,2019,67 799 PLN,161 320 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2016,47 500 PLN,222 000 km,Diesel,Manualna,Sedan,1 598 cm3,120 KM,4,Beżowy
+Volkswagen,Tiguan,2012,45 900 PLN,190 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Volkswagen,T-Roc,2019,87 500 PLN,65 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Volkswagen,Touran,2015,52 900 PLN,278 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Polo,2012,21 900 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,69 KM,5,Brązowy
+Volkswagen,Polo,2007,8 000 PLN,357 000 km,Diesel,Manualna,Kompakt,1 422 cm3,70 KM,3,Niebieski
+Volkswagen,Golf Plus,2009,25 900 PLN,187 000 km,Benzyna,Manualna,Auta małe,1 595 cm3,102 KM,5,Czarny
+Volkswagen,Passat,2015,53 500 PLN,240 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Sharan,2001,7 500 PLN,424 000 km,Diesel,Manualna,Minivan,1 896 cm3,130 KM,5,Srebrny
+Volkswagen,Polo,2010,13 900 PLN,205 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Pomarańczowy
+Volkswagen,Sharan,2015,64 500 PLN,179 400 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Passat,2017,75 900 PLN,140 050 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Granatowy
+Volkswagen,Passat,2020,85 777 PLN,225 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Volkswagen,Scirocco,2012,48 900 PLN,132 200 km,Benzyna,Automatyczna,Coupe,1 984 cm3,210 KM,3,Czarny
+Volkswagen,Passat,2023,71 900 PLN,37 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Volkswagen,Passat,2007,14 300 PLN,241 300 km,Diesel,Automatyczna,Sedan,1 968 cm3,140 KM,4,Brązowy
+Volkswagen,Passat,2019,75 900 PLN,170 000 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Golf,2024,198 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Czerwony
+Volkswagen,Passat,2015,51 600 PLN,257 635 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Golf,2017,67 000 PLN,93 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Volkswagen,Tiguan,2012,47 900 PLN,172 000 km,Benzyna,Manualna,SUV,1 984 cm3,180 KM,5,Brązowy
+Volkswagen,Passat,2018,36 900 PLN,157 722 km,Diesel,Automatyczna,Kombi,1 968 cm3,240 KM,5,Szary
+Volkswagen,Polo,2011,23 500 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,5,Srebrny
+Volkswagen,Golf,2019,70 000 PLN,112 165 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Passat,2015,69 000 PLN,181 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Biały
+Volkswagen,Touran,2017,78 000 PLN,206 000 km,Benzyna,Automatyczna,Minivan,1 798 cm3,179 KM,5,Beżowy
+Volkswagen,Golf,2018,58 900 PLN,116 300 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Biały
+Volkswagen,Tiguan,2008,36 900 PLN,270 000 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Złoty
+Volkswagen,Touran,2015,47 700 PLN,140 000 km,Benzyna,Automatyczna,Minivan,1 390 cm3,140 KM,5,Biały
+Volkswagen,Polo,2013,12 900 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Srebrny
+Volkswagen,Golf,2021,68 900 PLN,137 800 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Srebrny
+Volkswagen,Multivan,2005,35 000 PLN,336 928 km,Diesel,Automatyczna,Minivan,2 461 cm3,174 KM,5,Czarny
+Volkswagen,Tiguan,2015,69 999 PLN,97 950 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Srebrny
+Volkswagen,Golf,2024,198 500 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Biały
+Volkswagen,Passat,2018,69 900 PLN,238 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Volkswagen,Sharan,2016,94 000 PLN,100 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Szary
+Volkswagen,Passat,2016,67 900 PLN,136 900 km,Benzyna,Manualna,Kombi,1 798 cm3,180 KM,5,Szary
+Volkswagen,Scirocco,2012,34 900 PLN,157 000 km,Benzyna,Manualna,Coupe,1 390 cm3,160 KM,3,Błękitny
+Volkswagen,Golf,2018,39 100 PLN,312 000 km,Diesel,Manualna,Kombi,1 968 cm3,116 KM,5,Szary
+Volkswagen,Golf,2019,64 900 PLN,147 436 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Volkswagen,Passat,2019,58 000 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Volkswagen,CC,2013,42 999 PLN,204 743 km,Benzyna,Automatyczna,Sedan,1 984 cm3,211 KM,4,Biały
+Volkswagen,Tiguan Allspace,2020,99 900 PLN,99 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Volkswagen,Touran,2018,59 000 PLN,105 000 km,Diesel,Manualna,Minivan,1 598 cm3,115 KM,5,Bordowy
+Volkswagen,Passat,2016,74 900 PLN,183 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Volkswagen,Sharan,2021,135 000 PLN,71 000 km,Benzyna,Automatyczna,Minivan,1 395 cm3,150 KM,5,Szary
+Volkswagen,Golf Plus,2011,19 400 PLN,229 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Szary
+Volkswagen,Passat,2005,9 990 PLN,162 000 km,Benzyna,Manualna,Kombi,1 984 cm3,150 KM,5,Złoty
+Volkswagen,Passat,2017,69 000 PLN,217 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Volkswagen,Touran,2006,7 500 PLN,384 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Golf,2017,69 900 PLN,114 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Biały
+Volkswagen,Touran,2018,83 999 PLN,70 696 km,Diesel,Automatyczna,Minivan,1 598 cm3,115 KM,5,Biały
+Volkswagen,Passat,2016,67 900 PLN,98 000 km,Benzyna,Manualna,Sedan,1 798 cm3,180 KM,4,Bordowy
+Volkswagen,Tiguan,2024,157 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,130 KM,5,Czarny
+Volkswagen,Golf,2018,69 000 PLN,66 033 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Volkswagen,Caddy,2012,39 900 PLN,146 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Polo,2015,36 000 PLN,76 500 km,Benzyna,Manualna,Kompakt,1 197 cm3,90 KM,5,Bordowy
+Volkswagen,Passat,2024,224 900 PLN,1 km,Benzyna,Automatyczna,Kombi,1 964 cm3,193 KM,5,Czarny
+Volkswagen,Polo,2012,17 900 PLN,218 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,3,Biały
+Volkswagen,Passat,2010,26 400 PLN,273 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Brązowy
+Volkswagen,Golf,2010,12 900 PLN,297 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Szary
+Volkswagen,Passat,2019,75 900 PLN,100 528 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Volkswagen,Polo,2018,39 999 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,65 KM,5,Biały
+Volkswagen,Passat,2017,79 000 PLN,140 725 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Czarny
+Volkswagen,Passat,2007,13 500 PLN,297 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Volkswagen,Passat,2012,39 500 PLN,148 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,4,Srebrny
+Volkswagen,Golf,2014,62 777 PLN,174 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,230 KM,5,Czerwony
+Volkswagen,CC,2012,37 000 PLN,212 686 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,4,Czarny
+Volkswagen,Golf,2013,37 000 PLN,218 000 km,Benzyna,Manualna,Auta małe,1 395 cm3,122 KM,5,Inny kolor
+Volkswagen,Passat,2015,65 000 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Szary
+Volkswagen,Golf Plus,2010,25 900 PLN,98 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Szary
+Volkswagen,Golf,2015,47 900 PLN,225 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czerwony
+Volkswagen,Passat,2004,6 450 PLN,374 678 km,Diesel,Manualna,Kombi,1 896 cm3,100 KM,5,Szary
+Volkswagen,Golf,2013,42 900 PLN,149 800 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Niebieski
+Volkswagen,Passat,2014,41 900 PLN,189 800 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2014,41 900 PLN,189 800 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Volkswagen,Passat,2011,32 900 PLN,147 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Srebrny
+Volkswagen,Polo,2018,46 999 PLN,52 800 km,Benzyna,Manualna,Kompakt,999 cm3,65 KM,5,Czerwony
+Volkswagen,Golf,2011,23 990 PLN,123 200 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Granatowy
+Volkswagen,Golf,2024,197 750 PLN,1 km,Benzyna,,Kompakt,1 984 cm3,,5,Niebieski
+Volkswagen,Golf,2013,33 700 PLN,191 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Szary
+Volkswagen,Golf,2019,49 900 PLN,183 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Volkswagen,T-Roc,2019,69 900 PLN,148 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Volkswagen,Golf,2008,11 700 PLN,305 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,3,Czarny
+Volkswagen,Touran,2004,6 900 PLN,370 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Volkswagen,Golf,2004,9 400 PLN,262 009 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Volkswagen,up!,2018,42 500 PLN,39 600 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Volkswagen,Transporter,2008,20 910 PLN,496 557 km,Diesel,Manualna,Minivan,1 896 cm3,84 KM,4,Biały
+Volkswagen,T-Roc,2021,77 900 PLN,91 859 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Volkswagen,T-Roc,2024,123 200 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Volkswagen,T-Roc,2024,111 800 PLN,5 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Volkswagen,up!,2019,36 900 PLN,45 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Szary
+Volkswagen,Passat,2020,139 999 PLN,98 551 km,Diesel,Automatyczna,Kombi,1 968 cm3,240 KM,5,Szary
+Volkswagen,Passat,2014,31 900 PLN,207 500 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Biały
+Volkswagen,Touareg,2008,22 900 PLN,178 500 km,Benzyna,Automatyczna,SUV,3 189 cm3,220 KM,5,Czarny
+Volkswagen,Sharan,2014,49 500 PLN,150 600 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Volkswagen,Golf,2015,48 900 PLN,98 400 km,Benzyna,Manualna,Auta małe,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Arteon,2020,129 000 PLN,69 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Biały
+Volkswagen,Golf,2019,42 500 PLN,168 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Volkswagen,Amarok,2017,110 000 PLN,182 000 km,Diesel,Automatyczna,SUV,2 967 cm3,204 KM,4,Pomarańczowy
+Volkswagen,Passat,2019,106 900 PLN,89 100 km,Diesel,Automatyczna,Kombi,1 968 cm3,239 KM,4,Biały
+Volkswagen,Tiguan Allspace,2024,216 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Czarny
+Volkswagen,Golf,2019,49 899,99 999 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czarny
+Volkswagen,Polo,2012,23 500 PLN,195 000 km,Benzyna,Manualna,Sedan,1 198 cm3,69 KM,5,Srebrny
+Volkswagen,Golf Plus,2010,26 900 PLN,162 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Czarny
+Volkswagen,Multivan,2023,282 654 PLN,10 km,Hybryda Plug-in,Automatyczna,Minivan,1 395 cm3,150 KM,5,Czarny
+Volkswagen,Passat,2005,9 500 PLN,254 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Srebrny

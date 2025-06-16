@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Ford,S-Max,2020,104 900 PLN,181 000 km,Diesel,Automatyczna,SUV,1 997 cm3,240 KM,5,Czarny
+Ford,Mondeo,2016,72 900 PLN,96 437 km,Diesel,Automatyczna,Kombi,1 997 cm3,210 KM,5,Czarny
+Ford,Kuga,2019,86 000 PLN,54 500 km,Benzyna,Automatyczna,SUV,1 499 cm3,176 KM,5,Czerwony
+Ford,S-Max,2009,13 900 PLN,314 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,Mondeo,2017,71 000 PLN,185 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,180 KM,5,Brązowy
+Ford,Focus,2015,19 900 PLN,368 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Ford,Galaxy,2009,19 900 PLN,384 938 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Focus,2015,35 999 PLN,106 000 km,Elektryczny,Automatyczna,Kompakt,,145 KM,5,Biały
+Ford,Puma,2020,70 900 PLN,54 495 km,Benzyna,Manualna,SUV,999 cm3,125 KM,5,Inny kolor
+Ford,Galaxy,2007,21 000 PLN,333 034 km,Diesel,Manualna,Minivan,1 997 cm3,130 KM,5,Inny kolor
+Ford,Mondeo,2018,59 000 PLN,113 000 km,Benzyna,Manualna,Kombi,1 499 cm3,165 KM,5,Szary
+Ford,Mondeo,2015,35 999 PLN,216 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Czarny
+Ford,Mondeo,2010,21 900 PLN,181 000 km,Benzyna,Automatyczna,Kombi,2 261 cm3,161 KM,5,Szary
+Ford,Edge,2016,81 900 PLN,152 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,245 KM,5,Biały
+Ford,EcoSport,2019,64 000 PLN,42 400 km,Benzyna,Manualna,SUV,998 cm3,140 KM,5,Błękitny
+Ford,Mondeo,2008,12 500 PLN,380 000 km,Diesel,Manualna,Kombi,1 997 cm3,115 KM,5,Fioletowy
+Ford,Focus,2007,3 000 PLN,181 667 km,Benzyna,Manualna,Kompakt,1 596 cm3,100 KM,5,Bordowy
+Ford,Fiesta,2019,6 500 PLN,195 186 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Szary
+Ford,Fiesta,2009,12 000 PLN,217 371 km,Benzyna,Manualna,Auta małe,1 242 cm3,82 KM,3,Bordowy
+Ford,Mondeo,2016,45 000 PLN,289 000 km,Benzyna,Manualna,Sedan,1 499 cm3,160 KM,5,Brązowy
+Ford,Mondeo,2009,16 000 PLN,285 000 km,Diesel,Manualna,Kombi,1 753 cm3,125 KM,5,Fioletowy
+Ford,Focus,2006,7 500 PLN,260 000 km,Benzyna+LPG,Manualna,Kombi,1 596 cm3,100 KM,5,Srebrny
+Ford,Mondeo,2015,39 999 PLN,229 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,Grand C-MAX,2018,60 200 PLN,68 000 km,Diesel,Automatyczna,Minivan,1 498 cm3,120 KM,5,Inny kolor
+Ford,Mondeo,2010,17 500 PLN,285 500 km,Benzyna,Manualna,Kompakt,1 999 cm3,145 KM,5,Czarny
+Ford,Kuga,2018,69 900 PLN,182 000 km,Diesel,Automatyczna,SUV,1 997 cm3,150 KM,5,Biały
+Ford,Focus,2012,22 900 PLN,238 829 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Granatowy
+Ford,Fiesta,2009,15 700 PLN,189 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Inny kolor
+Ford,Mondeo,2009,18 500 PLN,302 000 km,Benzyna+LPG,Manualna,Kompakt,1 999 cm3,145 KM,4,Srebrny
+Ford,Kuga,2021,89 500,92 096 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Ford,Mondeo,2011,17 900 PLN,161 000 km,Benzyna,Automatyczna,Kombi,1 999 cm3,240 KM,5,Czarny
+Ford,Puma,2023,87 400 PLN,19 700 km,Hybryda,Manualna,SUV,999 cm3,125 KM,5,Szary
+Ford,Tourneo Custom,2020,116 850 PLN,85 000 km,Diesel,Automatyczna,Minivan,1 996 cm3,185 KM,4,Beżowy
+Ford,Focus,2015,29 900 PLN,192 714 km,Benzyna+LPG,Manualna,Kombi,1 596 cm3,120 KM,5,Czarny
+Ford,Mondeo,2013,54 900 PLN,127 900 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Czarny
+Ford,C-MAX,2010,15 900 PLN,144 000 km,Benzyna,Manualna,Minivan,1 596 cm3,150 KM,5,Inny kolor
+Ford,Focus,2014,26 900 PLN,191 000 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Bordowy
+Ford,C-MAX,2011,22 500 PLN,216 000 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Szary
+Ford,Mustang,2015,45 000 PLN,120 000 km,Benzyna,Automatyczna,Coupe,2 300 cm3,317 KM,2,Czarny
+Ford,Kuga,2019,87 900 PLN,65 600 km,Diesel,Automatyczna,SUV,1 997 cm3,150 KM,5,Szary
+Ford,Focus,2012,34 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Biały
+Ford,S-Max,2012,32 999 PLN,215 500 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Mondeo,2018,80 000 PLN,34 380 km,Benzyna,Manualna,Kombi,1 499 cm3,165 KM,5,Inny kolor
+Ford,Kuga,2009,29 900 PLN,210 941 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Biały
+Ford,Focus,2013,23 000 PLN,115 000 km,Benzyna,Manualna,Kompakt,999 cm3,125 KM,5,Biały
+Ford,Focus,2013,19 000 PLN,173 645 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Ford,Kuga,2008,29 999 PLN,199 621 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,EcoSport,2020,69 900 PLN,35 000 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Biały
+Ford,Mondeo,2021,37 999 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,Focus,2019,38 300 PLN,226 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Focus,2014,19 900 PLN,120 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Brązowy
+Ford,Mondeo,2015,25 000 PLN,295 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Mustang Mach-E,2024,335 000 PLN,3 km,Elektryczny,Automatyczna,SUV,,487 KM,5,Czerwony
+Ford,Kuga,2024,179 900 PLN,4 km,Hybryda,Automatyczna,SUV,2 488 cm3,183 KM,5,Czerwony
+Ford,Focus,2014,27 000 PLN,246 970 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Ford,C-MAX,2015,36 700 PLN,192 000 km,Diesel,Manualna,SUV,1 498 cm3,120 KM,5,Szary
+Ford,Fiesta,2016,33 900 PLN,18 814 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,5,Złoty
+Ford,Kuga,2008,27 800 PLN,235 900 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Biały
+Ford,Mondeo,2014,29 900 PLN,197 500 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Ford,Mondeo,2019,57 000 PLN,278 500 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Czarny
+Ford,Edge,2015,85 000 PLN,68 000 km,Benzyna+LPG,Automatyczna,SUV,3 496 cm3,285 KM,5,Szary
+Ford,S-Max,2013,42 900 PLN,181 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Focus,2011,17 999 PLN,232 999 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Czarny
+Ford,Fiesta,2009,16 500 PLN,125 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,3,Bordowy
+Ford,Focus,2018,52 000 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Szary
+Ford,Transit,2010,7 900 PLN,365 248 km,Diesel,Manualna,Minivan,2 198 cm3,85 KM,5,Biały
+Ford,Focus,2011,25 800 PLN,207 000 km,Benzyna+LPG,Manualna,Sedan,1 596 cm3,105 KM,4,Beżowy
+Ford,S-Max,2011,23 900 PLN,251 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,S-Max,2008,21 900 PLN,283 400 km,Diesel,Manualna,Minivan,2 179 cm3,175 KM,5,Czarny
+Ford,C-MAX,2017,42 500 PLN,101 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Czarny
+Ford,Fiesta,2011,18 900 PLN,163 451 km,Diesel,Manualna,Auta małe,1 560 cm3,95 KM,3,Czarny
+Ford,Focus,2015,29 850 PLN,195 000 km,Diesel,Manualna,Kompakt,1 499 cm3,115 KM,5,Szary
+Ford,Focus,2014,29 900 PLN,88 100 km,Benzyna,Manualna,Auta małe,1 596 cm3,105 KM,5,Granatowy
+Ford,Focus,2015,39 500 PLN,195 786 km,Diesel,Manualna,Auta małe,1 997 cm3,150 KM,5,Czarny
+Ford,B-MAX,2013,24 900 PLN,114 130 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Złoty
+Ford,Tourneo Connect Grand,2020,85 000 PLN,59 000 km,Diesel,Automatyczna,Minivan,1 498 cm3,120 KM,5,Niebieski
+Ford,Mondeo,2017,79 827 PLN,128 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,180 KM,4,Czerwony
+Ford,Kuga,2017,61 900 PLN,190 540 km,Diesel,Automatyczna,SUV,1 997 cm3,180 KM,5,Srebrny
+Ford,Kuga,2019,59 900 PLN,168 227 km,Diesel,Automatyczna,SUV,1 997 cm3,180 KM,5,Biały
+Ford,Kuga,2010,28 700 PLN,302 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,S-Max,2011,29 000 PLN,270 300 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Mondeo,2019,75 900 PLN,102 598 km,Diesel,Automatyczna,Sedan,1 997 cm3,180 KM,5,Czarny
+Ford,Focus,2013,22 900 PLN,157 000 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Brązowy
+Ford,Fiesta,2010,12 900 PLN,351 991 km,Diesel,Manualna,Kompakt,1 399 cm3,68 KM,5,Granatowy
+Ford,Mondeo,2014,39 900 PLN,129 800 km,Benzyna,Automatyczna,Kompakt,1 999 cm3,240 KM,5,Srebrny
+Ford,Focus,2013,16 300 PLN,288 430 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Niebieski
+Ford,Explorer,2007,56 500 PLN,70 000 km,Benzyna,Automatyczna,SUV,4 015 cm3,213 KM,5,Srebrny
+Ford,Mondeo,2007,7 500 PLN,378 566 km,Diesel,Manualna,Kombi,1 997 cm3,130 KM,5,Czarny
+Ford,Mondeo,2019,59 500 PLN,177 933 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Puma,2022,59 999 PLN,30 000 km,Hybryda,Manualna,SUV,999 cm3,125 KM,5,Czarny
+Ford,Mondeo,2012,36 900 PLN,140 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,Ranger,2017,99 999 PLN,138 444 km,Diesel,Automatyczna,SUV,3 196 cm3,200 KM,4,Pomarańczowy
+Ford,Edge,2019,119 900 PLN,26 000 km,Benzyna,Automatyczna,SUV,2 694 cm3,334 KM,5,Bordowy
+Ford,Edge,2017,95 890 PLN,84 565 km,Diesel,Automatyczna,SUV,1 997 cm3,210 KM,5,Biały
+Ford,Galaxy,2016,59 999 PLN,236 322 km,Diesel,Automatyczna,Minivan,1 998 cm3,180 KM,5,Srebrny
+Ford,Escape,2021,85 900 PLN,58 900 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Szary
+Ford,S-Max,2010,29 999 PLN,238 217 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Fiesta,2009,15 400 PLN,128 100 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,3,Błękitny
+Ford,Fiesta,2010,14 000 PLN,181 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Biały
+Ford,Focus,2011,21 800 PLN,206 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Ford,Fiesta,2011,13 000 PLN,215 000 km,Diesel,Manualna,Auta małe,1 560 cm3,90 KM,5,Srebrny
+Ford,Fiesta,2008,13 500 PLN,134 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,3,Srebrny
+Ford,Focus,2006,12 900 PLN,228 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,125 KM,5,Niebieski
+Ford,Mondeo,2020,75 800 PLN,148 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,150 KM,5,Szary
+Ford,Kuga,2012,46 900 PLN,168 249 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Edge,2016,95 500 PLN,42 800 km,Diesel,Manualna,SUV,1 997 cm3,180 KM,5,Czarny
+Ford,Kuga,2018,79 900 PLN,149 555 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Szary
+Ford,Kuga,2020,65 900 PLN,29 600 km,Benzyna,Manualna,SUV,1 496 cm3,120 KM,5,Biały
+Ford,F150,2018,149 000 PLN,62 365 km,Benzyna,Automatyczna,SUV,4 949 cm3,394 KM,4,Biały
+Ford,Focus,2011,21 500 PLN,194 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Granatowy
+Ford,Fiesta,2013,37 400 PLN,175 000 km,Benzyna,Manualna,Auta małe,1 596 cm3,182 KM,3,Czerwony
+Ford,Edge,2018,110 000 PLN,95 000 km,Benzyna,Automatyczna,SUV,2 694 cm3,319 KM,5,Srebrny
+Ford,Mustang,2017,89 999 PLN,22 600 km,Benzyna+LPG,Manualna,Kabriolet,2 300 cm3,317 KM,2,Czerwony
+Ford,KA,2015,17 999 PLN,139 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Brązowy
+Ford,Kuga,2010,36 499 PLN,223 400 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,Mondeo,2016,45 300 PLN,238 700 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,4,Szary
+Ford,Mondeo,2015,48 000 PLN,187 863 km,Benzyna,Manualna,Kombi,1 498 cm3,160 KM,5,Niebieski
+Ford,Focus,2012,18 800 PLN,230 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,Mondeo,2012,29 900 PLN,301 000 km,Benzyna,Manualna,Sedan,1 596 cm3,160 KM,5,Czarny
+Ford,Focus,2017,99 000 PLN,69 000 km,Benzyna,Manualna,Kompakt,2 261 cm3,350 KM,5,Biały
+Ford,Mustang,2013,64 999 PLN,215 000 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Bordowy
+Ford,S-Max,2012,26 500 PLN,305 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Biały
+Ford,Focus,2007,4 500 PLN,295 000 km,Diesel,Manualna,Kombi,1 753 cm3,115 KM,5,Granatowy
+Ford,Mondeo,2007,14 900 PLN,289 000 km,Diesel,Manualna,Kombi,1 997 cm3,130 KM,5,Czarny
+Ford,B-MAX,2015,28 900 PLN,95 500 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Biały
+Ford,Mondeo,2015,53 500 PLN,234 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,Kuga,2019,77 000 PLN,54 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Biały
+Ford,Mondeo,2012,21 000 PLN,307 200 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Ford,Mondeo,2012,21 000 PLN,307 200 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Ford,Mondeo,2009,17 100 PLN,274 509 km,Diesel,Manualna,Sedan,1 997 cm3,115 KM,5,Biały
+Ford,Focus,2006,8 600 PLN,194 303 km,Benzyna,Manualna,Coupe,1 596 cm3,115 KM,3,Fioletowy
+Ford,Kuga,2016,55 800 PLN,195 400 km,Diesel,Automatyczna,SUV,1 997 cm3,150 KM,5,Czarny
+Ford,Transit Connect,2017,38 500 PLN,262 600 km,Diesel,Automatyczna,Kombi,1 498 cm3,120 KM,5,Biały
+Ford,Mondeo,2015,46 500 PLN,242 938 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,Mondeo,2015,37 000 PLN,284 000 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,4,Czarny
+Ford,Focus,2008,13 900 PLN,221 000 km,Benzyna,Manualna,Coupe,1 596 cm3,100 KM,5,Bordowy
+Ford,Mondeo,2012,29 900 PLN,188 800 km,Benzyna,Manualna,Sedan,1 596 cm3,160 KM,5,Czarny
+Ford,Mondeo,2008,16 700 PLN,258 000 km,Diesel,Manualna,Kombi,1 997 cm3,116 KM,5,Czerwony
+Ford,S-Max,2017,182 000 PLN,136 000 km,Benzyna,Manualna,Minivan,1 499 cm3,160 KM,5,Czarny
+Ford,Transit Custom,2019,123 000 PLN,165 000 km,Diesel,Manualna,Minivan,1 995 cm3,170 KM,4,Biały
+Ford,B-MAX,2014,22 900 PLN,211 042 km,Diesel,Manualna,Minivan,1 560 cm3,95 KM,5,Czarny
+Ford,Focus,2011,23 900 PLN,282 000 km,Diesel,Manualna,Kompakt,1 560 cm3,95 KM,5,Biały
+Ford,Mondeo,2021,13 650 EUR,137 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Kuga,2012,39 999 PLN,235 817 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Inny kolor
+Ford,Galaxy,2011,32 900 PLN,230 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Granatowy
+Ford,Focus,2012,24 999 PLN,185 500 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Bordowy
+Ford,Edge,2023,144 000 PLN,42 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Bordowy
+Ford,Mondeo,2020,78 900 PLN,157 100 km,Hybryda,Automatyczna,Kombi,1 999 cm3,140 KM,5,Szary
+Ford,Focus,2015,27 900 PLN,289 000 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Srebrny
+Ford,Focus,2017,48 900 PLN,72 410 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Złoty
+Ford,Kuga,2011,35 900 PLN,175 700 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2008,9 000 PLN,240 000 km,Benzyna,Manualna,Auta małe,1 299 cm3,70 KM,5,Niebieski
+Ford,Fiesta,2010,12 000 PLN,211 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Inny kolor
+Ford,Fiesta,2015,29 900 PLN,161 023 km,Diesel,Manualna,Auta miejskie,1 498 cm3,95 KM,5,Srebrny
+Ford,Focus,2009,15 500 PLN,245 152 km,Benzyna+LPG,Manualna,Kompakt,1 596 cm3,115 KM,5,Czarny
+Ford,Focus,2021,62 900 PLN,156 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Czarny
+Ford,Focus,2013,19 900 PLN,130 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Ford,Focus,2017,49 900 PLN,69 104 km,Benzyna,Manualna,Kombi,1 499 cm3,150 KM,5,Srebrny
+Ford,Fiesta,2012,21 000 PLN,88 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,82 KM,5,Czarny
+Ford,Mondeo,2011,29 900 PLN,100 000 km,Benzyna,Manualna,Sedan,1 999 cm3,145 KM,5,Szary
+Ford,Mondeo,2011,29 900 PLN,100 000 km,Benzyna,Manualna,Sedan,1 999 cm3,145 KM,5,Szary
+Ford,C-MAX,2013,22 900 PLN,100 000 km,Benzyna,Manualna,Minivan,999 cm3,100 KM,5,Srebrny
+Ford,Focus,2024,107 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,999 cm3,155 KM,5,Inny kolor
+Ford,B-MAX,2013,20 000 PLN,96 000 km,Benzyna,Automatyczna,Kompakt,1 596 cm3,105 KM,5,Srebrny
+Ford,Focus,2013,23 900 PLN,269 000 km,Diesel,Manualna,Kombi,1 560 cm3,105 KM,5,Niebieski
+Ford,Edge,2017,34 900 PLN,88 026 km,Benzyna,Automatyczna,SUV,1 997 cm3,238 KM,5,Czarny
+Ford,Kuga,2019,68 500 PLN,129 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Biały
+Ford,Mondeo,2009,17 800 PLN,177 000 km,Benzyna,Manualna,Kombi,1 596 cm3,125 KM,5,Czarny
+Ford,Mustang,2018,159 000 PLN,63 000 km,Benzyna,Automatyczna,Coupe,5 038 cm3,450 KM,2,Pomarańczowy
+Ford,Fiesta,2016,35 500 PLN,95 466 km,Benzyna,Manualna,Auta miejskie,998 cm3,101 KM,5,Biały
+Ford,Mondeo,2014,18 900 PLN,325 000 km,Diesel,Manualna,Kompakt,1 997 cm3,140 KM,5,Srebrny
+Ford,Kuga,2015,54 900 PLN,143 313 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Inny kolor
+Ford,S-Max,2017,59 900 PLN,145 000 km,Diesel,Manualna,Minivan,1 997 cm3,180 KM,5,Szary
+Ford,C-MAX,2012,19 900 PLN,262 300 km,Diesel,Manualna,Kompakt,1 560 cm3,116 KM,5,Beżowy
+Ford,Explorer,2013,68 900 PLN,229 117 km,Benzyna,Automatyczna,SUV,3 496 cm3,289 KM,5,Czerwony
+Ford,Tourneo Courier,2019,59 800 PLN,112 000 km,Diesel,Manualna,Minivan,1 498 cm3,100 KM,5,Szary
+Ford,Kuga,2011,33 700 PLN,211 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,S-Max,2018,79 900 PLN,151 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Czarny
+Ford,C-MAX,2012,24 990 PLN,238 671 km,Diesel,Manualna,Minivan,1 560 cm3,95 KM,5,Biały
+Ford,Mustang,1968,123 000 PLN,110 878 km,Benzyna,Automatyczna,Coupe,4 727 cm3,198 KM,2,Błękitny
+Ford,EcoSport,2022,75 900 PLN,28 400 km,Benzyna,Automatyczna,SUV,1 999 cm3,166 KM,5,Czerwony
+Ford,Kuga,2018,79 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Biały
+Ford,Mondeo,2010,21 300 PLN,245 100 km,Diesel,Manualna,Sedan,1 753 cm3,125 KM,5,Srebrny
+Ford,Focus,2008,11 500 PLN,187 817 km,Benzyna,Manualna,Kombi,1 596 cm3,115 KM,5,Srebrny
+Ford,Kuga,2011,38 300 PLN,154 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2012,13 900 PLN,148 000 km,Diesel,Manualna,Kompakt,1 399 cm3,70 KM,5,Granatowy
+Ford,Kuga,2018,23 900 PLN,73 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Srebrny
+Ford,Focus,2011,21 900 PLN,174 000 km,Benzyna+LPG,Automatyczna,Sedan,1 999 cm3,145 KM,5,Srebrny
+Ford,Mondeo,2017,49 900 PLN,211 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,160 KM,4,Bordowy
+Ford,C-MAX,2016,37 900 PLN,99 000 km,Benzyna,Manualna,Minivan,999 cm3,101 KM,5,Czarny
+Ford,Mondeo,2017,63 900 PLN,79 000 km,Benzyna,Manualna,Sedan,1 499 cm3,160 KM,4,Inny kolor
+Ford,Puma,2023,95 900 PLN,1 km,Benzyna,Manualna,SUV,999 cm3,125 KM,5,Czarny
+Ford,Kuga,2008,30 900 PLN,206 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Szary
+Ford,S-Max,2012,34 100 PLN,310 397 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,S-Max,2010,30 900 PLN,201 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Biały
+Ford,Mustang,2016,119 000 PLN,93 000 km,Benzyna,Automatyczna,Coupe,4 951 cm3,421 KM,2,Czarny
+Ford,Focus,2015,34 500 PLN,190 500 km,Diesel,Automatyczna,Kombi,1 498 cm3,120 KM,5,Czarny
+Ford,Mustang,2019,109 000 PLN,98 000 km,Benzyna,Automatyczna,Kabriolet,2 261 cm3,289 KM,2,Srebrny
+Ford,S-Max,2012,31 900 PLN,294 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Focus,2012,11 900 PLN,199 925 km,Benzyna,Manualna,Kompakt,1 596 cm3,150 KM,5,Czerwony
+Ford,Fiesta,1996,4 100 PLN,67 762 km,Benzyna,Manualna,Kompakt,1 299 cm3,60 KM,5,Bordowy
+Ford,Fiesta,2016,31 200 PLN,130 000 km,Benzyna,Manualna,Auta małe,998 cm3,65 KM,5,Błękitny
+Ford,Tourneo Custom,2016,93 000 PLN,162 844 km,Diesel,Manualna,Minivan,1 995 cm3,170 KM,4,Inny kolor
+Ford,Kuga,2019,89 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Szary
+Ford,Mondeo,2008,17 900 PLN,158 000 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,145 KM,5,Czarny
+Ford,Focus,2009,14 900 PLN,207 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,110 KM,5,Niebieski
+Ford,Kuga,2012,41 900 PLN,169 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Brązowy
+Ford,Focus,2013,20 499 PLN,245 000 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,4,Srebrny
+Ford,Ranger,2024,222 015 PLN,10 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Szary
+Ford,F150,2021,239 850 PLN,41 100 km,Benzyna,Automatyczna,Kombi,3 495 cm3,380 KM,4,Srebrny
+Ford,B-MAX,2013,23 900 PLN,160 000 km,Benzyna,Manualna,SUV,998 cm3,100 KM,5,Czarny
+Ford,Kuga,2020,124 500 PLN,58 870 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,152 KM,5,Czarny
+Ford,B-MAX,2013,25 800 PLN,75 919 km,Benzyna,Manualna,Auta miejskie,998 cm3,125 KM,5,Inny kolor
+Ford,Focus,2016,32 900 PLN,197 300 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Czarny
+Ford,Mondeo,2007,17 990 PLN,324 600 km,Benzyna+LPG,Manualna,Coupe,2 521 cm3,220 KM,5,Srebrny
+Ford,Galaxy,2013,35 000 PLN,234 105 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Granatowy
+Ford,Focus,2018,36 900 PLN,221 842 km,Diesel,Automatyczna,Kombi,1 998 cm3,150 KM,5,Szary
+Ford,Transit Connect,2014,32 000 PLN,253 641 km,Diesel,Manualna,Minivan,1 560 cm3,95 KM,5,Biały
+Ford,Focus,2013,23 999 PLN,160 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Bordowy
+Ford,S-Max,2012,27 000 PLN,260 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Granatowy
+Ford,Kuga,2020,96 250 PLN,22 349 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Inny kolor
+Ford,Fiesta,2007,6 300 PLN,126 200 km,Benzyna,Manualna,Kompakt,1 242 cm3,75 KM,5,Błękitny
+Ford,C-MAX,2013,28 900 PLN,96 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Srebrny
+Ford,Mondeo,2017,58 900 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Mondeo,2017,58 900 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Transit Connect,2017,52 000 PLN,175 000 km,Diesel,Manualna,Minivan,1 499 cm3,101 KM,5,Biały
+Ford,KA,1999,3 000 PLN,28 000 km,Benzyna,Manualna,Auta miejskie,1 299 cm3,60 KM,3,Srebrny
+Ford,Focus,2014,31 500 PLN,145 000 km,Benzyna,Manualna,Kombi,1 596 cm3,150 KM,5,Srebrny
+Ford,Ranger,2024,235 000 PLN,3 000 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Szary
+Ford,Kuga,2008,28 900 PLN,250 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Biały
+Ford,Kuga,2019,91 400 PLN,138 000 km,Diesel,Automatyczna,SUV,1 997 cm3,180 KM,,
+Ford,Mondeo,2017,44 800,244 500 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Srebrny
+Ford,Fiesta,2019,47 500 PLN,73 259 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Niebieski
+Ford,Kuga,2020,77 699,136 750 km,Diesel,Automatyczna,SUV,1 498 cm3,120 KM,5,Szary
+Ford,Mustang,2012,65 000 PLN,91 133 km,Benzyna,Manualna,Coupe,3 731 cm3,305 KM,2,Granatowy
+Ford,S-Max,2012,34 000 PLN,299 000 km,Diesel,Manualna,Minivan,2 179 cm3,200 KM,5,Biały
+Ford,Focus,2010,17 999 PLN,153 992 km,Benzyna,Manualna,Kompakt,1 798 cm3,125 KM,5,Granatowy
+Ford,Fiesta,2020,50 900 PLN,32 000 km,Benzyna,Manualna,Kompakt,1 084 cm3,75 KM,5,Niebieski
+Ford,Mondeo,2014,19 990 PLN,353 388 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,,
+Ford,Grand C-MAX,2015,43 900 PLN,100 000 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Szary
+Ford,Focus,2014,23 999 PLN,210 400 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Srebrny
+Ford,Ranger Raptor,2023,361 504,31 500 km,Benzyna,Automatyczna,SUV,2 956 cm3,288 KM,4,Pomarańczowy
+Ford,Mondeo,2009,6 900 PLN,230 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Szary
+Ford,Focus,2015,35 999 PLN,184 260 km,Diesel,Manualna,Kompakt,1 997 cm3,150 KM,5,Biały
+Ford,Focus,2018,40 000 PLN,116 000 km,Diesel,Manualna,Auta miejskie,1 498 cm3,95 KM,4,Czerwony
+Ford,Focus,2009,15 900 PLN,248 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Inny kolor
+Ford,Mondeo,2018,54 000 PLN,282 720 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Szary
+Ford,Transit Connect,2017,34 500 PLN,260 000 km,Diesel,Manualna,Minivan,1 499 cm3,101 KM,5,Granatowy
+Ford,Focus,2017,51 500 PLN,198 000 km,Diesel,Manualna,Kombi,1 997 cm3,185 KM,5,Czarny
+Ford,Edge,2015,86 500 PLN,162 000 km,Benzyna,Automatyczna,SUV,2 700 cm3,319 KM,5,Biały
+Ford,Mondeo,2018,60 000 PLN,238 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Srebrny
+Ford,KA,2013,12 750 PLN,82 165 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Biały
+Ford,EcoSport,2019,61 900 PLN,12 500 km,Benzyna,Automatyczna,SUV,998 cm3,140 KM,5,Czarny
+Ford,Kuga,2016,26 500 PLN,176 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,176 KM,5,Szary
+Ford,Edge,2017,93 900 PLN,149 000 km,Diesel,Automatyczna,SUV,1 997 cm3,210 KM,5,Srebrny
+Ford,B-MAX,2014,23 900 PLN,40 882 km,Benzyna,Manualna,Auta małe,998 cm3,100 KM,5,Szary
+Ford,S-Max,2007,18 900 PLN,198 000 km,Diesel,Manualna,Minivan,1 997 cm3,130 KM,5,Bordowy
+Ford,Kuga,2009,30 999 PLN,225 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,Focus,2011,21 600 PLN,242 000 km,Diesel,Manualna,Auta małe,1 560 cm3,115 KM,5,Czarny
+Ford,C-MAX,2017,56 500 PLN,106 000 km,Hybryda Plug-in,Automatyczna,Minivan,1 998 cm3,185 KM,5,Szary
+Ford,Mondeo,2008,17 750 PLN,230 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Beżowy
+Ford,Mondeo,2020,77 900 PLN,169 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,190 KM,5,Biały
+Ford,Mondeo,2012,19 000 PLN,345 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Ford,Kuga,2019,75 999 PLN,87 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Niebieski
+Ford,C-MAX,2006,10 000 PLN,203 000 km,Benzyna,Manualna,Minivan,1 798 cm3,125 KM,5,Srebrny
+Ford,S-Max,2016,56 500 PLN,248 900 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Szary
+Ford,Transit Custom,2018,92 250 PLN,185 000 km,Diesel,Manualna,Kombi,1 995 cm3,130 KM,4,Srebrny
+Ford,KA,2015,18 999 PLN,145 030 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Biały
+Ford,Kuga,2017,62 000 PLN,153 000 km,Diesel,Manualna,SUV,1 997 cm3,180 KM,5,Szary
+Ford,Focus,2012,20 900 PLN,219 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Ford,Mondeo,2009,26 000 PLN,299 000 km,Diesel,Manualna,Kombi,2 179 cm3,175 KM,5,Inny kolor
+Ford,Focus,2014,21 900 PLN,197 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Granatowy
+Ford,Fiesta,2009,12 499 PLN,202 123 km,Benzyna,Manualna,Kompakt,1 242 cm3,60 KM,3,Bordowy
+Ford,KA,2008,4 900 PLN,84 600 km,Benzyna,Manualna,Coupe,1 242 cm3,69 KM,3,Granatowy
+Ford,Fusion,2020,75 500 PLN,124 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Czarny
+Ford,Kuga,2018,69 900 PLN,118 412 km,Diesel,Automatyczna,SUV,1 997 cm3,150 KM,5,Srebrny
+Ford,Mondeo,2017,59 900 PLN,191 177 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Szary
+Ford,S-Max,2011,34 900 PLN,231 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,S-Max,2011,25 700 PLN,180 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Niebieski
+Ford,Kuga,2015,48 900 PLN,215 610 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Czarny
+Ford,Fusion,2017,57 900 PLN,72 300 km,Benzyna,Automatyczna,Sedan,1 499 cm3,181 KM,4,Srebrny
+Ford,Mondeo,2011,26 900 PLN,269 000 km,Diesel,Manualna,Kompakt,1 997 cm3,140 KM,5,Biały
+Ford,Focus,2015,39 900 PLN,187 110 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Galaxy,2004,6 999 PLN,234 000 km,Benzyna,Manualna,Minivan,2 295 cm3,140 KM,5,Czarny
+Ford,F150,2013,85 777 PLN,292 000 km,Benzyna,Automatyczna,SUV,4 948 cm3,385 KM,4,Czarny
+Ford,Focus,2022,73 800 PLN,97 000 km,Diesel,Automatyczna,Kombi,1 499 cm3,120 KM,5,Czarny
+Ford,Transit Custom,2019,72 900 PLN,230 000 km,Diesel,Manualna,Kombi,1 996 cm3,130 KM,4,Biały
+Ford,Kuga,2021,95 940 PLN,123 000 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,225 KM,5,Czarny
+Ford,Explorer,2022,209 000 PLN,27 990 km,Hybryda Plug-in,Automatyczna,SUV,2 998 cm3,363 KM,5,Biały
+Ford,Focus,2011,27 100 PLN,270 000 km,Diesel,Manualna,Kombi,1 998 cm3,163 KM,5,Szary
+Ford,Focus,2011,25 000 PLN,154 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Niebieski
+Ford,Kuga,2018,79 900 PLN,99 286 km,Benzyna,Automatyczna,SUV,1 498 cm3,176 KM,5,Czarny
+Ford,Focus,2021,49 900 PLN,166 000 km,Diesel,Manualna,Kombi,1 498 cm3,95 KM,5,Szary
+Ford,Fiesta,2006,4 500 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 388 cm3,80 KM,3,Czarny
+Ford,F150,2020,179 000 PLN,175 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,400 KM,4,Biały
+Ford,Mustang,2016,79 000 PLN,85 000 km,Benzyna,Automatyczna,Coupe,2 300 cm3,317 KM,3,Szary
+Ford,Focus,2019,57 777 PLN,160 000 km,Diesel,Manualna,Auta miejskie,1 499 cm3,120 KM,5,Beżowy
+Ford,Kuga,2014,39 800 PLN,245 515 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Złoty
+Ford,Tourneo Custom,2016,64 900 PLN,231 800 km,Diesel,Manualna,Minivan,1 995 cm3,170 KM,4,Czerwony
+Ford,Focus,2016,33 210 PLN,17 200 km,Benzyna,Manualna,Auta małe,1 596 cm3,182 KM,4,Biały
+Ford,Focus,2018,39 900 PLN,108 000 km,Diesel,Manualna,Kompakt,1 498 cm3,120 KM,5,Czerwony
+Ford,Focus,2020,114 900 PLN,120 000 km,Benzyna,Manualna,Kombi,2 261 cm3,280 KM,5,Czarny
+Ford,Galaxy,2011,27 999 PLN,269 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Zielony
+Ford,Mondeo,2013,19 000 PLN,200 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Błękitny
+Ford,Focus,2020,118 900 PLN,121 000 km,Benzyna,Manualna,Kombi,2 261 cm3,280 KM,5,Pomarańczowy
+Ford,Fiesta,2009,18 500 PLN,168 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Inny kolor
+Ford,B-MAX,2013,20 900 PLN,145 000 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Niebieski
+Ford,Kuga,2010,33 900 PLN,179 537 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Focus,2018,37 000 PLN,199 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,4,Biały
+Ford,Transit Custom,2023,173 760 PLN,17 000 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,4,Szary
+Ford,Mondeo,2016,55 000 PLN,202 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Inny kolor
+Ford,Mondeo,2017,54 900 PLN,152 000 km,Diesel,Manualna,Kombi,1 997 cm3,180 KM,5,Czarny
+Ford,Mustang,2018,159 000 PLN,9 000 km,Benzyna,Automatyczna,Coupe,2 300 cm3,317 KM,2,Inny kolor
+Ford,Fiesta,2019,36 800 PLN,40 000 km,Benzyna,Manualna,Auta miejskie,1 084 cm3,70 KM,3,Biały
+Ford,Focus,2008,9 900 PLN,320 000 km,Benzyna+LPG,Manualna,Kompakt,1 596 cm3,100 KM,5,Srebrny
+Ford,Focus,2008,15 900 PLN,159 000 km,Benzyna,Manualna,Kombi,1 596 cm3,100 KM,5,Czarny
+Ford,Mustang,2016,98 500 PLN,146 900 km,Benzyna,Automatyczna,Coupe,4 951 cm3,421 KM,2,Biały
+Ford,Tourneo Connect Grand,2024,151 782 PLN,1 km,Diesel,Automatyczna,Minivan,1 968 cm3,122 KM,5,Biały
+Ford,Mondeo,2008,21 900 PLN,227 197 km,Benzyna+LPG,Manualna,Sedan,2 521 cm3,220 KM,5,Srebrny
+Ford,Focus,2019,59 900 PLN,128 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Srebrny
+Ford,Focus,2019,59 900 PLN,128 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Srebrny
+Ford,Focus,2020,75 900 PLN,160 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Focus,2012,17 900 PLN,282 500 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Ford,Tourneo Courier,2024,112 900 PLN,1 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Zielony
+Ford,Focus,2017,25 900 PLN,240 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Mondeo,1998,5 500 PLN,151 000 km,Benzyna,Manualna,Kombi,2 544 cm3,170 KM,5,Złoty
+Ford,Ranger Raptor,2024,325 212 PLN,1 km,Diesel,Automatyczna,SUV,1 995 cm3,210 KM,4,Pomarańczowy
+Ford,C-MAX,2014,35 000 PLN,197 578 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Kuga,2013,45 500 PLN,238 100 km,Diesel,Automatyczna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2017,27 700 PLN,206 000 km,Diesel,Manualna,Auta małe,1 498 cm3,85 KM,5,Biały
+Ford,KA,2009,9 500 PLN,95 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Niebieski
+Ford,Transit Custom,2013,33 500 PLN,206 531 km,Diesel,Manualna,Minivan,2 198 cm3,100 KM,4,Biały
+Ford,Focus,2011,17 900 PLN,286 500 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,Mondeo,2014,38 500 PLN,246 970 km,Diesel,Automatyczna,Kombi,1 997 cm3,115 KM,5,Niebieski
+Ford,Mondeo,2011,34 000 PLN,248 000 km,Diesel,Manualna,Sedan,1 997 cm3,163 KM,5,Biały
+Ford,Transit Custom,2016,54 500 PLN,275 000 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Czerwony
+Ford,EcoSport,2022,74 500 PLN,40 200 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Biały
+Ford,Fiesta,2009,15 500 PLN,192 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,3,Czarny
+Ford,Focus,2017,36 900 PLN,183 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Focus,2014,22 900 PLN,141 300 km,Benzyna,Manualna,Auta miejskie,1 596 cm3,105 KM,5,Granatowy
+Ford,C-MAX,2016,29 900 PLN,119 000 km,Diesel,Automatyczna,Minivan,1 498 cm3,120 KM,5,Biały
+Ford,Kuga,2015,46 500 PLN,143 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Ford,Focus,2008,14 900 PLN,130 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Srebrny
+Ford,Edge,2019,87 999 PLN,71 000 km,Diesel,Automatyczna,SUV,1 997 cm3,238 KM,5,Szary
+Ford,Ranger Raptor,2024,383 760 PLN,10 km,Benzyna,Automatyczna,SUV,2 956 cm3,292 KM,4,Czerwony
+Ford,Mustang,2017,108 000 PLN,35 000 km,Benzyna,Manualna,Coupe,4 951 cm3,421 KM,2,Niebieski
+Ford,C-MAX,2011,21 900 PLN,208 345 km,Benzyna,Manualna,Minivan,1 596 cm3,150 KM,5,Czarny
+Ford,Mondeo,2018,81 800 PLN,109 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,150 KM,5,Biały
+Ford,Kuga,2013,55 900 PLN,170 143 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Biały
+Ford,Mondeo,2012,36 400 PLN,317 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Ford,Edge,2019,113 000 PLN,80 000 km,Benzyna,Automatyczna,SUV,2 700 cm3,333 KM,5,Srebrny
+Ford,Kuga,2010,29 000 PLN,340 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Ford,Kuga,2010,29 000 PLN,340 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Ford,S-Max,2016,58 000 PLN,249 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,210 KM,5,Czarny
+Ford,Kuga,2009,26 900 PLN,241 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,Transit Connect,2022,114 168,77 777 km,Diesel,Automatyczna,Minivan,1 499 cm3,120 KM,5,Szary
+Ford,Kuga,2018,77 580 PLN,130 521 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Niebieski
+Ford,Transit,2011,15 300 PLN,362 000 km,Diesel,Manualna,Kompakt,2 198 cm3,85 KM,4,Biały
+Ford,Mondeo,2017,59 900 PLN,191 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Focus,2008,23 000 PLN,130 000 km,Benzyna,Manualna,SUV,1 596 cm3,115 KM,5,Czarny
+Ford,Kuga,2024,145 140 PLN,10 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Zielony
+Ford,Focus,2013,18 000 PLN,287 200 km,Diesel,Manualna,Kompakt,1 997 cm3,140 KM,5,Beżowy
+Ford,Mustang,2011,47 000 PLN,175 000 km,Benzyna+LPG,Automatyczna,Kabriolet,3 731 cm3,305 KM,2,Czarny
+Ford,Kuga,2014,58 900 PLN,140 019 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Ford,Kuga,2012,45 900 PLN,123 048 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,EcoSport,2019,65 000 PLN,71 000 km,Benzyna,Automatyczna,Auta małe,998 cm3,125 KM,5,Szary
+Ford,Focus,2017,106 900 PLN,81 000 km,Benzyna,Manualna,Kompakt,2 261 cm3,350 KM,5,Niebieski
+Ford,Mondeo,2019,75 000 PLN,152 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,4,Szary
+Ford,Mondeo,2016,54 000 PLN,180 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Szary
+Ford,Kuga,2016,61 900 PLN,175 300 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Bordowy
+Ford,Tourneo Courier,2019,44 000 PLN,116 000 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Szary
+Ford,Fiesta,2009,7 900 PLN,240 000 km,Diesel,Manualna,Auta małe,1 399 cm3,68 KM,5,Srebrny
+Ford,Fiesta,2017,29 700 PLN,156 000 km,Diesel,Manualna,Auta miejskie,1 498 cm3,95 KM,5,Granatowy
+Ford,Kuga,2013,44 900 PLN,255 050 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Ford,S-Max,2015,73 900 PLN,211 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,210 KM,5,Szary
+Ford,Mondeo,2016,52 000 PLN,120 000 km,Benzyna,Automatyczna,Sedan,1 499 cm3,160 KM,5,Biały
+Ford,Mondeo,2020,15 100 EUR,147 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,190 KM,5,Niebieski
+Ford,Mustang,2015,169 500 PLN,47 000 km,Benzyna,Automatyczna,Coupe,4 951 cm3,421 KM,2,Biały
+Ford,Tourneo Connect,2023,111 900,25 000 km,Diesel,Manualna,Minivan,1 968 cm3,102 KM,5,Szary
+Ford,Kuga,2017,55 900 PLN,175 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Ford,S-Max,2012,38 990 PLN,178 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2015,23 900 PLN,114 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Srebrny
+Ford,Mondeo,2021,13 400 EUR,137 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Niebieski
+Ford,Kuga,2009,28 900 PLN,219 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,Tourneo Custom,2019,118 900 PLN,196 218 km,Diesel,Manualna,Minivan,1 995 cm3,170 KM,4,Szary
+Ford,Kuga,2010,24 900 PLN,229 526 km,Diesel,Automatyczna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,C-MAX,2012,30 750 PLN,199 000 km,Benzyna,Manualna,Minivan,1 596 cm3,105 KM,5,Szary
+Ford,F350,1989,47 500 PLN,219 843 km,Benzyna,Automatyczna,SUV,5 769 cm3,1 KM,4,Niebieski
+Ford,Mondeo,2020,77 776,68 700 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Niebieski
+Ford,Focus,2003,5 300 PLN,260 530 km,Diesel,Manualna,Sedan,1 753 cm3,100 KM,4,Beżowy
+Ford,Fiesta,2014,25 900 PLN,134 466 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Granatowy
+Ford,Mondeo,2015,55 900 PLN,227 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,180 KM,4,Biały
+Ford,S-Max,2017,76 000 PLN,155 900 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Czerwony
+Ford,Fiesta,2009,18 600 PLN,189 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Czarny
+Ford,S-Max,2009,26 900 PLN,291 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,S-Max,2008,21 900 PLN,224 000 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Inny kolor
+Ford,Grand C-MAX,2011,26 900 PLN,168 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Srebrny
+Ford,Ranger,2024,230 625 PLN,4 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Szary
+Ford,C-MAX,2016,35 500 PLN,220 000 km,Diesel,Manualna,Minivan,1 498 cm3,105 KM,5,Biały
+Ford,Kuga,2010,32 900 PLN,164 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,Mondeo,2009,15 600 PLN,220 000 km,Diesel,Manualna,Kombi,1 753 cm3,125 KM,5,Czarny
+Ford,Mondeo,2010,16 999 PLN,230 000 km,Benzyna,Manualna,Kombi,1 596 cm3,120 KM,5,Srebrny
+Ford,Focus,2008,12 000 PLN,130 000 km,Diesel,Manualna,Kompakt,1 997 cm3,136 KM,5,Błękitny
+Ford,Mondeo,2018,45 800 PLN,259 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,Mustang,2014,54 900 PLN,185 000 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Srebrny
+Ford,Edge,2018,87 500 PLN,96 500 km,Benzyna+LPG,Automatyczna,SUV,3 496 cm3,284 KM,5,Biały
+Ford,C-MAX,2011,24 900 PLN,211 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Srebrny
+Ford,B-MAX,2013,21 900 PLN,97 700 km,Benzyna,Manualna,Auta miejskie,999 cm3,125 KM,5,Czerwony
+Ford,Transit Custom,2019,82 800 PLN,197 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,130 KM,5,Biały
+Ford,Mondeo,2015,56 200 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Czarny
+Ford,Kuga,2018,69 999 PLN,84 736 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Czarny
+Ford,Focus,2017,34 500 PLN,195 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Focus,2008,13 000 PLN,184 400 km,Benzyna,Manualna,Kompakt,1 596 cm3,115 KM,5,Srebrny
+Ford,Focus C-Max,2006,6 450 PLN,310 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Srebrny
+Ford,Tourneo Custom,2022,289 050 PLN,1 km,Diesel,Automatyczna,Minivan,1 996 cm3,185 KM,4,Niebieski
+Ford,Ranger,2022,307 377 PLN,1 km,Benzyna,Automatyczna,SUV,2 999 cm3,292 KM,4,Szary
+Ford,Galaxy,2007,17 900 PLN,248 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Mondeo,2020,79 900 PLN,179 490 km,Hybryda,Automatyczna,Kombi,1 999 cm3,140 KM,5,Szary
+Ford,Grand C-MAX,2011,19 999 PLN,179 500 km,Benzyna,Manualna,Minivan,1 596 cm3,125 KM,5,Biały
+Ford,Transit Connect,2020,69 800 PLN,39 468 km,Diesel,Manualna,Minivan,1 498 cm3,120 KM,5,Szary
+Ford,Puma,2024,116 400 PLN,1 km,Benzyna,Manualna,SUV,999 cm3,125 KM,5,Czerwony
+Ford,Puma,2024,122 100 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,125 KM,5,Czerwony
+Ford,Puma,2024,123 900 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,125 KM,5,Srebrny
+Ford,Transit,2020,109 674 PLN,64 500 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Biały
+Ford,Ranger,2024,226 600 PLN,1 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Pomarańczowy
+Ford,Grand C-MAX,2015,34 900 PLN,113 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Brązowy
+Ford,S-Max,2018,109 900 PLN,123 271 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Szary
+Ford,Mondeo,2020,92 900 PLN,64 500 km,Diesel,Automatyczna,Kombi,1 997 cm3,190 KM,5,Czarny
+Ford,Focus,2015,39 900 PLN,139 549 km,Benzyna,Manualna,Kompakt,999 cm3,125 KM,5,Szary
+Ford,Escape,2020,89 900 PLN,83 000 km,Benzyna,Automatyczna,Kompakt,1 999 cm3,242 KM,5,Bordowy
+Ford,B-MAX,2013,27 900 PLN,48 500 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Srebrny
+Ford,Tourneo Connect Grand,2024,158 286 PLN,1 km,Diesel,Automatyczna,Minivan,1 968 cm3,122 KM,5,Szary
+Ford,Mondeo,2012,24 900 PLN,232 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Srebrny
+Ford,Transit,2017,72 500 PLN,167 000 km,Diesel,Manualna,Kombi,1 996 cm3,105 KM,4,Srebrny
+Ford,Focus,2015,30 000 PLN,197 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Niebieski
+Ford,Kuga,2008,24 999 PLN,220 000 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,Escape,2018,62 000 PLN,54 300 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Biały
+Ford,Focus,2013,23 900 PLN,141 000 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Czarny
+Ford,Kuga,2018,72 800 PLN,220 196 km,Diesel,Automatyczna,SUV,1 997 cm3,180 KM,5,Srebrny
+Ford,Fiesta,2013,22 500 PLN,143 000 km,Benzyna,Manualna,Kompakt,998 cm3,101 KM,5,Brązowy
+Ford,EcoSport,2015,42 900 PLN,157 800 km,Benzyna,Automatyczna,SUV,1 498 cm3,112 KM,5,Biały
+Ford,Transit Courier,2019,37 000 PLN,45 000 km,Diesel,Manualna,Kombi,1 498 cm3,100 KM,5,Czarny
+Ford,Mondeo,2018,49 999 PLN,179 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,Focus,2012,27 500 PLN,177 000 km,Benzyna,Manualna,Kombi,1 596 cm3,182 KM,5,Inny kolor
+Ford,Expedition,2017,88 500 PLN,142 000 km,Benzyna,Automatyczna,SUV,3 500 cm3,300 KM,5,Czarny
+Ford,S-Max,2007,16 900 PLN,232 100 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Granatowy
+Ford,Tourneo Courier,2024,97 950 PLN,1 km,Benzyna,Manualna,Kombi,998 cm3,125 KM,5,Biały
+Ford,Ranger Raptor,2024,264 400 PLN,1 km,Diesel,Automatyczna,SUV,1 995 cm3,210 KM,4,Pomarańczowy
+Ford,Mondeo,2007,14 600 PLN,266 500 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Srebrny
+Ford,Mondeo,2013,34 900 PLN,206 000 km,Diesel,Manualna,Sedan,1 997 cm3,136 KM,5,Szary
+Ford,KA,2009,8 500 PLN,179 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Czerwony
+Ford,Kuga,2015,45 700 PLN,193 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Ford,B-MAX,2013,22 999 PLN,169 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Pomarańczowy
+Ford,EcoSport,2016,35 000 PLN,224 600 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Biały
+Ford,Mondeo,2014,20 000 PLN,172 000 km,Benzyna,Manualna,Kombi,1 596 cm3,160 KM,5,Czarny
+Ford,Kuga,2011,38 500 PLN,210 000 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Biały
+Ford,Escape,2020,85 000 PLN,91 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Szary
+Ford,Kuga,2017,77 500 PLN,85 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Czarny
+Ford,Fiesta,2012,19 500 PLN,115 700 km,Diesel,Manualna,Auta małe,1 560 cm3,95 KM,5,Niebieski
+Ford,S-Max,2018,53 000 PLN,212 300 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Srebrny
+Ford,Fiesta,2009,9 700 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,3,Niebieski
+Ford,Escape,2020,85 900 PLN,46 051 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Szary
+Ford,Kuga,2015,59 900 PLN,67 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Srebrny
+Ford,Mondeo,2018,69 999 PLN,169 000 km,Diesel,Manualna,Kombi,1 997 cm3,190 KM,5,Czarny
+Ford,Puma,2020,85 200 PLN,31 000 km,Benzyna,Automatyczna,SUV,999 cm3,125 KM,5,Szary
+Ford,Galaxy,2016,54 900 PLN,172 500 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Inny kolor
+Ford,Transit Custom,2020,99 900 PLN,32 000 km,Diesel,Manualna,Auta miejskie,2 000 cm3,130 KM,6,Biały
+Ford,Mondeo,2018,48 900 PLN,197 470 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,Kuga,2012,44 800 PLN,144 000 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Biały
+Ford,S-Max,2017,51 999 PLN,195 000 km,Benzyna,Manualna,Minivan,1 498 cm3,160 KM,5,Czarny
+Ford,Mondeo,2012,32 000 PLN,183 800 km,Benzyna,Automatyczna,Sedan,1 999 cm3,203 KM,5,Inny kolor
+Ford,Fiesta,2009,15 400 PLN,154 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,82 KM,5,Bordowy
+Ford,Fiesta,2009,17 200 PLN,187 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Błękitny
+Ford,Kuga,2014,49 900 PLN,171 000 km,Diesel,Automatyczna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2013,22 900 PLN,225 470 km,Benzyna+LPG,Manualna,Sedan,1 388 cm3,96 KM,5,Biały
+Ford,Kuga,2011,39 999 PLN,197 560 km,Benzyna,Automatyczna,SUV,2 521 cm3,200 KM,5,Biały
+Ford,Mondeo,2008,27 500 PLN,276 000 km,Diesel,Manualna,Kombi,2 179 cm3,175 KM,5,Czarny
+Ford,Edge,2019,105 900 PLN,39 828 km,Benzyna,Automatyczna,SUV,1 997 cm3,245 KM,5,Niebieski
+Ford,C-MAX,2013,24 999 PLN,68 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Szary
+Ford,Fiesta,2014,26 900 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,101 KM,5,Czarny
+Ford,Fiesta,2014,26 900 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,101 KM,5,Czarny
+Ford,Focus,2010,17 900 PLN,198 000 km,Benzyna+LPG,Manualna,Kompakt,1 596 cm3,100 KM,5,Szary
+Ford,S-Max,2016,47 900 PLN,226 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Czarny
+Ford,Focus,2014,23 200 PLN,240 000 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Srebrny
+Ford,Ranger,2023,199 000 PLN,25 000 km,Diesel,Automatyczna,SUV,1 995 cm3,210 KM,4,Żółty
+Ford,Mondeo,2016,61 400 PLN,260 000 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Szary
+Ford,Mondeo,2013,16 999 PLN,330 000 km,Diesel,Manualna,Kombi,1 997 cm3,115 KM,5,Czarny
+Ford,Mondeo,2011,31 400 PLN,200 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Brązowy
+Ford,Mustang,2018,146 500 PLN,55 000 km,Benzyna,Manualna,Coupe,5 038 cm3,450 KM,2,Czarny
+Ford,Fiesta,2017,39 900 PLN,157 719 km,Benzyna,Manualna,Auta małe,1 084 cm3,85 KM,5,Niebieski
+Ford,Ranger,2017,130 000 PLN,110 000 km,Diesel,Automatyczna,SUV,3 198 cm3,200 KM,4,Szary
+Ford,Kuga,2022,165 900 PLN,13 300 km,Diesel,Automatyczna,SUV,1 996 cm3,190 KM,5,Szary
+Ford,Transit Custom,2014,69 800 PLN,119 000 km,Diesel,Manualna,Minivan,2 198 cm3,125 KM,5,Biały
+Ford,S-Max,2012,16 000 PLN,277 556 km,Benzyna,Manualna,Minivan,1 596 cm3,160 KM,5,Inny kolor
+Ford,Focus,2006,4 000 PLN,260 582 km,Diesel,Manualna,Kombi,1 560 cm3,90 KM,5,Czarny
+Ford,Focus,2009,14 900 PLN,261 500 km,Benzyna,Manualna,Kombi,1 596 cm3,100 KM,5,Beżowy
+Ford,Mustang,2019,152 500 PLN,91 500 km,Benzyna,Automatyczna,Coupe,5 038 cm3,750 KM,3,Biały
+Ford,Focus,2012,19 900 PLN,162 000 km,Benzyna,Manualna,Kombi,998 cm3,125 KM,5,Inny kolor
+Ford,KA,2014,25 000 PLN,33 919 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Niebieski
+Ford,S-Max,2009,21 900 PLN,169 500 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Kuga,2012,41 900 PLN,180 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Mustang,2012,75 900 PLN,130 000 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Bordowy
+Ford,Focus,2008,14 760 PLN,150 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,90 KM,5,Srebrny
+Ford,Focus C-Max,2007,12 700 PLN,178 000 km,Benzyna,Manualna,Minivan,1 596 cm3,100 KM,5,Czerwony
+Ford,Ranger,2015,66 666 PLN,170 000 km,Diesel,Automatyczna,SUV,2 198 cm3,150 KM,4,Biały
+Ford,Mondeo,2019,84 500 PLN,38 000 km,Hybryda,Automatyczna,Kombi,1 999 cm3,140 KM,4,Czerwony
+Ford,Galaxy,2008,18 000 PLN,226 500 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Srebrny
+Ford,C-MAX,2013,24 500 PLN,185 236 km,Benzyna,Manualna,Kombi,998 cm3,125 KM,5,Biały
+Ford,Edge,2015,74 900 PLN,109 330 km,Benzyna,Automatyczna,SUV,2 700 cm3,319 KM,5,Bordowy
+Ford,Transit Connect,2019,52 000 PLN,205 567 km,Diesel,Manualna,Minivan,1 498 cm3,120 KM,5,Biały
+Ford,Mondeo,2019,62 000 PLN,159 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,165 KM,5,Szary
+Ford,S-Max,2013,39 000 PLN,260 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Biały
+Ford,Focus,2013,28 900 PLN,178 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Ford,Focus,2013,24 999 PLN,314 300 km,Benzyna,Manualna,Auta miejskie,999 cm3,125 KM,5,Czarny
+Ford,Kuga,2017,61 900 PLN,55 120 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Szary
+Ford,Focus,2012,23 900 PLN,171 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Ford,Fiesta,2005,11 999 PLN,196 536 km,Benzyna,Manualna,Auta małe,1 999 cm3,150 KM,3,Czarny
+Ford,S-Max,2018,59 900 PLN,229 000 km,Diesel,Automatyczna,Minivan,1 998 cm3,150 KM,5,Czarny
+Ford,Focus,2012,32 700 PLN,116 000 km,Benzyna,Automatyczna,Kombi,1 596 cm3,125 KM,5,Szary
+Ford,Fiesta,2009,17 900 PLN,136 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Bordowy
+Ford,S-Max,2013,39 700 PLN,195 989 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,Focus,2015,29 800 PLN,161 000 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Szary
+Ford,Mondeo,2008,14 900 PLN,425 100 km,Diesel,Manualna,Kompakt,1 753 cm3,125 KM,5,Srebrny
+Ford,Mondeo,2017,56 999 PLN,129 257 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Kuga,2017,69 900 PLN,180 861 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Srebrny
+Ford,Mondeo,2013,29 700 PLN,320 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Ford,Kuga,2017,69 999 PLN,166 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Czarny
+Ford,Kuga,2019,74 999 PLN,81 400 km,Benzyna,Automatyczna,SUV,1 498 cm3,176 KM,5,Czarny
+Ford,Tourneo Connect Grand,2017,40 000 PLN,180 000 km,Diesel,Automatyczna,Minivan,1 499 cm3,120 KM,5,Srebrny
+Ford,Focus,2017,39 900 PLN,124 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Srebrny
+Ford,Kuga,2017,69 900 PLN,137 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Inny kolor
+Ford,Mondeo,2018,58 900 PLN,203 600 km,Hybryda,Automatyczna,Sedan,1 999 cm3,177 KM,4,Szary
+Ford,Focus,2015,34 900 PLN,107 800 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Biały
+Ford,Escape,2023,129 900 PLN,16 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Czarny
+Ford,Focus,2014,20 900 PLN,176 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Szary
+Ford,Fusion,2003,4 800 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 388 cm3,80 KM,5,Srebrny
+Ford,Grand C-MAX,2019,43 900 PLN,141 600 km,Diesel,Manualna,Minivan,1 498 cm3,120 KM,5,Biały
+Ford,Kuga,2021,94 900 PLN,145 000 km,Hybryda Plug-in,Automatyczna,SUV,2 483 cm3,152 KM,5,Czarny
+Ford,Kuga,2013,49 900 PLN,150 000 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Czarny
+Ford,Kuga,2020,97 500 PLN,94 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Szary
+Ford,Mondeo,2011,16 900 PLN,332 000 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,5,Inny kolor
+Ford,KA,2011,3 800 PLN,134 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Bordowy
+Ford,Kuga,2018,62 000 PLN,92 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Czarny
+Ford,Kuga,2015,56 000 PLN,75 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Inny kolor
+Ford,Kuga,2018,62 000 PLN,92 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Czarny
+Ford,Kuga,2015,56 000 PLN,75 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Inny kolor
+Ford,Transit Courier,2017,31 000 PLN,197 000 km,Diesel,Manualna,Minivan,1 498 cm3,75 KM,4,Szary
+Ford,Kuga,2018,62 000 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Niebieski
+Ford,Mondeo,2016,52 000 PLN,189 455 km,Diesel,Automatyczna,Sedan,1 997 cm3,150 KM,5,Czarny
+Ford,Galaxy,2016,64 900 PLN,138 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Czarny
+Ford,Focus,2005,36 900 PLN,217 000 km,Benzyna,Manualna,Kompakt,2 521 cm3,225 KM,5,Czarny
+Ford,Mondeo,2017,61 500 PLN,195 000 km,Hybryda,Automatyczna,Sedan,1 999 cm3,177 KM,4,Złoty
+Ford,Kuga,2018,57 900 PLN,164 000 km,Diesel,Manualna,SUV,1 499 cm3,120 KM,5,Szary
+Ford,Fiesta,2010,21 950 PLN,150 000 km,Benzyna,Manualna,Auta małe,1 388 cm3,96 KM,5,Czarny
+Ford,Focus,2008,9 800 PLN,215 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Srebrny
+Ford,S-Max,2009,24 900 PLN,228 000 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Srebrny
+Ford,Focus,2017,38 900 PLN,147 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Srebrny
+Ford,Focus,2021,70 999 PLN,63 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Biały
+Ford,Kuga,2020,87 200 PLN,23 400 km,Benzyna,Automatyczna,SUV,1 499 cm3,182 KM,5,Szary
+Ford,S-Max,2017,55 900 PLN,255 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Czarny
+Ford,Fiesta,2013,24 100 PLN,237 820 km,Diesel,Manualna,Auta miejskie,1 560 cm3,95 KM,5,Niebieski
+Ford,EcoSport,2021,64 900 PLN,28 800 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Biały
+Ford,Mondeo,2019,67 900 PLN,180 000 km,Hybryda,Automatyczna,Kombi,1 999 cm3,140 KM,5,Szary
+Ford,Puma,2020,68 777 PLN,26 000 km,Benzyna,Manualna,SUV,999 cm3,125 KM,5,Niebieski
+Ford,KA,2009,12 600 PLN,202 400 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Inny kolor
+Ford,Mondeo,2019,67 400 PLN,156 737 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Mondeo,2008,16 500 PLN,264 500 km,Diesel,Manualna,Kombi,2 179 cm3,175 KM,5,Czarny
+Ford,Galaxy,2008,17 000 PLN,309 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,Mondeo,2009,14 999 PLN,347 000 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,145 KM,5,Srebrny
+Ford,Mondeo,2011,21 900 PLN,263 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,EcoSport,2018,47 900 PLN,155 000 km,Benzyna,Manualna,SUV,998 cm3,140 KM,5,Szary
+Ford,Mondeo,2010,16 900 PLN,286 288 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,5,Srebrny
+Ford,Fiesta,2014,23 900 PLN,156 000 km,Benzyna,Manualna,Sedan,998 cm3,80 KM,5,Srebrny
+Ford,EcoSport,2022,69 999 PLN,7 400 km,Benzyna,Automatyczna,SUV,998 cm3,140 KM,5,Błękitny
+Ford,KA,2012,9 000 PLN,158 000 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,69 KM,3,Szary
+Ford,Mondeo,2010,23 500 PLN,170 000 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,5,Inny kolor
+Ford,Fiesta,2013,25 999 PLN,129 100 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Szary
+Ford,C-MAX,2017,42 900 PLN,170 000 km,Diesel,Manualna,Minivan,1 498 cm3,120 KM,5,Czarny
+Ford,Focus,2008,16 200 PLN,159 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Bordowy
+Ford,Mondeo,2011,23 200 PLN,152 682 km,Benzyna,Manualna,Kombi,1 596 cm3,120 KM,5,Czarny
+Ford,C-MAX,2018,49 900 PLN,72 500 km,Benzyna,Automatyczna,Minivan,1 498 cm3,150 KM,5,Czarny
+Ford,Kuga,2020,108 500 PLN,39 900 km,Hybryda,Automatyczna,SUV,2 483 cm3,190 KM,5,Biały
+Ford,Mondeo,2012,31 600 PLN,242 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Beżowy
+Ford,Fiesta,2014,22 140 PLN,228 861 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,82 KM,3,Biały
+Ford,Focus,2015,35 900 PLN,177 099 km,Diesel,Manualna,Kombi,1 998 cm3,150 KM,5,Szary
+Ford,Mondeo,2012,25 900 PLN,245 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Ford,Focus,2005,8 500 PLN,240 000 km,Benzyna,Manualna,Kombi,1 596 cm3,100 KM,5,Inny kolor
+Ford,Kuga,2015,47 800 PLN,189 000 km,Diesel,Automatyczna,SUV,1 997 cm3,150 KM,5,Biały
+Ford,Focus,2007,10 900 PLN,122 015 km,Benzyna,Manualna,Auta małe,1 798 cm3,125 KM,5,Niebieski
+Ford,Kuga,2012,39 900 PLN,207 000 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Biały
+Ford,EcoSport,2018,46 800 PLN,117 000 km,Benzyna,Automatyczna,SUV,998 cm3,125 KM,5,Szary
+Ford,Kuga,2018,59 900 PLN,89 000 km,Diesel,Manualna,SUV,1 498 cm3,120 KM,5,Czarny
+Ford,Fiesta,2021,51 990 PLN,69 000 km,Benzyna,Manualna,Kompakt,1 084 cm3,75 KM,5,Złoty
+Ford,Mondeo,2016,55 900 PLN,261 848 km,Diesel,Automatyczna,Kombi,1 997 cm3,210 KM,5,Biały
+Ford,Focus,2007,9 500 PLN,272 600 km,Diesel,Manualna,Auta miejskie,1 753 cm3,115 KM,5,Granatowy
+Ford,Explorer,2014,73 900 PLN,166 300 km,Benzyna,Automatyczna,SUV,3 497 cm3,364 KM,5,Czarny
+Ford,Grand C-MAX,2012,21 800 PLN,232 636 km,Diesel,Manualna,Minivan,1 560 cm3,95 KM,5,Granatowy
+Ford,Mustang,2012,45 500 PLN,136 000 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Niebieski
+Ford,Kuga,2010,38 000 PLN,161 163 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Inny kolor
+Ford,Galaxy,2008,23 900 PLN,257 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Granatowy
+Ford,Mondeo,2009,20 700 PLN,270 125 km,Diesel,Manualna,Sedan,1 997 cm3,136 KM,5,Inny kolor
+Ford,Focus,2011,24 700 PLN,170 000 km,Benzyna,Manualna,Kombi,1 596 cm3,125 KM,5,Czarny
+Ford,Fiesta,2009,10 800 PLN,81 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,82 KM,5,Błękitny
+Ford,Galaxy,2011,28 900 PLN,240 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Biały
+Ford,Focus,2017,37 000 PLN,131 000 km,Benzyna,Manualna,Kombi,1 596 cm3,105 KM,5,Czarny
+Ford,Mondeo,2012,36 900 PLN,220 000 km,Diesel,Automatyczna,Kombi,2 179 cm3,200 KM,5,Czarny
+Ford,Grand C-MAX,2014,29 999 PLN,216 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Focus,2014,19 999 PLN,223 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,4,Niebieski
+Ford,Mondeo,2012,36 900 PLN,220 000 km,Diesel,Automatyczna,Kombi,2 179 cm3,200 KM,5,Czarny
+Ford,Grand C-MAX,2014,29 999 PLN,216 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Focus,2014,19 999 PLN,223 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,4,Niebieski
+Ford,S-Max,2014,45 900 PLN,238 000 km,Diesel,Automatyczna,Minivan,2 179 cm3,200 KM,5,Biały
+Ford,Kuga,2020,92 900 PLN,25 500 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Srebrny
+Ford,Focus,2018,41 500 PLN,158 000 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Czarny
+Ford,Focus,2020,75 900 PLN,49 500 km,Hybryda,Manualna,Auta miejskie,999 cm3,155 KM,5,Niebieski
+Ford,Kuga,2018,77 900 PLN,117 403 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Inny kolor
+Ford,EcoSport,2015,37 900 PLN,93 500 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Biały
+Ford,Fiesta,2015,29 900 PLN,126 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,140 KM,3,Czarny
+Ford,C-MAX,2009,12 900 PLN,251 000 km,Benzyna+LPG,Manualna,SUV,1 596 cm3,100 KM,5,Srebrny
+Ford,Focus,2015,33 900 PLN,198 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Beżowy
+Ford,C-MAX,2018,59 990 PLN,79 494 km,Benzyna,Manualna,Minivan,1 498 cm3,150 KM,5,Niebieski
+Ford,Galaxy,2008,22 000 PLN,252 023 km,Diesel,Automatyczna,Auta miejskie,1 997 cm3,130 KM,5,Czerwony
+Ford,Tourneo Custom,2024,274 000 PLN,50 km,Diesel,Manualna,Kombi,1 996 cm3,150 KM,4,Niebieski
+Ford,Kuga,2014,53 500 PLN,185 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,Fiesta,2013,24 500 PLN,217 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,5,Czarny
+Ford,Fiesta,2013,25 900 PLN,129 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Biały
+Ford,Tourneo Custom,2024,280 440 PLN,50 km,Diesel,Manualna,Kombi,1 996 cm3,150 KM,4,Srebrny
+Ford,Focus,2007,8 100 PLN,190 000 km,Benzyna,Manualna,Auta miejskie,1 596 cm3,115 KM,3,Błękitny
+Ford,B-MAX,2017,39 500 PLN,34 950 km,Benzyna,Manualna,Auta małe,1 388 cm3,90 KM,5,Złoty
+Ford,C-MAX,2017,40 000 PLN,184 600 km,Diesel,Manualna,Minivan,1 498 cm3,120 KM,5,Czarny
+Ford,Fiesta,2009,13 500 PLN,188 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,82 KM,5,Zielony
+Ford,Focus,2016,29 900 PLN,189 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Biały
+Ford,Kuga,2017,64 900 PLN,70 100 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Ford,Mondeo,2008,18 900 PLN,276 100 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Ford,Galaxy,2002,9 900 PLN,186 000 km,Diesel,Manualna,Minivan,1 896 cm3,115 KM,5,Czarny
+Ford,Kuga,2011,35 900 PLN,250 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Brązowy
+Ford,Focus,2016,29 900 PLN,199 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Czarny
+Ford,Focus,2007,11 300 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,101 KM,3,Inny kolor
+Ford,Focus,2013,17 900 PLN,169 858 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Czarny
+Ford,Mondeo,2011,18 700 PLN,178 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Ford,Mondeo,2011,18 700 PLN,178 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Ford,Focus,2012,23 800 PLN,212 300 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Niebieski
+Ford,Focus,2016,31 900 PLN,157 000 km,Diesel,Manualna,Auta miejskie,1 498 cm3,105 KM,5,Srebrny
+Ford,Mondeo,2011,29 900 PLN,218 000 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,5,Biały
+Ford,Mondeo,2013,18 900 PLN,217 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Szary
+Ford,Focus,2015,24 900 PLN,235 000 km,Diesel,Manualna,Kompakt,1 560 cm3,95 KM,5,Niebieski
+Ford,Galaxy,2016,59 900 PLN,177 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,210 KM,5,Szary
+Ford,B-MAX,2017,39 000 PLN,60 000 km,Benzyna,Manualna,Kompakt,998 cm3,101 KM,5,Biały
+Ford,KA,2010,12 900 PLN,83 114 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Niebieski
+Ford,Kuga,2017,46 500 PLN,235 123 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Biały
+Ford,Mondeo,2013,23 000 PLN,232 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Ford,Explorer,2023,99 999 PLN,11 224 km,Hybryda Plug-in,Automatyczna,SUV,2 998 cm3,350 KM,5,Czerwony
+Ford,Mondeo,2015,40 500 PLN,216 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Granatowy
+Ford,C-MAX,2013,24 900 PLN,220 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,150 KM,5,Czarny
+Ford,C-MAX,2013,27 499 PLN,153 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Biały
+Ford,Kuga,2014,52 900 PLN,161 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,Focus,2019,54 900 PLN,199 800 km,Diesel,Automatyczna,Kombi,1 498 cm3,120 KM,5,Czerwony
+Ford,Mondeo,2012,27 800 PLN,197 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,S-Max,2013,37 900 PLN,139 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,S-Max,2017,64 400 PLN,225 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Biały
+Ford,Tourneo Custom,2022,199 900 PLN,27 000 km,Diesel,Automatyczna,Minivan,1 996 cm3,185 KM,4,Szary
+Ford,Focus,2016,34 777 PLN,236 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Szary
+Ford,Kuga,2011,36 999 PLN,169 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Inny kolor
+Ford,S-Max,2011,33 333 PLN,307 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Focus,2008,12 500 PLN,199 564 km,Benzyna,Manualna,Kombi,1 596 cm3,100 KM,5,Granatowy
+Ford,Mondeo,2019,59 900 PLN,280 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,190 KM,5,Szary
+Ford,Mondeo,2016,48 800 PLN,163 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Szary
+Ford,Focus,2013,27 500 PLN,185 000 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Czarny
+Ford,S-Max,2008,22 222 PLN,346 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Tourneo Custom,2021,130 000 PLN,146 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,185 KM,5,Pomarańczowy
+Ford,Mondeo,2008,11 900 PLN,279 000 km,Diesel,Manualna,Kombi,1 753 cm3,125 KM,5,Czarny
+Ford,S-Max,2013,34 900 PLN,242 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Biały
+Ford,S-Max,2013,34 900 PLN,242 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Biały
+Ford,Focus,2014,35 900 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Czarny
+Ford,Fiesta,2013,21 900 PLN,204 695 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Srebrny
+Ford,C-MAX,2017,49 500 PLN,88 890 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Ford,Kuga,2014,46 900 PLN,179 600 km,Benzyna,Manualna,SUV,1 596 cm3,150 KM,5,Czarny
+Ford,S-Max,2011,44 800 PLN,197 300 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Focus,2016,38 990 PLN,142 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Szary
+Ford,Fusion,2006,5 500 PLN,280 000 km,Benzyna,Manualna,Minivan,1 388 cm3,80 KM,5,Granatowy
+Ford,Escape,2015,54 900 PLN,161 227 km,Benzyna,Automatyczna,SUV,1 992 cm3,237 KM,5,Biały
+Ford,C-MAX,2014,23 900 PLN,128 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Czarny
+Ford,Mondeo,2007,22 900 PLN,139 066 km,Benzyna,Manualna,Kompakt,1 999 cm3,145 KM,5,Srebrny
+Ford,Mondeo,2015,40 900 PLN,193 656 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Czarny
+Ford,C-MAX,2011,19 900 PLN,229 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Czarny
+Ford,Kuga,2015,55 900 PLN,112 500 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Szary
+Ford,Focus,2005,4 000 PLN,302 000 km,Benzyna,Manualna,Kombi,1 596 cm3,115 KM,5,Zielony
+Ford,Explorer,2014,80 911 PLN,208 000 km,Benzyna+LPG,Automatyczna,SUV,3 726 cm3,308 KM,5,Czarny
+Ford,Kuga,2020,80 900 PLN,157 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Inny kolor
+Ford,Tourneo Courier,2014,29 900 PLN,59 800 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,4,Srebrny
+Ford,Kuga,2024,165 220 PLN,10 km,Benzyna,Automatyczna,SUV,1 499 cm3,187 KM,5,Srebrny
+Ford,Kuga,2024,139 045 PLN,10 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Bordowy
+Ford,Kuga,2024,172 700 PLN,11 km,Hybryda,Automatyczna,SUV,2 483 cm3,190 KM,5,Czarny
+Ford,Kuga,2024,165 940 PLN,10 km,Benzyna,Automatyczna,SUV,1 499 cm3,187 KM,5,Niebieski
+Ford,Mondeo,2015,39 999 PLN,287 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Brązowy
+Ford,Focus,2011,22 500 PLN,178 224 km,Benzyna,Manualna,Kombi,1 596 cm3,105 KM,5,Srebrny
+Ford,Mustang,2018,173 000 PLN,99 000 km,Benzyna,Automatyczna,Kabriolet,5 038 cm3,450 KM,2,Czarny
+Ford,Mondeo,2014,42 100 PLN,189 520 km,Diesel,Manualna,Kombi,1 997 cm3,180 KM,5,Czarny
+Ford,Focus,2012,19 990 PLN,134 000 km,Benzyna,Manualna,Kombi,998 cm3,125 KM,5,Niebieski
+Ford,S-Max,2019,77 900 PLN,56 700 km,Benzyna,Manualna,Minivan,1 499 cm3,165 KM,5,Szary
+Ford,Focus,2011,26 900 PLN,133 680 km,Benzyna,Manualna,Kombi,1 596 cm3,150 KM,5,Czarny
+Ford,Kuga,2016,55 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 596 cm3,182 KM,5,Biały
+Ford,S-Max,2011,31 000 PLN,305 700 km,Diesel,Automatyczna,Minivan,2 179 cm3,200 KM,5,Biały
+Ford,Kuga,2014,49 800 PLN,120 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Ford,S-Max,2011,31 000 PLN,305 700 km,Diesel,Automatyczna,Minivan,2 179 cm3,200 KM,5,Biały
+Ford,Kuga,2014,49 800 PLN,120 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Szary
+Ford,S-Max,2011,21 900 PLN,313 977 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Brązowy
+Ford,Mondeo,2017,59 900 PLN,136 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Inny kolor
+Ford,Escape,2018,75 900 PLN,69 990 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Czerwony
+Ford,Mondeo,2019,58 900 PLN,165 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Kuga,2017,72 900 PLN,63 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Brązowy
+Ford,Kuga,2017,59 900 PLN,97 191 km,Diesel,Manualna,SUV,1 499 cm3,120 KM,5,Srebrny
+Ford,Tourneo Courier,2019,42 000 PLN,149 521 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Szary
+Ford,Kuga,2013,42 900 PLN,228 258 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Srebrny
+Ford,S-Max,2016,62 000 PLN,130 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Inny kolor
+Ford,Edge,2020,99 999 PLN,65 000 km,Benzyna+LPG,Automatyczna,SUV,1 997 cm3,250 KM,5,Złoty
+Ford,Grand C-MAX,2011,26 000 PLN,177 000 km,Benzyna,Manualna,Minivan,1 596 cm3,182 KM,5,Szary
+Ford,S-Max,2012,38 999 PLN,158 000 km,Benzyna,Manualna,Minivan,1 999 cm3,145 KM,5,Czarny
+Ford,Mondeo,2008,12 500 PLN,314 600 km,Benzyna+LPG,Manualna,Kombi,1 596 cm3,125 KM,5,Szary
+Ford,Escape,2017,65 900 PLN,126 400 km,Benzyna,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Ford,C-MAX,2012,24 800 PLN,133 160 km,Benzyna,Manualna,Minivan,1 596 cm3,105 KM,5,Biały
+Ford,Focus,2018,37 000 PLN,254 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Granatowy
+Ford,S-Max,2013,39 900 PLN,245 300 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,Focus,2016,29 800 PLN,157 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Ford,S-Max,2012,35 800 PLN,212 600 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Fiesta,2009,17 900 PLN,80 100 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,3,Czerwony
+Ford,Fiesta,2009,17 800 PLN,160 500 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,5,Biały
+Ford,S-Max,2019,66 900 PLN,198 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Czarny
+Ford,Mondeo,2017,50 900 PLN,127 000 km,Benzyna,Manualna,Sedan,1 499 cm3,160 KM,5,Czarny
+Ford,Fiesta,2019,43 900 PLN,61 900 km,Benzyna,Manualna,Kompakt,1 084 cm3,85 KM,5,Niebieski
+Ford,Mondeo,2009,10 999 PLN,478 866 km,Diesel,Manualna,Sedan,1 753 cm3,125 KM,4,Niebieski
+Ford,Mondeo,2011,37 900 PLN,87 687 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,5,Czarny
+Ford,Focus,2017,47 900 PLN,134 000 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Ford,Grand C-MAX,2011,7 500 PLN,180 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Ford,Focus,2015,33 900 PLN,155 000 km,Diesel,Manualna,Kombi,1 498 cm3,105 KM,5,Biały
+Ford,Kuga,2017,71 900 PLN,48 000 km,Benzyna,Manualna,SUV,1 499 cm3,150 KM,5,Srebrny
+Ford,Focus,2006,8 900 PLN,275 000 km,Benzyna+LPG,Manualna,Kompakt,1 999 cm3,145 KM,5,Czarny
+Ford,Fiesta,2011,25 900 PLN,68 000 km,Benzyna,Automatyczna,Auta miejskie,1 388 cm3,96 KM,5,Srebrny
+Ford,C-MAX,2008,7 900 PLN,267 000 km,Diesel,Manualna,SUV,1 560 cm3,109 KM,5,Srebrny
+Ford,Focus,2009,12 999 PLN,210 000 km,Benzyna,Manualna,Auta miejskie,1 596 cm3,100 KM,5,Srebrny
+Ford,Focus,2014,29 900 PLN,52 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Szary
+Ford,Ranger,2021,155 800 PLN,40 000 km,Diesel,Automatyczna,SUV,1 995 cm3,213 KM,4,Inny kolor
+Ford,Fiesta,2012,22 500 PLN,193 229 km,Benzyna,Manualna,Kompakt,1 596 cm3,134 KM,3,Czarny
+Ford,S-Max,2011,35 900 PLN,151 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Czarny
+Ford,Mondeo,2014,26 900 PLN,240 000 km,Benzyna,Manualna,Kombi,1 596 cm3,160 KM,5,Czarny
+Ford,Transit,2002,34 900 PLN,183 749 km,Diesel,Manualna,Kombi,1 998 cm3,101 KM,6,Niebieski
+Ford,Fiesta,2009,16 900 PLN,75 963 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,3,Bordowy
+Ford,S-Max,2010,11 900 PLN,290 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Fiesta,2017,29 900 PLN,27 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Srebrny
+Ford,Focus,2009,16 500 PLN,149 082 km,Benzyna,Manualna,Kompakt,1 596 cm3,115 KM,5,Srebrny
+Ford,Focus,2015,26 000 PLN,263 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Srebrny
+Ford,Galaxy,2009,22 999 PLN,229 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Brązowy
+Ford,Focus,2014,27 000 PLN,288 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Ford,Escape,2020,79 500 PLN,112 500 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Niebieski
+Ford,Mondeo,2016,74 900 PLN,102 000 km,Benzyna,Automatyczna,Kompakt,1 999 cm3,203 KM,5,Biały
+Ford,Focus,2018,45 000 PLN,164 000 km,Diesel,Manualna,Kombi,1 498 cm3,95 KM,5,Brązowy
+Ford,Mustang,2018,165 000 PLN,80 000 km,Benzyna,Automatyczna,Coupe,5 038 cm3,450 KM,2,Żółty
+Ford,EcoSport,2018,53 900 PLN,49 000 km,Benzyna,Manualna,Auta małe,998 cm3,125 KM,5,Złoty
+Ford,Focus,2013,19 900 PLN,72 000 km,Benzyna,Manualna,Kompakt,999 cm3,125 KM,5,Czarny
+Ford,C-MAX,2015,32 999 PLN,134 000 km,Benzyna,Manualna,Kompakt,999 cm3,125 KM,5,Czarny
+Ford,Fusion,2019,82 500 PLN,129 919 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Czarny
+Ford,Mondeo,2009,18 700 PLN,278 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Ford,Focus,2015,47 900 PLN,219 000 km,Diesel,Manualna,Kombi,1 997 cm3,185 KM,5,Niebieski
+Ford,Focus,2020,64 900 PLN,127 000 km,Diesel,Automatyczna,Kombi,1 998 cm3,150 KM,5,Szary
+Ford,Kuga,2014,45 900 PLN,209 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Mondeo,2019,56 000 PLN,160 480 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+Ford,Fiesta,2012,19 000 PLN,216 000 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,60 KM,5,Czerwony
+Ford,S-Max,2017,93 900 PLN,129 504 km,Diesel,Manualna,Minivan,1 997 cm3,180 KM,5,Szary
+Ford,Focus,2010,28 900 PLN,176 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Szary
+Ford,Fiesta,2015,27 900 PLN,132 061 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Niebieski
+Ford,Kuga,2015,47 900 PLN,176 900 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Inny kolor
+Ford,Mondeo,2010,18 200 PLN,271 700 km,Diesel,Automatyczna,Kombi,1 997 cm3,140 KM,4,Srebrny
+Ford,Edge,2019,86 900 PLN,74 800 km,Benzyna,Automatyczna,SUV,1 997 cm3,238 KM,5,Czarny
+Ford,Ranger,2024,222 990 PLN,2 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Czarny
+Ford,Mondeo,2009,18 499 PLN,168 000 km,Benzyna,Manualna,Kombi,1 596 cm3,125 KM,5,Czarny
+Ford,Kuga,2012,46 250 PLN,140 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Czarny
+Ford,Mondeo,2010,22 400 PLN,185 096 km,Diesel,Manualna,Sedan,1 753 cm3,125 KM,5,Srebrny
+Ford,Kuga,2018,68 000 PLN,143 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Bordowy
+Ford,Focus C-Max,2003,6 500 PLN,204 684 km,Benzyna,Manualna,Minivan,1 798 cm3,120 KM,5,Srebrny
+Ford,Edge,2018,108 240 PLN,55 000 km,Diesel,Automatyczna,SUV,1 997 cm3,210 KM,5,Bordowy
+Ford,Puma,2022,118 000 PLN,5 000 km,Benzyna,Manualna,SUV,1 499 cm3,200 KM,5,Biały
+Ford,Focus,2008,11 000 PLN,260 617 km,Benzyna+LPG,Manualna,Kompakt,1 596 cm3,115 KM,5,Czarny
+Ford,Mondeo,2016,39 900 PLN,242 259 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,4,Szary
+Ford,Kuga,2020,88 500 PLN,30 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,242 KM,5,Inny kolor
+Ford,Focus,2011,21 000 PLN,250 000 km,Benzyna,Manualna,Auta małe,1 596 cm3,150 KM,5,Czerwony
+Ford,Mustang,2020,169 000 PLN,15 000 km,Benzyna,Manualna,Coupe,5 038 cm3,459 KM,2,Zielony
+Ford,Fiesta,2010,17 999 PLN,110 000 km,Benzyna,Manualna,Kompakt,1 388 cm3,96 KM,5,Szary
+Ford,Focus,2016,49 900 PLN,216 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,185 KM,5,Czarny
+Ford,Mondeo,2017,54 900 PLN,140 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Biały
+Ford,Focus,2019,47 500 PLN,99 000 km,Diesel,Automatyczna,Kompakt,1 498 cm3,120 KM,4,Inny kolor
+Ford,Focus,2016,32 000 PLN,223 600 km,Diesel,Manualna,Kombi,1 498 cm3,95 KM,5,Srebrny
+Ford,Kuga,2022,102 300 PLN,21 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,150 KM,5,Czarny
+Ford,Fiesta,2014,19 600 PLN,120 248 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,5,Szary
+Ford,Focus,2013,29 900 PLN,27 703 km,Elektryczny,Automatyczna,Kompakt,,145 KM,5,Biały
+Ford,Focus,2015,31 900 PLN,132 840 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Kuga,2014,49 700 PLN,128 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Biały
+Ford,Mondeo,2016,47 700 PLN,174 000 km,Diesel,Manualna,Kompakt,1 498 cm3,120 KM,5,Czarny
+Ford,Mondeo,2017,48 700 PLN,193 916 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,5,Zielony
+Ford,Galaxy,2010,29 000 PLN,246 230 km,Diesel,Manualna,Minivan,1 998 cm3,140 KM,5,Brązowy
+Ford,Fiesta,2005,3 900 PLN,148 000 km,Benzyna,Manualna,Auta małe,1 299 cm3,60 KM,3,Niebieski
+Ford,Tourneo Courier,2020,36 500 PLN,284 200 km,Diesel,Manualna,Minivan,1 498 cm3,100 KM,5,Srebrny
+Ford,Mustang Mach-E,2022,191 057 PLN,1 km,Elektryczny,Automatyczna,SUV,,351 KM,5,Niebieski
+Ford,Focus,2017,46 999 PLN,99 750 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Biały
+Ford,Galaxy,2007,14 500 PLN,252 807 km,Diesel,Manualna,Minivan,1 997 cm3,130 KM,5,Czarny
+Ford,Mustang,2015,79 500 PLN,150 590 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Czarny
+Ford,Focus,2008,8 000 PLN,226 000 km,Diesel,Manualna,Kompakt,1 753 cm3,115 KM,5,Granatowy
+Ford,S-Max,2017,69 900 PLN,171 300 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Czarny
+Ford,Focus,2014,27 500 PLN,195 600 km,Diesel,Manualna,Kompakt,1 560 cm3,105 KM,5,Granatowy
+Ford,Focus,2015,27 500 PLN,197 108 km,Diesel,Manualna,Kombi,1 498 cm3,95 KM,5,Srebrny
+Ford,C-MAX,2012,28 900 PLN,209 000 km,Benzyna,Manualna,Minivan,1 596 cm3,105 KM,5,Inny kolor
+Ford,Focus,2015,27 400 PLN,119 000 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Ford,Ranger,2015,72 350 PLN,201 851 km,Diesel,Manualna,SUV,3 196 cm3,200 KM,4,Srebrny
+Ford,Mondeo,2015,45 000 PLN,190 000 km,Benzyna,Manualna,Kombi,1 499 cm3,160 KM,5,Czarny
+Ford,Edge,2019,129 000 PLN,17 000 km,Diesel,Automatyczna,SUV,1 997 cm3,238 KM,5,Szary
+Ford,Galaxy,2012,23 000 PLN,333 500 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Szary
+Ford,Grand C-MAX,2010,29 900 PLN,151 000 km,Benzyna,Manualna,Minivan,1 596 cm3,125 KM,5,Szary
+Ford,Mondeo,2005,9 300 PLN,140 000 km,Benzyna,Manualna,Sedan,1 798 cm3,125 KM,5,Srebrny
+Ford,Focus,2008,23 500 PLN,218 200 km,Benzyna,Manualna,Kabriolet,1 999 cm3,145 KM,3,Niebieski
+Ford,Escape,2015,47 000 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 593 cm3,173 KM,5,Biały
+Ford,EcoSport,2019,58 900 PLN,37 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,166 KM,5,Szary
+Ford,Focus,2003,1 999 PLN,175 000 km,Benzyna,Manualna,Kombi,1 596 cm3,101 KM,5,Szary
+Ford,Transit,2016,76 500 PLN,275 000 km,Diesel,Manualna,Minivan,1 996 cm3,130 KM,5,Beżowy
+Ford,Ranger,2020,140 000 PLN,93 000 km,Diesel,Automatyczna,SUV,1 996 cm3,213 KM,4,Szary
+Ford,KA,2014,18 500 PLN,102 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,69 KM,3,Błękitny
+Ford,Focus,2014,10 455 PLN,406 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Ford,Focus,2015,28 000 PLN,106 700 km,Benzyna,Manualna,Kombi,999 cm3,125 KM,5,Srebrny
+Ford,Focus,2016,32 900 PLN,155 300 km,Benzyna,Manualna,Kombi,998 cm3,125 KM,5,Szary
+Ford,Focus,2012,20 900 PLN,120 000 km,Diesel,Manualna,Kombi,1 560 cm3,95 KM,5,Bordowy
+Ford,S-Max,2015,55 000 PLN,175 500 km,Diesel,Automatyczna,Minivan,1 997 cm3,180 KM,5,Złoty
+Ford,Focus,2015,30 900 PLN,160 000 km,Diesel,Manualna,Kombi,1 560 cm3,120 KM,5,Biały
+Ford,S-Max,2006,17 500 PLN,253 000 km,Benzyna,Manualna,Minivan,2 521 cm3,220 KM,5,Złoty
+Ford,Fiesta,2009,12 400 PLN,223 600 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,3,Niebieski
+Ford,Fiesta,2009,12 400 PLN,223 600 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,3,Niebieski
+Ford,Mondeo,2020,78 990 PLN,105 000 km,Hybryda,Automatyczna,Kombi,1 999 cm3,140 KM,5,Biały
+Ford,Focus,2008,9 000 PLN,328 000 km,Diesel,Manualna,Kombi,1 753 cm3,115 KM,5,Srebrny
+Ford,S-Max,2016,29 700 PLN,187 499 km,Diesel,Automatyczna,Minivan,1 997 cm3,190 KM,5,Szary
+Ford,Focus,2016,29 900 PLN,244 000 km,Diesel,Manualna,Kombi,1 998 cm3,150 KM,5,Czarny
+Ford,Fiesta,2014,27 300 PLN,184 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,82 KM,5,Biały
+Ford,Mondeo,2018,44 900 PLN,215 000 km,Benzyna,Manualna,Kombi,1 498 cm3,165 KM,5,Biały
+Ford,Grand C-MAX,2016,33 900 PLN,105 000 km,Benzyna,Manualna,Minivan,1 000 cm3,125 KM,5,Czarny
+Ford,Grand C-MAX,2017,40 900 PLN,115 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Biały
+Ford,Focus,2015,34 000 PLN,214 000 km,Diesel,Manualna,Kompakt,1 498 cm3,95 KM,5,Biały
+Ford,Kuga,2020,114 390 PLN,71 400 km,Hybryda Plug-in,Automatyczna,SUV,2 488 cm3,225 KM,5,Czarny
+Ford,Galaxy,2009,26 500 PLN,281 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Bronco,2021,132 900 PLN,19 958 km,Benzyna,Automatyczna,SUV,1 496 cm3,184 KM,5,Czarny
+Ford,Kuga,2011,33 500 PLN,245 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Czarny
+Ford,Ranger,2024,270 229,1 km,Diesel,Automatyczna,SUV,1 995 cm3,205 KM,4,Czarny
+Ford,Kuga,2013,37 700 PLN,228 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Biały
+Ford,Ka+,2018,39 900 PLN,104 484 km,Benzyna,Manualna,Kompakt,1 198 cm3,85 KM,5,Czarny
+Ford,Mustang Mach-E,2022,138 211 PLN,1 km,Elektryczny,Automatyczna,SUV,,269 KM,5,Biały
+Ford,Kuga,2016,43 000 PLN,199 000 km,Diesel,Manualna,SUV,1 997 cm3,120 KM,5,Biały
+Ford,Explorer,2021,206 600 PLN,57 818 km,Benzyna+LPG,Automatyczna,SUV,2 998 cm3,363 KM,5,Srebrny
+Ford,Fusion,2019,65 000 PLN,140 000 km,Hybryda,Automatyczna,Sedan,2 000 cm3,187 KM,5,Bordowy
+Ford,Mondeo,2010,17 900 PLN,257 609 km,Diesel,Manualna,Kombi,1 753 cm3,125 KM,5,Srebrny
+Ford,Focus,2010,9 900 PLN,234 594 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,145 KM,5,Granatowy
+Ford,Grand C-MAX,2017,21 000 PLN,92 000 km,Benzyna,Manualna,Minivan,1 499 cm3,150 KM,4,Pomarańczowy
+Ford,Mondeo,2008,11 900 PLN,298 233 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Szary
+Ford,Fiesta,2006,10 700 PLN,152 200 km,Benzyna,Manualna,Auta miejskie,1 299 cm3,60 KM,5,Inny kolor
+Ford,Transit,2015,52 500 PLN,385 000 km,Diesel,Manualna,Kombi,2 198 cm3,125 KM,4,Żółty
+Ford,Mustang,2018,210 000 PLN,40 310 km,Benzyna,Manualna,Coupe,5 038 cm3,460 KM,3,Zielony
+Ford,Kuga,2010,35 500 PLN,257 000 km,Benzyna,Automatyczna,SUV,2 521 cm3,200 KM,5,Szary
+Ford,Grand C-MAX,2014,29 900 PLN,240 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Ranger,2019,89 900 PLN,185 000 km,Diesel,Automatyczna,SUV,3 196 cm3,200 KM,4,Czarny
+Ford,Focus,2011,27 900 PLN,237 000 km,Benzyna,Manualna,Kombi,1 596 cm3,125 KM,5,Biały
+Ford,Grand C-MAX,2014,31 800 PLN,228 500 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Inny kolor
+Ford,Mondeo,2015,44 000 PLN,258 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,150 KM,5,Beżowy
+Ford,EcoSport,2019,58 900 PLN,47 000 km,Benzyna,Automatyczna,SUV,998 cm3,125 KM,5,Szary
+Ford,Mondeo,2016,33 900 PLN,299 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Ford,KA,2010,11 000 PLN,134 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,3,Srebrny
+Ford,Tourneo Custom,2019,88 560 PLN,267 618 km,Diesel,Automatyczna,Minivan,1 996 cm3,185 KM,4,Srebrny
+Ford,Kuga,2015,43 900 PLN,270 000 km,Diesel,Manualna,SUV,1 997 cm3,180 KM,5,Srebrny
+Ford,Kuga,2015,58 500 PLN,131 000 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Szary
+Ford,EcoSport,2022,61 999 PLN,14 840 km,Benzyna,Manualna,SUV,998 cm3,125 KM,5,Niebieski
+Ford,Focus,2024,199 500 PLN,5 km,Benzyna,Automatyczna,Kombi,2 261 cm3,280 KM,5,Czarny
+Ford,Tourneo Courier,2024,122 629,1 km,Benzyna,Automatyczna,Kombi,999 cm3,125 KM,5,Czerwony
+Ford,Tourneo Connect Grand,2024,172 198,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,122 KM,5,Biały
+Ford,Ranger,2024,365 308,1 km,Benzyna,Automatyczna,SUV,2 999 cm3,292 KM,4,Srebrny
+Ford,Transit Custom,2021,309 999 PLN,45 384 km,Diesel,Automatyczna,Minivan,1 995 cm3,170 KM,3,Biały
+Ford,Puma,2023,129 000 PLN,14 343 km,Benzyna,Manualna,SUV,1 499 cm3,200 KM,5,Niebieski
+Ford,Mustang,2010,53 900 PLN,231 000 km,Benzyna,Automatyczna,Coupe,4 606 cm3,315 KM,2,Czarny
+Ford,Transit Connect,2014,30 000 PLN,293 000 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Srebrny
+Ford,Focus C-Max,2007,6 900 PLN,217 000 km,Benzyna,Manualna,Minivan,1 798 cm3,125 KM,5,Czarny
+Ford,Focus,2012,20 900 PLN,257 350 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Ford,Focus,2018,30 900 PLN,240 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Mustang,2019,180 000 PLN,33 900 km,Benzyna,Automatyczna,Coupe,5 038 cm3,450 KM,3,Czerwony
+Ford,Kuga,2014,38 900 PLN,88 600 km,Benzyna,Manualna,SUV,1 596 cm3,150 KM,5,Niebieski
+Ford,Transit Custom,2024,177 120 PLN,1 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Biały
+Ford,Fiesta,2018,45 000 PLN,38 000 km,Benzyna,Manualna,Auta miejskie,1 084 cm3,85 KM,5,Biały
+Ford,Mustang,2013,58 900 PLN,171 000 km,Benzyna,Automatyczna,Coupe,3 731 cm3,305 KM,2,Czarny
+Ford,S-Max,2011,24 500 PLN,280 000 km,Diesel,Manualna,Minivan,1 997 cm3,140 KM,5,Czarny
+Ford,Transit Custom,2018,64 900 PLN,394 809 km,Diesel,Manualna,Minivan,1 996 cm3,130 KM,4,Niebieski
+Ford,Galaxy,2009,19 900 PLN,278 787 km,Diesel,Automatyczna,Minivan,1 998 cm3,140 KM,5,Czarny
+Ford,Fiesta,2014,24 500 PLN,120 384 km,Diesel,Manualna,Auta małe,1 498 cm3,75 KM,5,Granatowy
+Ford,Escape,2017,49 900 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 992 cm3,237 KM,5,Niebieski
+Ford,Bronco,2022,149 000 PLN,4 600 km,Benzyna,Automatyczna,SUV,1 499 cm3,181 KM,5,Szary
+Ford,Mondeo,2020,54 999 PLN,200 000 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Niebieski
+Ford,Fiesta,2009,17 900 PLN,111 000 km,Benzyna,Manualna,Auta małe,1 299 cm3,70 KM,5,Srebrny
+Ford,Fiesta,2010,17 900 PLN,117 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,82 KM,3,Zielony
+Ford,B-MAX,2013,23 900 PLN,179 000 km,Diesel,Manualna,Minivan,1 560 cm3,95 KM,5,Czarny
+Ford,Puma,2023,99 700 PLN,12 km,Benzyna,Manualna,SUV,999 cm3,125 KM,5,Niebieski
+Ford,S-Max,2015,39 900 PLN,256 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Granatowy
+Ford,Focus,2019,54 900 PLN,121 000 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Kuga,2014,49 900 PLN,215 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Biały
+Ford,Kuga,2022,70 000 PLN,36 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,150 KM,5,Niebieski
+Ford,Focus,2013,44 999 PLN,179 000 km,Benzyna,Manualna,Kombi,1 999 cm3,250 KM,5,Biały
+Ford,Mondeo,2015,57 900 PLN,106 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Czarny
+Ford,Grand C-MAX,2013,20 000 PLN,150 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Granatowy
+Ford,Kuga,2014,46 900 PLN,188 000 km,Diesel,Manualna,SUV,1 997 cm3,140 KM,5,Niebieski
+Ford,S-Max,2011,29 900 PLN,311 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Biały
+Ford,Mondeo,2007,12 900 PLN,199 900 km,Benzyna,Manualna,Kompakt,1 999 cm3,145 KM,5,Błękitny
+Ford,Focus,2014,19 900 PLN,178 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Biały
+Ford,Mondeo,2011,23 000 PLN,317 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Ford,Mondeo,2009,22 900 PLN,216 000 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,4,Szary
+Ford,Mondeo,2018,68 000 PLN,170 953 km,Benzyna,Automatyczna,Kombi,1 498 cm3,160 KM,5,Szary
+Ford,Fiesta,2016,23 900 PLN,233 000 km,Diesel,Manualna,Auta miejskie,1 498 cm3,120 KM,5,Szary
+Ford,Focus,2009,13 600 PLN,196 000 km,Benzyna,Manualna,Kombi,1 596 cm3,115 KM,5,Inny kolor
+Ford,KA,2009,15 800 PLN,91 374 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,69 KM,3,Czerwony
+Ford,Transit Custom,2015,59 040 PLN,58 000 km,Diesel,Manualna,Minivan,2 200 cm3,125 KM,3,Srebrny
+Ford,Focus,2019,45 900 PLN,79 000 km,Diesel,Automatyczna,Kombi,1 499 cm3,120 KM,5,Czarny
+Ford,Tourneo Connect,2015,29 900 PLN,89 000 km,Benzyna,Manualna,Minivan,998 cm3,100 KM,5,Granatowy
+Ford,Focus,2018,39 999 PLN,248 035 km,Diesel,Manualna,Sedan,1 498 cm3,120 KM,5,Srebrny
+Ford,Mondeo,2010,16 900 PLN,274 298 km,Benzyna,Manualna,Sedan,1 999 cm3,145 KM,5,Czarny
+Ford,Transit Custom,2017,69 800 PLN,230 000 km,Diesel,Manualna,Minivan,1 995 cm3,170 KM,5,Srebrny
+Ford,Focus,2020,54 500 PLN,123 400 km,Diesel,Manualna,Kombi,1 498 cm3,120 KM,5,Srebrny
+Ford,Mondeo,2008,33 700 PLN,165 000 km,Benzyna,Manualna,Kombi,2 521 cm3,220 KM,5,Czarny
+Ford,Mondeo,2012,31 900 PLN,171 100 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Inny kolor
+Ford,Fiesta,2019,68 000 PLN,85 000 km,Benzyna,Manualna,Auta miejskie,1 496 cm3,200 KM,6,Niebieski
+Ford,Fiesta,2018,54 000 PLN,99 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,125 KM,5,Złoty
+Ford,Fiesta,2006,4 900 PLN,172 000 km,Diesel,Manualna,Kompakt,1 399 cm3,68 KM,5,Srebrny
+Ford,S-Max,2011,38 500 PLN,171 000 km,Diesel,Manualna,Minivan,2 179 cm3,200 KM,5,Srebrny
+Ford,Focus,2014,29 000 PLN,214 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Ford,Transit,2011,32 900 PLN,309 000 km,Diesel,Manualna,Minivan,2 402 cm3,116 KM,4,Biały
+Ford,Focus,2018,74 999 PLN,132 195 km,Diesel,Manualna,Kombi,1 997 cm3,185 KM,5,Niebieski
+Ford,Transit,2010,19 999 PLN,249 000 km,Diesel,Manualna,Minivan,2 198 cm3,140 KM,6,Inny kolor
+Ford,Focus,2013,54 700 PLN,120 000 km,Benzyna,Manualna,Kombi,1 999 cm3,250 KM,5,Czarny
+Ford,S-Max,2014,48 000 PLN,230 000 km,Diesel,Automatyczna,Minivan,2 179 cm3,200 KM,5,Czarny
+Ford,S-Max,2010,39 500 PLN,159 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Biały
+Ford,Focus,2007,6 200 PLN,170 000 km,Benzyna,Manualna,Kombi,1 596 cm3,86 KM,5,Bordowy
+Ford,Transit Connect,2017,37 900 PLN,198 346 km,Diesel,Manualna,Minivan,998 cm3,100 KM,5,Srebrny
+Ford,Focus,2015,24 900 PLN,190 000 km,Benzyna,Manualna,Kompakt,999 cm3,125 KM,5,Złoty
+Ford,Kuga,2009,28 500 PLN,195 580 km,Diesel,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Ford,F150,2016,222 222 PLN,88 573 km,Benzyna+LPG,Automatyczna,SUV,4 948 cm3,400 KM,4,Biały
+Ford,S-Max,2011,25 000 PLN,205 460 km,Diesel,Automatyczna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Ford,Focus,2006,6 700 PLN,217 000 km,Benzyna,Manualna,Auta miejskie,1 596 cm3,100 KM,5,Srebrny
+Ford,Tourneo Custom,2014,72 000 PLN,170 000 km,Diesel,Manualna,Minivan,2 198 cm3,155 KM,5,Szary
+Ford,Focus,2013,22 000 PLN,175 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Biały
+Ford,Grand C-MAX,2016,38 900 PLN,159 000 km,Benzyna,Manualna,Minivan,998 cm3,125 KM,5,Biały
+Ford,Focus,2011,25 900 PLN,167 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,105 KM,5,Biały
+Ford,Mondeo,2016,57 500 PLN,189 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,210 KM,5,Czarny
+Ford,Mondeo,2007,9 000 PLN,278 000 km,Benzyna,Manualna,Sedan,1 999 cm3,145 KM,5,Srebrny
+Ford,Tourneo Custom,2014,63 900 PLN,241 556 km,Diesel,Manualna,Minivan,2 198 cm3,155 KM,5,Biały
+Ford,Escape,2013,38 500 PLN,252 000 km,Benzyna+LPG,Automatyczna,SUV,1 499 cm3,182 KM,5,Niebieski
+Ford,Fiesta,2009,17 500 PLN,163 500 km,Benzyna,Manualna,Coupe,1 596 cm3,120 KM,3,Czarny
+Ford,Focus,2018,36 900 PLN,89 300 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Srebrny
+Ford,C-MAX,2014,27 999 PLN,162 800 km,Benzyna,Manualna,Minivan,999 cm3,100 KM,5,Srebrny
+Ford,Kuga,2015,49 400 PLN,199 800 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Czarny
+Ford,Kuga,2013,46 800 PLN,126 446 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Zielony
+Ford,Fiesta,2012,15 900 PLN,142 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,60 KM,3,Biały
+Ford,Fiesta,2014,29 900 PLN,96 800 km,Benzyna,Automatyczna,Auta małe,999 cm3,100 KM,5,Czarny
+Ford,Mondeo,2010,23 450 PLN,204 000 km,Benzyna,Manualna,Sedan,1 999 cm3,145 KM,5,Granatowy

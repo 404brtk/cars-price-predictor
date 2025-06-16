@@ -1,0 +1,833 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Kia,Carens,2008,12 000 PLN,148 000 km,Benzyna,Manualna,Minivan,1 998 cm3,145 KM,5,Szary
+Kia,Rio,2006,6 750 PLN,236 000 km,Benzyna,Manualna,Auta miejskie,1 399 cm3,97 KM,5,Inny kolor
+Kia,Pro_cee'd,2023,148 900 PLN,4 900 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Szary
+Kia,Sportage,2020,95 000 PLN,28 200 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Szary
+Kia,XCeed,2023,109 999 PLN,19 000 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,5,Zielony
+Kia,Sportage,2023,177 300 PLN,7 766 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Kia,Sportage,2024,164 500 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,230 KM,5,Niebieski
+Kia,Optima,2017,66 900 PLN,172 000 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Srebrny
+Kia,Ceed,2013,33 000 PLN,139 922 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Srebrny
+Kia,Sportage,2015,47 900 PLN,189 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Pro_cee'd,2014,31 500 PLN,276 400 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,3,Biały
+Kia,Sportage,2018,76 500 PLN,63 400 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Srebrny
+Kia,Sorento,2005,15 800 PLN,182 800 km,Benzyna,Manualna,SUV,2 351 cm3,139 KM,5,Srebrny
+Kia,Sorento,2017,99 800 PLN,146 856 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Czarny
+Kia,Pro_cee'd,2024,129 900 PLN,5 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Niebieski
+Kia,Picanto,2024,79 516 PLN,1 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,79 KM,5,Zielony
+Kia,Sportage,2012,35 500 PLN,198 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2016,69 900 PLN,189 111 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Złoty
+Kia,Sportage,2023,118 900 PLN,21 500 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Sorento,2019,116 900 PLN,110 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Szary
+Kia,Picanto,2008,10 500 PLN,214 000 km,Benzyna+LPG,Manualna,Auta małe,1 086 cm3,65 KM,5,Pomarańczowy
+Kia,XCeed,2024,114 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Szary
+Kia,Venga,2018,49 500 PLN,58 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,125 KM,5,Biały
+Kia,Optima,2015,58 900 PLN,125 000 km,Diesel,Manualna,Sedan,1 685 cm3,141 KM,5,Srebrny
+Kia,Venga,2016,45 000 PLN,29 299 km,Benzyna,Automatyczna,Auta małe,1 591 cm3,125 KM,5,Szary
+Kia,Carens,2013,30 700 PLN,234 000 km,Diesel,Manualna,Minivan,1 685 cm3,136 KM,5,Złoty
+Kia,Venga,2019,49 900 PLN,9 700 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,124 KM,5,Szary
+Kia,Ceed,2018,36 000 PLN,159 500 km,Diesel,Manualna,Kombi,1 396 cm3,90 KM,5,Srebrny
+Kia,Sportage,2019,85 900 PLN,82 132 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Bordowy
+Kia,Pro_cee'd,2023,152 000 PLN,12 250 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Srebrny
+Kia,Sportage,2019,77 000 PLN,16 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Srebrny
+Kia,Sportage,2012,36 900 PLN,200 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2012,36 900 PLN,200 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2019,76 900 PLN,69 999 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Stonic,2021,67 900 PLN,47 800 km,Benzyna,Manualna,SUV,998 cm3,100 KM,5,Biały
+Kia,Sportage,2015,55 900 PLN,148 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Sportage,2022,95 000 PLN,54 000 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Zielony
+Kia,Pro_cee'd,2023,106 001,18 687 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Biały
+Kia,Ceed,2021,48 600 PLN,147 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Srebrny
+Kia,Niro,2024,149 500 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Czerwony
+Kia,Sorento,2017,76 000 PLN,249 326 km,Diesel,Automatyczna,SUV,2 199 cm3,200 KM,5,Czarny
+Kia,Sportage,2018,89 900 PLN,86 365 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Kia,Sportage,2015,54 900 PLN,131 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Kia,Optima,2012,39 900 PLN,203 000 km,Diesel,Automatyczna,Sedan,1 685 cm3,136 KM,4,Szary
+Kia,Sportage,2010,28 500 PLN,207 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,142 KM,5,Czarny
+Kia,Sorento,2017,88 600 PLN,72 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,188 KM,5,Bordowy
+Kia,Sportage,2008,19 400 PLN,266 200 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Czarny
+Kia,EV6,2021,109 999,75 000 km,Elektryczny,Automatyczna,Kompakt,,170 KM,5,Zielony
+Kia,Sportage,2014,56 700 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,166 KM,5,Beżowy
+Kia,Sportage,2024,171 800 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Kia,Sportage,2014,42 000 PLN,238 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Srebrny
+Kia,Ceed,2012,26 600 PLN,114 000 km,Benzyna,Manualna,Kombi,1 396 cm3,90 KM,5,Szary
+Kia,Sportage,2010,35 900 PLN,330 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Sportage,2012,47 000 PLN,128 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Inny kolor
+Kia,Sportage,2006,19 800 PLN,185 270 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Szary
+Kia,Pro_cee'd,2024,140 400 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,140 KM,5,Niebieski
+Kia,Carens,2014,27 500 PLN,188 000 km,Diesel,Manualna,Kompakt,1 685 cm3,115 KM,5,Szary
+Kia,Picanto,2017,33 948 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Srebrny
+Kia,Sportage,2012,44 900 PLN,225 000 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Czarny
+Kia,Pro_cee'd,2023,122 800 PLN,33 615 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Niebieski
+Kia,XCeed,2023,105 900 PLN,29 855 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,5,Czerwony
+Kia,Ceed,2009,18 500 PLN,132 150 km,Benzyna+LPG,Manualna,Coupe,1 396 cm3,105 KM,5,Srebrny
+Kia,Picanto,2015,12 500 PLN,157 420 km,Benzyna+LPG,Manualna,Auta małe,998 cm3,69 KM,3,Biały
+Kia,Sportage,2016,66 500 PLN,204 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Srebrny
+Kia,XCeed,2023,124 500 PLN,31 800 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,5,Biały
+Kia,Ceed,2023,95 500 PLN,24 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,XCeed,2023,117 900 PLN,41 200 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Zielony
+Kia,XCeed,2024,121 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Szary
+Kia,Sportage,2023,165 300 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Kia,XCeed,2024,111 800 PLN,5 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Sportage,2024,118 900 PLN,2 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Czerwony
+Kia,Ceed,2018,47 000 PLN,113 200 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Kia,Sportage,2024,118 900 PLN,3 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Zielony
+Kia,Venga,2013,35 500 PLN,94 980 km,Benzyna+LPG,Manualna,Kompakt,1 591 cm3,125 KM,5,Bordowy
+Kia,Sportage,2016,73 900 PLN,143 956 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Brązowy
+Kia,Sportage,2024,173 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Pro_cee'd,2024,151 272 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Czarny
+Kia,Sportage,2024,160 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Biały
+Kia,Sportage,2024,160 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Sportage,2024,197 200 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Kia,Stonic,2024,101 300 PLN,1 km,Benzyna,Automatyczna,Kompakt,998 cm3,100 KM,5,Srebrny
+Kia,Ceed,2020,74 900 PLN,138 650 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Srebrny
+Kia,Niro,2024,139 080 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Kia,Stonic,2019,38 700 PLN,124 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Czarny
+Kia,Carens,2008,14 400 PLN,255 000 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,145 KM,5,Czerwony
+Kia,Sportage,2024,94 900 PLN,10 400 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Sportage,2017,46 950 PLN,271 450 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Ceed,2009,15 900 PLN,149 600 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Srebrny
+Kia,Pro_cee'd,2024,131 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Inny kolor
+Kia,Optima,2016,41 000 PLN,287 100 km,Diesel,Manualna,Kombi,1 685 cm3,141 KM,5,Biały
+Kia,XCeed,2022,94 900 PLN,16 558 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Niebieski
+Kia,Ceed,2008,13 900 PLN,198 857 km,Benzyna+LPG,Manualna,Coupe,1 396 cm3,109 KM,5,Czarny
+Kia,Optima,2019,63 960 PLN,155 100 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Kia,Sportage,2016,61 000 PLN,140 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Srebrny
+Kia,Sportage,2017,71 900 PLN,106 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2016,61 900 PLN,153 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Kia,Ceed,2021,94 800 PLN,78 076 km,Hybryda Plug-in,Automatyczna,Kombi,1 580 cm3,105 KM,5,Czarny
+Kia,Pro_cee'd,2024,133 800 PLN,10 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Biały
+Kia,Ceed,2009,14 900 PLN,172 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,,
+Kia,Sportage,2016,71 500 PLN,215 500 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Srebrny
+Kia,XCeed,2024,105 700 PLN,10 km,Benzyna,Manualna,SUV,1 482 cm3,140 KM,5,Czarny
+Kia,Optima,2017,82 900 PLN,110 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,245 KM,5,Biały
+Kia,Niro,2016,56 400 PLN,99 167 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Szary
+Kia,Sportage,2016,78 000 PLN,55 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,XCeed,2021,115 900 PLN,58 400 km,Benzyna,Automatyczna,SUV,1 591 cm3,204 KM,5,Biały
+Kia,Pro_cee'd,2014,26 900 PLN,242 200 km,Benzyna,Manualna,Coupe,1 396 cm3,100 KM,3,Biały
+Kia,Ceed,2023,88 900 PLN,45 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Czarny
+Kia,Sportage,2024,151 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Stinger,2018,139 000 PLN,84 000 km,Benzyna,Automatyczna,Kompakt,3 342 cm3,366 KM,5,Biały
+Kia,Pro_cee'd,2020,104 890 PLN,105 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Biały
+Kia,Ceed,2009,11 900 PLN,207 440 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Błękitny
+Kia,Stonic,2019,65 900 PLN,117 810 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Inny kolor
+Kia,Sportage,2008,19 900 PLN,121 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Srebrny
+Kia,Sportage,2023,103 900 PLN,19 690 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Czerwony
+Kia,Sportage,2023,118 800 PLN,25 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Kia,Sportage,2023,103 900 PLN,23 500 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Biały
+Kia,Pro_cee'd,2023,115 800 PLN,25 040 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Niebieski
+Kia,Pro_cee'd,2023,115 800 PLN,22 570 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Inny kolor
+Kia,Sportage,2023,103 900 PLN,20 200 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,XCeed,2023,105 900 PLN,22 300 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,,
+Kia,Pro_cee'd,2023,115 800 PLN,16 600 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czarny
+Kia,Pro_cee'd,2023,116 900 PLN,22 800 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czerwony
+Kia,Pro_cee'd,2023,122 800 PLN,27 900 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Zielony
+Kia,Sportage,2023,118 800 PLN,13 700 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Czerwony
+Kia,Sportage,2023,103 900 PLN,25 400 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Kia,Sportage,2024,162 708 PLN,2 km,Hybryda,Automatyczna,SUV,1 598 cm3,210 KM,5,Zielony
+Kia,Sportage,2016,64 900 PLN,143 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Błękitny
+Kia,Rio,2012,24 900 PLN,195 829 km,Benzyna,Manualna,Kompakt,1 248 cm3,85 KM,5,Granatowy
+Kia,Sportage,2022,162 900 PLN,25 900 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Kia,Sportage,2018,67 000 PLN,154 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czerwony
+Kia,Optima,2019,74 900 PLN,113 000 km,Benzyna,Automatyczna,Sedan,1 591 cm3,180 KM,5,Biały
+Kia,Venga,2010,19 000 PLN,147 000 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Kia,Rio,2018,38 900 PLN,69 300 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Inny kolor
+Kia,Soul,2011,23 900 PLN,213 400 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,124 KM,5,Srebrny
+Kia,Ceed,2008,10 700 PLN,165 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Srebrny
+Kia,Ceed,2021,73 900 PLN,25 950 km,Benzyna,Manualna,Kombi,998 cm3,100 KM,5,Szary
+Kia,Ceed,2023,89 800 PLN,22 140 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Inny kolor
+Kia,Ceed,2023,92 800 PLN,31 400 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Pro_cee'd,2019,74 900 PLN,147 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Kia,Sportage,2024,138 000 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Czarny
+Kia,Ceed,2010,15 000 PLN,177 711 km,Diesel,Manualna,Kombi,1 582 cm3,116 KM,5,Srebrny
+Kia,Sportage,2018,82 500 PLN,53 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Niebieski
+Kia,Sportage,2023,149 900 PLN,23 200 km,Hybryda,Automatyczna,SUV,1 598 cm3,136 KM,5,Czerwony
+Kia,Sportage,2023,149 900 PLN,7 300 km,Hybryda,Automatyczna,SUV,1 598 cm3,136 KM,5,Szary
+Kia,Sportage,2008,20 700 PLN,220 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Kia,Sportage,2015,49 500 PLN,125 057 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Inny kolor
+Kia,Sportage,2013,47 500 PLN,230 000 km,Diesel,Automatyczna,SUV,1 998 cm3,183 KM,5,Pomarańczowy
+Kia,XCeed,2024,113 400 PLN,10 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Biały
+Kia,Ceed,2007,14 000 PLN,122 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Czarny
+Kia,Stonic,2023,73 500 PLN,34 355 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Inny kolor
+Kia,Stinger,2019,127 900 PLN,8 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,245 KM,5,Bordowy
+Kia,Rio,2020,39 900 PLN,174 760 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Biały
+Kia,Sportage,2018,84 900 PLN,75 938 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Brązowy
+Kia,Ceed,2010,21 900 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,125 KM,5,Srebrny
+Kia,Pro_cee'd,2024,149 800 PLN,10 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Zielony
+Kia,Sportage,2024,123 900 PLN,10 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Zielony
+Kia,Picanto,2016,17 800 PLN,202 000 km,Benzyna+LPG,Manualna,Auta małe,998 cm3,69 KM,5,Biały
+Kia,EV6,2023,205 500 PLN,7 km,Elektryczny,Automatyczna,Kompakt,,325 KM,5,Biały
+Kia,Picanto,2016,18 600 PLN,158 539 km,Benzyna+LPG,Manualna,Auta miejskie,998 cm3,69 KM,5,Biały
+Kia,Sportage,2019,79 950 PLN,100 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Biały
+Kia,Sportage,2019,79 950 PLN,100 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Biały
+Kia,Stonic,2023,84 900 PLN,10 km,Benzyna,Manualna,Auta miejskie,997 cm3,100 KM,5,Niebieski
+Kia,Pro_cee'd,2024,137 600 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Sportage,2024,157 500 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sportage,2024,162 400 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Sportage,2018,82 900 PLN,72 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Czarny
+Kia,Rio,2012,31 000 PLN,114 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Brązowy
+Kia,Ceed,2020,50 900 PLN,141 622 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Srebrny
+Kia,Sorento,2020,154 119 PLN,147 262 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Kia,Picanto,2021,42 900 PLN,115 240 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,84 KM,5,Szary
+Kia,Soul,2016,47 999 PLN,140 000 km,Diesel,Automatyczna,Minivan,1 582 cm3,136 KM,5,Beżowy
+Kia,Sportage,2013,43 900 PLN,169 632 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Inny kolor
+Kia,Sportage,2012,47 500 PLN,230 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Brązowy
+Kia,Ceed,2017,39 000 PLN,144 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Srebrny
+Kia,Sportage,2019,77 900 PLN,165 000 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Biały
+Kia,Ceed,2015,33 500 PLN,255 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Czarny
+Kia,Pro_cee'd,2024,131 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Ceed,2013,28 900 PLN,262 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Srebrny
+Kia,Stonic,2024,83 300 PLN,10 km,Benzyna,Manualna,Kompakt,1 197 cm3,84 KM,5,Niebieski
+Kia,Stinger,2018,132 900 PLN,58 000 km,Benzyna,Automatyczna,Sedan,3 342 cm3,370 KM,5,Czarny
+Kia,Pro_cee'd,2024,126 300 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,140 KM,5,Czarny
+Kia,Ceed,2024,116 200 PLN,10 km,Benzyna,Automatyczna,Sedan,1 482 cm3,140 KM,5,Zielony
+Kia,Ceed,2024,122 200 PLN,10 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Czerwony
+Kia,Soul,2015,41 900 PLN,166 000 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Zielony
+Kia,Ceed,2023,89 999 PLN,10 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Kia,Ceed,2020,73 900 PLN,45 700 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Biały
+Kia,Stonic,2018,64 500 PLN,86 155 km,Benzyna,Automatyczna,Auta miejskie,1 368 cm3,100 KM,5,Bordowy
+Kia,Stinger,2018,127 000 PLN,71 500 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,255 KM,5,Biały
+Kia,XCeed,2024,114 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 482 cm3,140 KM,5,Zielony
+Kia,XCeed,2024,121 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Czarny
+Kia,Sportage,2024,160 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,XCeed,2024,131 500 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Srebrny
+Kia,Sportage,2024,156 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,XCeed,2024,121 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Niebieski
+Kia,Sportage,2024,130 900 PLN,1 km,Benzyna,Manualna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,XCeed,2024,128 800 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Szary
+Kia,Sportage,2023,50 160 PLN,18 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Sportage,2014,51 500 PLN,113 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Ceed,2016,48 900 PLN,198 650 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Biały
+Kia,Picanto,2014,17 000 PLN,160 926 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Inny kolor
+Kia,Sportage,2024,146 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Pro_cee'd,2024,131 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Niebieski
+Kia,Sportage,2019,93 450 PLN,84 003 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,Ceed,2021,49 899,180 000 km,Diesel,Manualna,Kombi,1 582 cm3,135 KM,5,Szary
+Kia,Ceed,2008,15 999 PLN,189 000 km,Diesel,Manualna,Kompakt,1 582 cm3,115 KM,5,Niebieski
+Kia,Ceed,2019,39 000 PLN,150 000 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Srebrny
+Kia,Picanto,2024,73 700 PLN,10 km,Benzyna,Manualna,Auta małe,1 197 cm3,79 KM,5,Szary
+Kia,Sportage,2014,45 900 PLN,179 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Sportage,2012,34 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Inny kolor
+Kia,Pro_cee'd,2020,88 900 PLN,110 000 km,Benzyna,Manualna,Kombi,1 591 cm3,204 KM,5,Czarny
+Kia,Soul,2010,19 900 PLN,190 000 km,Benzyna,Manualna,SUV,1 591 cm3,126 KM,5,Inny kolor
+Kia,Ceed,2015,39 900 PLN,125 711 km,Diesel,Manualna,Kombi,1 582 cm3,136 KM,5,Czarny
+Kia,Sportage,2021,80 000 PLN,33 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Niebieski
+Kia,Ceed,2015,43 500 PLN,91 558 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2012,44 500 PLN,149 517 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Beżowy
+Kia,Ceed,2008,12 500 PLN,251 000 km,Diesel,Manualna,Kompakt,1 582 cm3,115 KM,5,Szary
+Kia,Pro_cee'd,2013,22 700 PLN,116 000 km,Benzyna,Manualna,Coupe,1 591 cm3,125 KM,3,Biały
+Kia,Pro_cee'd,2015,51 500 PLN,94 150 km,Benzyna,Manualna,Kompakt,1 591 cm3,204 KM,3,Czerwony
+Kia,XCeed,2024,112 900 PLN,5 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Szary
+Kia,Ceed,2009,17 500 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Szary
+Kia,Ceed,2015,33 700 PLN,197 000 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Szary
+Kia,Sportage,2016,71 900 PLN,143 100 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Srebrny
+Kia,Sportage,2019,88 000 PLN,67 368 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Kia,Sportage,2009,27 900 PLN,200 000 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Szary
+Kia,Venga,2010,24 900 PLN,175 266 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Szary
+Kia,Pro_cee'd,2020,109 000 PLN,49 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Srebrny
+Kia,Sorento,2021,142 500 PLN,10 600 km,Benzyna,Automatyczna,SUV,2 359 cm3,188 KM,5,Szary
+Kia,Sportage,2016,53 900 PLN,201 960 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Kia,Sportage,2016,59 900 PLN,171 775 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Stinger,2019,119 900 PLN,101 600 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,245 KM,5,Biały
+Kia,XCeed,2021,101 499,33 124 km,Hybryda Plug-in,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Czarny
+Kia,Sportage,2024,157 500 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Niebieski
+Kia,Ceed,2021,69 900 PLN,78 522 km,Benzyna,Automatyczna,Auta miejskie,1 591 cm3,204 KM,5,Czarny
+Kia,Stonic,2024,80 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 197 cm3,84 KM,5,Żółty
+Kia,Sportage,2013,53 990 PLN,90 580 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Biały
+Kia,Sorento,2008,6 600 PLN,220 000 km,Diesel,Automatyczna,SUV,2 497 cm3,170 KM,5,Srebrny
+Kia,Soul,2009,20 900 PLN,166 000 km,Benzyna,Manualna,SUV,1 591 cm3,126 KM,5,Złoty
+Kia,Sportage,2013,51 900 PLN,183 517 km,Diesel,Automatyczna,SUV,1 998 cm3,183 KM,5,Czarny
+Kia,Ceed,2009,12 000 PLN,158 500 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Srebrny
+Kia,Sorento,2013,55 555 PLN,152 000 km,Benzyna+LPG,Automatyczna,SUV,2 359 cm3,192 KM,5,Czarny
+Kia,Sportage,2012,39 999 PLN,264 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Beżowy
+Kia,Ceed,2017,43 500 PLN,180 700 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Czarny
+Kia,XCeed,2024,122 500 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Czarny
+Kia,Sportage,2011,41 000 PLN,230 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Inny kolor
+Kia,Sportage,2019,69 900 PLN,125 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Kia,Stinger,2018,149 900 PLN,148 200 km,Benzyna,Automatyczna,Sedan,3 342 cm3,370 KM,5,Inny kolor
+Kia,Sportage,2018,89 900 PLN,84 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Inny kolor
+Kia,Soul,2021,74 700 PLN,81 200 km,Benzyna,Automatyczna,Kombi,1 591 cm3,132 KM,5,Niebieski
+Kia,Rio,2014,25 900 PLN,108 100 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Inny kolor
+Kia,Stonic,2019,71 800 PLN,100 000 km,Benzyna,Automatyczna,SUV,998 cm3,120 KM,5,Inny kolor
+Kia,XCeed,2024,134 600 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Czerwony
+Kia,Stonic,2019,61 200 PLN,81 000 km,Benzyna,Manualna,SUV,1 368 cm3,99 KM,5,Czarny
+Kia,Ceed,2021,61 500 PLN,95 800 km,Diesel,Automatyczna,Kombi,1 582 cm3,135 KM,5,Srebrny
+Kia,Optima,2018,79 000 PLN,50 600 km,Benzyna,Automatyczna,Sedan,1 998 cm3,245 KM,4,Szary
+Kia,Venga,2010,23 200 PLN,169 111 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Czerwony
+Kia,Ceed,2014,35 500 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Srebrny
+Kia,Ceed,2014,35 500 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Srebrny
+Kia,Sportage,2024,161 200 PLN,10 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Ceed,2014,29 500 PLN,164 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Czarny
+Kia,Ceed,2014,33 900 PLN,157 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Szary
+Kia,Venga,2017,46 500 PLN,74 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Szary
+Kia,Ceed,2021,63 800 PLN,80 000 km,Diesel,Manualna,Kombi,1 582 cm3,135 KM,5,Szary
+Kia,Niro,2020,90 500 PLN,59 700 km,Hybryda Plug-in,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Biały
+Kia,Ceed,2019,53 900 PLN,169 000 km,Benzyna,Manualna,Kompakt,1 353 cm3,140 KM,5,Czarny
+Kia,Optima,2019,79 999 PLN,110 933 km,Hybryda Plug-in,Automatyczna,Kombi,1 999 cm3,154 KM,5,Granatowy
+Kia,Sorento,2021,169 000 PLN,98 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Błękitny
+Kia,Sportage,2023,117 900 PLN,10 900 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Ceed,2009,13 700 PLN,311 000 km,Diesel,Manualna,Kombi,1 991 cm3,140 KM,5,Srebrny
+Kia,Pro_cee'd,2019,80 900 PLN,81 000 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Czerwony
+Kia,Sportage,2012,42 900 PLN,195 890 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Pomarańczowy
+Kia,Venga,2019,39 900 PLN,43 000 km,Benzyna,Automatyczna,Auta małe,1 591 cm3,125 KM,5,Szary
+Kia,Stonic,2024,85 068 PLN,5 km,Benzyna,Manualna,Auta małe,1 197 cm3,79 KM,5,Biały
+Kia,Ceed,2023,99 900 PLN,14 318 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Niebieski
+Kia,Ceed,2016,39 900 PLN,152 000 km,Diesel,Automatyczna,Kombi,1 582 cm3,136 KM,5,Czarny
+Kia,Ceed,2020,59 900 PLN,164 000 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Czarny
+Kia,Ceed,2019,49 900 PLN,172 000 km,Diesel,Manualna,Auta małe,1 582 cm3,136 KM,5,Czerwony
+Kia,Picanto,2014,18 900 PLN,138 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,69 KM,5,Czarny
+Kia,Ceed,2015,43 500 PLN,140 000 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Inny kolor
+Kia,Rio,2012,21 900 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,3,Czerwony
+Kia,Sportage,2016,77 900 PLN,126 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,Optima,2016,52 500 PLN,213 688 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,5,Czarny
+Kia,Venga,2015,33 900 PLN,146 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Beżowy
+Kia,Rio,2018,40 999 PLN,140 000 km,Benzyna+LPG,Manualna,Kompakt,1 248 cm3,84 KM,5,Szary
+Kia,Sorento,2017,99 900 PLN,172 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Srebrny
+Kia,Sportage,2017,79 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Kia,Ceed,2013,28 290 PLN,180 500 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,100 KM,5,Srebrny
+Kia,Sportage,2021,97 900 PLN,37 459 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Ceed,2017,43 999 PLN,65 840 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Czarny
+Kia,Ceed,2019,44 900,110 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Szary
+Kia,Pro_cee'd,2020,104 900 PLN,43 234 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Szary
+Kia,Venga,2011,17 990 PLN,186 700 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Złoty
+Kia,Sportage,2015,38 900 PLN,268 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Venga,2013,25 200 PLN,171 000 km,Diesel,Manualna,Minivan,1 396 cm3,90 KM,5,Beżowy
+Kia,Sportage,2016,65 500 PLN,44 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Kia,Pro_cee'd,2020,104 900 PLN,75 458 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Niebieski
+Kia,XCeed,2020,86 900 PLN,110 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Czarny
+Kia,Carens,2014,39 500 PLN,91 800 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2011,37 000 PLN,136 800 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Sportage,2018,79 800 PLN,72 800 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Granatowy
+Kia,Sportage,2019,85 500 PLN,150 500 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Brązowy
+Kia,Ceed,2021,65 555 PLN,31 300 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Srebrny
+Kia,Sportage,2019,94 500 PLN,98 500 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Srebrny
+Kia,Pro_cee'd,2014,25 900 PLN,202 000 km,Benzyna,Manualna,Coupe,1 396 cm3,90 KM,3,Biały
+Kia,Stonic,2023,73 500 PLN,34 960 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Niebieski
+Kia,Sportage,2012,44 900 PLN,187 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Kia,Ceed,2019,69 999 PLN,95 970 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Czarny
+Kia,Sportage,2019,78 200 PLN,120 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Sportage,2016,59 900 PLN,115 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Optima,2018,63 500 PLN,137 000 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,4,Czerwony
+Kia,Stonic,2019,63 000 PLN,59 022 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Granatowy
+Kia,XCeed,2021,95 500 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,204 KM,5,Czarny
+Kia,Venga,2012,30 900 PLN,81 241 km,Benzyna,Automatyczna,Kompakt,1 591 cm3,125 KM,5,Biały
+Kia,Sportage,2014,48 500 PLN,187 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Kia,Sportage,2024,117 920 PLN,1 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Czarny
+Kia,Sportage,2010,42 900 PLN,157 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Kia,Ceed,2022,97 900 PLN,15 942 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Srebrny
+Kia,XCeed,2024,132 525 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,1 500 cm3,140 KM,5,Srebrny
+Kia,Optima,2019,79 500 PLN,126 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,180 KM,5,Biały
+Kia,Stonic,2023,82 800 PLN,25 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Zielony
+Kia,Sportage,2022,152 290 PLN,29 800 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Kia,Stonic,2023,82 800 PLN,15 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Czarny
+Kia,Sportage,2011,39 900 PLN,187 016 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Kia,Ceed,2013,36 900 PLN,95 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Brązowy
+Kia,Sportage,2017,80 900 PLN,92 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Złoty
+Kia,Sportage,2014,44 400 PLN,219 856 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Soul,2009,18 500 PLN,164 402 km,Benzyna,Manualna,Kompakt,1 591 cm3,124 KM,5,Czarny
+Kia,Sportage,2024,171 900 PLN,4 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Niebieski
+Kia,Sportage,2012,51 500 PLN,173 000 km,Diesel,Manualna,SUV,1 998 cm3,183 KM,5,Czarny
+Kia,Stonic,2024,97 800 PLN,1 500 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,100 KM,5,Niebieski
+Kia,Pro_cee'd,2024,131 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Inny kolor
+Kia,Rio,2019,48 800 PLN,50 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Bordowy
+Kia,Rio,2016,39 500 PLN,98 500 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,84 KM,5,Czarny
+Kia,Ceed,2019,58 800 PLN,54 000 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Szary
+Kia,Sorento,2024,244 400 PLN,10 km,Diesel,Automatyczna,SUV,2 151 cm3,193 KM,5,Biały
+Kia,Ceed,2023,103 000 PLN,1 km,Benzyna,Manualna,Kombi,998 cm3,120 KM,5,Biały
+Kia,Rio,2012,25 999 PLN,150 500 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Czerwony
+Kia,Sportage,2013,49 700 PLN,51 230 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Szary
+Kia,Sportage,2016,72 800 PLN,79 000 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,Sportage,2017,58 900 PLN,101 600 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Złoty
+Kia,Sportage,2012,42 700 PLN,245 458 km,Diesel,Manualna,SUV,1 995 cm3,184 KM,5,Biały
+Kia,Rio,2006,5 200 PLN,173 000 km,Benzyna,Manualna,Kombi,1 343 cm3,82 KM,5,Srebrny
+Kia,Sportage,2006,15 000 PLN,181 000 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Inny kolor
+Kia,Sportage,2015,49 900 PLN,133 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Kia,Sportage,2014,58 700 PLN,145 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,166 KM,5,Czarny
+Kia,Ceed,2011,18 900 PLN,136 750 km,Benzyna,Manualna,Kombi,1 396 cm3,90 KM,5,Szary
+Kia,Venga,2015,39 800 PLN,50 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Szary
+Kia,Sportage,2021,78 000 PLN,123 000 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Szary
+Kia,Ceed,2014,38 000 PLN,193 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Szary
+Kia,Sorento,2023,72 900 PLN,14 200 km,Diesel,Automatyczna,SUV,2 151 cm3,193 KM,5,Biały
+Kia,Stonic,2019,53 800 PLN,170 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Inny kolor
+Kia,Sportage,2018,66 900 PLN,139 800 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Niro,2019,84 900 PLN,74 900 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Błękitny
+Kia,Niro,2019,84 900 PLN,74 900 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Błękitny
+Kia,Rio,2017,29 990 PLN,251 000 km,Benzyna,Manualna,Kompakt,1 248 cm3,84 KM,5,Biały
+Kia,Niro,2018,64 900 PLN,164 000 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Biały
+Kia,Sportage,2017,64 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Kia,Picanto,2009,9 700 PLN,113 000 km,Benzyna,Manualna,Auta małe,1 086 cm3,65 KM,5,Srebrny
+Kia,Sorento,2016,57 000 PLN,414 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,240 KM,5,Czarny
+Kia,Picanto,2015,24 000 PLN,184 000 km,Benzyna,Manualna,Auta małe,998 cm3,66 KM,5,Biały
+Kia,Sportage,2019,82 500 PLN,109 522 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Bordowy
+Kia,Sportage,2017,69 900 PLN,86 400 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Inny kolor
+Kia,Sorento,2019,109 900 PLN,94 700 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Biały
+Kia,Stonic,2021,66 900 PLN,51 555 km,Benzyna,Manualna,SUV,1 197 cm3,84 KM,5,Czerwony
+Kia,Ceed,2011,24 900 PLN,181 539 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Srebrny
+Kia,Stinger,2018,115 998 PLN,119 800 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,245 KM,5,Biały
+Kia,Picanto,2013,25 100 PLN,64 091 km,Benzyna,Manualna,Auta małe,1 248 cm3,85 KM,5,Beżowy
+Kia,Sportage,2017,59 900 PLN,220 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Kia,Ceed,2015,27 900 PLN,152 000 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Biały
+Kia,Rio,2011,19 500 PLN,172 873 km,Diesel,Manualna,Kompakt,1 120 cm3,75 KM,5,Szary
+Kia,Sportage,2014,46 900 PLN,164 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Ceed,2020,89 700 PLN,75 000 km,Benzyna,Manualna,Kombi,1 591 cm3,204 KM,5,Czerwony
+Kia,Ceed,2010,16 999 PLN,170 000 km,Benzyna,Manualna,Kombi,1 396 cm3,90 KM,5,Szary
+Kia,Sportage,2024,117 920 PLN,1 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Carens,2015,43 900 PLN,198 000 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Czarny
+Kia,Carens,2015,29 500 PLN,217 600 km,Diesel,Manualna,Minivan,1 685 cm3,136 KM,5,Beżowy
+Kia,Ceed,2021,52 900 PLN,165 000 km,Diesel,Manualna,Kombi,1 582 cm3,135 KM,5,Biały
+Kia,Rio,2011,25 600 PLN,144 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Czarny
+Kia,Picanto,2018,31 900 PLN,75 000 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Brązowy
+Kia,Sportage,2010,33 900 PLN,174 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Niebieski
+Kia,Sportage,2007,23 900 PLN,216 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,142 KM,5,Inny kolor
+Kia,Sportage,2024,128 154 PLN,1 km,Benzyna,Manualna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sorento,2016,43 000 PLN,84 305 km,Benzyna,Automatyczna,SUV,2 359 cm3,192 KM,5,Czarny
+Kia,Sportage,2018,64 900 PLN,100 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Pro_cee'd,2020,86 000 PLN,59 243 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Srebrny
+Kia,Ceed,2017,12 000 PLN,47 939 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2018,76 700 PLN,129 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,XCeed,2020,79 999 PLN,33 298 km,Benzyna,Automatyczna,SUV,1 353 cm3,140 KM,5,Czarny
+Kia,Ceed,2011,21 900 PLN,169 000 km,Benzyna,Manualna,Kombi,1 396 cm3,90 KM,5,Szary
+Kia,Rio,2012,19 900 PLN,178 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Bordowy
+Kia,Stinger,2021,139 900 PLN,66 500 km,Benzyna,Automatyczna,Coupe,3 342 cm3,366 KM,5,Szary
+Kia,Sportage,2013,51 000 PLN,135 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Pomarańczowy
+Kia,Sportage,2017,69 900 PLN,137 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Beżowy
+Kia,Venga,2014,36 900 PLN,73 000 km,Benzyna+LPG,Manualna,Minivan,1 396 cm3,90 KM,5,Inny kolor
+Kia,Niro,2022,129 500 PLN,22 000 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Szary
+Kia,Pro_cee'd,2020,102 999 PLN,49 800 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Biały
+Kia,Stonic,2020,71 000 PLN,33 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Czarny
+Kia,Sportage,2013,52 800 PLN,118 300 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Srebrny
+Kia,Optima,2016,54 900 PLN,148 879 km,Diesel,Manualna,Sedan,1 685 cm3,141 KM,4,Biały
+Kia,Venga,2012,24 900 PLN,169 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Czarny
+Kia,Sportage,2016,75 500 PLN,72 918 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Inny kolor
+Kia,Sportage,2016,56 800 PLN,195 767 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Sportage,2024,154 836 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Kia,XCeed,2021,92 900 PLN,49 500 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Srebrny
+Kia,Sportage,2015,48 900 PLN,147 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2012,43 500 PLN,179 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Kia,Sportage,2016,58 800 PLN,135 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Pro_cee'd,2022,104 000 PLN,23 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Zielony
+Kia,Stonic,2017,29 900 PLN,74 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Biały
+Kia,XCeed,2021,99 800 PLN,71 496 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,5,Niebieski
+Kia,Ceed,2013,32 500 PLN,268 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Inny kolor
+Kia,Sportage,2019,83 500 PLN,117 715 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Czerwony
+Kia,Sportage,2024,161 343 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sportage,2024,182 528 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czarny
+Kia,Ceed,2023,143 900 PLN,23 771 km,Hybryda Plug-in,Automatyczna,Kombi,1 580 cm3,105 KM,5,Szary
+Kia,Sportage,2008,24 500 PLN,112 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Granatowy
+Kia,Rio,2007,9 500 PLN,137 000 km,Diesel,Manualna,Sedan,1 493 cm3,110 KM,4,Beżowy
+Kia,Venga,2015,38 000 PLN,140 000 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Szary
+Kia,Pro_cee'd,2013,37 999 PLN,187 000 km,Benzyna,Manualna,Coupe,1 591 cm3,135 KM,3,Biały
+Kia,Niro,2019,78 900 PLN,87 200 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Srebrny
+Kia,Picanto,2015,23 500 PLN,125 200 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Brązowy
+Kia,Rio,2022,27 900 PLN,11 600 km,Benzyna,Manualna,Auta miejskie,998 cm3,100 KM,5,Biały
+Kia,Ceed,2015,27 900 PLN,225 000 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Biały
+Kia,Pro_cee'd,2014,52 900 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,204 KM,3,Biały
+Kia,Sportage,2009,20 900 PLN,199 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Szary
+Kia,Ceed,2014,42 900 PLN,185 000 km,Benzyna,Automatyczna,Kompakt,1 591 cm3,135 KM,5,Brązowy
+Kia,Sportage,2023,129 900 PLN,14 750 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Czarny
+Kia,Rio,2012,21 900 PLN,161 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,3,Czerwony
+Kia,Inny,2024,206 200 PLN,10 km,Elektryczny,Automatyczna,SUV,,204 KM,5,Szary
+Kia,Opirus,2004,9 900 PLN,242 777 km,Benzyna+LPG,Automatyczna,Sedan,3 497 cm3,202 KM,4,Srebrny
+Kia,Pro_cee'd,2024,153 100 PLN,10 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Szary
+Kia,Optima,2018,71 900 PLN,136 700 km,Benzyna,Automatyczna,Kombi,1 591 cm3,180 KM,5,Szary
+Kia,Pro_cee'd,2024,153 100 PLN,10 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,140 KM,5,Szary
+Kia,Sportage,2024,126 300 PLN,1 km,Benzyna,Manualna,SUV,1 598 cm3,160 KM,5,Czerwony
+Kia,Sportage,2006,19 999 PLN,213 000 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,142 KM,5,Szary
+Kia,Pro_cee'd,2019,99 999 PLN,77 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Niebieski
+Kia,Rio,2012,19 900 PLN,214 100 km,Diesel,Manualna,Kompakt,1 120 cm3,75 KM,5,Srebrny
+Kia,Sportage,2020,98 800 PLN,71 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Brązowy
+Kia,Carens,2015,43 900 PLN,134 000 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Inny kolor
+Kia,Ceed,2023,89 890 PLN,24 085 km,Benzyna,Manualna,Kompakt,1 500 cm3,160 KM,,Biały
+Kia,Niro,2017,72 300 PLN,116 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Czerwony
+Kia,XCeed,2024,115 500 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Zielony
+Kia,Optima,2018,61 377 PLN,158 000 km,Diesel,Manualna,Sedan,1 685 cm3,141 KM,4,Szary
+Kia,Sportage,2019,96 900 PLN,49 720 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,Sportage,2023,103 900 PLN,31 600 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Biały
+Kia,Sportage,2023,103 900 PLN,28 375 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Kia,Sportage,2023,103 900 PLN,28 600 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Czarny
+Kia,Ceed,2017,44 500 PLN,97 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Bordowy
+Kia,Picanto,2018,39 900 PLN,74 500 km,Benzyna,Manualna,Auta małe,1 248 cm3,84 KM,5,Biały
+Kia,Sportage,2024,157 248 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Srebrny
+Kia,Sportage,2024,137 228 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sportage,2015,45 000 PLN,125 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Sportage,2013,42 900 PLN,195 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Brązowy
+Kia,Pro_cee'd,2020,94 500 PLN,109 000 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Biały
+Kia,Optima,2012,39 500 PLN,202 048 km,Diesel,Automatyczna,Sedan,1 685 cm3,136 KM,4,Brązowy
+Kia,Ceed,2023,101 900 PLN,10 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Czarny
+Kia,Stonic,2021,69 900 PLN,38 300 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Czerwony
+Kia,Stonic,2024,83 400 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 200 cm3,79 KM,5,Niebieski
+Kia,Ceed,2016,29 990 PLN,110 000 km,Benzyna,Manualna,Kombi,1 396 cm3,100 KM,5,Brązowy
+Kia,Sportage,2024,136 000 PLN,1 000 km,Benzyna,Manualna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Stonic,2024,83 400 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 200 cm3,79 KM,5,Biały
+Kia,Sportage,2023,149 900 PLN,14 000 km,Diesel,Automatyczna,SUV,1 598 cm3,115 KM,5,Srebrny
+Kia,Sportage,2024,150 878 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Sportage,2023,127 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Czerwony
+Kia,Sportage,2023,127 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Żółty
+Kia,Sportage,2023,127 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Sportage,2016,53 900 PLN,136 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Ceed,2008,12 900 PLN,280 000 km,Diesel,Manualna,Kombi,1 582 cm3,90 KM,5,Inny kolor
+Kia,Sportage,2017,69 999 PLN,88 500 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Sorento,2017,95 000 PLN,189 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Czarny
+Kia,Soul,2012,28 900 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,126 KM,5,Biały
+Kia,Sportage,2023,153 900 PLN,54 721 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Zielony
+Kia,Niro,2021,106 395 PLN,27 075 km,Elektryczny,Automatyczna,Kompakt,,204 KM,5,Czerwony
+Kia,Ceed,2017,43 500 PLN,210 000 km,Diesel,Manualna,Kombi,1 582 cm3,136 KM,5,Szary
+Kia,Sportage,2014,49 900 PLN,112 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Ceed,2021,42 000 PLN,137 687 km,Benzyna,Manualna,Coupe,998 cm3,120 KM,5,Biały
+Kia,Rio,2017,32 800 PLN,80 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,84 KM,5,Srebrny
+Kia,Ceed,2013,39 500 PLN,141 500 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Inny kolor
+Kia,Optima,2013,32 900 PLN,250 000 km,Diesel,Manualna,Sedan,1 685 cm3,136 KM,4,Szary
+Kia,Sorento,2021,143 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,188 KM,5,Biały
+Kia,Ceed,2020,69 900 PLN,80 500 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Szary
+Kia,Sportage,2018,83 600 PLN,98 300 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Srebrny
+Kia,Stonic,2018,52 500 PLN,124 000 km,Benzyna,Manualna,SUV,998 cm3,120 KM,5,Biały
+Kia,Venga,2016,42 000 PLN,74 812 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Złoty
+Kia,Venga,2012,19 800 PLN,179 000 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Szary
+Kia,Stinger,2018,99 900 PLN,139 000 km,Benzyna,Automatyczna,Coupe,3 342 cm3,370 KM,5,Niebieski
+Kia,Sportage,2023,103 900 PLN,25 600 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Stonic,2023,82 800 PLN,24 655 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Czerwony
+Kia,Sorento,2022,169 900 PLN,62 780 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Kia,Sportage,2023,165 300 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Kia,Niro,2023,124 000 PLN,10 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Szary
+Kia,Ceed,2014,34 900 PLN,122 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Czerwony
+Kia,Pro_cee'd,2021,79 800 PLN,193 000 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Biały
+Kia,Ceed,2019,64 000 PLN,100 000 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Srebrny
+Kia,Venga,2014,19 900 PLN,194 000 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,5,Srebrny
+Kia,Ceed,2020,59 000 PLN,155 000 km,Diesel,Automatyczna,Kombi,1 582 cm3,115 KM,5,Szary
+Kia,Sportage,2015,36 900 PLN,254 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Ceed,2021,63 800 PLN,122 000 km,Hybryda,Manualna,Kombi,1 598 cm3,136 KM,5,Błękitny
+Kia,Rio,2009,6 900 PLN,143 900 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Czarny
+Kia,Optima,2016,77 500 PLN,220 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,245 KM,5,Inny kolor
+Kia,Rio,2016,24 900 PLN,249 930 km,Diesel,Manualna,Kompakt,1 120 cm3,75 KM,5,Biały
+Kia,Optima,2017,62 900 PLN,179 054 km,Diesel,Automatyczna,Kombi,1 685 cm3,141 KM,5,Czarny
+Kia,Pro_cee'd,2019,93 000 PLN,75 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Pomarańczowy
+Kia,Stinger,2019,125 900 PLN,35 000 km,Benzyna,Automatyczna,Kompakt,3 342 cm3,370 KM,5,Inny kolor
+Kia,Sportage,2011,47 900 PLN,99 930 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Srebrny
+Kia,Sportage,2010,36 000 PLN,190 140 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Sportage,2011,44 700 PLN,223 859 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Pomarańczowy
+Kia,Sportage,2010,27 900 PLN,210 000 km,Benzyna,Manualna,SUV,1 975 cm3,142 KM,5,Inny kolor
+Kia,Ceed,2021,73 000 PLN,116 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czarny
+Kia,Ceed,2011,11 000 PLN,317 000 km,Diesel,Manualna,Kombi,1 582 cm3,116 KM,5,Niebieski
+Kia,Ceed,2013,37 999 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 582 cm3,128 KM,5,Biały
+Kia,Sportage,2018,79 900 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czarny
+Kia,Stonic,2022,87 900 PLN,7 539 km,Benzyna,Automatyczna,SUV,998 cm3,100 KM,5,Szary
+Kia,Sportage,2014,48 500 PLN,170 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2016,70 500 PLN,56 881 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Złoty
+Kia,Sorento,2015,62 900 PLN,216 500 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Szary
+Kia,Ceed,2016,54 700 PLN,58 846 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Inny kolor
+Kia,Ceed,2014,49 900 PLN,108 300 km,Benzyna,Manualna,Kompakt,1 591 cm3,204 KM,5,Biały
+Kia,Pro_cee'd,2020,77 700 PLN,121 000 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Czarny
+Kia,Ceed,2014,32 900 PLN,114 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,90 KM,5,Biały
+Kia,Sportage,2018,73 999 PLN,169 822 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Sportage,2016,59 999 PLN,146 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Złoty
+Kia,Stonic,2018,63 000 PLN,90 500 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Kia,Sportage,2007,16 900 PLN,271 100 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Brązowy
+Kia,Sportage,2007,19 900 PLN,176 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Kia,Sportage,2012,38 800 PLN,220 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Rio,2016,38 500 PLN,102 259 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Biały
+Kia,Sportage,2019,95 000 PLN,74 589 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Kia,Ceed,2008,17 900 PLN,214 000 km,Benzyna,Manualna,Kombi,1 591 cm3,126 KM,5,Czarny
+Kia,Rio,2017,53 333 PLN,50 100 km,Benzyna,Automatyczna,Auta miejskie,1 368 cm3,100 KM,5,Czerwony
+Kia,Ceed,2009,13 999 PLN,211 850 km,Benzyna,Manualna,Coupe,1 591 cm3,126 KM,5,Czerwony
+Kia,Ceed,2012,34 900 PLN,198 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,135 KM,5,Szary
+Kia,Ceed,2008,8 900 PLN,207 605 km,Diesel,Manualna,Kompakt,1 582 cm3,90 KM,5,Inny kolor
+Kia,Picanto,2009,10 900 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 086 cm3,65 KM,5,Srebrny
+Kia,Sportage,2024,172 718 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Stonic,2019,66 900 PLN,77 787 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Kia,Sportage,2021,85 899,98 800 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Kia,Magentis,2010,17 000 PLN,250 000 km,Diesel,Manualna,Sedan,1 991 cm3,150 KM,4,Szary
+Kia,Sportage,2018,55 000 PLN,176 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Czerwony
+Kia,Sportage,2015,48 500 PLN,123 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Sportage,2016,71 900 PLN,104 700 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czerwony
+Kia,Sorento,2016,68 000 PLN,157 092 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Bordowy
+Kia,Sportage,2011,34 900 PLN,228 400 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Srebrny
+Kia,Sportage,2014,48 900 PLN,124 000 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Czarny
+Kia,Sportage,2013,43 900 PLN,239 660 km,Diesel,Manualna,SUV,1 998 cm3,183 KM,5,Biały
+Kia,Sportage,2018,76 900 PLN,128 500 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Niebieski
+Kia,Stinger,2017,122 000 PLN,129 500 km,Benzyna,Automatyczna,Coupe,3 342 cm3,370 KM,5,Czarny
+Kia,Sorento,2016,75 000 PLN,190 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Granatowy
+Kia,Sportage,2022,149 000 PLN,31 500 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Ceed,2018,50 000 PLN,107 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Biały
+Kia,Ceed,2012,28 000 PLN,204 272 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Szary
+Kia,Ceed,2007,14 900 PLN,268 000 km,Benzyna,Manualna,Kombi,1 591 cm3,122 KM,5,Inny kolor
+Kia,Pro_cee'd,2023,119 999 PLN,19 000 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Zielony
+Kia,Ceed,2013,37 200 PLN,177 500 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Beżowy
+Kia,Sportage,2018,78 800 PLN,99 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Sportage,2022,112 969 PLN,44 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Kia,Pro_cee'd,2023,115 800 PLN,38 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Czerwony
+Kia,Pro_cee'd,2023,115 800 PLN,31 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Niebieski
+Kia,Pro_cee'd,2023,115 800 PLN,25 430 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Srebrny
+Kia,Rio,2021,39 800 PLN,107 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,84 KM,5,Czarny
+Kia,Rio,2015,35 300 PLN,69 339 km,Benzyna,Manualna,Sedan,1 248 cm3,85 KM,5,Brązowy
+Kia,Picanto,2015,28 000 PLN,41 000 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,3,Niebieski
+Kia,Sportage,2015,42 700 PLN,183 800 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,EV6,2022,80 000 PLN,30 000 km,Elektryczny,Automatyczna,SUV,,584 KM,5,Czarny
+Kia,Sportage,2015,49 999 PLN,189 500 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Sportage,2014,44 900 PLN,172 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Stonic,2019,68 500 PLN,64 000 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Żółty
+Kia,Sportage,2015,55 900 PLN,165 200 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Sorento,2021,177 000 PLN,38 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Kia,Carens,2016,45 900 PLN,150 221 km,Diesel,Manualna,Minivan,1 685 cm3,115 KM,5,Szary
+Kia,Sportage,2024,138 900 PLN,10 km,Benzyna,Manualna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sportage,2024,157 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Srebrny
+Kia,Sportage,2024,173 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czerwony
+Kia,Sportage,2024,173 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Czerwony
+Kia,Ceed,2023,92 800 PLN,50 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Srebrny
+Kia,Ceed,2023,92 800 PLN,35 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Czerwony
+Kia,Sportage,2024,157 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Sportage,2024,157 700 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Szary
+Kia,Optima,2019,51 900 PLN,180 500 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Biały
+Kia,XCeed,2024,115 150 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Srebrny
+Kia,Optima,2015,25 900 PLN,123 000 km,Diesel,Automatyczna,Sedan,1 685 cm3,136 KM,4,Biały
+Kia,Ceed,2023,92 800 PLN,25 000 km,Benzyna,Automatyczna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Carnival,2002,4 200 PLN,150 000 km,Benzyna,Manualna,Minivan,2 496 cm3,165 KM,5,Niebieski
+Kia,Rio,2015,29 899 PLN,166 000 km,Benzyna+LPG,Manualna,Kompakt,1 248 cm3,85 KM,5,Czarny
+Kia,Ceed,2014,22 800 PLN,317 000 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Biały
+Kia,Rio,2014,33 600 PLN,77 980 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,5,Brązowy
+Kia,Ceed,2009,13 500 PLN,293 000 km,Benzyna+LPG,Manualna,Kombi,1 591 cm3,126 KM,5,Szary
+Kia,Sportage,2018,78 700 PLN,140 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Sportage,2017,69 900 PLN,88 100 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Sportage,2018,79 999 PLN,129 500 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Czerwony
+Kia,Sportage,2021,89 900 PLN,97 000 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Czarny
+Kia,Ceed,2008,17 000 PLN,148 000 km,Benzyna+LPG,Manualna,Kompakt,1 396 cm3,109 KM,5,Czerwony
+Kia,EV9,2023,309 900 PLN,12 000 km,Elektryczny,Automatyczna,SUV,,384 KM,5,Niebieski
+Kia,Ceed,2016,44 900 PLN,70 000 km,Diesel,Manualna,Kompakt,1 582 cm3,136 KM,5,Czarny
+Kia,Sorento,2023,219 900 PLN,4 500 km,Hybryda,Automatyczna,SUV,1 598 cm3,265 KM,5,Srebrny
+Kia,Ceed,2013,26 000 PLN,146 179 km,Benzyna,Manualna,Auta małe,1 396 cm3,100 KM,5,Inny kolor
+Kia,Sportage,2013,41 900 PLN,198 000 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Biały
+Kia,XCeed,2019,104 000 PLN,27 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,204 KM,5,Czerwony
+Kia,Stonic,2024,91 200 PLN,2 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,84 KM,5,Niebieski
+Kia,Sportage,2014,37 500 PLN,240 000 km,Diesel,Manualna,SUV,1 998 cm3,136 KM,5,Brązowy
+Kia,Sportage,2019,72 900 PLN,141 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Czarny
+Kia,Ceed,2019,50 430 PLN,90 200 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Szary
+Kia,Picanto,2014,16 900 PLN,179 000 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Błękitny
+Kia,Pro_cee'd,2019,98 900 PLN,80 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Szary
+Kia,Sportage,2019,85 900 PLN,76 900 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Inny kolor
+Kia,Optima,2016,48 000 PLN,170 734 km,Benzyna+LPG,Automatyczna,Sedan,2 400 cm3,188 KM,5,Czarny
+Kia,Venga,2011,28 000 PLN,146 700 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,125 KM,5,Beżowy
+Kia,Sportage,2014,50 900 PLN,159 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Srebrny
+Kia,XCeed,2024,138 700 PLN,5 000 km,Benzyna,Automatyczna,SUV,1 600 cm3,140 KM,5,Zielony
+Kia,Ceed,2021,54 900 PLN,135 000 km,Diesel,Manualna,Kombi,1 582 cm3,135 KM,5,Szary
+Kia,Ceed,2015,35 500 PLN,165 255 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Srebrny
+Kia,Sportage,2013,33 000 PLN,251 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Optima,2016,59 000 PLN,136 918 km,Diesel,Automatyczna,Sedan,1 685 cm3,141 KM,4,Czarny
+Kia,Sportage,2023,99 900 PLN,30 017 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Zielony
+Kia,Sportage,2016,74 900 PLN,148 000 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Biały
+Kia,Ceed,2023,89 800 PLN,16 685 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Inny kolor
+Kia,Niro,2018,65 900 PLN,186 000 km,Hybryda Plug-in,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Niebieski
+Kia,Ceed,2023,91 900 PLN,28 936 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Szary
+Kia,Ceed,2013,28 900 PLN,182 832 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,100 KM,5,Czerwony
+Kia,Ceed,2023,89 800 PLN,20 955 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Srebrny
+Kia,Ceed,2023,101 900 PLN,36 059 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Biały
+Kia,Ceed,2023,89 800 PLN,29 895 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Zielony
+Kia,Ceed,2007,13 700 PLN,198 725 km,Benzyna,Manualna,Auta miejskie,1 591 cm3,122 KM,5,Srebrny
+Kia,Ceed,2023,89 800 PLN,25 785 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Zielony
+Kia,Ceed,2010,18 900 PLN,192 000 km,Benzyna,Manualna,Kombi,1 396 cm3,105 KM,5,Inny kolor
+Kia,Ceed,2018,54 900 PLN,146 600 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Czerwony
+Kia,Sorento,2023,234 600 PLN,8 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,230 KM,5,Srebrny
+Kia,Ceed,2024,137 200 PLN,2 000 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Czarny
+Kia,Sportage,2016,65 000 PLN,126 700 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czerwony
+Kia,Soul,2014,37 500 PLN,162 500 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Czerwony
+Kia,Ceed,2013,35 900 PLN,101 574 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Biały
+Kia,Venga,2012,24 999 PLN,195 000 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Szary
+Kia,Sportage,2010,38 900 PLN,296 500 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Czarny
+Kia,Sportage,2021,78 900 PLN,55 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Błękitny
+Kia,Sportage,2023,124 300 PLN,52 478 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Srebrny
+Kia,XCeed,2019,86 900 PLN,102 537 km,Benzyna,Automatyczna,Kompakt,1 353 cm3,140 KM,5,Niebieski
+Kia,Ceed,2018,45 900 PLN,125 020 km,Benzyna,Manualna,Kombi,1 368 cm3,100 KM,5,Srebrny
+Kia,Sportage,2017,82 500 PLN,101 600 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Kia,Optima,2017,61 900 PLN,128 150 km,Benzyna+LPG,Automatyczna,Kombi,1 998 cm3,245 KM,5,Srebrny
+Kia,Sportage,2010,36 900 PLN,183 300 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Pomarańczowy
+Kia,Niro,2016,62 000 PLN,137 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Inny kolor
+Kia,Stonic,2023,82 800 PLN,24 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Szary
+Kia,Stonic,2023,82 800 PLN,25 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Niebieski
+Kia,Ceed,2019,63 900 PLN,89 160 km,Benzyna,Automatyczna,Kombi,1 353 cm3,140 KM,5,Błękitny
+Kia,Stonic,2024,86 400 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 200 cm3,79 KM,5,Czerwony
+Kia,Stinger,2018,105 000 PLN,164 900 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,255 KM,5,Biały
+Kia,Sportage,2012,45 900 PLN,207 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,XCeed,2024,118 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Szary
+Kia,Ceed,2013,31 900 PLN,174 584 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Szary
+Kia,Picanto,2015,30 937 PLN,177 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,85 KM,5,Srebrny
+Kia,Ceed,2020,59 900 PLN,162 000 km,Diesel,Automatyczna,Kombi,1 582 cm3,135 KM,5,Srebrny
+Kia,Sportage,2024,123 900 PLN,10 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Zielony
+Kia,Stonic,2018,52 900 PLN,150 500 km,Benzyna+LPG,Manualna,SUV,1 368 cm3,100 KM,5,Czarny
+Kia,Optima,2019,82 900 PLN,93 525 km,Benzyna,Automatyczna,Sedan,1 591 cm3,180 KM,4,Czarny
+Kia,Stonic,2024,86 400 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 200 cm3,79 KM,5,Żółty
+Kia,XCeed,2024,118 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 482 cm3,140 KM,5,Czerwony
+Kia,Sportage,2015,51 800 PLN,117 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Kia,Sportage,2021,95 500 PLN,87 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,136 KM,5,Czarny
+Kia,Picanto,2015,21 500 PLN,229 000 km,Benzyna+LPG,Manualna,Auta małe,998 cm3,69 KM,5,Biały
+Kia,Soul,2009,9 999 PLN,168 000 km,Benzyna,Manualna,SUV,1 591 cm3,124 KM,5,Beżowy
+Kia,Ceed,2013,36 100 PLN,133 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Biały
+Kia,Sportage,2016,59 800 PLN,244 000 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Szary
+Kia,Ceed,2019,57 000 PLN,70 500 km,Benzyna,Manualna,Auta małe,1 368 cm3,100 KM,5,Czerwony
+Kia,Picanto,2014,22 500 PLN,159 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,69 KM,5,Złoty
+Kia,Sportage,2016,57 900 PLN,123 429 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Kia,Ceed,2020,65 900 PLN,153 000 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Brązowy
+Kia,Ceed,2018,75 900 PLN,64 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,135 KM,5,Czerwony
+Kia,Sportage,2015,55 900 PLN,175 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Kia,Ceed,2019,72 900 PLN,49 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,204 KM,5,Biały
+Kia,Sportage,2011,41 500 PLN,261 000 km,Diesel,Automatyczna,SUV,1 998 cm3,183 KM,5,Beżowy
+Kia,Ceed,2024,118 500 PLN,5 km,Benzyna,Automatyczna,Kombi,1 482 cm3,140 KM,5,Czarny
+Kia,Sportage,2011,38 900 PLN,139 000 km,Diesel,Manualna,SUV,1 685 cm3,141 KM,5,Czarny
+Kia,Sorento,2012,44 900 PLN,173 500 km,Benzyna,Automatyczna,SUV,2 359 cm3,192 KM,5,Srebrny
+Kia,Sorento,2012,44 900 PLN,173 500 km,Benzyna,Automatyczna,SUV,2 359 cm3,192 KM,5,Srebrny
+Kia,Sportage,2012,46 500 PLN,198 000 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,163 KM,5,Pomarańczowy
+Kia,Ceed,2016,39 900 PLN,177 000 km,Diesel,Manualna,Kompakt,1 582 cm3,136 KM,5,Biały
+Kia,Sportage,2012,39 900 PLN,178 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Sportage,2018,63 900 PLN,141 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Carens,2017,55 900 PLN,92 000 km,Diesel,Manualna,Minivan,1 685 cm3,115 KM,5,Szary
+Kia,Ceed,2010,13 900 PLN,173 500 km,Diesel,Manualna,Kombi,1 582 cm3,116 KM,5,Beżowy
+Kia,Sportage,2013,49 500 PLN,138 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Sportage,2015,53 900 PLN,132 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2016,71 900 PLN,211 000 km,Diesel,Automatyczna,SUV,1 995 cm3,136 KM,5,Biały
+Kia,Optima,2018,85 500 PLN,182 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,238 KM,5,Czerwony
+Kia,Sportage,2005,12 500 PLN,238 000 km,Diesel,Automatyczna,SUV,1 991 cm3,112 KM,5,Czarny
+Kia,Sportage,2019,83 999 PLN,109 500 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Szary
+Kia,Sorento,2017,105 000 PLN,150 000 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Szary
+Kia,Sportage,2013,51 800 PLN,89 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Brązowy
+Kia,Carens,2015,45 500 PLN,80 300 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Brązowy
+Kia,Picanto,2010,22 800 PLN,99 000 km,Benzyna,Automatyczna,Auta małe,1 086 cm3,65 KM,5,Srebrny
+Kia,Optima,2019,56 500 PLN,174 342 km,Hybryda Plug-in,Automatyczna,Kombi,1 999 cm3,154 KM,5,Czarny
+Kia,XCeed,2021,83 600 PLN,101 200 km,Hybryda Plug-in,Automatyczna,SUV,1 580 cm3,105 KM,5,Inny kolor
+Kia,Sportage,2010,42 900 PLN,174 000 km,Benzyna,Manualna,SUV,1 998 cm3,163 KM,5,Czarny
+Kia,Rio,2012,22 500 PLN,139 600 km,Benzyna,Manualna,Auta małe,1 396 cm3,109 KM,5,Czarny
+Kia,Sportage,2005,19 400 PLN,205 425 km,Benzyna,Manualna,SUV,1 975 cm3,142 KM,5,Czarny
+Kia,Rio,2012,27 900 PLN,194 453 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,5,Brązowy
+Kia,Ceed,2014,13 900 PLN,153 020 km,Diesel,Manualna,Auta małe,1 582 cm3,110 KM,5,Srebrny
+Kia,Pro_cee'd,2011,20 500 PLN,180 000 km,Diesel,Manualna,Coupe,1 582 cm3,90 KM,3,Biały
+Kia,Rio,2019,34 900 PLN,120 000 km,Benzyna,Automatyczna,Kompakt,998 cm3,120 KM,5,Czerwony
+Kia,Sportage,2018,77 600 PLN,48 985 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Ceed,2020,50 000 PLN,153 000 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Biały
+Kia,Venga,2009,10 900 PLN,194 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,4,Czerwony
+Kia,Ceed,2021,77 000 PLN,70 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Inny kolor
+Kia,XCeed,2020,91 500 PLN,64 305 km,Benzyna,Automatyczna,SUV,1 353 cm3,140 KM,5,Niebieski
+Kia,Optima,2018,72 500 PLN,120 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,180 KM,5,Czarny
+Kia,XCeed,2020,91 500 PLN,64 305 km,Benzyna,Automatyczna,SUV,1 353 cm3,140 KM,5,Niebieski
+Kia,Rio,2012,25 000 PLN,95 100 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,109 KM,3,Czarny
+Kia,XCeed,2020,79 000 PLN,44 000 km,Benzyna,Manualna,SUV,1 353 cm3,140 KM,5,Niebieski
+Kia,Rio,2021,76 400 PLN,46 020 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,120 KM,5,Szary
+Kia,Ceed,2012,30 000 PLN,217 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Biały
+Kia,Ceed,2017,44 500 PLN,69 000 km,Benzyna,Manualna,Kompakt,1 368 cm3,100 KM,5,Czarny
+Kia,Sportage,2012,36 900 PLN,228 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Szary
+Kia,Ceed,2017,44 000 PLN,78 000 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Biały
+Kia,Cerato,2006,8 500 PLN,285 000 km,Diesel,Manualna,Kompakt,1 493 cm3,102 KM,5,Szary
+Kia,Sorento,2016,61 900 PLN,144 200 km,Benzyna,Automatyczna,SUV,2 359 cm3,188 KM,5,Czarny
+Kia,Sportage,2018,93 000 PLN,43 216 km,Diesel,Automatyczna,SUV,1 995 cm3,185 KM,5,Inny kolor
+Kia,Sportage,2014,46 900 PLN,154 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Biały
+Kia,Sportage,2024,148 900 PLN,400 km,Benzyna,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Stonic,2023,75 900 PLN,31 300 km,Benzyna,Manualna,Kompakt,1 197 cm3,84 KM,5,Czerwony
+Kia,Rio,2018,45 990 PLN,59 428 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,99 KM,5,Czarny
+Kia,Pro_cee'd,2022,112 500 PLN,24 900 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Biały
+Kia,Picanto,2024,76 400 PLN,5 km,Benzyna,Manualna,Auta małe,1 197 cm3,79 KM,,
+Kia,Sportage,2008,22 700 PLN,197 000 km,Benzyna,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Kia,Optima,2017,62 900 PLN,156 000 km,Diesel,Manualna,Kombi,1 685 cm3,141 KM,5,Granatowy
+Kia,Sportage,2016,63 000 PLN,120 200 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Ceed,2007,9 900 PLN,288 000 km,Diesel,Manualna,Kompakt,1 582 cm3,90 KM,5,Czarny
+Kia,Sportage,2023,118 800 PLN,19 910 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Inny kolor
+Kia,Sportage,2023,103 900 PLN,25 375 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Srebrny
+Kia,Sportage,2012,45 990 PLN,120 000 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Czarny
+Kia,Ceed,2016,37 900 PLN,164 000 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Inny kolor
+Kia,Pro_cee'd,2023,122 800 PLN,43 615 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Czerwony
+Kia,XCeed,2021,94 900 PLN,42 274 km,Benzyna,Automatyczna,SUV,1 482 cm3,160 KM,5,Złoty
+Kia,XCeed,2023,97 800 PLN,20 710 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Niebieski
+Kia,XCeed,2023,117 900 PLN,39 340 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Niebieski
+Kia,Stonic,2018,60 000 PLN,93 000 km,Benzyna,Manualna,SUV,1 368 cm3,100 KM,5,Inny kolor
+Kia,Sportage,2012,39 500 PLN,200 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Szary
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Kia,Pro_cee'd,2024,131 900 PLN,10 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Inny kolor
+Kia,Ceed,2022,67 900 PLN,133 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Biały
+Kia,Venga,2010,21 600 PLN,181 000 km,Benzyna,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Kia,Sportage,2020,42 999 PLN,42 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Inny kolor
+Kia,Sportage,2010,36 900 PLN,151 000 km,Benzyna,Manualna,SUV,1 591 cm3,135 KM,5,Czarny
+Kia,Pro_cee'd,2007,12 999 PLN,300 000 km,Benzyna+LPG,Manualna,Coupe,1 591 cm3,122 KM,3,Czarny
+Kia,Ceed,2022,59 900 PLN,45 000 km,Benzyna,Manualna,Kompakt,998 cm3,100 KM,5,Biały
+Kia,Ceed,2008,14 900 PLN,242 000 km,Benzyna,Manualna,Kompakt,1 396 cm3,109 KM,5,Granatowy
+Kia,XCeed,2020,97 900 PLN,23 760 km,Hybryda Plug-in,Automatyczna,SUV,1 580 cm3,105 KM,5,Szary
+Kia,Ceed,2015,34 700 PLN,198 521 km,Benzyna,Manualna,Kompakt,1 396 cm3,100 KM,5,Czerwony
+Kia,Carens,2013,25 500 PLN,306 128 km,Diesel,Manualna,Minivan,1 685 cm3,136 KM,5,Niebieski
+Kia,Sportage,2011,37 000 PLN,284 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Ceed,2012,25 999 PLN,238 748 km,Diesel,Manualna,Kombi,1 582 cm3,110 KM,5,Brązowy
+Kia,Sportage,2007,19 800 PLN,151 010 km,Benzyna+LPG,Manualna,SUV,1 975 cm3,141 KM,5,Czarny
+Kia,Soul,2009,18 900 PLN,268 229 km,Diesel,Manualna,Kompakt,1 582 cm3,128 KM,5,Czarny
+Kia,Sportage,2017,60 900 PLN,102 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Sportage,2014,59 500 PLN,111 700 km,Diesel,Automatyczna,SUV,1 995 cm3,183 KM,5,Biały
+Kia,Rio,2015,23 999 PLN,135 000 km,Benzyna,Manualna,Auta małe,1 248 cm3,84 KM,5,Biały
+Kia,Stinger,2018,135 000 PLN,61 000 km,Benzyna,Automatyczna,Sedan,3 342 cm3,370 KM,5,Czerwony
+Kia,Sportage,2017,70 900 PLN,145 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Szary
+Kia,Ceed,2008,14 900 PLN,241 000 km,Diesel,Manualna,Auta miejskie,1 582 cm3,115 KM,5,Czarny
+Kia,Stonic,2020,77 000 PLN,35 000 km,Benzyna,Automatyczna,Kompakt,998 cm3,120 KM,5,Czerwony
+Kia,Rio,2012,27 000 PLN,99 000 km,Benzyna,Manualna,Auta miejskie,1 248 cm3,85 KM,5,Czerwony
+Kia,Sportage,2018,77 900 PLN,75 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Szary
+Kia,Stinger,2019,158 670 PLN,71 450 km,Benzyna,Automatyczna,Kompakt,3 342 cm3,366 KM,5,Biały
+Kia,Ceed,2019,36 500 PLN,246 000 km,Diesel,Manualna,Kombi,1 582 cm3,115 KM,5,Srebrny
+Kia,Sportage,2011,45 000 PLN,215 623 km,Benzyna,Automatyczna,SUV,1 998 cm3,163 KM,5,Inny kolor
+Kia,Stonic,2019,74 900 PLN,18 100 km,Benzyna,Automatyczna,SUV,998 cm3,120 KM,5,Czerwony
+Kia,Venga,2015,44 900 PLN,63 000 km,Benzyna,Manualna,Kompakt,1 591 cm3,125 KM,5,Szary
+Kia,Sportage,2016,72 000 PLN,112 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Biały
+Kia,Ceed,2015,36 900 PLN,226 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Czarny
+Kia,Ceed,2009,12 900 PLN,239 000 km,Diesel,Manualna,Auta miejskie,1 991 cm3,140 KM,5,Czarny
+Kia,Ceed,2015,36 900 PLN,226 000 km,Diesel,Manualna,Kombi,1 582 cm3,128 KM,5,Czarny
+Kia,Ceed,2009,12 900 PLN,239 000 km,Diesel,Manualna,Auta miejskie,1 991 cm3,140 KM,5,Czarny
+Kia,Niro,2018,66 900 PLN,74 000 km,Hybryda,Automatyczna,Kompakt,1 580 cm3,105 KM,5,Niebieski
+Kia,Pro_cee'd,2019,79 900 PLN,141 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Szary
+Kia,Ceed,2017,34 000 PLN,114 400 km,Diesel,Manualna,Auta miejskie,1 396 cm3,90 KM,5,Srebrny
+Kia,Ceed,2019,72 000 PLN,84 565 km,Benzyna+LPG,Automatyczna,Kombi,1 353 cm3,140 KM,5,Czarny
+Kia,Sportage,2016,72 900 PLN,152 000 km,Diesel,Automatyczna,SUV,1 995 cm3,184 KM,5,Biały
+Kia,Sportage,2020,88 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,1 591 cm3,177 KM,5,Biały
+Kia,Ceed,2019,71 500 PLN,76 000 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Niebieski
+Kia,Sportage,2012,38 800 PLN,181 000 km,Benzyna,Manualna,SUV,1 591 cm3,136 KM,5,Szary
+Kia,Sportage,2021,95 500 PLN,24 500 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Biały
+Kia,Sportage,2022,103 000 PLN,44 500 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Ceed,2023,98 500 PLN,13 500 km,Benzyna,Automatyczna,Kombi,1 482 cm3,160 KM,5,Niebieski
+Kia,Carens,2014,38 999 PLN,157 000 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Inny kolor
+Kia,XCeed,2023,99 000 PLN,21 000 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Zielony
+Kia,Soul,2021,86 800 PLN,51 700 km,Benzyna,Automatyczna,Auta miejskie,1 591 cm3,204 KM,5,Czarny
+Kia,Ceed,2014,26 000 PLN,172 200 km,Benzyna,Manualna,Kombi,1 396 cm3,100 KM,5,Szary
+Kia,Sportage,2012,40 900 PLN,159 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Szary
+Kia,Sportage,2015,49 900 PLN,174 200 km,Diesel,Automatyczna,SUV,1 995 cm3,183 KM,5,Czarny
+Kia,Sportage,2018,78 900 PLN,76 000 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Czarny
+Kia,Sportage,2013,37 900 PLN,194 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Carens,2013,38 900 PLN,177 000 km,Benzyna,Manualna,Minivan,1 591 cm3,135 KM,5,Beżowy
+Kia,Sportage,2016,74 900 PLN,75 800 km,Benzyna,Manualna,SUV,1 591 cm3,132 KM,5,Brązowy
+Kia,Ceed,2013,38 000 PLN,84 430 km,Benzyna,Manualna,Kombi,1 591 cm3,135 KM,5,Szary
+Kia,Sportage,2010,26 700 PLN,209 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Inny kolor
+Kia,Pro_cee'd,2015,23 500 PLN,212 000 km,Diesel,Manualna,Kompakt,1 396 cm3,90 KM,3,Biały
+Kia,Sportage,2018,78 000 PLN,68 628 km,Benzyna,Manualna,SUV,1 591 cm3,177 KM,5,Czerwony
+Kia,Ceed,2016,38 600 PLN,134 500 km,Benzyna,Manualna,Auta miejskie,1 368 cm3,100 KM,5,Biały
+Kia,Ceed,2010,15 000 PLN,243 000 km,Diesel,Manualna,Kompakt,1 582 cm3,116 KM,5,Czerwony
+Kia,Stonic,2017,54 900 PLN,63 100 km,Benzyna,Manualna,SUV,1 368 cm3,99 KM,5,Biały
+Kia,Sportage,2006,15 900 PLN,244 600 km,Diesel,Manualna,SUV,1 991 cm3,140 KM,5,Srebrny
+Kia,Pro_cee'd,2019,107 777 PLN,54 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,204 KM,5,Szary
+Kia,Sportage,2018,83 900 PLN,69 000 km,Diesel,Automatyczna,SUV,1 685 cm3,141 KM,5,Czarny
+Kia,Ceed,2019,47 500 PLN,88 533 km,Benzyna,Manualna,Kombi,1 353 cm3,140 KM,5,Czerwony
+Kia,Sportage,2023,180 000 PLN,23 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,160 KM,5,Zielony
+Kia,Ceed,2017,33 000 PLN,256 899 km,Diesel,Manualna,Kompakt,1 582 cm3,110 KM,5,Czarny
+Kia,Sportage,2012,46 900 PLN,211 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Inny kolor
+Kia,Sportage,2010,39 900 PLN,175 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Brązowy
+Kia,Ceed,2022,59 899,175 468 km,Benzyna,Manualna,Kompakt,1 482 cm3,160 KM,5,Niebieski
+Kia,Stonic,2019,65 900 PLN,101 124 km,Benzyna,Manualna,Kompakt,998 cm3,120 KM,5,Brązowy
+Kia,XCeed,2020,79 900 PLN,91 243 km,Benzyna,Manualna,SUV,1 353 cm3,140 KM,5,Złoty
+Kia,Rio,2022,32 900 PLN,27 353 km,Benzyna,Manualna,Auta małe,1 197 cm3,84 KM,5,Szary
+Kia,Optima,2017,56 000 PLN,128 000 km,Diesel,Manualna,Sedan,1 685 cm3,141 KM,4,Biały
+Kia,XCeed,2023,97 800 PLN,44 500 km,Benzyna,Manualna,SUV,1 482 cm3,160 KM,5,Srebrny
+Kia,Sportage,2022,127 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Sportage,2022,103 900 PLN,22 018 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Sportage,2023,111 300 PLN,30 531 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Szary
+Kia,Sportage,2016,68 500 PLN,139 000 km,Diesel,Manualna,SUV,1 995 cm3,185 KM,5,Czarny
+Kia,Niro,2018,57 900 PLN,80 000 km,Hybryda,Automatyczna,SUV,1 580 cm3,105 KM,5,Biały
+Kia,Sportage,2016,59 900 PLN,170 000 km,Diesel,Manualna,SUV,1 685 cm3,115 KM,5,Biały
+Kia,Sportage,2020,85 900 PLN,111 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Czarny
+Kia,Sportage,2023,124 900 PLN,32 376 km,Benzyna,Automatyczna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,EV6,2023,240 000 PLN,10 km,Elektryczny,Automatyczna,Coupe,,585 KM,5,Czarny
+Kia,Sportage,2022,99 900 PLN,72 729 km,Benzyna,Manualna,SUV,1 598 cm3,150 KM,5,Niebieski
+Kia,Optima,2018,57 900 PLN,196 700 km,Diesel,Manualna,Sedan,1 685 cm3,141 KM,4,Inny kolor
+Kia,Pro_cee'd,2023,115 800 PLN,29 500 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Inny kolor
+Kia,Pro_cee'd,2019,89 900 PLN,76 453 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,204 KM,5,Niebieski
+Kia,Pro_cee'd,2023,115 800 PLN,38 000 km,Benzyna,Manualna,Kombi,1 482 cm3,160 KM,5,Zielony
+Kia,XCeed,2021,89 990 PLN,41 421 km,Hybryda Plug-in,Automatyczna,SUV,1 580 cm3,105 KM,5,Szary
+Kia,Stonic,2024,98 700 PLN,10 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,100 KM,5,Czerwony
+Kia,Sportage,2023,169 900 PLN,14 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,150 KM,5,Czarny
+Kia,Sorento,2021,99 999 PLN,41 423 km,Benzyna,Automatyczna,SUV,2 500 cm3,310 KM,5,Srebrny
+Kia,Venga,2010,24 300 PLN,153 505 km,Benzyna,Manualna,Minivan,1 396 cm3,90 KM,5,Szary
+Kia,Optima,2019,90 000 PLN,105 000 km,Benzyna,Automatyczna,Kombi,1 591 cm3,180 KM,5,Biały

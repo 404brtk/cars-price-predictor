@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Opel,Corsa,2015,15 750 PLN,318 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,5,Biały
+Opel,Adam,2017,38 900 PLN,138 734 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,150 KM,3,Biały
+Opel,Vivaro,2017,69 900 PLN,185 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Czarny
+Opel,Insignia,2009,24 000 PLN,195 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Astra,2013,28 999 PLN,186 000 km,Benzyna,Manualna,Auta małe,1 364 cm3,120 KM,5,Czarny
+Opel,Insignia,2013,17 500 PLN,420 000 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,5,Czarny
+Opel,Insignia,2015,32 900 PLN,226 000 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Biały
+Opel,Insignia,2009,17 900 PLN,474 400 km,Benzyna,Manualna,Sedan,1 598 cm3,180 KM,5,Czarny
+Opel,Vivaro,2015,39 900 PLN,860 200 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Czarny
+Opel,Zafira,2009,15 900 PLN,253 200 km,Benzyna,Manualna,Minivan,1 598 cm3,115 KM,5,Czarny
+Opel,Corsa,2010,12 999 PLN,189 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,80 KM,5,Czarny
+Opel,Vectra,2002,5 500 PLN,224 000 km,Benzyna,Manualna,Sedan,1 796 cm3,122 KM,5,Beżowy
+Opel,Mokka,2022,81 000 PLN,9 700 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Srebrny
+Opel,Corsa,2010,8 500 PLN,250 000 km,Diesel,Manualna,Auta małe,1 248 cm3,95 KM,3,Biały
+Opel,Astra,2015,27 900 PLN,188 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,110 KM,5,Srebrny
+Opel,Astra,2016,35 900 PLN,152 302 km,Diesel,Manualna,Kombi,1 598 cm3,160 KM,5,Biały
+Opel,Corsa,2014,19 900 PLN,152 000 km,Benzyna,Manualna,Auta małe,1 398 cm3,100 KM,5,Srebrny
+Opel,Astra,1999,2 650 PLN,286 720 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,75 KM,3,Srebrny
+Opel,Corsa,2015,26 900 PLN,76 379 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,80 KM,3,Srebrny
+Opel,Corsa,2009,8 900 PLN,187 000 km,Benzyna,Manualna,Kompakt,998 cm3,60 KM,3,Granatowy
+Opel,Mokka,2016,54 999 PLN,148 882 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Biały
+Opel,Astra,2013,18 900 PLN,229 000 km,Diesel,Manualna,Kombi,1 248 cm3,95 KM,5,Granatowy
+Opel,Mokka,2019,54 000 PLN,215 427 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,120 KM,5,Pomarańczowy
+Opel,Mokka,2014,45 000 PLN,142 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Biały
+Opel,Astra,2019,59 900 PLN,109 000 km,Benzyna,Automatyczna,Kompakt,1 399 cm3,150 KM,5,Szary
+Opel,Mokka,2021,82 900 PLN,23 100 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Niebieski
+Opel,Astra,2017,28 000 PLN,276 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Opel,Astra,1998,6 900 PLN,160 000 km,Benzyna,Automatyczna,Auta miejskie,1 598 cm3,84 KM,5,Czerwony
+Opel,Zafira,2013,25 400 PLN,185 000 km,Diesel,Manualna,Minivan,1 598 cm3,136 KM,5,Czarny
+Opel,Mokka,2015,39 900 PLN,137 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Astra,2005,6 500 PLN,256 486 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Beżowy
+Opel,Insignia,2018,95 000 PLN,25 901 km,Benzyna,Automatyczna,Sedan,1 490 cm3,165 KM,5,Czarny
+Opel,Insignia,2018,95 000 PLN,25 901 km,Benzyna,Automatyczna,Sedan,1 490 cm3,165 KM,5,Czarny
+Opel,Vivaro,2016,73 900 PLN,188 500 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Szary
+Opel,Insignia,2010,23 000 PLN,266 300 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Srebrny
+Opel,Insignia,2009,15 900 PLN,253 900 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Granatowy
+Opel,Astra,2010,22 950 PLN,161 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Niebieski
+Opel,Antara,2013,34 900 PLN,92 000 km,Diesel,Manualna,SUV,2 231 cm3,184 KM,5,Szary
+Opel,Corsa,2007,11 000 PLN,192 000 km,Benzyna,Manualna,Auta małe,1 364 cm3,90 KM,5,Czarny
+Opel,Insignia,2019,79 900 PLN,93 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Inny kolor
+Opel,Astra,2010,25 900 PLN,199 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Vectra,2009,17 850 PLN,271 783 km,Benzyna,Manualna,Kombi,2 198 cm3,155 KM,5,Srebrny
+Opel,Insignia,2011,19 500 PLN,240 000 km,Diesel,Manualna,Sedan,1 956 cm3,163 KM,5,Inny kolor
+Opel,Ampera,2012,47 900 PLN,109 750 km,Hybryda Plug-in,Automatyczna,Kompakt,1 398 cm3,150 KM,5,Biały
+Opel,Meriva,2015,30 000 PLN,140 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,120 KM,5,Zielony
+Opel,Corsa,2011,16 750 PLN,97 618 km,Benzyna,Manualna,Kompakt,1 229 cm3,69 KM,3,Biały
+Opel,Rekord,1970,18 800 PLN,50 000 km,Benzyna,Manualna,Coupe,1 700 cm3,83 KM,2,Szary
+Opel,Astra,2015,26 900 PLN,165 500 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Opel,Corsa,2011,14 800 PLN,245 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Biały
+Opel,Astra,2011,10 900 PLN,225 000 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Biały
+Opel,Mokka,2019,68 900 PLN,45 000 km,Benzyna,Manualna,SUV,1 364 cm3,120 KM,5,Biały
+Opel,Astra,2012,14 000 PLN,274 598 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Czarny
+Opel,Meriva,2011,18 700 PLN,167 000 km,Benzyna,Manualna,Minivan,1 398 cm3,100 KM,5,Czarny
+Opel,Insignia,2013,36 900 PLN,144 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Crossland X,2022,38 900 PLN,22 073 km,Diesel,Automatyczna,SUV,1 499 cm3,120 KM,5,Czarny
+Opel,Mokka,2012,36 999 PLN,145 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Movano,2008,69 000 PLN,361 107 km,Diesel,Manualna,Minivan,2 464 cm3,120 KM,4,Biały
+Opel,Vectra,2008,16 700 PLN,264 100 km,Diesel,Automatyczna,Kombi,1 910 cm3,150 KM,5,Srebrny
+Opel,Astra,2018,57 900 PLN,121 300 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Czarny
+Opel,Vectra,2007,8 500 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 910 cm3,150 KM,5,Srebrny
+Opel,Crossland X,2018,51 500 PLN,50 897 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Szary
+Opel,Astra,2013,25 000 PLN,262 202 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Szary
+Opel,Insignia,2017,54 000 PLN,154 000 km,Benzyna,Automatyczna,Kombi,1 490 cm3,165 KM,5,Bordowy
+Opel,Astra,2018,61 000 PLN,128 500 km,Benzyna,Automatyczna,Kombi,1 399 cm3,150 KM,5,Granatowy
+Opel,Astra,2018,61 000 PLN,128 500 km,Benzyna,Automatyczna,Kombi,1 399 cm3,150 KM,5,Granatowy
+Opel,Astra,2019,45 900 PLN,184 763 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Biały
+Opel,Mokka,2015,43 900 PLN,164 600 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Srebrny
+Opel,Grandland X,2018,64 000 PLN,116 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Beżowy
+Opel,Astra,2013,25 000 PLN,208 000 km,Diesel,Manualna,Auta miejskie,1 686 cm3,110 KM,5,Biały
+Opel,Meriva,2010,22 300 PLN,175 000 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Czarny
+Opel,Corsa,2012,17 300 PLN,163 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,3,Szary
+Opel,Astra,2016,51 900 PLN,78 000 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Czarny
+Opel,Mokka,2013,39 800 PLN,150 000 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Inny kolor
+Opel,Mokka,2014,44 700 PLN,146 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Vivaro,2013,57 500 PLN,190 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Inny kolor
+Opel,Insignia,2010,19 800 PLN,332 000 km,Diesel,Manualna,Kombi,1 956 cm3,130 KM,4,Szary
+Opel,Corsa,2007,7 600 PLN,206 566 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,3,Czarny
+Opel,Astra,2012,19 800 PLN,247 221 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Opel,Astra,2016,44 700 PLN,127 300 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Beżowy
+Opel,Insignia,2018,99 950 PLN,54 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,260 KM,5,Czarny
+Opel,Mokka,2017,59 900 PLN,140 000 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Insignia,2014,34 999 PLN,191 500 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Czarny
+Opel,Insignia,2019,36 900 PLN,180 598 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Szary
+Opel,Mokka,2014,34 900 PLN,174 323 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Insignia,2017,69 900 PLN,199 000 km,Diesel,Automatyczna,Sedan,1 956 cm3,210 KM,5,Czarny
+Opel,Astra,2016,34 900 PLN,272 600 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Srebrny
+Opel,Corsa,2022,56 900 PLN,36 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,100 KM,5,Biały
+Opel,Astra,2016,39 900 PLN,176 500 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Grandland X,2017,73 900 PLN,115 000 km,Diesel,Automatyczna,SUV,1 560 cm3,120 KM,5,Czarny
+Opel,Astra,2021,57 900 PLN,75 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Srebrny
+Opel,Astra,2005,10 900 PLN,242 000 km,Benzyna+LPG,Manualna,Coupe,1 796 cm3,125 KM,3,Czarny
+Opel,Astra,2012,18 200 PLN,200 000 km,Benzyna,Manualna,Kombi,1 598 cm3,179 KM,3,Czerwony
+Opel,Insignia,2015,44 900 PLN,220 000 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Inny kolor
+Opel,Zafira,2012,28 000 PLN,246 800 km,Diesel,Manualna,Minivan,1 956 cm3,130 KM,5,Inny kolor
+Opel,Astra,2007,13 800 PLN,168 000 km,Benzyna,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Opel,Astra,2005,8 800 PLN,270 000 km,Benzyna,Manualna,Kombi,1 796 cm3,125 KM,5,Srebrny
+Opel,Astra,2019,45 900 PLN,139 000 km,Benzyna,Manualna,Kombi,1 399 cm3,125 KM,5,Srebrny
+Opel,Astra,2011,22 800 PLN,136 030 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Niebieski
+Opel,Insignia,2017,60 000 PLN,180 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Czarny
+Opel,Mokka,2014,38 900 PLN,165 200 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Inny kolor
+Opel,Astra,2003,3 000 PLN,201 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,84 KM,5,Niebieski
+Opel,Astra,2010,22 400 PLN,223 000 km,Diesel,Manualna,Auta miejskie,1 686 cm3,125 KM,5,Szary
+Opel,Adam,2015,28 000 PLN,121 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,69 KM,3,Czerwony
+Opel,Vectra,2005,6 300 PLN,415 000 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Inny kolor
+Opel,Insignia,2011,23 000 PLN,297 230 km,Diesel,Manualna,Kombi,1 956 cm3,130 KM,5,Biały
+Opel,Astra,2017,26 849 PLN,334 222 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Opel,Astra,2006,5 900 PLN,265 000 km,Diesel,Manualna,Kombi,1 248 cm3,90 KM,5,Granatowy
+Opel,Insignia,2017,49 900 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Zafira,2010,18 500 PLN,336 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Srebrny
+Opel,Insignia,2009,20 900 PLN,218 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Astra,2010,14 300 PLN,227 000 km,Diesel,Manualna,Auta małe,1 248 cm3,95 KM,5,Srebrny
+Opel,Insignia,2017,54 800 PLN,182 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Granatowy
+Opel,Corsa,2005,5 400 PLN,137 000 km,Benzyna,Manualna,Auta małe,998 cm3,60 KM,5,Srebrny
+Opel,Astra,2019,52 600 PLN,73 500 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Astra,2005,9 700 PLN,219 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Srebrny
+Opel,Astra,2012,24 900 PLN,189 875 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2011,14 900 PLN,161 008 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Czarny
+Opel,Tigra,2009,11 000 PLN,171 895 km,Benzyna,Manualna,Kabriolet,1 364 cm3,90 KM,2,Błękitny
+Opel,Astra,2016,37 800 PLN,139 999 km,Benzyna,Manualna,Sedan,1 598 cm3,115 KM,5,Srebrny
+Opel,Astra,2010,26 500 PLN,223 590 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Opel,Corsa,2012,13 000 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 229 cm3,86 KM,5,Pomarańczowy
+Opel,Insignia,2017,49 000 PLN,174 420 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Czarny
+Opel,Grandland X,2020,59 999 PLN,28 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Czarny
+Opel,Astra,2005,6 600 PLN,214 000 km,Benzyna,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Opel,Insignia,2010,24 500 PLN,235 000 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,4,Brązowy
+Opel,Astra,2017,48 900 PLN,119 400 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Czarny
+Opel,Astra,2016,43 000 PLN,120 km,Benzyna,Manualna,Kombi,1 399 cm3,125 KM,5,Czarny
+Opel,Mokka,2015,42 900 PLN,153 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Biały
+Opel,Mokka,2016,62 500 PLN,91 000 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Szary
+Opel,Crossland,2021,61 000 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Biały
+Opel,Mokka,2013,36 900 PLN,132 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Biały
+Opel,Zafira,2011,17 900 PLN,239 000 km,Diesel,Manualna,Minivan,1 686 cm3,110 KM,5,Biały
+Opel,Insignia,2017,39 999 PLN,226 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Srebrny
+Opel,Astra,2019,37 500 PLN,155 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Czerwony
+Opel,Astra,2016,41 000 PLN,176 056 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Niebieski
+Opel,Astra,2010,11 999 PLN,201 000 km,Benzyna,Manualna,Auta miejskie,1 796 cm3,140 KM,5,Srebrny
+Opel,Astra,2009,26 000 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Srebrny
+Opel,Astra,2012,28 000 PLN,155 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Insignia,2009,13 900 PLN,280 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Inny kolor
+Opel,Astra,2010,17 000 PLN,198 100 km,Benzyna,Manualna,Kombi,1 398 cm3,101 KM,5,Granatowy
+Opel,Corsa,2009,7 300 PLN,196 110 km,Benzyna,Manualna,Auta małe,1 229 cm3,80 KM,3,Biały
+Opel,Insignia,2017,62 900 PLN,92 619 km,Diesel,Automatyczna,Sedan,1 598 cm3,136 KM,5,Biały
+Opel,Grandland X,2018,44 500 PLN,88 521 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Biały
+Opel,Insignia,2008,22 900 PLN,166 100 km,Benzyna,Manualna,Sedan,1 998 cm3,220 KM,5,Szary
+Opel,Astra,2010,19 900 PLN,199 999 km,Benzyna+LPG,Manualna,Auta miejskie,1 398 cm3,100 KM,5,Czarny
+Opel,Vivaro,2012,74 900 PLN,196 357 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czarny
+Opel,Astra,2009,13 500 PLN,129 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Szary
+Opel,Crossland,2024,69 900 PLN,12 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czerwony
+Opel,Astra,2012,28 700 PLN,97 400 km,Benzyna,Manualna,Kompakt,1 398 cm3,87 KM,5,Biały
+Opel,Zafira,2010,23 500 PLN,199 250 km,Diesel,Manualna,Minivan,1 910 cm3,150 KM,5,Biały
+Opel,Astra,2019,59 500 PLN,67 900 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Srebrny
+Opel,Mokka,2018,65 800 PLN,85 000 km,Benzyna,Manualna,SUV,1 364 cm3,120 KM,5,Czerwony
+Opel,Astra,2013,27 400 PLN,199 000 km,Benzyna,Manualna,Kompakt,1 398 cm3,87 KM,5,Biały
+Opel,Mokka,2015,49 900 PLN,72 000 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Grandland X,2018,64 999 PLN,77 145 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Srebrny
+Opel,Astra,2012,30 000 PLN,179 000 km,Diesel,Manualna,Kombi,1 956 cm3,164 KM,5,Niebieski
+Opel,Mokka,2016,55 600 PLN,106 528 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Opel,Astra,2017,34 200 PLN,189 300 km,Benzyna,Manualna,Sedan,1 364 cm3,140 KM,5,Srebrny
+Opel,Corsa,2014,9 720 PLN,237 000 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Srebrny
+Opel,Insignia,2009,20 500 PLN,287 000 km,Diesel,Manualna,Kompakt,1 956 cm3,130 KM,5,Szary
+Opel,Insignia,2009,20 500 PLN,287 000 km,Diesel,Manualna,Kompakt,1 956 cm3,130 KM,5,Szary
+Opel,Astra,2015,48 900 PLN,100 797 km,Benzyna,Manualna,Kompakt,1 399 cm3,150 KM,5,Brązowy
+Opel,Astra,2013,25 900 PLN,205 000 km,Benzyna+LPG,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2020,39 900 PLN,245 000 km,Diesel,Manualna,Kompakt,1 496 cm3,105 KM,5,Szary
+Opel,Insignia,2009,19 900 PLN,239 000 km,Benzyna,Manualna,Sedan,1 796 cm3,140 KM,4,Czarny
+Opel,Grandland X,2021,79 999 PLN,96 007 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Opel,Astra,2014,22 950 PLN,235 000 km,Diesel,Manualna,Kombi,1 956 cm3,164 KM,5,Czarny
+Opel,Astra,2015,18 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Błękitny
+Opel,Insignia,2009,17 000 PLN,163 000 km,Benzyna,Manualna,Kombi,1 796 cm3,140 KM,5,Granatowy
+Opel,Astra,2014,21 500 PLN,205 532 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Opel,Insignia,2015,41 900 PLN,164 000 km,Diesel,Manualna,Sedan,1 956 cm3,170 KM,5,Szary
+Opel,Adam,2016,34 700 PLN,72 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,3,Biały
+Opel,Grandland X,2018,70 500 PLN,145 000 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Czarny
+Opel,Insignia,2018,60 000 PLN,127 200 km,Diesel,Automatyczna,Kompakt,1 956 cm3,170 KM,5,Srebrny
+Opel,Corsa,2021,45 900 PLN,116 421 km,Benzyna,Manualna,Kompakt,1 199 cm3,75 KM,5,Pomarańczowy
+Opel,Insignia,2010,21 900 PLN,291 922 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,220 KM,5,Czerwony
+Opel,Vectra,2004,9 900 PLN,260 076 km,Benzyna,Manualna,Sedan,2 198 cm3,155 KM,4,Szary
+Opel,Vivaro,2016,65 000 PLN,286 500 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,5,Srebrny
+Opel,Mokka,2014,39 950 PLN,160 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2013,32 500 PLN,227 582 km,Diesel,Manualna,Kombi,1 956 cm3,194 KM,5,Biały
+Opel,Vivaro,2021,107 000 PLN,131 800 km,Diesel,Manualna,Minivan,1 997 cm3,144 KM,4,Inny kolor
+Opel,Corsa,2008,19 400 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,3,Biały
+Opel,Insignia,2017,26 500 PLN,292 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Zielony
+Opel,Astra,2014,26 500 PLN,244 082 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Insignia,2011,19 900 PLN,242 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,130 KM,5,Srebrny
+Opel,Astra,2020,56 700 PLN,179 765 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Opel,Movano,2007,27 500 PLN,257 000 km,Diesel,Manualna,Minivan,2 464 cm3,101 KM,4,Srebrny
+Opel,Grandland X,2021,89 900 PLN,99 000 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Szary
+Opel,Insignia,2009,23 500 PLN,204 500 km,Benzyna,Manualna,Kombi,1 598 cm3,180 KM,5,Szary
+Opel,Mokka,2013,37 700 PLN,189 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Inny kolor
+Opel,Mokka,2015,50 900 PLN,87 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Insignia,2020,59 900 PLN,114 000 km,Diesel,Manualna,Sedan,1 598 cm3,136 KM,5,Czarny
+Opel,Antara,2011,27 900 PLN,214 000 km,Diesel,Manualna,SUV,2 231 cm3,163 KM,5,Szary
+Opel,Corsa,2019,30 700 PLN,157 500 km,Benzyna,Manualna,Kompakt,1 398 cm3,90 KM,5,Biały
+Opel,Meriva,2011,23 900 PLN,151 329 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Brązowy
+Opel,Combo,2017,28 900 PLN,75 500 km,Diesel,Manualna,Minivan,1 248 cm3,95 KM,5,Biały
+Opel,Vivaro,2014,57 900 PLN,237 242 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czerwony
+Opel,Corsa,2020,16 500 PLN,35 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,75 KM,5,Niebieski
+Opel,Astra,2017,43 990 PLN,156 000 km,Diesel,Automatyczna,Kompakt,1 598 cm3,136 KM,5,Szary
+Opel,Zafira,2018,72 900 PLN,99 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Szary
+Opel,Mokka,2018,57 900 PLN,134 000 km,Diesel,Manualna,SUV,1 598 cm3,110 KM,5,Szary
+Opel,Grandland X,2019,74 800 PLN,39 889 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Corsa,2013,14 500 PLN,160 000 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,3,Srebrny
+Opel,Astra,2008,11 999 PLN,345 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,115 KM,5,Inny kolor
+Opel,Astra,2014,28 500 PLN,155 000 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Biały
+Opel,Astra,2004,9 500 PLN,196 000 km,Benzyna+LPG,Automatyczna,Auta miejskie,1 598 cm3,103 KM,5,Błękitny
+Opel,Insignia,2012,18 900 PLN,278 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Srebrny
+Opel,Astra,2017,51 900 PLN,37 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Srebrny
+Opel,Grandland,2024,138 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Czerwony
+Opel,Vectra,2006,8 900 PLN,275 200 km,Diesel,Manualna,Sedan,1 910 cm3,120 KM,5,Niebieski
+Opel,Antara,2007,26 900 PLN,145 823 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Czarny
+Opel,Astra,2010,24 900 PLN,202 800 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Szary
+Opel,Zafira,2008,12 000 PLN,269 638 km,Benzyna+LPG,Manualna,Minivan,1 796 cm3,140 KM,5,Czarny
+Opel,Insignia,2017,66 200 PLN,116 500 km,Diesel,Manualna,Kompakt,1 956 cm3,170 KM,5,Szary
+Opel,Astra,2013,24 900 PLN,184 500 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Biały
+Opel,Agila,2008,9 800 PLN,212 560 km,Benzyna,Manualna,Auta małe,1 242 cm3,86 KM,5,Błękitny
+Opel,Mokka,2023,105 000 PLN,9 859 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Opel,Mokka,2016,64 900 PLN,54 000 km,Benzyna,Automatyczna,SUV,1 399 cm3,152 KM,5,Czarny
+Opel,Corsa,2024,72 900 PLN,1 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Czerwony
+Opel,Corsa,2022,54 900 PLN,16 032 km,Benzyna,Manualna,Kompakt,1 199 cm3,75 KM,5,Biały
+Opel,Astra,2014,25 500 PLN,246 270 km,Diesel,Manualna,Kombi,1 686 cm3,130 KM,5,Brązowy
+Opel,Corsa,2011,21 500 PLN,148 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,85 KM,5,Srebrny
+Opel,Astra,2017,49 900 PLN,57 000 km,Benzyna,Manualna,Kombi,1 399 cm3,125 KM,5,Inny kolor
+Opel,Astra,2013,32 000 PLN,184 000 km,Benzyna+LPG,Manualna,Kompakt,1 364 cm3,120 KM,5,Srebrny
+Opel,Corsa,2015,21 700 PLN,212 500 km,Diesel,Manualna,Kompakt,1 248 cm3,75 KM,5,Granatowy
+Opel,Mokka,2014,39 900 PLN,142 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Bordowy
+Opel,Meriva,2010,23 900 PLN,147 000 km,Benzyna,Manualna,Minivan,1 398 cm3,100 KM,5,Szary
+Opel,Mokka,2017,59 900 PLN,86 200 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Corsa,2017,35 900 PLN,32 220 km,Benzyna,Manualna,Kompakt,1 398 cm3,75 KM,5,Czerwony
+Opel,Astra,2007,9 900 PLN,240 000 km,Benzyna,Manualna,Kombi,1 598 cm3,105 KM,5,Szary
+Opel,Corsa,2024,72 900 PLN,1 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Czarny
+Opel,Vectra,2003,6 700 PLN,323 500 km,Benzyna+LPG,Manualna,Sedan,1 796 cm3,122 KM,4,Srebrny
+Opel,Astra,2011,23 000 PLN,216 000 km,Benzyna,Manualna,Kombi,1 362 cm3,140 KM,3,Brązowy
+Opel,Mokka,2014,47 900 PLN,83 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Niebieski
+Opel,Corsa,2015,32 500 PLN,93 412 km,Benzyna,Manualna,Kompakt,1 398 cm3,90 KM,5,Czarny
+Opel,Insignia,2014,62 900 PLN,194 000 km,Benzyna,Automatyczna,Kombi,2 792 cm3,325 KM,5,Biały
+Opel,Zafira,2012,31 000 PLN,195 500 km,Diesel,Manualna,Minivan,1 956 cm3,165 KM,5,Srebrny
+Opel,Mokka,2024,119 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Corsa,2014,24 600 PLN,79 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,85 KM,5,Szary
+Opel,Vectra,2004,6 500 PLN,205 000 km,Benzyna,Manualna,Sedan,1 796 cm3,122 KM,4,Granatowy
+Opel,Astra,2010,23 900 PLN,184 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Opel,Grandland X,2024,129 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Insignia,2009,22 500 PLN,234 000 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,140 KM,4,Szary
+Opel,Insignia,2013,31 000 PLN,200 000 km,Diesel,Manualna,Kompakt,1 956 cm3,163 KM,5,Szary
+Opel,Combo,2014,33 500 PLN,142 500 km,Diesel,Manualna,Minivan,1 598 cm3,90 KM,5,Inny kolor
+Opel,Insignia,2011,17 900 PLN,392 200 km,Diesel,Manualna,Kompakt,1 956 cm3,130 KM,5,Czarny
+Opel,Astra,2023,119 999 PLN,12 640 km,Hybryda Plug-in,Automatyczna,Kompakt,1 598 cm3,150 KM,5,Czerwony
+Opel,Astra,2017,46 499 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,150 KM,5,Biały
+Opel,Astra,2008,9 900 PLN,288 434 km,Diesel,Manualna,Sedan,1 686 cm3,100 KM,4,Szary
+Opel,Mokka,2013,30 800 PLN,178 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Meriva,2014,8 250 PLN,105 600 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Inny kolor
+Opel,Zafira,2012,38 000 PLN,158 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2010,24 900 PLN,191 000 km,Diesel,Manualna,Auta miejskie,1 686 cm3,110 KM,5,Inny kolor
+Opel,Grandland X,2020,83 499 PLN,43 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Opel,Corsa,2022,75 000 PLN,3 100 km,Benzyna,Automatyczna,Auta małe,1 199 cm3,100 KM,5,Biały
+Opel,Insignia,2008,33 600 PLN,163 321 km,Benzyna,Automatyczna,Sedan,1 998 cm3,220 KM,4,Czarny
+Opel,Zafira,2009,19 500 PLN,235 000 km,Diesel,Manualna,SUV,1 686 cm3,125 KM,5,Czerwony
+Opel,Astra,2013,39 000 PLN,136 664 km,Benzyna,Manualna,Kompakt,1 598 cm3,170 KM,5,Brązowy
+Opel,Corsa,2019,42 700 PLN,36 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Szary
+Opel,Astra,2020,49 900 PLN,98 000 km,Diesel,Manualna,Kombi,1 496 cm3,122 KM,5,Szary
+Opel,Astra,2015,27 000 PLN,158 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Opel,Astra,2006,7 200 PLN,201 000 km,Diesel,Manualna,Auta małe,1 248 cm3,90 KM,5,Czarny
+Opel,Insignia,2011,27 999 PLN,250 000 km,Benzyna,Manualna,Kombi,1 598 cm3,180 KM,5,Czarny
+Opel,Astra,2014,34 999 PLN,150 205 km,Benzyna,Automatyczna,Kompakt,1 364 cm3,140 KM,5,Biały
+Opel,Insignia,2016,45 500 PLN,241 667 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Insignia,2009,25 999 PLN,215 119 km,Benzyna,Manualna,Kombi,1 598 cm3,180 KM,5,Czarny
+Opel,Astra,2023,99 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czerwony
+Opel,Astra,2014,26 800 PLN,212 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Srebrny
+Opel,Insignia,2015,42 900 PLN,128 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Inny kolor
+Opel,Corsa,2006,6 999 PLN,146 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,80 KM,3,Srebrny
+Opel,Mokka,2015,40 900 PLN,135 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Mokka,2016,58 800 PLN,46 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Niebieski
+Opel,Corsa,2010,13 800 PLN,200 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,70 KM,5,Srebrny
+Opel,Zafira,2012,18 800 PLN,212 069 km,Diesel,Manualna,Minivan,1 686 cm3,125 KM,5,Czarny
+Opel,Insignia,2010,17 900 PLN,311 000 km,Diesel,Manualna,Kombi,1 956 cm3,130 KM,5,Czarny
+Opel,Astra,2011,15 500 PLN,327 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Srebrny
+Opel,Insignia,2018,64 500 PLN,135 352 km,Diesel,Manualna,Kompakt,1 956 cm3,170 KM,5,Biały
+Opel,Meriva,2004,8 200 PLN,223 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,101 KM,5,Srebrny
+Opel,Insignia,2012,25 900 PLN,209 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Mokka,2017,57 800 PLN,42 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Opel,Omega,1987,12 900 PLN,86 000 km,Benzyna,Manualna,Sedan,1 771 cm3,82 KM,5,Beżowy
+Opel,Corsa,2015,28 500 PLN,151 000 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Opel,Insignia,2014,47 500 PLN,33 000 km,Benzyna,Manualna,Sedan,1 598 cm3,170 KM,5,Błękitny
+Opel,Astra,2010,28 900 PLN,82 500 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Niebieski
+Opel,Insignia,2013,39 000 PLN,195 362 km,Diesel,Automatyczna,Kombi,1 956 cm3,194 KM,5,Czarny
+Opel,Meriva,2006,8 800 PLN,203 555 km,Benzyna,Manualna,Minivan,1 364 cm3,90 KM,5,Czarny
+Opel,Insignia,2015,36 000 PLN,306 987 km,Diesel,Automatyczna,Kombi,1 956 cm3,194 KM,5,Biały
+Opel,Insignia,2009,19 800 PLN,207 603 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,5,Czarny
+Opel,Astra,2013,36 900 PLN,165 000 km,Benzyna,Automatyczna,Coupe,1 598 cm3,170 KM,3,Czerwony
+Opel,Astra,2006,16 000 PLN,242 000 km,Benzyna,Manualna,Kompakt,1 796 cm3,140 KM,3,Czarny
+Opel,Zafira,2016,42 900 PLN,147 000 km,Diesel,Manualna,Minivan,1 956 cm3,170 KM,5,Czarny
+Opel,Zafira,2010,18 900 PLN,251 000 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Czarny
+Opel,Astra,2016,39 900 PLN,110 000 km,Benzyna,Manualna,Kompakt,999 cm3,105 KM,5,Srebrny
+Opel,Mokka,2016,28 900 PLN,131 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Czarny
+Opel,Vivaro,2015,47 000 PLN,263 117 km,Diesel,Manualna,Minivan,1 598 cm3,90 KM,4,Szary
+Opel,Crossland X,2017,52 900 PLN,104 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Czarny
+Opel,Astra,2014,28 000 PLN,200 100 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Biały
+Opel,Astra,2005,3 500 PLN,258 325 km,Benzyna+LPG,Automatyczna,Auta małe,1 796 cm3,125 KM,5,Srebrny
+Opel,Corsa,2017,16 600 PLN,149 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,70 KM,5,Granatowy
+Opel,Astra,2010,26 000 PLN,168 887 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Błękitny
+Opel,Insignia,2018,68 300 PLN,118 000 km,Benzyna,Manualna,Sedan,1 490 cm3,140 KM,5,Granatowy
+Opel,Insignia,2016,38 000 PLN,233 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Czarny
+Opel,Corsa,2011,14 000 PLN,231 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Biały
+Opel,Mokka,2018,61 800 PLN,90 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Insignia,2012,21 000 PLN,296 031 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Inny kolor
+Opel,Meriva,2015,31 900 PLN,165 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,120 KM,5,Granatowy
+Opel,Grandland X,2020,69 999 PLN,56 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Insignia,2010,29 900 PLN,115 000 km,Benzyna,Manualna,Sedan,1 796 cm3,140 KM,5,Srebrny
+Opel,Mokka,2017,64 000 PLN,80 900 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Meriva,2011,17 900 PLN,190 800 km,Diesel,Manualna,Minivan,1 686 cm3,110 KM,5,Szary
+Opel,Meriva,2012,23 900 PLN,138 000 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Srebrny
+Opel,Astra,2011,20 100 PLN,160 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 598 cm3,115 KM,,
+Opel,Corsa,2014,23 900 PLN,137 490 km,Benzyna,Manualna,Auta małe,1 398 cm3,100 KM,3,Czerwony
+Opel,Zafira,2012,22 900 PLN,202 021 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,136 KM,5,Inny kolor
+Opel,Astra,2017,35 900 PLN,152 800 km,Diesel,Manualna,Auta miejskie,1 598 cm3,110 KM,5,Czarny
+Opel,Astra,2022,77 800 PLN,65 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Żółty
+Opel,Astra,2017,42 900 PLN,50 000 km,Benzyna,Manualna,Sedan,1 598 cm3,116 KM,4,Szary
+Opel,Astra,2011,30 900 PLN,196 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,179 KM,3,Srebrny
+Opel,Vivaro,2001,10 200 PLN,468 000 km,Diesel,Manualna,Minivan,1 870 cm3,82 KM,4,Czerwony
+Opel,Corsa,2017,31 990 PLN,115 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Szary
+Opel,Corsa,2017,31 990 PLN,115 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Szary
+Opel,Mokka,2013,42 900 PLN,145 000 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,140 KM,5,Niebieski
+Opel,Corsa,2014,24 900 PLN,144 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Brązowy
+Opel,Astra,2011,21 500 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Opel,Zafira,2016,48 900 PLN,98 000 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Zielony
+Opel,Insignia,2017,56 999 PLN,225 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Astra,2019,35 900 PLN,165 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Srebrny
+Opel,Zafira,2007,17 900 PLN,313 400 km,Diesel,Manualna,Minivan,1 910 cm3,120 KM,5,Inny kolor
+Opel,Meriva,2008,5 999 PLN,258 000 km,Benzyna,Manualna,Minivan,1 364 cm3,90 KM,5,Niebieski
+Opel,Vectra,2008,13 500 PLN,276 500 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Czarny
+Opel,Grandland X,2020,77 900 PLN,61 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Inny kolor
+Opel,Movano,2002,8 900 PLN,335 190 km,Diesel,Manualna,Minivan,2 188 cm3,90 KM,2,Biały
+Opel,Astra,2012,19 900 PLN,186 000 km,Diesel,Manualna,Kombi,1 686 cm3,130 KM,5,Szary
+Opel,Astra,2013,20 900 PLN,204 300 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Astra,2015,32 900 PLN,118 400 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Opel,Insignia,2009,16 900 PLN,320 000 km,Diesel,Manualna,Kombi,1 956 cm3,120 KM,5,Granatowy
+Opel,Mokka,2014,38 800 PLN,152 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Zafira,2009,13 500 PLN,246 000 km,Diesel,Manualna,Minivan,1 686 cm3,110 KM,5,Srebrny
+Opel,Corsa,2008,11 900 PLN,146 648 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,90 KM,3,Niebieski
+Opel,Corsa,2013,24 900 PLN,133 000 km,Benzyna,Manualna,Kompakt,1 229 cm3,85 KM,5,Beżowy
+Opel,Vivaro,2018,78 000 PLN,319 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Inny kolor
+Opel,Astra,2011,26 900 PLN,104 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2010,35 000 PLN,302 538 km,Benzyna,Manualna,Kombi,2 792 cm3,325 KM,5,Czarny
+Opel,Zafira,2024,207 115 PLN,1 km,Diesel,Automatyczna,Kombi,1 999 cm3,177 KM,5,Zielony
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Opel,Combo,2020,64 499,54 569 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Czarny
+Opel,Astra,2010,16 900 PLN,166 000 km,Benzyna,Manualna,Auta małe,1 398 cm3,100 KM,5,Czarny
+Opel,Astra,2012,13 600 PLN,171 000 km,Benzyna,Manualna,Kombi,1 398 cm3,100 KM,5,Srebrny
+Opel,Mokka,2014,31 400 PLN,218 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Biały
+Opel,Insignia,2011,28 000 PLN,188 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Insignia,2013,35 000 PLN,229 324 km,Diesel,Automatyczna,Kombi,1 956 cm3,130 KM,5,Czarny
+Opel,Insignia,2009,21 900 PLN,248 300 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Szary
+Opel,Astra,2024,129 900 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Opel,Corsa,2008,7 900 PLN,179 000 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,90 KM,3,Czarny
+Opel,Astra,2012,26 900 PLN,121 234 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Adam,2015,29 999 PLN,80 500 km,Benzyna,Manualna,Auta małe,999 cm3,115 KM,3,Biały
+Opel,Insignia,2015,42 900 PLN,229 777 km,Diesel,Automatyczna,Kombi,1 956 cm3,195 KM,5,Biały
+Opel,Vectra,2008,12 900 PLN,212 000 km,Diesel,Manualna,Kombi,1 910 cm3,100 KM,5,Granatowy
+Opel,Astra,2012,18 900 PLN,200 000 km,Benzyna,Manualna,Sedan,1 598 cm3,115 KM,4,Granatowy
+Opel,Corsa,2012,16 900 PLN,233 000 km,Benzyna,Automatyczna,Kompakt,1 229 cm3,86 KM,5,Szary
+Opel,Grandland X,2021,79 000 PLN,157 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Brązowy
+Opel,Crossland X,2019,53 900 PLN,152 000 km,Diesel,Automatyczna,SUV,1 499 cm3,120 KM,5,Niebieski
+Opel,Astra,2014,29 500 PLN,126 700 km,Diesel,Manualna,Kompakt,1 686 cm3,125 KM,5,Czarny
+Opel,Mokka,2023,109 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Niebieski
+Opel,Insignia,2017,53 874 PLN,149 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Czarny
+Opel,Zafira,2013,33 000 PLN,303 993 km,Diesel,Manualna,Minivan,1 956 cm3,130 KM,5,Srebrny
+Opel,Corsa,2024,93 900 PLN,1 km,Hybryda,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Czerwony
+Opel,Astra,2016,43 900 PLN,112 695 km,Diesel,Manualna,Kombi,1 598 cm3,160 KM,5,Brązowy
+Opel,Corsa,2021,55 900 PLN,12 950 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Pomarańczowy
+Opel,Corsa,2015,28 200 PLN,108 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Zielony
+Opel,Astra,2013,19 900 PLN,173 562 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Inny kolor
+Opel,Insignia,2018,64 999 PLN,164 000 km,Benzyna,Automatyczna,Sedan,1 490 cm3,165 KM,5,Szary
+Opel,Astra,2010,17 500 PLN,315 180 km,Diesel,Manualna,Auta miejskie,1 248 cm3,95 KM,5,Czarny
+Opel,Astra,2016,42 900 PLN,169 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Szary
+Opel,Mokka,2014,51 600 PLN,50 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2013,32 900 PLN,273 000 km,Diesel,Automatyczna,Sedan,1 956 cm3,160 KM,5,Biały
+Opel,Astra,2006,7 500 PLN,246 250 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Czarny
+Opel,Zafira,2014,29 900 PLN,140 175 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Srebrny
+Opel,Meriva,2006,9 300 PLN,175 500 km,Benzyna,Manualna,Minivan,1 364 cm3,90 KM,5,Niebieski
+Opel,Insignia,2010,26 900 PLN,165 400 km,Benzyna,Automatyczna,Kombi,1 998 cm3,220 KM,5,Srebrny
+Opel,Insignia,2020,81 700 PLN,74 100 km,Benzyna,Automatyczna,Kombi,1 490 cm3,165 KM,5,Czarny
+Opel,Mokka,2015,45 900 PLN,141 500 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2014,29 500 PLN,103 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Złoty
+Opel,Astra,2012,23 900 PLN,181 000 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Srebrny
+Opel,Insignia,2009,20 700 PLN,286 000 km,Benzyna+LPG,Manualna,Sedan,1 998 cm3,220 KM,4,Złoty
+Opel,Vectra,2007,10 950 PLN,267 000 km,Diesel,Manualna,Auta miejskie,1 910 cm3,120 KM,5,Inny kolor
+Opel,Corsa,2012,19 900 PLN,174 986 km,Benzyna+LPG,Manualna,Auta miejskie,1 229 cm3,86 KM,3,Zielony
+Opel,Astra,2012,24 600 PLN,174 400 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2017,46 900 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,150 KM,5,Srebrny
+Opel,Insignia,2019,80 999 PLN,26 000 km,Benzyna,Manualna,Sedan,1 598 cm3,200 KM,5,Srebrny
+Opel,Mokka,2013,15 500 PLN,135 000 km,Diesel,Automatyczna,SUV,1 686 cm3,130 KM,5,Czerwony
+Opel,Insignia,2011,38 000 PLN,248 000 km,Benzyna,Automatyczna,Kombi,2 792 cm3,260 KM,5,Czarny
+Opel,Insignia,2017,59 900 PLN,188 000 km,Benzyna,Automatyczna,Kombi,2 792 cm3,325 KM,5,Biały
+Opel,Astra,2008,14 500 PLN,245 000 km,Diesel,Manualna,Kabriolet,1 910 cm3,150 KM,2,Granatowy
+Opel,Corsa,2011,18 900 PLN,103 268 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,90 KM,5,Czarny
+Opel,Astra,2011,20 900 PLN,256 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Srebrny
+Opel,Meriva,2016,29 000 PLN,105 194 km,Diesel,Manualna,Minivan,1 598 cm3,95 KM,5,Szary
+Opel,Vivaro,2007,22 000 PLN,295 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czerwony
+Opel,Astra,2010,21 950 PLN,183 751 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Szary
+Opel,Insignia,2009,21 999 PLN,318 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Ampera,2013,46 500 PLN,208 909 km,Elektryczny,Automatyczna,Kompakt,,204 KM,5,Czerwony
+Opel,Astra,2011,19 900 PLN,125 000 km,Benzyna,Manualna,Kombi,1 364 cm3,90 KM,5,Srebrny
+Opel,Insignia,2012,28 000 PLN,313 796 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,4,Czarny
+Opel,Mokka,2015,40 900 PLN,210 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Mokka,2015,49 900 PLN,139 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Astra,2015,32 500 PLN,180 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Mokka,2013,37 700 PLN,181 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Grandland,2024,142 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Astra,2011,26 900 PLN,140 000 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2011,20 900 PLN,188 000 km,Diesel,Manualna,Kompakt,1 248 cm3,95 KM,5,Czarny
+Opel,Insignia,2015,35 999 PLN,221 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Biały
+Opel,Crossland X,2020,62 749 PLN,59 000 km,Diesel,Manualna,SUV,1 499 cm3,102 KM,5,Biały
+Opel,Astra,2010,18 600 PLN,180 000 km,Diesel,Manualna,Kompakt,1 686 cm3,125 KM,5,Srebrny
+Opel,Corsa,2009,9 999 PLN,218 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,80 KM,3,Czerwony
+Opel,Insignia,2012,27 500 PLN,270 300 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Granatowy
+Opel,Insignia,2019,48 900 PLN,179 200 km,Benzyna,Manualna,Sedan,1 490 cm3,165 KM,5,Srebrny
+Opel,Astra,2013,27 900 PLN,260 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Brązowy
+Opel,Mokka,2015,42 900 PLN,135 496 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2019,47 900 PLN,103 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Corsa,2022,59 700 PLN,28 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,100 KM,5,Pomarańczowy
+Opel,Astra,2005,9 900 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,170 KM,3,Szary
+Opel,Mokka,2017,57 000 PLN,170 000 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,140 KM,5,Pomarańczowy
+Opel,Insignia,2018,59 500 PLN,115 833 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Opel,Mokka,2015,43 000 PLN,108 700 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Inny kolor
+Opel,Corsa,2024,95 900 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,100 KM,5,Biały
+Opel,Mokka,2024,112 900 PLN,1 km,Benzyna,Manualna,SUV,1 199 cm3,136 KM,5,Szary
+Opel,Zafira,2009,9 000 PLN,309 307 km,Diesel,Manualna,Minivan,1 910 cm3,150 KM,5,Czarny
+Opel,Grandland,2022,102 700 PLN,26 500 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Corsa,2009,13 900 PLN,145 000 km,Benzyna,Manualna,Coupe,1 398 cm3,75 KM,3,Czerwony
+Opel,Zafira,2004,4 900 PLN,170 000 km,Benzyna,Manualna,Minivan,1 598 cm3,105 KM,5,Szary
+Opel,Astra,2014,27 600 PLN,179 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Czarny
+Opel,Insignia,2009,18 900 PLN,263 000 km,Benzyna,Manualna,Kombi,1 798 cm3,140 KM,5,Szary
+Opel,Astra,2006,15 500 PLN,164 100 km,Benzyna,Manualna,Kabriolet,1 796 cm3,140 KM,2,Srebrny
+Opel,Grandland,2024,139 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 199 cm3,136 KM,5,Biały
+Opel,Astra,2018,41 800 PLN,119 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Czarny
+Opel,Astra,2010,25 700 PLN,194 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2007,4 600 PLN,281 000 km,Benzyna+LPG,Manualna,Kombi,1 364 cm3,90 KM,5,Srebrny
+Opel,Insignia,2014,34 900 PLN,248 603 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Czarny
+Opel,Adam,2017,36 900 PLN,144 000 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,150 KM,3,Biały
+Opel,Insignia,2017,66 900 PLN,142 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Zafira,2006,17 900 PLN,177 000 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Srebrny
+Opel,Vivaro,2020,76 500 PLN,174 000 km,Diesel,Manualna,Minivan,1 997 cm3,122 KM,5,Biały
+Opel,Insignia,2013,31 200 PLN,210 000 km,Diesel,Manualna,Kombi,1 956 cm3,163 KM,5,Brązowy
+Opel,Astra,2010,20 900 PLN,166 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,87 KM,5,Inny kolor
+Opel,Astra,2023,99 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Niebieski
+Opel,Astra,2023,112 900 PLN,1 km,Diesel,Automatyczna,Kompakt,1 498 cm3,130 KM,5,Biały
+Opel,Crossland X,2019,51 000 PLN,30 500 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Niebieski
+Opel,Astra,2021,59 900 PLN,39 418 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Biały
+Opel,Mokka,2017,57 800 PLN,91 761 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Agila,2014,34 999 PLN,38 000 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,94 KM,5,Czerwony
+Opel,Mokka,2023,104 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Opel,Mokka,2023,109 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Niebieski
+Opel,Astra,2011,18 900 PLN,258 000 km,Benzyna+LPG,Manualna,Kombi,1 398 cm3,100 KM,4,Srebrny
+Opel,Meriva,2016,31 999 PLN,203 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2020,45 900 PLN,84 566 km,Diesel,Manualna,Kombi,1 496 cm3,122 KM,5,Szary
+Opel,Vectra,2007,8 999 PLN,348 000 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Srebrny
+Opel,Mokka,2017,44 900 PLN,158 700 km,Diesel,Manualna,SUV,1 598 cm3,110 KM,5,Czarny
+Opel,Insignia,2009,19 800 PLN,182 000 km,Benzyna,Manualna,Kombi,1 598 cm3,180 KM,5,Szary
+Opel,Insignia,2014,24 900 PLN,312 500 km,Benzyna,Manualna,Kombi,1 598 cm3,170 KM,5,Czarny
+Opel,Corsa,2010,12 000 PLN,213 000 km,Benzyna,Manualna,Sedan,1 398 cm3,87 KM,3,Czarny
+Opel,Antara,2009,24 500 PLN,239 548 km,Diesel,Manualna,SUV,1 991 cm3,127 KM,5,Srebrny
+Opel,Insignia,2016,32 700 PLN,199 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Czarny
+Opel,Insignia,2012,32 595 PLN,255 774 km,Diesel,Automatyczna,Kombi,1 956 cm3,195 KM,4,Biały
+Opel,Insignia,2009,19 999 PLN,304 400 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Szary
+Opel,Zafira,2011,24 800 PLN,170 000 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Niebieski
+Opel,Astra,2005,9 999 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 796 cm3,115 KM,5,Szary
+Opel,Insignia,2016,44 900 PLN,139 000 km,Diesel,Manualna,Sedan,1 956 cm3,170 KM,5,Zielony
+Opel,Grandland X,2018,69 900 PLN,38 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Astra,2014,34 900 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Mokka,2014,42 500 PLN,178 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Crossland X,2018,53 700 PLN,63 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Inny kolor
+Opel,Insignia,2016,43 900 PLN,180 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Meriva,2011,18 000 PLN,174 000 km,Diesel,Manualna,Minivan,1 686 cm3,110 KM,5,Biały
+Opel,Combo,2021,80 900 PLN,98 577 km,Diesel,Manualna,Minivan,1 499 cm3,131 KM,5,Biały
+Opel,Vectra,2008,12 999 PLN,234 000 km,Diesel,Manualna,Kombi,1 910 cm3,150 KM,5,Czarny
+Opel,Astra,2011,21 000 PLN,320 682 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Czerwony
+Opel,Astra,2010,27 900 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2013,29 500 PLN,265 000 km,Diesel,Manualna,Kombi,1 956 cm3,165 KM,5,Błękitny
+Opel,Astra,2016,45 000 PLN,103 576 km,Benzyna,Manualna,Kombi,999 cm3,105 KM,5,Szary
+Opel,Astra,2015,26 900 PLN,231 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Szary
+Opel,Insignia,2014,44 900 PLN,127 000 km,Diesel,Manualna,Sedan,1 956 cm3,163 KM,5,Szary
+Opel,Astra,2011,26 900 PLN,128 432 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,140 KM,5,Czarny
+Opel,Grandland X,2017,58 500 PLN,151 000 km,Diesel,Manualna,SUV,1 560 cm3,120 KM,5,Czarny
+Opel,Insignia,2013,25 900 PLN,271 000 km,Diesel,Manualna,Kombi,1 956 cm3,120 KM,5,Czarny
+Opel,Astra,2014,33 900 PLN,159 000 km,Benzyna,Manualna,Sedan,1 364 cm3,140 KM,4,Srebrny
+Opel,Combo,2011,12 000 PLN,161 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Zielony
+Opel,Insignia,2016,39 999 PLN,201 057 km,Diesel,Automatyczna,Sedan,1 956 cm3,170 KM,5,Brązowy
+Opel,Vivaro,2010,30 000 PLN,240 000 km,Diesel,Manualna,Minivan,2 464 cm3,146 KM,4,Czarny
+Opel,Insignia,2017,52 900 PLN,182 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Szary
+Opel,Astra,2010,29 900 PLN,76 000 km,Benzyna,Automatyczna,Auta małe,1 598 cm3,180 KM,5,Srebrny
+Opel,Mokka,2013,32 600 PLN,279 000 km,Diesel,Automatyczna,SUV,1 686 cm3,130 KM,5,Srebrny
+Opel,Meriva,2011,22 900 PLN,208 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,140 KM,5,Zielony
+Opel,Mokka,2014,40 900 PLN,116 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Opel,Astra,2015,33 900 PLN,139 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Brązowy
+Opel,Astra,2011,19 000 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,100 KM,5,Biały
+Opel,Astra,2010,19 500 PLN,248 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Czarny
+Opel,Insignia,2014,38 900 PLN,245 450 km,Diesel,Manualna,Kombi,1 956 cm3,194 KM,5,Inny kolor
+Opel,Grandland X,2020,71 900 PLN,88 964 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Inny kolor
+Opel,Astra,2015,34 000 PLN,153 600 km,Benzyna,Automatyczna,Kombi,1 364 cm3,140 KM,5,Srebrny
+Opel,Astra,2018,59 999 PLN,37 500 km,Benzyna,Manualna,Kompakt,1 399 cm3,149 KM,5,Czarny
+Opel,Grandland X,2019,64 900 PLN,179 500 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Czarny
+Opel,Insignia,2012,26 900 PLN,202 950 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2017,68 880 PLN,87 112 km,Diesel,Manualna,Kompakt,1 956 cm3,170 KM,5,Biały
+Opel,Astra,2006,14 600 PLN,234 528 km,Diesel,Manualna,Coupe,1 910 cm3,120 KM,3,Czarny
+Opel,Zafira,2016,43 000 PLN,183 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Opel,Mokka,2013,43 900 PLN,209 000 km,Diesel,Automatyczna,SUV,1 686 cm3,130 KM,5,Brązowy
+Opel,Corsa,2011,17 300 PLN,142 500 km,Benzyna,Manualna,Kompakt,1 229 cm3,85 KM,5,Srebrny
+Opel,Insignia,2018,63 900 PLN,134 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Szary
+Opel,Zafira,2015,31 900 PLN,223 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Opel,Zafira,2017,46 999 PLN,232 500 km,Diesel,Automatyczna,Minivan,1 956 cm3,170 KM,5,Czarny
+Opel,Astra,2013,39 990 PLN,115 000 km,Benzyna,Manualna,Coupe,1 598 cm3,179 KM,3,Czarny
+Opel,Astra,2015,33 500 PLN,166 300 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2012,15 666 PLN,235 000 km,Diesel,Manualna,Kombi,1 686 cm3,125 KM,5,Biały
+Opel,Astra,2016,54 900 PLN,140 500 km,Benzyna,Manualna,Kombi,1 598 cm3,200 KM,5,Czarny
+Opel,Insignia,2017,52 700 PLN,139 745 km,Diesel,Manualna,Kompakt,1 956 cm3,170 KM,5,Biały
+Opel,Vivaro,2013,62 700 PLN,250 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Inny kolor
+Opel,Omega,2001,6 500 PLN,280 000 km,Benzyna,Automatyczna,Sedan,2 198 cm3,144 KM,5,Złoty
+Opel,Mokka,2014,42 500 PLN,132 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Opel,Astra,2013,21 900 PLN,185 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Antara,2006,15 900 PLN,214 000 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Szary
+Opel,Astra,2018,49 900 PLN,143 000 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Srebrny
+Opel,Astra,2017,39 900 PLN,167 000 km,Benzyna,Automatyczna,Kombi,1 399 cm3,150 KM,5,Bordowy
+Opel,Insignia,2018,65 900 PLN,160 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,210 KM,5,Szary
+Opel,Astra,2009,12 900 PLN,224 300 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Czarny
+Opel,Mokka,2014,47 950 PLN,91 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Inny kolor
+Opel,Insignia,2016,35 000 PLN,291 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Czarny
+Opel,Astra,2005,12 900 PLN,156 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Opel,Meriva,2013,25 900 PLN,112 300 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Szary
+Opel,Insignia,2010,23 500 PLN,308 814 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,5,Czarny
+Opel,Mokka,2017,53 500 PLN,108 611 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2014,34 900 PLN,78 140 km,Benzyna,Manualna,Kompakt,1 398 cm3,100 KM,5,Szary
+Opel,Astra,2007,12 950 PLN,189 022 km,Benzyna,Manualna,Coupe,1 598 cm3,105 KM,3,Srebrny
+Opel,Mokka,2017,61 900 PLN,115 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Vivaro,2017,49 900 PLN,170 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Biały
+Opel,Astra,2015,25 800 PLN,155 000 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Biały
+Opel,Corsa,2019,47 750 PLN,82 134 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,100 KM,5,Biały
+Opel,Astra,2005,8 400 PLN,299 800 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,105 KM,5,Niebieski
+Opel,Corsa,2012,12 999 PLN,261 494 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Biały
+Opel,Astra,2013,29 900 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 362 cm3,140 KM,3,Srebrny
+Opel,Mokka,2012,43 500 PLN,112 770 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2009,24 000 PLN,191 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,179 KM,3,Biały
+Opel,Insignia,2014,39 500 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,4,Szary
+Opel,Zafira,2011,25 900 PLN,203 250 km,Benzyna+LPG,Manualna,Minivan,1 796 cm3,140 KM,5,Inny kolor
+Opel,Insignia,2015,37 900 PLN,250 093 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Brązowy
+Opel,Astra,2011,20 900 PLN,197 344 km,Diesel,Manualna,Kompakt,1 248 cm3,95 KM,5,Szary
+Opel,Astra,2010,12 600 PLN,237 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Czarny
+Opel,Astra,2020,49 500 PLN,87 000 km,Diesel,Manualna,Kombi,1 496 cm3,122 KM,5,Czarny
+Opel,Corsa,2022,46 900 PLN,48 000 km,Diesel,Manualna,Auta małe,1 499 cm3,102 KM,5,Bordowy
+Opel,Meriva,2013,23 900 PLN,89 000 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Biały
+Opel,Mokka,2015,24 900 PLN,116 713 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Bordowy
+Opel,Corsa,2007,10 200 PLN,243 000 km,Benzyna,Manualna,Auta małe,1 364 cm3,90 KM,3,Czarny
+Opel,Astra,2006,7 900 PLN,302 000 km,Diesel,Manualna,Kombi,1 686 cm3,100 KM,5,Czarny
+Opel,Corsa,2008,9 900 PLN,226 861 km,Benzyna,Manualna,Auta małe,998 cm3,60 KM,3,Czarny
+Opel,Corsa,2018,46 000 PLN,24 500 km,Benzyna,Manualna,Kompakt,1 398 cm3,75 KM,5,Niebieski
+Opel,Corsa,2021,41 900 PLN,48 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,100 KM,5,Czarny
+Opel,Astra,2012,18 500 PLN,211 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Żółty
+Opel,Astra,2011,13 990 PLN,224 660 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Srebrny
+Opel,Insignia,2014,42 600 PLN,120 000 km,Benzyna,Manualna,Kombi,1 598 cm3,170 KM,5,Czarny
+Opel,Corsa,2007,10 900 PLN,173 000 km,Benzyna+LPG,Manualna,Auta małe,1 229 cm3,80 KM,3,Srebrny
+Opel,Astra,2008,12 900 PLN,180 000 km,Benzyna,Manualna,Coupe,1 364 cm3,90 KM,3,Granatowy
+Opel,Astra,2007,6 500 PLN,246 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,90 KM,5,Czarny
+Opel,Meriva,2007,11 900 PLN,193 000 km,Benzyna,Manualna,Minivan,1 598 cm3,105 KM,5,Inny kolor
+Opel,Crossland X,2022,62 900 PLN,25 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Pomarańczowy
+Opel,Astra,2013,29 900 PLN,132 000 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2012,26 900 PLN,249 200 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Biały
+Opel,Astra,2008,8 300 PLN,163 000 km,Benzyna,Manualna,Auta małe,1 364 cm3,90 KM,5,Srebrny
+Opel,Movano,2014,82 000 PLN,390 000 km,Diesel,Manualna,Kombi,2 299 cm3,150 KM,5,Srebrny
+Opel,Astra,2009,17 900 PLN,164 591 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,,
+Opel,Insignia,2018,65 500 PLN,212 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,210 KM,5,Szary
+Opel,Zafira,2016,39 900 PLN,215 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Czarny
+Opel,Astra,2010,15 900 PLN,147 000 km,Benzyna,Manualna,Coupe,1 364 cm3,90 KM,3,Biały
+Opel,Astra,2011,23 500 PLN,220 000 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,120 KM,5,Brązowy
+Opel,Astra,2015,27 900 PLN,226 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Opel,Astra,2012,16 900 PLN,233 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Szary
+Opel,Astra,2014,28 500 PLN,180 000 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Czarny
+Opel,Astra,2014,28 500 PLN,180 000 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Czarny
+Opel,Zafira,2008,17 900 PLN,173 676 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Złoty
+Opel,Insignia,2012,23 500 PLN,220 000 km,Benzyna,Manualna,Kombi,1 796 cm3,140 KM,5,Szary
+Opel,Astra,2013,23 777 PLN,192 000 km,Diesel,Manualna,Kombi,1 956 cm3,165 KM,5,Czarny
+Opel,Mokka,2018,58 900 PLN,130 348 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Bordowy
+Opel,Astra,2015,36 900 PLN,149 000 km,Benzyna,Automatyczna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2020,43 900 PLN,179 800 km,Diesel,Manualna,Kombi,1 496 cm3,122 KM,5,Granatowy
+Opel,Zafira,2008,13 900 PLN,251 658 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Beżowy
+Opel,Astra,2017,48 500 PLN,164 886 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Opel,Zafira,2012,31 700 PLN,249 000 km,Diesel,Manualna,Minivan,1 956 cm3,165 KM,5,Srebrny
+Opel,Combo,2007,12 300 PLN,207 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Biały
+Opel,Insignia,2013,28 900 PLN,299 000 km,Diesel,Manualna,Kombi,1 956 cm3,163 KM,4,Srebrny
+Opel,Astra,2014,26 000 PLN,207 800 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Granatowy
+Opel,Astra,2012,26 900 PLN,209 565 km,Diesel,Manualna,Coupe,1 956 cm3,165 KM,3,Czarny
+Opel,Meriva,2011,23 000 PLN,177 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,120 KM,5,Beżowy
+Opel,Insignia,2016,40 900 PLN,239 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Granatowy
+Opel,Insignia,2013,36 900 PLN,214 000 km,Diesel,Manualna,Sedan,1 956 cm3,163 KM,5,Czarny
+Opel,Insignia,2010,17 900 PLN,268 311 km,Diesel,Automatyczna,Sedan,1 956 cm3,160 KM,4,Czerwony
+Opel,Astra,2009,14 900 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Opel,Vectra,2005,11 600 PLN,248 000 km,Benzyna+LPG,Manualna,Sedan,1 796 cm3,122 KM,5,Czarny
+Opel,Corsa,2008,10 900 PLN,194 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,80 KM,3,Czarny
+Opel,Insignia,2012,25 000 PLN,203 201 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Brązowy
+Opel,Astra,2010,21 800 PLN,198 010 km,Benzyna,Manualna,Auta miejskie,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2013,25 900 PLN,191 120 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,4,Biały
+Opel,Astra,2008,14 500 PLN,187 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Czarny
+Opel,Insignia,2012,27 700 PLN,181 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Brązowy
+Opel,Corsa,2008,9 900 PLN,159 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Srebrny
+Opel,Mokka,2017,58 000 PLN,92 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Szary
+Opel,Mokka,2014,42 800 PLN,141 514 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Opel,Grandland X,2021,71 999 PLN,39 785 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,181 KM,5,Bordowy
+Opel,Insignia,2016,32 900 PLN,227 000 km,Diesel,Manualna,Sedan,1 598 cm3,136 KM,5,Szary
+Opel,Zafira,2013,32 900 PLN,184 000 km,Diesel,Manualna,Minivan,1 956 cm3,165 KM,5,Srebrny
+Opel,Corsa,2014,16 999 PLN,141 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,3,Czarny
+Opel,Vectra,2005,6 900 PLN,290 000 km,Diesel,Manualna,Kombi,1 910 cm3,120 KM,5,Czarny
+Opel,Vectra,2006,12 900 PLN,232 000 km,Benzyna,Manualna,Sedan,1 796 cm3,140 KM,5,Inny kolor
+Opel,Vivaro,2016,68 900 PLN,274 000 km,Diesel,Manualna,Minivan,1 600 cm3,125 KM,4,Złoty
+Opel,Grandland X,2019,70 800 PLN,56 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Bordowy
+Opel,Corsa,2011,20 500 PLN,116 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,87 KM,5,Czarny
+Opel,Astra,2012,18 900 PLN,143 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Szary
+Opel,Meriva,2013,26 700 PLN,155 400 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Szary
+Opel,Zafira,2012,25 900 PLN,199 300 km,Benzyna,Manualna,Kombi,1 796 cm3,140 KM,5,Szary
+Opel,Insignia,2016,45 900 PLN,48 300 km,Benzyna,Manualna,Sedan,1 598 cm3,170 KM,5,Czarny
+Opel,Astra,2016,42 700 PLN,208 000 km,Diesel,Manualna,Kombi,1 598 cm3,160 KM,5,Brązowy
+Opel,Insignia,2019,63 900 PLN,157 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Astra,2008,16 500 PLN,242 261 km,Benzyna,Manualna,Coupe,1 598 cm3,115 KM,3,Biały
+Opel,Zafira,2012,24 900 PLN,123 000 km,Benzyna,Manualna,Minivan,1 598 cm3,115 KM,5,Biały
+Opel,Astra,2011,25 900 PLN,256 000 km,Benzyna+LPG,Manualna,Kombi,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2006,15 900 PLN,185 000 km,Benzyna,Manualna,Coupe,1 598 cm3,115 KM,3,Szary
+Opel,Astra,2016,51 999 PLN,33 800 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Czerwony
+Opel,Insignia,2019,59 500 PLN,167 000 km,Diesel,Manualna,Sedan,1 956 cm3,170 KM,5,Inny kolor
+Opel,Combo,2008,16 900 PLN,216 519 km,Benzyna,Manualna,Minivan,1 364 cm3,90 KM,4,Błękitny
+Opel,Grandland X,2019,58 800 PLN,130 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Biały
+Opel,Vivaro,2022,109 900 PLN,41 000 km,Diesel,Manualna,Minivan,1 499 cm3,120 KM,4,Biały
+Opel,Astra,2010,25 999 PLN,161 800 km,Benzyna,Manualna,Kompakt,1 560 cm3,116 KM,5,Biały
+Opel,Grandland X,2018,59 900 PLN,145 000 km,Diesel,Manualna,SUV,1 560 cm3,120 KM,5,Szary
+Opel,Astra,2012,29 900 PLN,102 000 km,Benzyna,Manualna,Kompakt,1 398 cm3,100 KM,5,Inny kolor
+Opel,Astra,2014,26 900 PLN,225 000 km,Diesel,Manualna,Kombi,1 686 cm3,130 KM,5,Srebrny
+Opel,Astra,2024,119 900 PLN,15 111 km,Benzyna,Automatyczna,Kombi,1 199 cm3,130 KM,5,Niebieski
+Opel,Mokka,2013,43 900 PLN,129 165 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Biały
+Opel,Astra,2011,21 500 PLN,176 000 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,5,Granatowy
+Opel,Insignia,2014,36 500 PLN,231 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Zielony
+Opel,Astra,2013,25 900 PLN,188 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Inny kolor
+Opel,Insignia,2019,76 990 PLN,168 880 km,Benzyna,Automatyczna,Kombi,1 998 cm3,260 KM,5,Czarny
+Opel,Antara,2010,12 999 PLN,150 911 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Srebrny
+Opel,Crossland X,2018,51 500 PLN,55 458 km,Benzyna,Manualna,Kompakt,1 199 cm3,81 KM,5,Niebieski
+Opel,Astra,2017,42 500 PLN,135 000 km,Benzyna,Manualna,Sedan,1 364 cm3,140 KM,4,Brązowy
+Opel,Combo,2019,41 900 PLN,165 200 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Czarny
+Opel,Insignia,2016,43 900 PLN,123 200 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Zafira,2014,42 600 PLN,114 000 km,Diesel,Manualna,Minivan,1 956 cm3,165 KM,5,Niebieski
+Opel,Insignia,2011,23 900 PLN,209 400 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Szary
+Opel,Astra,2018,53 700 PLN,113 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Bordowy
+Opel,Astra,2012,28 900 PLN,124 393 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Insignia,2013,27 900 PLN,200 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,4,Czarny
+Opel,Insignia,2009,9 000 PLN,220 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Szary
+Opel,Corsa,2007,8 900 PLN,142 386 km,Benzyna,Manualna,Auta małe,1 229 cm3,80 KM,3,Srebrny
+Opel,Astra,2019,49 900 PLN,113 104 km,Benzyna,Manualna,Kombi,1 199 cm3,130 KM,5,Szary
+Opel,Grandland X,2019,75 000 PLN,228 000 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Biały
+Opel,Astra,2006,8 500 PLN,183 000 km,Benzyna,Manualna,Coupe,1 598 cm3,105 KM,3,Czarny
+Opel,Crossland X,2021,55 000 PLN,143 000 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Opel,Mokka,2015,41 900 PLN,189 000 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Inny kolor
+Opel,Vectra,2007,18 900 PLN,202 900 km,Benzyna,Manualna,Kompakt,2 792 cm3,250 KM,5,Granatowy
+Opel,Insignia,2015,44 000 PLN,227 000 km,Diesel,Automatyczna,Sedan,1 956 cm3,170 KM,5,Brązowy
+Opel,Crossland X,2022,82 900 PLN,982 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Opel,Astra,2009,13 900 PLN,265 000 km,Diesel,Manualna,Kompakt,1 686 cm3,125 KM,3,Srebrny
+Opel,Vectra,2002,4 900 PLN,252 000 km,Benzyna+LPG,Manualna,Sedan,2 198 cm3,147 KM,4,Srebrny
+Opel,Astra,2011,25 900 PLN,122 000 km,Benzyna,Manualna,Coupe,1 364 cm3,140 KM,3,Srebrny
+Opel,Meriva,2010,16 900 PLN,217 060 km,Diesel,Automatyczna,Minivan,1 686 cm3,100 KM,5,Srebrny
+Opel,Astra,2006,9 400 PLN,150 000 km,Diesel,Manualna,Auta małe,1 248 cm3,90 KM,3,Czarny
+Opel,Astra,2017,45 900 PLN,97 564 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Czarny
+Opel,Insignia,2014,29 900 PLN,217 000 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Czarny
+Opel,Corsa,2021,54 500 PLN,45 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Bordowy
+Opel,Astra,2018,39 900 PLN,129 480 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Biały
+Opel,Astra,2018,54 900 PLN,85 300 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Czarny
+Opel,Insignia,2011,24 700 PLN,240 067 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Insignia,2010,40 000 PLN,121 000 km,Benzyna,Manualna,Sedan,2 792 cm3,325 KM,5,Czarny
+Opel,Corsa,2017,44 999 PLN,40 400 km,Benzyna,Automatyczna,Auta miejskie,1 398 cm3,90 KM,5,Szary
+Opel,Astra,2008,10 900 PLN,266 803 km,Diesel,Manualna,Kombi,1 686 cm3,125 KM,5,Szary
+Opel,Corsa,2015,29 500 PLN,142 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,5,Czarny
+Opel,Astra,2010,24 900 PLN,189 200 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Corsa,2008,5 900 PLN,192 000 km,Benzyna,Manualna,Auta małe,998 cm3,60 KM,3,Czerwony
+Opel,Insignia,2012,26 999 PLN,195 500 km,Diesel,Automatyczna,Kombi,1 956 cm3,194 KM,5,Szary
+Opel,Astra,2012,18 700 PLN,182 230 km,Diesel,Manualna,Auta miejskie,1 686 cm3,110 KM,5,Czarny
+Opel,Corsa,2013,17 900 PLN,229 999 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,3,Brązowy
+Opel,Combo,2012,22 500 PLN,325 000 km,Diesel,Manualna,Minivan,1 956 cm3,135 KM,5,Srebrny
+Opel,Astra,2015,27 800 PLN,140 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Srebrny
+Opel,Insignia,2012,34 499 PLN,216 700 km,Diesel,Manualna,Sedan,1 956 cm3,194 KM,4,Brązowy
+Opel,Kadett,1963,10 900 PLN,43 426 km,Benzyna,Manualna,Sedan,993 cm3,40 KM,3,Beżowy
+Opel,Mokka,2024,102 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Opel,Astra,2016,34 800 PLN,149 381 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Opel,Insignia,2012,23 900 PLN,230 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Insignia,2010,26 500 PLN,223 000 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,5,Inny kolor
+Opel,Astra,2018,44 400 PLN,207 088 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,,
+Opel,Zafira,2012,29 900 PLN,181 000 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2011,19 500 PLN,206 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Opel,Crossland X,2018,57 800 PLN,71 000 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,5,Złoty
+Opel,Corsa,2013,25 500 PLN,216 000 km,Benzyna,Manualna,Kompakt,1 398 cm3,87 KM,5,Czarny
+Opel,Vectra,2006,6 500 PLN,357 000 km,Diesel,Manualna,Sedan,1 910 cm3,120 KM,5,Srebrny
+Opel,Insignia,2018,68 500 PLN,115 000 km,Benzyna,Manualna,Sedan,1 490 cm3,165 KM,5,Szary
+Opel,Vectra,2003,8 999 PLN,270 000 km,Benzyna+LPG,Automatyczna,Sedan,2 198 cm3,147 KM,5,Srebrny
+Opel,Zafira,2010,15 900 PLN,188 000 km,Diesel,Automatyczna,SUV,1 910 cm3,120 KM,5,Szary
+Opel,Karl,2016,26 500 PLN,143 187 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Czerwony
+Opel,Movano,2008,31 000 PLN,232 000 km,Diesel,Manualna,Kombi,2 464 cm3,120 KM,4,Biały
+Opel,Astra,2012,17 500 PLN,260 000 km,Diesel,Manualna,Auta małe,1 686 cm3,110 KM,5,Srebrny
+Opel,Astra,2019,54 999 PLN,64 012 km,Benzyna,Manualna,Kombi,1 199 cm3,130 KM,5,Niebieski
+Opel,Insignia,2015,40 000,146 098 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Szary
+Opel,Insignia,2009,17 000 PLN,258 049 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Czarny
+Opel,Meriva,2010,18 900 PLN,161 000 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Szary
+Opel,Corsa,2017,23 500 PLN,50 500 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Biały
+Opel,Insignia,2019,76 500 PLN,107 700 km,Benzyna,Automatyczna,Sedan,1 490 cm3,165 KM,5,Czarny
+Opel,Tigra,2005,6 800 PLN,180 000 km,Benzyna,Manualna,Kabriolet,1 364 cm3,90 KM,2,Niebieski
+Opel,Zafira,2005,11 000 PLN,119 000 km,Benzyna,Manualna,Minivan,1 598 cm3,100 KM,5,Srebrny
+Opel,Insignia,2019,69 800 PLN,127 500 km,Benzyna,Automatyczna,Kompakt,1 490 cm3,165 KM,5,Szary
+Opel,Zafira,2012,29 950 PLN,223 151 km,Diesel,Automatyczna,Minivan,1 956 cm3,165 KM,5,Srebrny
+Opel,Meriva,2007,8 000 PLN,283 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,105 KM,5,Granatowy
+Opel,Astra,2014,32 900 PLN,189 000 km,Benzyna+LPG,Manualna,Kompakt,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2013,33 900 PLN,111 000 km,Benzyna,Manualna,Sedan,1 362 cm3,140 KM,5,Szary
+Opel,Astra,2010,20 900 PLN,199 000 km,Benzyna,Manualna,Kompakt,1 398 cm3,100 KM,5,Szary
+Opel,Crossland X,2020,59 900 PLN,58 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Niebieski
+Opel,Meriva,2012,24 900 PLN,161 012 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Czarny
+Opel,Zafira,2012,27 900 PLN,237 000 km,Diesel,Manualna,Minivan,1 956 cm3,165 KM,5,Inny kolor
+Opel,Astra,2011,19 999 PLN,280 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,115 KM,5,Szary
+Opel,Mokka,2019,54 989,99 500 km,Diesel,Manualna,SUV,1 598 cm3,110 KM,5,Granatowy
+Opel,Astra,2021,59 800 PLN,53 500 km,Benzyna,Manualna,Kombi,1 199 cm3,145 KM,5,Granatowy
+Opel,Astra,2017,37 900 PLN,204 300 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Biały
+Opel,Adam,2015,29 900 PLN,150 000 km,Benzyna,Manualna,Auta małe,999 cm3,90 KM,3,Niebieski
+Opel,Astra,2021,51 900 PLN,78 100 km,Diesel,Manualna,Kombi,1 496 cm3,105 KM,5,Szary
+Opel,Vectra,2003,7 500 PLN,223 733 km,Benzyna+LPG,Manualna,Sedan,2 198 cm3,147 KM,4,Srebrny
+Opel,Vectra,2007,9 400 PLN,274 926 km,Benzyna+LPG,Manualna,Sedan,1 796 cm3,140 KM,5,Srebrny
+Opel,Mokka,2013,38 500 PLN,99 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Brązowy
+Opel,Meriva,2011,23 900 PLN,176 702 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Czarny
+Opel,Signum,2003,6 900 PLN,308 654 km,Benzyna+LPG,Manualna,Kombi,1 796 cm3,122 KM,5,Inny kolor
+Opel,Astra,2017,41 500 PLN,93 000 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Srebrny
+Opel,Corsa,2014,7 800 PLN,234 500 km,Diesel,Manualna,Auta małe,1 248 cm3,95 KM,3,Biały
+Opel,Zafira,2007,15 800 PLN,296 700 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,240 KM,5,Srebrny
+Opel,Mokka,2014,39 900 PLN,188 232 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Mokka,2018,37 900 PLN,50 000 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Granatowy
+Opel,Grandland X,2020,79 950 PLN,62 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Brązowy
+Opel,Insignia,2014,32 900 PLN,189 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Szary
+Opel,Astra,2006,8 900 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Granatowy
+Opel,Insignia,2016,37 000 PLN,136 500 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Niebieski
+Opel,Combo,2011,11 900 PLN,220 000 km,Diesel,Manualna,Minivan,1 248 cm3,75 KM,4,Biały
+Opel,Insignia,2009,22 400 PLN,246 533 km,Benzyna+LPG,Manualna,Kombi,1 798 cm3,140 KM,5,Czarny
+Opel,Astra,2013,35 500 PLN,162 000 km,Benzyna,Manualna,Kompakt,1 362 cm3,140 KM,3,Biały
+Opel,Astra,2019,39 999 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Srebrny
+Opel,Astra,2017,35 900 PLN,220 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Czarny
+Opel,Astra,2015,27 300 PLN,234 978 km,Benzyna+LPG,Manualna,Sedan,1 364 cm3,140 KM,4,Inny kolor
+Opel,Insignia,2015,39 900 PLN,152 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Czarny
+Opel,Insignia,2013,32 300 PLN,211 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2011,22 700 PLN,175 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Mokka,2017,46 900 PLN,185 000 km,Benzyna+LPG,Manualna,SUV,1 364 cm3,140 KM,5,Czarny
+Opel,Meriva,2003,8 800 PLN,136 000 km,Diesel,Manualna,Minivan,1 686 cm3,100 KM,5,Srebrny
+Opel,Astra,2017,29 900 PLN,229 280 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Czarny
+Opel,Insignia,2016,42 999 PLN,149 285 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Granatowy
+Opel,Insignia,2015,31 000 PLN,249 700 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Czarny
+Opel,Corsa,2013,14 600 PLN,110 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,70 KM,3,Biały
+Opel,Insignia,2017,85 000 PLN,104 500 km,Benzyna,Automatyczna,Kombi,1 998 cm3,260 KM,5,Szary
+Opel,Crossland,2021,64 900 PLN,19 095 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Czarny
+Opel,Meriva,2005,8 800 PLN,196 152 km,Benzyna,Manualna,Minivan,1 364 cm3,90 KM,5,Szary
+Opel,Insignia,2017,39 900 PLN,163 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Szary
+Opel,Corsa,2014,22 000 PLN,155 517 km,Benzyna+LPG,Manualna,Kompakt,1 229 cm3,85 KM,5,Granatowy
+Opel,Insignia,2014,47 900 PLN,233 480 km,Diesel,Manualna,Sedan,1 956 cm3,140 KM,5,Biały
+Opel,Astra,2012,23 000 PLN,195 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Inny kolor
+Opel,Corsa,2019,54 900 PLN,40 625 km,Benzyna,Manualna,Kompakt,1 199 cm3,75 KM,5,Pomarańczowy
+Opel,Astra,2011,21 000 PLN,260 000 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Biały
+Opel,Zafira,2017,49 999 PLN,177 500 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Czarny
+Opel,Corsa,2005,8 400 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,75 KM,5,Srebrny
+Opel,Mokka,2015,49 900 PLN,160 000 km,Benzyna,Automatyczna,SUV,1 364 cm3,140 KM,5,Inny kolor
+Opel,Insignia,2015,33 200 PLN,293 845 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Czarny
+Opel,Corsa,2017,35 700 PLN,118 250 km,Benzyna,Manualna,Kompakt,1 398 cm3,90 KM,5,Zielony
+Opel,Astra,2019,29 900 PLN,209 115 km,Diesel,Manualna,Kombi,1 598 cm3,136 KM,5,Czerwony
+Opel,Corsa,2014,22 800 PLN,169 400 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,85 KM,5,Brązowy
+Opel,Antara,2014,43 000 PLN,132 000 km,Diesel,Automatyczna,SUV,2 231 cm3,184 KM,5,Brązowy
+Opel,Corsa,2014,22 800 PLN,169 400 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,85 KM,5,Brązowy
+Opel,Antara,2014,43 000 PLN,132 000 km,Diesel,Automatyczna,SUV,2 231 cm3,184 KM,5,Brązowy
+Opel,Astra,2014,27 300 PLN,140 000 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Szary
+Opel,Zafira,2007,9 800 PLN,183 412 km,Benzyna+LPG,Manualna,Minivan,1 796 cm3,140 KM,5,Szary
+Opel,Zafira,2008,10 900 PLN,309 000 km,Diesel,Manualna,Minivan,1 686 cm3,125 KM,5,Biały
+Opel,Astra,2008,13 900 PLN,191 000 km,Benzyna+LPG,Manualna,Kompakt,1 364 cm3,90 KM,5,Srebrny
+Opel,Grandland X,2019,53 900 PLN,90 253 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Bordowy
+Opel,Zafira,2016,53 900 PLN,50 453 km,Benzyna,Manualna,SUV,1 364 cm3,120 KM,5,Czerwony
+Opel,Corsa,2015,25 900 PLN,65 000 km,Benzyna,Manualna,Auta małe,1 229 cm3,70 KM,3,Niebieski
+Opel,Astra,2015,30 690 PLN,112 254 km,Benzyna,Manualna,Kombi,1 364 cm3,120 KM,5,Czerwony
+Opel,Mokka,2014,37 800 PLN,127 000 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Inny kolor
+Opel,Astra,2008,12 999 PLN,225 000 km,Diesel,Manualna,Kombi,1 910 cm3,150 KM,5,Srebrny
+Opel,Vivaro,2006,34 900 PLN,240 000 km,Diesel,Automatyczna,Minivan,2 463 cm3,135 KM,4,Czarny
+Opel,Meriva,2012,16 500 PLN,298 000 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,120 KM,5,Czarny
+Opel,Mokka,2017,58 900 PLN,47 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Srebrny
+Opel,Astra,2015,32 900 PLN,122 000 km,Benzyna,Manualna,Sedan,1 598 cm3,115 KM,5,Brązowy
+Opel,Astra,2017,32 999 PLN,197 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Opel,Astra,2017,33 900 PLN,249 420 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Szary
+Opel,Corsa,2012,14 700 PLN,194 818 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,100 KM,5,Granatowy
+Opel,Mokka,2015,41 000 PLN,58 200 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Szary
+Opel,Astra,2015,29 500 PLN,166 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Szary
+Opel,Vivaro,2003,13 500 PLN,460 000 km,Diesel,Manualna,Minivan,1 870 cm3,101 KM,4,Żółty
+Opel,Astra,2010,27 500 PLN,161 830 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Beżowy
+Opel,Insignia,2011,33 500 PLN,177 800 km,Diesel,Automatyczna,Sedan,1 956 cm3,160 KM,5,Czarny
+Opel,Astra,2010,21 400 PLN,129 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Opel,Astra,2010,24 500 PLN,154 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Opel,Astra,2013,25 900 PLN,200 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Szary
+Opel,Insignia,2019,64 900 PLN,97 500 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Biały
+Opel,Astra,2018,55 900 PLN,79 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,150 KM,5,Granatowy
+Opel,Meriva,2013,27 900 PLN,110 579 km,Benzyna,Automatyczna,Minivan,1 364 cm3,140 KM,5,Szary
+Opel,Grandland X,2019,72 900 PLN,177 000 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Szary
+Opel,Grandland X,2021,71 400 PLN,152 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Czarny
+Opel,Zafira,2006,9 000 PLN,337 000 km,Benzyna+LPG,Manualna,SUV,1 796 cm3,140 KM,5,Srebrny
+Opel,Corsa,2007,7 500 PLN,218 000 km,Benzyna,Manualna,Kompakt,1 229 cm3,80 KM,3,Srebrny
+Opel,Astra,2013,34 900 PLN,195 000 km,Benzyna,Manualna,Coupe,1 598 cm3,180 KM,3,Czerwony
+Opel,Corsa,2014,29 900 PLN,178 500 km,Benzyna,Manualna,Auta małe,1 398 cm3,90 KM,5,Szary
+Opel,Astra,2009,12 800 PLN,218 000 km,Benzyna,Manualna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Opel,Insignia,2019,59 900 PLN,111 000 km,Benzyna,Manualna,Kombi,1 490 cm3,165 KM,5,Szary
+Opel,Crossland X,2020,58 900 PLN,25 700 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Granatowy
+Opel,Corsa,2016,27 400 PLN,147 230 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Biały
+Opel,Insignia,2020,112 000 PLN,70 800 km,Diesel,Automatyczna,Kombi,1 995 cm3,174 KM,5,Czerwony
+Opel,Vectra,2008,14 700 PLN,224 000 km,Benzyna,Manualna,Kompakt,1 796 cm3,140 KM,5,Szary
+Opel,Zafira,2012,26 900 PLN,175 000 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Czarny
+Opel,Astra,2016,39 900 PLN,241 000 km,Benzyna+LPG,Automatyczna,Sedan,1 598 cm3,115 KM,5,Srebrny
+Opel,Corsa,2010,14 000 PLN,125 000 km,Benzyna,Manualna,Auta małe,1 398 cm3,100 KM,5,Czarny
+Opel,Combo,2019,39 999 PLN,173 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Biały
+Opel,Astra,2011,22 900 PLN,182 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Inny kolor
+Opel,Astra,2010,25 000 PLN,196 900 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Szary
+Opel,Astra,2016,41 500 PLN,165 436 km,Diesel,Manualna,Kombi,1 598 cm3,150 KM,5,Srebrny
+Opel,Astra,2011,16 000 PLN,282 000 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Srebrny
+Opel,Insignia,2009,19 800 PLN,265 000 km,Diesel,Manualna,Sedan,1 956 cm3,130 KM,5,Czarny
+Opel,Meriva,2013,25 900 PLN,174 000 km,Benzyna,Manualna,Minivan,1 398 cm3,100 KM,5,Błękitny
+Opel,Vivaro,2009,39 900 PLN,248 200 km,Diesel,Manualna,Minivan,2 464 cm3,146 KM,4,Niebieski
+Opel,Astra,2014,27 900 PLN,152 500 km,Benzyna,Manualna,Auta małe,1 364 cm3,140 KM,5,Biały
+Opel,Antara,2007,17 000 PLN,277 000 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Czarny
+Opel,Vivaro,2015,48 500 PLN,223 000 km,Diesel,Manualna,Minivan,1 598 cm3,116 KM,4,Srebrny
+Opel,Insignia,2010,27 900 PLN,168 900 km,Benzyna,Automatyczna,Kombi,2 792 cm3,260 KM,5,Szary
+Opel,Corsa,2008,14 500 PLN,178 250 km,Benzyna,Manualna,Kompakt,1 229 cm3,80 KM,5,Szary
+Opel,Corsa,2019,42 999 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Czarny
+Opel,Corsa,2016,29 900 PLN,161 400 km,Benzyna,Manualna,Auta małe,1 398 cm3,90 KM,5,Czarny
+Opel,Corsa,2017,38 900 PLN,19 990 km,Benzyna,Manualna,Kompakt,1 398 cm3,90 KM,5,Czerwony
+Opel,Mokka,2017,62 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Brązowy
+,,Unknown,Przerwa techniczna,,,,,,,,
+Opel,Insignia,2016,37 900 PLN,199 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,170 KM,5,Zielony
+Opel,Mokka,2017,58 900 PLN,120 408 km,Diesel,Manualna,SUV,1 598 cm3,136 KM,5,Czarny
+Opel,Astra,2010,21 800 PLN,159 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,100 KM,5,Niebieski
+Opel,Adam,2018,33 900 PLN,40 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,87 KM,3,Granatowy
+Opel,Mokka,2013,37 900 PLN,59 500 km,Diesel,Manualna,SUV,1 686 cm3,130 KM,5,Czarny
+Opel,Insignia,2019,65 000 PLN,213 378 km,Diesel,Automatyczna,Kombi,1 956 cm3,210 KM,5,Granatowy
+Opel,Corsa,2015,24 999 PLN,185 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,95 KM,5,Brązowy
+Opel,Corsa,2011,20 900 PLN,152 214 km,Benzyna,Automatyczna,Kompakt,1 398 cm3,100 KM,3,Inny kolor
+Opel,Astra,2004,15 900 PLN,88 254 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,105 KM,5,Szary
+Opel,Astra,2008,17 500 PLN,190 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Niebieski
+Opel,Astra,2015,28 500 PLN,114 000 km,Benzyna,Automatyczna,Kombi,1 364 cm3,140 KM,5,Srebrny
+Opel,Signum,2006,11 500 PLN,433 423 km,Diesel,Manualna,Kombi,1 910 cm3,150 KM,5,Srebrny
+Opel,Mokka,2016,52 900 PLN,55 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Brązowy
+Opel,Meriva,2005,4 900 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,100 KM,5,Srebrny
+Opel,Insignia,2015,31 900 PLN,232 000 km,Diesel,Automatyczna,Sedan,1 956 cm3,163 KM,5,Niebieski
+Opel,Insignia,2015,33 900 PLN,189 015 km,Benzyna,Manualna,Kombi,1 798 cm3,140 KM,5,Biały
+Opel,Mokka,2014,46 900 PLN,126 198 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Opel,Astra,2011,24 900 PLN,171 931 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Czarny
+Opel,Insignia,2015,34 200 PLN,145 000 km,Diesel,Manualna,Kombi,1 956 cm3,140 KM,5,Czarny
+Opel,Insignia,2011,27 500 PLN,146 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Brązowy
+Opel,Astra,2014,23 500 PLN,78 300 km,Benzyna,Manualna,Kompakt,1 398 cm3,101 KM,5,Biały
+Opel,Astra,2014,34 900 PLN,92 456 km,Diesel,Manualna,Coupe,1 598 cm3,136 KM,5,Biały
+Opel,Insignia,2011,26 800 PLN,134 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Inny kolor
+Opel,Insignia,2017,49 998,235 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Srebrny
+Opel,Insignia,2013,30 900 PLN,195 454 km,Diesel,Manualna,Kombi,1 956 cm3,160 KM,5,Brązowy
+Opel,Astra,2009,14 900 PLN,190 000 km,Benzyna,Manualna,Coupe,1 364 cm3,90 KM,3,Szary
+Opel,Insignia,2013,25 000 PLN,259 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,160 KM,5,Błękitny
+Opel,Insignia,2016,43 900 PLN,117 340 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Biały
+Opel,Insignia,2014,34 990 PLN,250 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,163 KM,5,Czarny
+Opel,Astra,2009,16 500 PLN,103 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,5,Szary
+Opel,Antara,2007,18 000 PLN,223 000 km,Diesel,Automatyczna,SUV,1 991 cm3,150 KM,5,Inny kolor
+Opel,Meriva,2010,18 000 PLN,142 000 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Srebrny
+Opel,Astra,2016,46 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,1 399 cm3,125 KM,5,Błękitny
+Opel,Astra,2016,46 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,1 399 cm3,125 KM,5,Błękitny
+Opel,Vivaro,2018,81 000 PLN,190 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Inny kolor
+Opel,Insignia,2009,10 999 PLN,279 000 km,Diesel,Manualna,Sedan,1 956 cm3,130 KM,4,Czerwony
+Opel,Crossland X,2017,59 000 PLN,107 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,120 KM,5,Inny kolor
+Opel,Insignia,2018,79 900 PLN,34 000 km,Benzyna,Automatyczna,Kompakt,1 490 cm3,165 KM,5,Granatowy
+Opel,Astra,2013,27 000 PLN,171 520 km,Diesel,Manualna,Kompakt,1 686 cm3,110 KM,5,Czerwony
+Opel,Astra,2008,9 900 PLN,231 000 km,Diesel,Manualna,Kombi,1 686 cm3,100 KM,5,Inny kolor
+Opel,Meriva,2013,23 900 PLN,84 000 km,Benzyna,Manualna,Minivan,1 398 cm3,100 KM,5,Szary
+Opel,Astra,2012,22 900 PLN,248 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,165 KM,5,Srebrny
+Opel,Corsa,2016,39 900 PLN,134 000 km,Benzyna,Automatyczna,Auta małe,1 398 cm3,90 KM,5,Błękitny
+Opel,Mokka,2016,45 900 PLN,154 600 km,Diesel,Automatyczna,SUV,1 598 cm3,136 KM,5,Srebrny
+Opel,Astra,2013,26 000 PLN,174 000 km,Diesel,Manualna,Kombi,1 686 cm3,130 KM,5,Biały
+Opel,Astra,2019,51 000 PLN,120 000 km,Benzyna,Manualna,Kombi,1 598 cm3,200 KM,5,Biały
+Opel,Astra,2010,23 500 PLN,211 000 km,Diesel,Manualna,Kompakt,1 686 cm3,125 KM,5,Szary
+Opel,Astra,2016,47 000 PLN,96 636 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Srebrny
+Opel,Antara,2009,24 500 PLN,289 000 km,Diesel,Manualna,SUV,1 991 cm3,150 KM,5,Czarny
+Opel,Insignia,2019,105 999 PLN,85 800 km,Diesel,Automatyczna,Kombi,1 956 cm3,210 KM,5,Biały
+Opel,Astra,2011,21 800 PLN,237 850 km,Diesel,Manualna,Kombi,1 686 cm3,110 KM,5,Szary
+Opel,Corsa,2015,30 200 PLN,172 000 km,Benzyna+LPG,Manualna,Kompakt,1 398 cm3,90 KM,5,Szary
+Opel,Astra,2002,7 900 PLN,182 000 km,Benzyna,Manualna,Kabriolet,2 198 cm3,147 KM,2,Srebrny
+Opel,Zafira,2010,14 900 PLN,265 000 km,Diesel,Manualna,Minivan,1 686 cm3,110 KM,5,Szary
+Opel,Mokka,2015,47 500 PLN,85 500 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Brązowy
+Opel,Insignia,2016,35 900 PLN,177 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Szary
+Opel,Vivaro,2009,38 900 PLN,298 000 km,Diesel,Manualna,Minivan,2 464 cm3,146 KM,4,Srebrny
+Opel,Corsa,2008,11 000 PLN,286 250 km,Benzyna,Manualna,Kompakt,1 229 cm3,80 KM,5,Czarny
+Opel,Zafira,2006,10 200 PLN,328 700 km,Diesel,Manualna,SUV,1 910 cm3,150 KM,5,Szary
+Opel,Astra,2019,47 900 PLN,140 000 km,Benzyna,Manualna,Kombi,1 399 cm3,125 KM,5,Czarny
+Opel,Astra,2013,29 900 PLN,161 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Astra,2015,25 500 PLN,177 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,4,Zielony
+Opel,Insignia,2012,22 000 PLN,258 000 km,Benzyna+LPG,Manualna,Sedan,1 364 cm3,140 KM,4,Czarny
+Opel,Astra,2017,51 900 PLN,172 000 km,Benzyna,Manualna,Kombi,1 399 cm3,150 KM,5,Beżowy
+Opel,Insignia,2018,56 000 PLN,98 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Zielony
+Opel,Insignia,2018,56 000 PLN,98 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Zielony
+Opel,Corsa,2010,16 900 PLN,199 300 km,Benzyna+LPG,Manualna,Auta miejskie,1 398 cm3,100 KM,5,Niebieski
+Opel,Corsa,2013,21 900 PLN,80 000 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,80 KM,5,Srebrny
+Opel,Astra,2013,29 500 PLN,127 000 km,Benzyna,Automatyczna,Kombi,1 598 cm3,115 KM,5,Czarny
+Opel,Mokka,2012,47 900 PLN,110 400 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Brązowy
+Opel,Astra,2024,74 900 PLN,7 500 km,Diesel,Automatyczna,Kombi,1 498 cm3,130 KM,5,Czarny
+Opel,Astra,2014,30 900 PLN,162 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,120 KM,5,Szary
+Opel,Insignia,2014,35 900 PLN,207 147 km,Diesel,Manualna,Kombi,1 956 cm3,163 KM,5,Czarny
+Opel,Zafira,2010,23 999 PLN,192 587 km,Benzyna,Manualna,Minivan,1 796 cm3,140 KM,5,Czarny
+Opel,Mokka,2015,52 500 PLN,110 000 km,Benzyna,Manualna,SUV,1 364 cm3,140 KM,5,Brązowy
+Opel,Vectra,2007,12 000 PLN,289 000 km,Benzyna,Manualna,Kombi,1 796 cm3,140 KM,5,Granatowy
+Opel,Astra,2009,20 900 PLN,156 000 km,Benzyna,Manualna,Coupe,1 598 cm3,179 KM,3,Szary
+Opel,Corsa,2011,19 500 PLN,172 600 km,Benzyna,Manualna,Auta małe,1 398 cm3,87 KM,5,Czarny
+Opel,Astra,2005,12 999 PLN,209 000 km,Benzyna,Manualna,Kompakt,1 796 cm3,125 KM,3,Srebrny
+Opel,Insignia,2014,31 500 PLN,147 000 km,Diesel,Manualna,Kombi,1 956 cm3,130 KM,5,Srebrny
+Opel,Astra,2017,36 900 PLN,193 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,136 KM,5,Szary
+Opel,Astra,2011,20 800 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2013,26 300 PLN,179 000 km,Diesel,Automatyczna,Kombi,1 956 cm3,130 KM,5,Fioletowy
+Opel,Insignia,2011,31 800 PLN,124 300 km,Benzyna,Manualna,Kombi,1 998 cm3,250 KM,5,Granatowy
+Opel,Corsa,2007,6 400 PLN,355 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,95 KM,3,Inny kolor
+Opel,Meriva,2011,26 500 PLN,85 682 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Szary
+Opel,Astra,2012,23 900 PLN,163 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,140 KM,5,Inny kolor
+Opel,Corsa,2014,32 200 PLN,55 000 km,Benzyna,Manualna,Kompakt,1 398 cm3,75 KM,5,Beżowy
+Opel,Zafira,2015,19 999 PLN,197 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Żółty
+Opel,Insignia,2012,26 700 PLN,201 110 km,Diesel,Manualna,Kombi,1 956 cm3,194 KM,5,Czarny
+Opel,Insignia,2010,29 600 PLN,235 000 km,Diesel,Manualna,Sedan,1 956 cm3,130 KM,5,Brązowy
+Opel,Mokka,2016,42 700 PLN,169 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Opel,Corsa,2007,8 700 PLN,192 000 km,Benzyna,Manualna,Kompakt,1 364 cm3,90 KM,3,Czarny
+Opel,Mokka,2014,40 000 PLN,180 585 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Opel,Insignia,2009,23 999 PLN,187 500 km,Benzyna,Manualna,Kompakt,1 796 cm3,140 KM,5,Szary
+Opel,Meriva,2011,21 500 PLN,135 718 km,Benzyna,Manualna,Minivan,1 364 cm3,140 KM,5,Szary
+Opel,Zafira,2012,26 999 PLN,199 866 km,Diesel,Manualna,Minivan,1 956 cm3,130 KM,5,Czarny
+Opel,Zafira,2012,26 999 PLN,199 866 km,Diesel,Manualna,Minivan,1 956 cm3,130 KM,5,Czarny
+Opel,Insignia,2012,26 900 PLN,172 000 km,Benzyna,Manualna,Kombi,1 364 cm3,140 KM,5,Czarny
+Opel,Insignia,2010,29 900 PLN,237 155 km,Benzyna,Automatyczna,Kombi,2 792 cm3,260 KM,5,Brązowy
+Opel,Astra,2010,6 900 PLN,350 000 km,Diesel,Manualna,Auta małe,1 686 cm3,110 KM,5,Szary
+Opel,Astra,2015,21 900 PLN,245 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Opel,Insignia,2010,22 900 PLN,175 211 km,Diesel,Automatyczna,Sedan,1 956 cm3,160 KM,4,Biały
+Opel,Meriva,2011,19 700 PLN,233 929 km,Benzyna+LPG,Manualna,Minivan,1 364 cm3,140 KM,5,Srebrny
+Opel,Meriva,2015,36 900 PLN,73 900 km,Benzyna,Manualna,Minivan,1 364 cm3,120 KM,5,Niebieski
+Opel,Combo,2019,129 999 PLN,237 254 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Czarny
+Opel,Vectra,2001,7 600 PLN,203 486 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,5,Srebrny
+Opel,Vectra,2001,10 500 PLN,120 871 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,5,Srebrny
+Opel,Omega,2002,12 500 PLN,174 699 km,Benzyna,Manualna,Sedan,2 198 cm3,144 KM,5,Inny kolor
+Opel,Adam,2014,25 900 PLN,100 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,87 KM,3,Inny kolor
+Opel,Insignia,2015,38 700 PLN,268 000 km,Diesel,Manualna,Kombi,1 956 cm3,170 KM,5,Szary
+Opel,Astra,2005,12 400 PLN,202 000 km,Benzyna,Manualna,Coupe,1 598 cm3,105 KM,3,Błękitny
+Opel,Astra,2020,38 800 PLN,228 807 km,Diesel,Manualna,Kombi,1 496 cm3,122 KM,5,Srebrny
+Opel,Corsa,2020,36 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,100 KM,5,Szary
+Opel,Corsa,2001,3 300 PLN,192 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,75 KM,3,Niebieski
+Opel,Vectra,2003,5 500 PLN,222 500 km,Benzyna,Automatyczna,Sedan,2 198 cm3,147 KM,5,Czarny
+Opel,Astra,2010,18 900 PLN,229 000 km,Benzyna,Manualna,Auta miejskie,1 398 cm3,87 KM,5,Czarny
+Opel,Insignia,2016,29 700 PLN,233 000 km,Diesel,Automatyczna,Sedan,1 598 cm3,136 KM,5,Brązowy
+Opel,Astra,2017,46 900 PLN,135 000 km,Benzyna,Manualna,Kompakt,1 399 cm3,125 KM,5,Czarny
+Opel,Astra,2009,13 900 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,115 KM,5,Niebieski
+Opel,Adam,2013,24 800 PLN,33 400 km,Benzyna,Manualna,Auta małe,1 229 cm3,70 KM,3,Bordowy
+Opel,Insignia,2012,27 500 PLN,251 000 km,Diesel,Manualna,Sedan,1 956 cm3,160 KM,4,Czarny
+Opel,Corsa,2014,21 900 PLN,113 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 229 cm3,85 KM,5,Szary
+Opel,Astra,2007,10 900 PLN,219 500 km,Benzyna,Manualna,Coupe,1 598 cm3,105 KM,3,Srebrny
+Opel,Tigra,1998,4 800 PLN,193 432 km,Benzyna,Automatyczna,Coupe,1 389 cm3,90 KM,2,Czarny
+Opel,Vivaro,2006,27 500 PLN,215 678 km,Diesel,Manualna,Minivan,1 870 cm3,100 KM,4,Biały
+Opel,Zafira,2014,41 000 PLN,194 000 km,Diesel,Automatyczna,Minivan,1 956 cm3,165 KM,5,Srebrny
+Opel,Insignia,2011,16 900 PLN,266 400 km,Diesel,Manualna,Sedan,1 956 cm3,140 KM,5,Czarny
+Opel,Corsa,2013,18 500 PLN,100 600 km,Benzyna,Manualna,Auta miejskie,1 229 cm3,70 KM,3,Brązowy

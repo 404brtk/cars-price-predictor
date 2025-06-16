@@ -1,0 +1,105 @@
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Jupyter config and cache
+.jupyter/
+.jupyter/lab/workspaces/
+.jupyter/nbconfig/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files
+*.json
+*.xlsx
+*.xls
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.feather
+*.parquet
+*.db
+*.db-journal
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# CatBoost
+*.cbm
+*.cd
+*.catboost_tmp
+*.catboost_info/
+catboost_info/
+learn_error.tsv*
+test_error.tsv*
+time_left.tsv*
+*.model
+*.bin
+
+# ML models and checkpoints
+*.pth
+*.pt
+*.hdf5
+*.h5
+*.tflite
+*.tfl
+*.tflmodel
+*.pbtxt
+*.pkl
+*.pb
+*.savedmodel/
+saved_model/
+checkpoint/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local development
+local_settings.py
+*.local
+
+# Jupyter notebook working directory
+.work/
+
+# Temporary files
+*~
+*.tmp
+*.temp
+.temp/
+

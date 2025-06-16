@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Jeep,Wrangler,2014,109 800 PLN,117 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czerwony
+Jeep,Renegade,2019,63 500 PLN,76 700 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czarny
+Jeep,Liberty,2006,23 500 PLN,89 680 km,Benzyna+LPG,Automatyczna,SUV,3 701 cm3,210 KM,5,Czarny
+Jeep,Wrangler,2014,94 000 PLN,95 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Compass,2019,84 400 PLN,43 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Cherokee,2002,15 000 PLN,305 824 km,Diesel,Manualna,SUV,2 776 cm3,163 KM,5,Srebrny
+Jeep,Cherokee,2014,55 000 PLN,135 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Granatowy
+Jeep,Avenger,2023,95 900 PLN,4 100 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Żółty
+Jeep,Patriot,2008,9 900 PLN,224 199 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czerwony
+Jeep,Compass,2019,78 500 PLN,101 500 km,Benzyna,Automatyczna,SUV,2 399 cm3,183 KM,5,Czarny
+Jeep,Compass,2021,110 000 PLN,48 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,130 KM,5,Szary
+Jeep,Compass,2008,9 900 PLN,208 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Jeep,Compass,2018,83 000 PLN,102 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Grand Cherokee,2015,98 900 PLN,138 087 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2019,150 000 PLN,115 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Renegade,2016,44 900 PLN,191 000 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Biały
+Jeep,Compass,2018,72 990 PLN,122 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Jeep,Grand Cherokee,2020,124 000 PLN,81 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2006,28 000 PLN,375 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Szary
+Jeep,Grand Cherokee,2020,119 000 PLN,44 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Avenger,2024,117 590 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Żółty
+Jeep,Wrangler,2024,303 850 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Wrangler,2023,340 020 PLN,1 km,Hybryda,Automatyczna,SUV,1 995 cm3,272 KM,5,Inny kolor
+Jeep,Wrangler,2021,269 000 PLN,2 950 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Żółty
+Jeep,Cherokee,2015,58 500 PLN,214 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Srebrny
+Jeep,Grand Cherokee,2018,69 000 PLN,81 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2010,52 000 PLN,174 600 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Grand Cherokee,2021,165 000 PLN,164 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Cherokee,2016,65 900 PLN,159 000 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Szary
+Jeep,Cherokee,2015,67 500 PLN,150 000 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Wrangler,2018,179 900 PLN,8 700 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Wrangler,2019,196 800 PLN,117 855 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Cherokee,2018,88 900 PLN,185 688 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Srebrny
+Jeep,Grand Cherokee,2019,116 000 PLN,80 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2018,57 000 PLN,90 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Czarny
+Jeep,Compass,2012,19 000 PLN,116 000 km,Diesel,Manualna,SUV,2 143 cm3,163 KM,5,Czarny
+Jeep,Compass,2022,129 000 PLN,21 900 km,Benzyna,Automatyczna,Kombi,2 360 cm3,183 KM,5,Czarny
+Jeep,Grand Cherokee,2010,57 000 PLN,181 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Grand Cherokee,2019,113 160 PLN,169 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2014,72 900 PLN,257 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,2016,67 900 PLN,189 653 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Granatowy
+Jeep,Grand Cherokee,2011,37 500 PLN,320 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Czarny
+Jeep,Cherokee,2014,56 000 PLN,193 000 km,Benzyna+LPG,Automatyczna,SUV,1 994 cm3,270 KM,5,Inny kolor
+Jeep,Grand Cherokee,2021,149 999 PLN,71 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2021,250 000 PLN,28 000 km,Benzyna,Manualna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Compass,2018,79 900 PLN,35 500 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2019,107 499 PLN,72 400 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Zielony
+Jeep,Cherokee,2020,93 900 PLN,78 995 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Biały
+Jeep,Grand Cherokee,2013,85 000 PLN,177 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2018,315 000 PLN,158 000 km,Benzyna,Automatyczna,SUV,6 166 cm3,710 KM,5,Czarny
+Jeep,Compass,2023,119 000 PLN,13 500 km,Benzyna,Automatyczna,SUV,1 995 cm3,200 KM,5,Czarny
+Jeep,Grand Cherokee,2013,92 000 PLN,209 353 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2015,92 000 PLN,131 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Compass,2018,69 900 PLN,143 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Commander,2006,44 000 PLN,253 152 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,326 KM,5,Czarny
+Jeep,Wrangler,2021,244 770 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Bordowy
+Jeep,Compass,2019,79 500 PLN,66 000 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Srebrny
+Jeep,Wrangler,2016,98 700 PLN,114 000 km,Benzyna,Automatyczna,SUV,3 606 cm3,285 KM,5,Czarny
+Jeep,Renegade,2019,74 250 PLN,121 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Grand Cherokee,2016,91 500 PLN,170 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Compass,2021,119 800 PLN,65 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Niebieski
+Jeep,Grand Cherokee,2014,76 500 PLN,186 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,285 KM,5,Granatowy
+Jeep,Cherokee,2016,80 000 PLN,107 000 km,Diesel,Automatyczna,SUV,2 184 cm3,200 KM,5,Szary
+Jeep,Grand Cherokee,2000,28 000 PLN,257 000 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,223 KM,5,Czarny
+Jeep,Grand Cherokee,2000,28 000 PLN,257 000 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,223 KM,5,Czarny
+Jeep,Renegade,2017,54 900 PLN,250 065 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Czerwony
+Jeep,Wrangler,2021,235 000 PLN,32 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Wrangler,2017,188 800 PLN,98 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Jeep,Grand Cherokee,2006,24 900 PLN,316 030 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Granatowy
+Jeep,Wrangler,2014,115 000 PLN,124 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Compass,2017,66 900 PLN,98 471 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2018,118 500 PLN,106 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Biały
+Jeep,Compass,2018,88 800 PLN,86 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,183 KM,5,Granatowy
+Jeep,Renegade,2020,52 900 PLN,148 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Srebrny
+Jeep,Grand Cherokee,2016,81 000 PLN,210 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2018,68 000 PLN,50 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Zielony
+Jeep,Gladiator,2020,220 000 PLN,44 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,4,Czarny
+Jeep,Renegade,2016,59 999 PLN,125 000 km,Benzyna,Automatyczna,SUV,2 393 cm3,182 KM,5,Czerwony
+Jeep,Grand Cherokee,2013,125 900 PLN,161 300 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Compass,2019,85 485 PLN,50 500 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Gladiator,2023,279 000 PLN,6 750 km,Diesel,Automatyczna,SUV,2 987 cm3,264 KM,4,Szary
+Jeep,Wrangler,2023,306 270 PLN,6 500 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Wrangler,2015,68 500 PLN,162 000 km,Benzyna,Manualna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Cherokee,2018,89 000 PLN,75 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Bordowy
+Jeep,Grand Cherokee,2019,128 000 PLN,50 050 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2015,99 999 PLN,155 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2020,149 000 PLN,34 959 km,Benzyna,Automatyczna,SUV,1 995 cm3,270 KM,3,Czarny
+Jeep,Patriot,2014,55 000 PLN,80 000 km,Benzyna,Automatyczna,Kombi,1 998 cm3,160 KM,5,Srebrny
+Jeep,Grand Cherokee,2019,169 999 PLN,75 500 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Szary
+Jeep,Compass,2018,69 500 PLN,65 890 km,Benzyna+LPG,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Grand Cherokee,2015,67 500 PLN,183 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Gladiator,2020,179 000 PLN,29 000 km,Diesel,Manualna,SUV,2 987 cm3,264 KM,4,Czarny
+Jeep,Wrangler,2013,81 900 PLN,235 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Srebrny
+Jeep,Grand Cherokee,2001,14 000 PLN,330 000 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Czarny
+Jeep,Grand Cherokee,2019,137 500 PLN,57 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2013,75 900 PLN,236 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2012,59 000 PLN,218 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Gladiator,2020,239 900 PLN,39 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,290 KM,4,Szary
+Jeep,Wrangler,2008,67 900 PLN,119 750 km,Benzyna,Automatyczna,SUV,3 778 cm3,199 KM,3,Bordowy
+Jeep,Grand Cherokee,2019,125 900 PLN,64 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2018,116 800 PLN,98 456 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Renegade,2014,38 900 PLN,104 669 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Inny kolor
+Jeep,Renegade,2016,52 000 PLN,121 915 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Compass,2021,88 900 PLN,108 200 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Niebieski
+Jeep,Wrangler,2024,304 900 PLN,20 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Compass,2019,79 900 PLN,30 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,170 KM,5,Niebieski
+Jeep,Renegade,2015,54 000 PLN,114 300 km,Benzyna,Manualna,SUV,1 368 cm3,170 KM,5,Pomarańczowy
+Jeep,Liberty,2006,42 500 PLN,74 900 km,Diesel,Automatyczna,SUV,2 776 cm3,163 KM,5,Niebieski
+Jeep,Grand Cherokee,2015,54 000 PLN,207 500 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,2018,81 500 PLN,67 000 km,Benzyna,Automatyczna,SUV,2 400 cm3,177 KM,5,Granatowy
+Jeep,Compass,2019,91 000 PLN,70 182 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Biały
+Jeep,Wrangler,2019,169 900 PLN,106 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2014,94 800 PLN,108 323 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Czarny
+Jeep,Grand Cherokee,2014,95 000 PLN,163 531 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,2020,102 900 PLN,44 500 km,Benzyna,Automatyczna,SUV,3 239 cm3,270 KM,5,Czarny
+Jeep,Liberty,2010,23 500 PLN,170 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,210 KM,5,Srebrny
+Jeep,Cherokee,2016,79 000 PLN,180 000 km,Diesel,Automatyczna,SUV,2 184 cm3,200 KM,5,Biały
+Jeep,Renegade,2017,59 900 PLN,91 345 km,Benzyna,Automatyczna,SUV,2 360 cm3,185 KM,5,Żółty
+Jeep,Grand Cherokee,2015,67 800 PLN,191 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2016,109 000 PLN,149 355 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Inny kolor
+Jeep,Grand Cherokee,2017,103 000 PLN,178 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2024,404 000 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Commander,2007,47 950 PLN,256 239 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Srebrny
+Jeep,Wrangler,1986,32 500 PLN,186 000 km,Diesel,Manualna,SUV,2 800 cm3,120 KM,5,Czarny
+Jeep,Cherokee,2002,14 500 PLN,286 378 km,Diesel,Manualna,SUV,2 499 cm3,143 KM,5,Beżowy
+Jeep,Grand Cherokee,2018,125 500 PLN,57 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Renegade,2016,56 900 PLN,162 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Szary
+Jeep,Grand Cherokee,1999,11 500 PLN,406 800 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,223 KM,5,Czarny
+Jeep,Grand Cherokee,2021,198 000 PLN,44 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2016,59 900 PLN,50 400 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Żółty
+Jeep,Grand Cherokee,2018,119 900 PLN,184 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2013,39 900 PLN,265 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Inny kolor
+Jeep,Grand Cherokee,2016,88 000 PLN,93 000 km,Diesel,Automatyczna,SUV,2 987 cm3,190 KM,5,Biały
+Jeep,Wagoneer,2022,475 500 PLN,17 525 km,Benzyna,Automatyczna,SUV,6 400 cm3,471 KM,5,Biały
+Jeep,Compass,2017,54 400 PLN,161 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2013,165 000 PLN,227 400 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Biały
+Jeep,Wrangler,2018,136 000 PLN,64 300 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Biały
+Jeep,Grand Cherokee,2019,149 900 PLN,79 700 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Wrangler,2020,190 648,50 400 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Wrangler,2015,52 500 PLN,192 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Grand Cherokee,2019,127 000 PLN,93 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2011,66 800 PLN,208 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Srebrny
+Jeep,Cherokee,1988,21 300 PLN,310 000 km,Benzyna+LPG,Automatyczna,SUV,3 964 cm3,171 KM,5,Zielony
+Jeep,Wrangler,2021,249 000 PLN,29 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Compass,2021,113 999 PLN,33 123 km,Benzyna,Automatyczna,SUV,2 360 cm3,182 KM,5,Biały
+Jeep,Cherokee,1999,43 000 PLN,233 632 km,Benzyna,Manualna,SUV,2 464 cm3,122 KM,5,Niebieski
+Jeep,Grand Cherokee,2007,33 999 PLN,280 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Inny kolor
+Jeep,Renegade,2018,57 990 PLN,115 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Srebrny
+Jeep,Grand Cherokee,2019,115 000 PLN,105 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2014,47 500 PLN,216 960 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Złoty
+Jeep,Wrangler,2016,115 700 PLN,105 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Zielony
+Jeep,Renegade,2016,56 900 PLN,82 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Czarny
+Jeep,Liberty,2003,19 900 PLN,177 000 km,Benzyna,Automatyczna,SUV,3 701 cm3,210 KM,5,Srebrny
+Jeep,Grand Cherokee,2015,99 000 PLN,116 359 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Liberty,2005,23 500 PLN,78 000 km,Diesel,Automatyczna,SUV,2 776 cm3,163 KM,5,Srebrny
+Jeep,Wrangler,2021,207 000 PLN,32 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Biały
+Jeep,Wrangler,2013,69 000 PLN,233 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Srebrny
+Jeep,Grand Cherokee,2012,98 000 PLN,234 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Czarny
+Jeep,Grand Cherokee,2016,189 000 PLN,151 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Szary
+Jeep,Wrangler,2008,66 000 PLN,175 000 km,Benzyna,Automatyczna,SUV,3 778 cm3,199 KM,5,Szary
+Jeep,Grand Cherokee,2019,229 900 PLN,65 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Biały
+Jeep,Grand Cherokee,2017,35 900 PLN,87 443 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2015,49 500 PLN,119 000 km,Benzyna,Manualna,SUV,1 368 cm3,170 KM,5,Pomarańczowy
+Jeep,Wrangler,2008,59 900 PLN,143 000 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Bordowy
+Jeep,Grand Cherokee,2019,109 900 PLN,139 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2007,85 500 PLN,45 000 km,Benzyna,Manualna,SUV,3 778 cm3,199 KM,3,Granatowy
+Jeep,Grand Cherokee,2013,72 000 PLN,240 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Renegade,2018,57 000 PLN,108 500 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Pomarańczowy
+Jeep,Cherokee,2019,81 900 PLN,173 600 km,Benzyna,Automatyczna,SUV,3 239 cm3,270 KM,5,Czarny
+Jeep,Grand Cherokee,2018,106 900 PLN,84 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Renegade,2019,72 500 PLN,62 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Jeep,Grand Cherokee,2014,84 000 PLN,250 163 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Szary
+Jeep,Compass,2022,135 000 PLN,9 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,182 KM,5,Czarny
+Jeep,Grand Cherokee,2018,115 000 PLN,112 000 km,Benzyna,Automatyczna,Kompakt,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2019,149 000 PLN,83 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Grand Cherokee,2019,159 900 PLN,75 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Compass,2018,64 900 PLN,290 000 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Biały
+Jeep,Cherokee,2019,86 000 PLN,46 724 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Compass,2020,90 000 PLN,27 920 km,Benzyna,Automatyczna,SUV,2 359 cm3,174 KM,5,Szary
+Jeep,Cherokee,2019,27 900 PLN,82 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Zielony
+Jeep,Grand Cherokee,2006,23 900 PLN,281 809 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,326 KM,5,Srebrny
+Jeep,Grand Cherokee,2007,19 000 PLN,160 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,231 KM,5,Szary
+Jeep,Grand Cherokee,2020,122 000 PLN,96 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2014,72 000 PLN,304 951 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2017,128 500 PLN,206 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Bordowy
+Jeep,Grand Cherokee,2015,80 000 PLN,141 063 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Grand Cherokee,2007,35 700 PLN,236 400 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Szary
+Jeep,Renegade,2017,44 000 PLN,245 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,110 KM,5,Czarny
+Jeep,Renegade,2020,69 999 PLN,19 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Grand Cherokee,2016,88 900 PLN,128 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2004,29 999 PLN,219 000 km,Diesel,Automatyczna,SUV,2 685 cm3,163 KM,5,Czarny
+Jeep,Grand Cherokee,2014,84 900 PLN,216 600 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,285 KM,5,Czarny
+Jeep,Cherokee,2014,52 500 PLN,197 000 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Inny kolor
+Jeep,Grand Cherokee,2016,97 400 PLN,187 440 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Inny,2020,165 000 PLN,99 000 km,Benzyna,Automatyczna,SUV,3 600 cm3,272 KM,4,Brązowy
+Jeep,Compass,2018,75 900 PLN,87 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,175 KM,5,Inny kolor
+Jeep,Cherokee,2008,32 900 PLN,312 500 km,Diesel,Automatyczna,SUV,2 768 cm3,177 KM,5,Czarny
+Jeep,Grand Cherokee,2016,88 500 PLN,164 700 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Grand Cherokee,2019,124 900 PLN,130 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Compass,2020,84 900 PLN,148 000 km,Benzyna,Automatyczna,SUV,2 398 cm3,170 KM,5,Błękitny
+Jeep,Grand Cherokee,2018,119 000 PLN,131 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Brązowy
+Jeep,Grand Cherokee,2012,39 900 PLN,145 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,,
+Jeep,Renegade,2017,58 900 PLN,93 490 km,Benzyna+LPG,Manualna,SUV,1 368 cm3,140 KM,5,Granatowy
+Jeep,Grand Cherokee,1998,28 900 PLN,255 443 km,Benzyna,Automatyczna,SUV,5 900 cm3,241 KM,5,Czarny
+Jeep,Cherokee,2014,80 000 PLN,89 526 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Biały
+Jeep,Renegade,2018,67 000 PLN,115 176 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Cherokee,2003,16 000 PLN,224 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,211 KM,5,Czarny
+Jeep,Renegade,2018,59 999 PLN,148 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Szary
+Jeep,Grand Cherokee,2015,80 000 PLN,240 843 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Inny kolor
+Jeep,Grand Cherokee,2011,59 900 PLN,107 000 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,352 KM,5,Czerwony
+Jeep,Cherokee,2021,105 000 PLN,79 000 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Szary
+Jeep,Grand Cherokee,2021,184 400 PLN,65 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Wrangler,2016,164 000 PLN,140 000 km,Benzyna+LPG,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Wrangler,2015,35 777 PLN,146 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Wrangler,2014,109 777 PLN,153 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Wrangler,2021,150 000 PLN,39 500 km,Benzyna,Automatyczna,Kabriolet,1 995 cm3,272 KM,5,Biały
+Jeep,Grand Cherokee,2012,48 800 PLN,286 000 km,Diesel,Automatyczna,SUV,2 987 cm3,190 KM,5,Czarny
+Jeep,Compass,2021,115 620 PLN,36 200 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Szary
+Jeep,Wrangler,2002,49 500 PLN,281 280 km,Benzyna,Automatyczna,SUV,3 964 cm3,176 KM,2,Niebieski
+Jeep,Renegade,2020,84 900 PLN,37 382 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Granatowy
+Jeep,Grand Cherokee,2015,91 499 PLN,190 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Patriot,2007,9 900 PLN,156 514 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Jeep,Grand Cherokee,2021,197 000 PLN,66 900 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Renegade,2021,98 000,60 290 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Jeep,Compass,2019,79 900 PLN,108 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Zielony
+Jeep,Compass,2022,122 000 PLN,7 800 km,Benzyna,Automatyczna,SUV,2 360 cm3,180 KM,5,Bordowy
+Jeep,Grand Cherokee,2019,36 400 PLN,69 209 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Cherokee,2015,49 900 PLN,189 700 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Biały
+Jeep,Renegade,2018,65 000 PLN,50 800 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Jeep,Grand Cherokee,2013,77 000 PLN,124 183 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Złoty
+Jeep,Grand Cherokee,2015,165 000 PLN,148 675 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Wrangler,2014,79 900 PLN,133 500 km,Benzyna,Manualna,SUV,3 605 cm3,284 KM,3,Szary
+Jeep,Grand Cherokee,2011,56 500 PLN,205 000 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Szary
+Jeep,Cherokee,2018,97 500 PLN,120 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Wrangler,2016,164 000 PLN,69 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Compass,2020,85 900 PLN,56 783 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Wrangler,2014,134 900 PLN,123 500 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Grand Cherokee,2020,134 000 PLN,23 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Cherokee,2014,74 000 PLN,129 900 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Czarny
+Jeep,Grand Cherokee,2018,115 000 PLN,88 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,289 KM,5,Czarny
+Jeep,Patriot,2007,24 500 PLN,167 550 km,Benzyna+LPG,Automatyczna,SUV,2 359 cm3,170 KM,5,Niebieski
+Jeep,Grand Cherokee,2021,199 000 PLN,43 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2015,51 000 PLN,98 200 km,Benzyna+LPG,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Grand Cherokee,2014,73 500 PLN,206 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Inny kolor
+Jeep,Compass,2021,117 500 PLN,18 200 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Cherokee,2016,74 900 PLN,113 280 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2021,139 900 PLN,24 350 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Biały
+Jeep,Cherokee,2016,67 900 PLN,136 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Commander,2006,59 999 PLN,145 462 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Wrangler,2011,66 700 PLN,178 926 km,Benzyna,Manualna,SUV,3 778 cm3,199 KM,3,Zielony
+Jeep,Cherokee,2019,107 900 PLN,98 890 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Biały
+Jeep,Renegade,2018,44 999 PLN,218 500 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czerwony
+Jeep,Wrangler,2005,69 900 PLN,160 000 km,Benzyna,Automatyczna,SUV,3 964 cm3,176 KM,2,Srebrny
+Jeep,Grand Cherokee,2013,65 000 PLN,147 800 km,Diesel,Automatyczna,SUV,2 987 cm3,190 KM,5,Granatowy
+Jeep,Grand Cherokee,2014,79 999 PLN,87 637 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2004,17 700 PLN,149 000 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Srebrny
+Jeep,Grand Cherokee,2015,80 000 PLN,120 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Biały
+Jeep,Patriot,2009,28 500 PLN,223 634 km,Benzyna+LPG,Automatyczna,SUV,2 359 cm3,170 KM,5,Biały
+Jeep,Gladiator,2020,240 000 PLN,65 000 km,Benzyna,Automatyczna,SUV,3 600 cm3,290 KM,4,Srebrny
+Jeep,Grand Cherokee,2018,123 000 PLN,145 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,2016,69 990 PLN,121 782 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Biały
+Jeep,Renegade,2018,52 500 PLN,70 600 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Srebrny
+Jeep,Grand Cherokee,2015,85 000 PLN,141 600 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Grand Cherokee,2014,74 900 PLN,310 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Szary
+Jeep,Grand Cherokee,2021,220 000 PLN,40 560 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2016,99 000 PLN,206 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Biały
+Jeep,Compass,2020,122 900 PLN,12 083 km,Hybryda,Automatyczna,SUV,1 332 cm3,130 KM,5,Beżowy
+Jeep,Grand Cherokee,2023,245 000 PLN,3 400 km,Hybryda Plug-in,Automatyczna,Minivan,1 995 cm3,272 KM,5,Bordowy
+Jeep,Wrangler,2020,172 938 PLN,124 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Wrangler,2014,109 000 PLN,52 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Grand Cherokee,2003,30 999 PLN,272 346 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,258 KM,5,Czarny
+Jeep,Grand Cherokee,2016,177 000 PLN,86 300 km,Benzyna,Automatyczna,SUV,6 417 cm3,467 KM,5,Szary
+Jeep,Grand Cherokee,2013,85 000 PLN,219 300 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Wrangler,2013,118 000 PLN,124 500 km,Benzyna,Automatyczna,Kabriolet,3 605 cm3,284 KM,5,Czarny
+Jeep,Renegade,2019,79 900 PLN,23 483 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czerwony
+Jeep,Grand Cherokee,2018,324 500 PLN,76 400 km,Benzyna,Automatyczna,SUV,6 166 cm3,710 KM,5,Srebrny
+Jeep,Grand Cherokee,2015,97 000 PLN,145 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2004,27 000 PLN,156 254 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Srebrny
+Jeep,Grand Cherokee,2017,132 000 PLN,126 950 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2016,100 860 PLN,123 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,2014,52 700 PLN,110 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Renegade,2020,87 900 PLN,74 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,2013,135 000 PLN,295 000 km,Benzyna+LPG,Automatyczna,SUV,6 417 cm3,468 KM,5,Czerwony
+Jeep,Grand Cherokee,2016,109 900 PLN,102 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2020,119 500 PLN,134 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Renegade,2021,75 000 PLN,50 000 km,Benzyna,Automatyczna,SUV,999 cm3,120 KM,5,Inny kolor
+Jeep,Grand Cherokee,2017,105 000 PLN,166 149 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2020,191 000 PLN,46 500 km,Benzyna,Automatyczna,SUV,1 995 cm3,270 KM,5,Niebieski
+Jeep,Cherokee,2014,60 000 PLN,222 500 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2021,189 000 PLN,62 700 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2019,109 900 PLN,113 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Cherokee,2018,88 900 PLN,91 300 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Biały
+Jeep,Compass,2018,55 000 PLN,240 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Błękitny
+Jeep,Grand Cherokee,2021,239 999 PLN,41 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Wrangler,2018,169 500 PLN,121 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Grand Cherokee,2012,58 000 PLN,266 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Czarny
+Jeep,Compass,2019,54 900 PLN,70 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Jeep,Wrangler,2020,59 000 PLN,85 898 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Żółty
+Jeep,Wrangler,2022,149 900 PLN,29 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,270 KM,5,Bordowy
+Jeep,Wrangler,2021,189 000 PLN,29 500 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Renegade,2023,126 000 PLN,5 000 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Renegade,2017,68 000 PLN,132 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,180 KM,5,Biały
+Jeep,Compass,2023,169 900 PLN,3 685 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Niebieski
+Jeep,Wrangler,2021,195 900 PLN,40 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Bordowy
+Jeep,Compass,2017,66 500 PLN,84 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Compass,2021,81 000 PLN,75 611 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Zielony
+Jeep,Cherokee,1997,14 999 PLN,350 000 km,Diesel,Manualna,SUV,2 499 cm3,115 KM,5,Zielony
+Jeep,Grand Cherokee,1995,16 800 PLN,270 000 km,Benzyna,Automatyczna,SUV,3 964 cm3,184 KM,5,Złoty
+Jeep,Grand Cherokee,2019,159 000 PLN,140 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czerwony
+Jeep,Grand Cherokee,2014,78 500 PLN,153 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Patriot,2007,23 400 PLN,254 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Zielony
+Jeep,Renegade,2015,51 900 PLN,161 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Grand Cherokee,2016,100 000 PLN,172 900 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Grand Cherokee,2017,48 900 PLN,188 935 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Wrangler,2007,74 000 PLN,130 000 km,Diesel,Manualna,SUV,2 777 cm3,177 KM,3,Bordowy
+Jeep,Grand Cherokee,2020,52 900 PLN,92 883 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Cherokee,2019,105 900 PLN,60 435 km,Benzyna,Automatyczna,SUV,3 239 cm3,273 KM,5,Biały
+Jeep,Cherokee,2019,112 900 PLN,92 004 km,Benzyna,Automatyczna,SUV,3 239 cm3,273 KM,5,Biały
+Jeep,Cherokee,2019,111 900 PLN,77 271 km,Benzyna,Automatyczna,SUV,3 239 cm3,273 KM,5,Czarny
+Jeep,Cherokee,2019,88 000 PLN,128 730 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Czarny
+Jeep,Compass,2017,69 900 PLN,61 500 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Inny kolor
+Jeep,Cherokee,2019,84 800 PLN,112 600 km,Benzyna+LPG,Automatyczna,SUV,1 994 cm3,270 KM,5,Inny kolor
+Jeep,Wrangler,2016,139 000 PLN,155 450 km,Diesel,Automatyczna,SUV,2 777 cm3,200 KM,5,Szary
+Jeep,Wrangler,2021,115 900 PLN,65 000 km,Benzyna,Manualna,SUV,3 604 cm3,290 KM,3,Czarny
+Jeep,Grand Cherokee,2015,47 900 PLN,131 886 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Granatowy
+Jeep,Compass,2010,16 500 PLN,190 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,170 KM,5,Szary
+Jeep,Cherokee,1999,42 500 PLN,289 000 km,Benzyna+LPG,Automatyczna,SUV,3 960 cm3,173 KM,5,Granatowy
+Jeep,Wrangler,2018,119 000 PLN,56 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Grand Cherokee,2021,90 000 PLN,73 068 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Compass,2019,82 000 PLN,96 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,180 KM,5,Czarny
+Jeep,Grand Cherokee,2014,66 000 PLN,315 500 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Compass,2022,119 999 PLN,62 700 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Czerwony
+Jeep,Wrangler,2004,74 500 PLN,88 000 km,Benzyna+LPG,Manualna,SUV,3 964 cm3,176 KM,2,Czerwony
+Jeep,Grand Cherokee,2021,139 900 PLN,81 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Renegade,2019,79 900 PLN,32 500 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Grand Cherokee,2014,76 600 PLN,278 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,285 KM,5,Granatowy
+Jeep,Compass,2022,158 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Compass,2019,72 000 PLN,219 204 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Jeep,Grand Cherokee,2015,74 800 PLN,189 600 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2015,74 999 PLN,158 900 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Srebrny
+Jeep,Wrangler,2021,156 000 PLN,65 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Renegade,2014,45 790 PLN,166 700 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2020,110 000 PLN,97 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2021,269 000 PLN,29 770 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2020,270 000 PLN,88 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Grand Cherokee,2019,134 800 PLN,107 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Compass,2019,70 500 PLN,55 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Zielony
+Jeep,Grand Cherokee,2017,89 000 PLN,155 300 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Cherokee,2016,73 600 PLN,80 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Biały
+Jeep,Compass,2020,85 900 PLN,81 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,130 KM,5,Biały
+Jeep,Compass,2022,158 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Compass,2021,107 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,149 KM,5,Czarny
+Jeep,Renegade,2019,73 000 PLN,92 058 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,2006,36 900 PLN,202 300 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Szary
+Jeep,Renegade,2022,113 500 PLN,1 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Wrangler,2024,311 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czerwony
+Jeep,Wrangler,2022,129 000 PLN,28 000 km,Benzyna,Automatyczna,SUV,3 600 cm3,285 KM,5,Szary
+Jeep,Compass,2023,98 917,8 713 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Srebrny
+Jeep,Grand Cherokee,2013,78 000 PLN,128 400 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,352 KM,5,Bordowy
+Jeep,Grand Cherokee,2015,70 000 PLN,200 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Biały
+Jeep,Grand Cherokee,2018,113 000 PLN,69 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2006,35 000 PLN,324 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Grand Cherokee,2018,72 600 PLN,82 744 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Wrangler,2014,155 000 PLN,40 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Compass,2023,119 500 PLN,42 057 km,Hybryda,Automatyczna,SUV,1 469 cm3,150 KM,5,Szary
+Jeep,Grand Cherokee,2021,135 900 PLN,60 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,289 KM,5,Czarny
+Jeep,Wrangler,2024,306 900 PLN,20 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Cherokee,2010,40 000 PLN,260 000 km,Diesel,Automatyczna,SUV,2 768 cm3,177 KM,5,Srebrny
+Jeep,Wrangler,2019,215 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Renegade,2019,75 900 PLN,49 400 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Jeep,Cherokee,2006,24 900 PLN,320 225 km,Diesel,Automatyczna,SUV,2 776 cm3,163 KM,5,Niebieski
+Jeep,Compass,2019,73 000 PLN,87 492 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Cherokee,2021,96 850 PLN,47 210 km,Benzyna,Automatyczna,SUV,3 240 cm3,272 KM,5,Biały
+Jeep,Cherokee,2014,72 000 PLN,103 000 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Jeep,Compass,2024,204 900 PLN,3 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Wrangler,2018,165 000 PLN,115 000 km,Diesel,Automatyczna,SUV,2 143 cm3,200 KM,5,Czerwony
+Jeep,Renegade,2023,88 900 PLN,12 500 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Szary
+Jeep,Grand Cherokee,2015,88 000 PLN,104 843 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,,
+Jeep,Grand Cherokee,2024,419 900 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Liberty,2003,20 900 PLN,266 000 km,Benzyna,Automatyczna,SUV,3 701 cm3,210 KM,5,Czarny
+Jeep,Grand Cherokee,2015,112 900 PLN,145 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Czarny
+Jeep,Grand Cherokee,2020,126 900 PLN,125 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Biały
+Jeep,Grand Cherokee,2011,55 900 PLN,263 000 km,Diesel,Automatyczna,SUV,3 000 cm3,190 KM,5,Czarny
+Jeep,Wrangler,2014,99 500 PLN,183 100 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Renegade,2019,78 899 PLN,46 799 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,,Inny kolor
+Jeep,Grand Cherokee,1999,31 000 PLN,183 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,223 KM,5,Zielony
+Jeep,Compass,2018,89 900 PLN,69 400 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czerwony
+Jeep,Renegade,2019,49 500 PLN,74 300 km,Benzyna,Automatyczna,Auta miejskie,1 368 cm3,170 KM,5,Szary
+Jeep,Cherokee,2019,94 999 PLN,50 034 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Srebrny
+Jeep,Grand Cherokee,2014,76 000 PLN,158 474 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Zielony
+Jeep,Renegade,2021,36 000 PLN,48 482 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Wrangler,1999,57 000 PLN,135 000 km,Benzyna,Automatyczna,SUV,3 960 cm3,177 KM,2,Czarny
+Jeep,Renegade,2023,109 900 PLN,51 237 km,Hybryda,Automatyczna,Kompakt,1 469 cm3,130 KM,5,Niebieski
+Jeep,Grand Cherokee,2014,119 000 PLN,162 000 km,Benzyna+LPG,Automatyczna,SUV,6 417 cm3,468 KM,5,Szary
+Jeep,Liberty,2012,32 900 PLN,112 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,211 KM,5,Biały
+Jeep,Grand Cherokee,2006,35 900 PLN,215 144 km,Benzyna,Automatyczna,SUV,4 701 cm3,231 KM,5,Srebrny
+Jeep,Renegade,2022,87 900 PLN,52 796 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Szary
+Jeep,Cherokee,2019,109 900 PLN,49 950 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Compass,2023,177 000 PLN,10 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Renegade,2022,76 900 PLN,77 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Szary
+Jeep,Cherokee,2019,108 900 PLN,13 265 km,Benzyna,Manualna,SUV,1 994 cm3,270 KM,5,Biały
+Jeep,Grand Cherokee,2006,54 500 PLN,240 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Renegade,2024,142 000 PLN,3 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Granatowy
+Jeep,Grand Cherokee,2021,184 444 PLN,19 700 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Inny kolor
+Jeep,Grand Cherokee,2019,115 000 PLN,65 065 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2017,119 900 PLN,87 730 km,Benzyna,Automatyczna,SUV,3 778 cm3,199 KM,3,Szary
+Jeep,Renegade,2015,49 900 PLN,92 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Wrangler,2021,200 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Bordowy
+Jeep,Cherokee,2016,70 900 PLN,158 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Bordowy
+Jeep,Compass,2019,87 900 PLN,21 800 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Jeep,Patriot,2011,29 900 PLN,188 500 km,Diesel,Manualna,SUV,2 143 cm3,163 KM,5,Inny kolor
+Jeep,Wrangler,2018,131 000 PLN,69 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Renegade,2016,49 700 PLN,197 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Biały
+Jeep,Grand Cherokee,2023,389 900 PLN,6 900 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Compass,2024,151 000 PLN,3 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Compass,2024,151 000 PLN,3 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Grand Cherokee,2018,128 000 PLN,47 189 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Bordowy
+Jeep,Renegade,2018,59 500 PLN,54 908 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czerwony
+Jeep,Compass,2019,79 899 PLN,54 442 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,,Szary
+Jeep,Wrangler,2024,307 700 PLN,3 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Srebrny
+Jeep,Avenger,2024,136 900 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Błękitny
+Jeep,Grand Cherokee,2013,79 700 PLN,228 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,1998,26 900 PLN,221 000 km,Benzyna,Automatyczna,SUV,5 900 cm3,241 KM,5,Szary
+Jeep,Commander,2007,39 890 PLN,91 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,210 KM,5,Srebrny
+Jeep,Compass,2019,82 900 PLN,116 932 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Szary
+Jeep,Wrangler,2021,249 900 PLN,21 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2019,334 999,145 000 km,Benzyna+LPG,Automatyczna,SUV,6 166 cm3,710 KM,5,Czarny
+Jeep,Renegade,2022,109 900 PLN,17 255 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Niebieski
+Jeep,Compass,2020,97 900 PLN,70 444 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Niebieski
+Jeep,Renegade,2022,87 900 PLN,44 024 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Biały
+Jeep,Gladiator,2023,130 000 PLN,15 697 km,Benzyna,Automatyczna,SUV,3 600 cm3,285 KM,5,Zielony
+Jeep,Renegade,2017,63 900 PLN,77 894 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Pomarańczowy
+Jeep,Wrangler,2009,62 999 PLN,188 494 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Czarny
+Jeep,Renegade,2018,59 900 PLN,153 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Grand Cherokee,2017,48 000 PLN,83 544 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Wrangler,2019,70 000 PLN,93 593 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Cherokee,2010,41 500 PLN,157 000 km,Diesel,Automatyczna,SUV,2 768 cm3,200 KM,5,Inny kolor
+Jeep,Compass,2017,79 900 PLN,106 500 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Cherokee,2018,79 999 PLN,125 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Compass,2024,214 000 PLN,2 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Czarny
+Jeep,Grand Cherokee,1997,24 900 PLN,257 000 km,Benzyna,Automatyczna,SUV,5 210 cm3,215 KM,5,Zielony
+Jeep,Grand Cherokee,2015,41 000 PLN,73 845 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Czarny
+Jeep,Wrangler,2017,138 000 PLN,121 500 km,Benzyna+LPG,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Grand Cherokee,2010,90 000 PLN,82 000 km,Benzyna,Automatyczna,SUV,6 059 cm3,425 KM,5,Granatowy
+Jeep,Wrangler,2021,268 000 PLN,10 000 km,Diesel,Automatyczna,SUV,2 987 cm3,264 KM,,
+Jeep,Wrangler,2016,57 000 PLN,94 182 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Grand Cherokee,2014,92 000 PLN,230 000 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,352 KM,5,Czarny
+Jeep,Grand Cherokee,2015,86 000 PLN,112 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Brązowy
+Jeep,Grand Cherokee,2013,73 000 PLN,209 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Srebrny
+Jeep,Compass,2018,85 000 PLN,87 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Grand Cherokee,2018,108 000 PLN,99 800 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2021,275 000 PLN,49 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Wrangler,2016,129 000 PLN,92 000 km,Benzyna,Manualna,SUV,3 605 cm3,284 KM,5,Inny kolor
+Jeep,Wrangler,2022,204 900 PLN,5 951 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,3,Niebieski
+Jeep,Wrangler,2016,56 000 PLN,121 091 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Szary
+Jeep,Renegade,2019,59 900 PLN,54 000 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Błękitny
+Jeep,Compass,2014,45 900 PLN,175 000 km,Diesel,Manualna,SUV,2 143 cm3,163 KM,5,Czarny
+Jeep,Grand Cherokee,2014,43 500 PLN,160 708 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Granatowy
+Jeep,Cherokee,2005,32 900 PLN,200 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,210 KM,5,Czarny
+Jeep,Cherokee,2015,51 900 PLN,248 207 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Szary
+Jeep,Grand Cherokee,2021,256 500 PLN,10 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Wrangler,2024,315 100 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Renegade,2019,82 900 PLN,72 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Compass,2017,71 340 PLN,99 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czerwony
+Jeep,Avenger,2024,116 900 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Jeep,Cherokee,2019,82 900 PLN,68 000 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Biały
+Jeep,Grand Cherokee,2004,20 600 PLN,340 000 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Czarny
+Jeep,Wrangler,2021,205 900 PLN,14 423 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2015,99 999 PLN,157 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Avenger,2024,99 000 PLN,1 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Srebrny
+Jeep,Grand Cherokee,2014,47 000 PLN,182 734 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Złoty
+Jeep,Compass,2021,104 900 PLN,14 200 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Jeep,Cherokee,1990,26 900 PLN,363 100 km,Benzyna+LPG,Automatyczna,SUV,3 964 cm3,171 KM,5,Niebieski
+Jeep,Wrangler,2019,65 000 PLN,97 682 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Szary
+Jeep,Grand Cherokee,2014,48 000 PLN,209 648 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2013,79 000 PLN,278 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Srebrny
+Jeep,Avenger,2023,119 900 PLN,4 718 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Żółty
+Jeep,Wrangler,2023,339 000 PLN,4 312 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czerwony
+Jeep,Renegade,2021,114 900 PLN,13 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,185 KM,5,Niebieski
+Jeep,Renegade,2021,114 900 PLN,13 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,185 KM,5,Niebieski
+Jeep,Grand Cherokee,2018,117 777 PLN,108 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2012,64 000 PLN,276 693 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Czarny
+Jeep,Compass,2018,85 900 PLN,84 500 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Inny kolor
+Jeep,Wrangler,2023,239 000 PLN,4 700 km,Benzyna,Automatyczna,SUV,3 605 cm3,285 KM,5,Zielony
+Jeep,Avenger,2023,93 800 PLN,19 270 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Szary
+Jeep,Compass,2024,136 500 PLN,5 000 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Renegade,2016,53 900 PLN,113 538 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Srebrny
+Jeep,Wrangler,2021,153 900 PLN,78 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Grand Cherokee,2015,120 000 PLN,147 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Bordowy
+Jeep,Wrangler,2015,111 999 PLN,145 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Niebieski
+Jeep,Wrangler,2024,305 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Renegade,2024,141 000 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Niebieski
+Jeep,Wrangler,2015,36 800 PLN,92 290 km,Benzyna,Automatyczna,SUV,1 995 cm3,270 KM,5,Zielony
+Jeep,Renegade,2024,138 000 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Renegade,2018,58 999 PLN,65 998 km,Benzyna,Automatyczna,SUV,2 360 cm3,185 KM,5,Srebrny
+Jeep,Grand Cherokee,2024,412 000 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2012,90 000 PLN,164 000 km,Benzyna+LPG,Automatyczna,SUV,6 417 cm3,468 KM,5,Czerwony
+Jeep,Wrangler,2024,324 900 PLN,26 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Grand Cherokee,2007,28 000 PLN,304 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Comanche,1988,13 999 PLN,150 000 km,Benzyna,Automatyczna,SUV,3 996 cm3,180 KM,2,Biały
+Jeep,Grand Cherokee,2014,32 000 PLN,187 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Zielony
+Jeep,Avenger,2023,118 000 PLN,3 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Inny kolor
+Jeep,Grand Cherokee,2018,140 000 PLN,65 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Avenger,2024,133 900 PLN,1 900 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Czarny
+Jeep,Renegade,2018,71 000 PLN,61 618 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Niebieski
+Jeep,Grand Cherokee,2006,26 500 PLN,168 000 km,Benzyna+LPG,Automatyczna,SUV,3 700 cm3,210 KM,5,Szary
+Jeep,Cherokee,1998,55 000 PLN,267 880 km,Benzyna+LPG,Automatyczna,SUV,3 960 cm3,178 KM,5,Biały
+Jeep,Grand Cherokee,2018,39 800 PLN,74 021 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2024,290 000 PLN,6 500 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Avenger,2024,114 900 PLN,5 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Beżowy
+Jeep,Wrangler,2007,84 900 PLN,59 410 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Zielony
+Jeep,Avenger,2024,114 900 PLN,5 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Beżowy
+Jeep,Wrangler,2007,84 900 PLN,59 410 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Zielony
+Jeep,Compass,2018,65 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Pomarańczowy
+Jeep,Compass,2019,94 900 PLN,74 730 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2013,73 900 PLN,237 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Wrangler,2021,177 900 PLN,27 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Renegade,2017,69 900 PLN,74 248 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Grand Cherokee,2019,54 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Wrangler,2021,299 900 PLN,5 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Avenger,2024,122 900 PLN,3 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Żółty
+Jeep,Avenger,2023,169 900 PLN,788 km,Elektryczny,Automatyczna,SUV,,156 KM,5,Czerwony
+Jeep,Compass,2024,153 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Gladiator,2020,250 000 PLN,95 000 km,Benzyna,Automatyczna,SUV,3 600 cm3,290 KM,4,Czarny
+Jeep,Wrangler,2024,307 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 998 cm3,272 KM,5,Szary
+Jeep,Compass,2024,148 900 PLN,8 km,Benzyna,Automatyczna,SUV,1 332 cm3,130 KM,5,Szary
+Jeep,Compass,2023,194 900 PLN,2 272 km,Hybryda,Automatyczna,SUV,1 368 cm3,240 KM,5,Czarny
+Jeep,Wrangler,2018,150 000 PLN,111 000 km,Benzyna+LPG,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Renegade,2024,132 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Renegade,2024,154 900 PLN,2 200 km,Hybryda,Automatyczna,SUV,1 500 cm3,130 KM,5,Szary
+Jeep,Renegade,2024,137 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Żółty
+Jeep,Avenger,2023,189 900 PLN,1 450 km,Elektryczny,Automatyczna,SUV,,156 KM,,Czerwony
+Jeep,Avenger,2023,115 900 PLN,1 800 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Czarny
+Jeep,Wrangler,2023,315 900 PLN,5 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,381 KM,5,Szary
+Jeep,Compass,2024,159 900 PLN,3 000 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Niebieski
+Jeep,Gladiator,2023,329 900 PLN,2 500 km,Diesel,Automatyczna,SUV,2 987 cm3,264 KM,4,Inny kolor
+Jeep,Renegade,2015,62 900 PLN,145 100 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Srebrny
+Jeep,Cherokee,2019,27 900 PLN,106 615 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Compass,2020,89 900 PLN,28 990 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,2014,98 000 PLN,115 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Złoty
+Jeep,Cherokee,2019,46 500 PLN,87 000 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Szary
+Jeep,Grand Cherokee,2015,38 500 PLN,176 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Złoty
+Jeep,Wagoneer,1976,139 000 PLN,1 300 km,Benzyna,Automatyczna,SUV,5 900 cm3,174 KM,4,Niebieski
+Jeep,Grand Cherokee,2019,129 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Avenger,2024,130 990 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Czarny
+Jeep,Avenger,2024,127 290 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Biały
+Jeep,Avenger,2024,126 590 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Niebieski
+Jeep,Avenger,2024,127 290 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Szary
+Jeep,Avenger,2024,132 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 199 cm3,100 KM,5,Biały
+Jeep,Patriot,2010,50 600 PLN,159 000 km,Diesel,Manualna,SUV,1 968 cm3,120 KM,5,Niebieski
+Jeep,Grand Cherokee,2002,33 600 PLN,133 000 km,Diesel,Automatyczna,SUV,3 124 cm3,140 KM,5,Beżowy
+Jeep,Renegade,2024,140 900 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,120 KM,5,Czarny
+Jeep,Renegade,2019,79 000 PLN,73 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Wrangler,2024,299 900 PLN,5 km,Benzyna,Automatyczna,SUV,,,,Czerwony
+Jeep,Wrangler,2024,298 000 PLN,21 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Wrangler,2024,295 000 PLN,21 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czerwony
+Jeep,Compass,2023,199 900 PLN,3 km,Hybryda,Automatyczna,SUV,1 332 cm3,180 KM,5,Srebrny
+Jeep,Compass,2021,105 555 PLN,36 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Inny kolor
+Jeep,Cherokee,2007,20 500 PLN,295 457 km,Diesel,Manualna,SUV,2 776 cm3,163 KM,5,Srebrny
+Jeep,Grand Cherokee,2014,83 888 PLN,258 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Wrangler,2021,193 500,49 502 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Wrangler,1996,29 999 PLN,126 000 km,Benzyna,Manualna,SUV,2 464 cm3,121 KM,2,Zielony
+Jeep,Compass,2024,151 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Compass,2023,196 500 PLN,20 km,Hybryda,Automatyczna,SUV,1 332 cm3,180 KM,5,Zielony
+Jeep,Wrangler,2024,319 600 PLN,2 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Compass,2024,157 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czerwony
+Jeep,Compass,2023,189 900 PLN,953 km,Hybryda,Automatyczna,SUV,1 332 cm3,180 KM,5,Czerwony
+Jeep,Compass,2023,179 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Biały
+Jeep,Grand Cherokee,2023,259 530 PLN,23 700 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2004,24 999 PLN,258 000 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Bordowy
+Jeep,Gladiator,2022,236 000 PLN,33 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,299 KM,4,Biały
+Jeep,Compass,2023,199 999 PLN,508 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Biały
+Jeep,Compass,2023,153 900 PLN,1 609 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Renegade,2022,99 900 PLN,71 906 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Czarny
+Jeep,Cherokee,2019,89 900 PLN,62 500 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Bordowy
+Jeep,Renegade,2015,53 900 PLN,62 447 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Czerwony
+Jeep,Wrangler,2024,303 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Zielony
+Jeep,Wrangler,2024,313 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Srebrny
+Jeep,Wrangler,2024,307 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Wrangler,2024,310 401 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2006,43 500 PLN,210 760 km,Benzyna,Automatyczna,SUV,4 701 cm3,231 KM,5,Granatowy
+Jeep,Wrangler,2022,273 890 PLN,2 km,Hybryda,Automatyczna,SUV,1 995 cm3,380 KM,5,Srebrny
+Jeep,Wrangler,2020,189 900 PLN,76 600 km,Diesel,Automatyczna,SUV,3 000 cm3,260 KM,5,Niebieski
+Jeep,Compass,2023,114 900,21 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Compass,2017,62 000 PLN,78 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2004,19 000 PLN,241 336 km,Benzyna+LPG,Automatyczna,SUV,3 964 cm3,219 KM,5,Szary
+Jeep,Compass,2022,116 900 PLN,39 000 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Srebrny
+Jeep,Renegade,2017,31 000 PLN,188 000 km,Benzyna,Automatyczna,SUV,2 400 cm3,160 KM,5,Czarny
+Jeep,Renegade,2014,48 900 PLN,151 137 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Cherokee,2002,25 000 PLN,250 000 km,Benzyna+LPG,Manualna,SUV,3 700 cm3,210 KM,5,Czarny
+Jeep,Wrangler,2012,74 500 PLN,172 710 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Grand Cherokee,2018,71 700 PLN,141 624 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Granatowy
+Jeep,Grand Cherokee,2017,89 900 PLN,96 500 km,Benzyna,Automatyczna,Kompakt,3 604 cm3,286 KM,5,Biały
+Jeep,Renegade,2016,61 500 PLN,106 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Wrangler,2024,299 999 PLN,2 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Compass,2024,155 700 PLN,2 km,Benzyna,Automatyczna,SUV,1 332 cm3,130 KM,5,Biały
+Jeep,Renegade,2019,75 000 PLN,81 943 km,Benzyna,Automatyczna,SUV,1 332 cm3,151 KM,5,Szary
+Jeep,Avenger,2024,123 500 PLN,2 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Biały
+Jeep,Avenger,2024,127 200 PLN,2 km,Benzyna,Manualna,Kompakt,1 199 cm3,100 KM,5,Beżowy
+Jeep,Cherokee,2014,50 000 PLN,259 231 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Bordowy
+Jeep,Grand Cherokee,2016,13 000 PLN,70 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Inny kolor
+Jeep,Compass,2018,76 000 PLN,140 655 km,Benzyna+LPG,Manualna,SUV,1 368 cm3,140 KM,5,Czarny
+Jeep,Grand Cherokee,2013,97 785 PLN,171 874 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Złoty
+Jeep,Compass,2021,110 000 PLN,58 126 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Grand Cherokee,2019,134 000 PLN,64 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2020,133 000 PLN,106 000 km,Benzyna,Automatyczna,Auta miejskie,3 604 cm3,285 KM,5,Biały
+Jeep,Wrangler,2017,184 000 PLN,21 500 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Renegade,2019,68 900 PLN,99 999 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Inny kolor
+Jeep,Wrangler,2002,78 000 PLN,57 000 km,Benzyna+LPG,Automatyczna,SUV,3 964 cm3,176 KM,2,Beżowy
+Jeep,Wrangler,2021,233 700 PLN,42 700 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Żółty
+Jeep,Cherokee,2019,81 900 PLN,172 000 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Czarny
+Jeep,Compass,2018,84 900 PLN,92 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Renegade,2021,75 000 PLN,37 808 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Czarny
+Jeep,Wrangler,2024,299 990 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Srebrny
+Jeep,Grand Cherokee,2024,406 890 PLN,2 km,Hybryda,Automatyczna,SUV,2 000 cm3,388 KM,5,Czarny
+Jeep,Wrangler,2024,307 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czerwony
+Jeep,Wrangler,2024,307 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Wrangler,2024,299 890 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Compass,2022,135 000 PLN,13 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,182 KM,5,Biały
+Jeep,Grand Cherokee,1998,42 000 PLN,235 000 km,Benzyna,Automatyczna,SUV,5 900 cm3,241 KM,5,Zielony
+Jeep,Wrangler,2021,275 000 PLN,39 900 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Pomarańczowy
+Jeep,Compass,2017,44 900 PLN,84 000 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Czarny
+Jeep,Grand Cherokee,2014,89 000 PLN,209 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,285 KM,5,Czarny
+Jeep,Wrangler,2021,270 600 PLN,45 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Cherokee,2020,44 000 PLN,129 776 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,4,Niebieski
+Jeep,Wrangler,2007,87 900 PLN,228 000 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Szary
+Jeep,Patriot,2008,30 999 PLN,210 000 km,Benzyna+LPG,Manualna,SUV,2 359 cm3,170 KM,5,Czarny
+Jeep,Cherokee,2019,111 999 PLN,52 446 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Inny kolor
+Jeep,Compass,2018,80 000,115 336 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Czarny
+Jeep,Patriot,2007,14 500 PLN,136 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Bordowy
+Jeep,Cherokee,1993,36 900 PLN,212 000 km,Benzyna+LPG,Automatyczna,SUV,2 464 cm3,122 KM,5,Bordowy
+Jeep,Renegade,2017,61 000 PLN,102 300 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Grand Cherokee,2020,139 500 PLN,56 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2020,131 900 PLN,43 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Grand Cherokee,2012,77 970 PLN,90 500 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Bordowy
+Jeep,Renegade,2019,60 000 PLN,102 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,180 KM,5,Srebrny
+Jeep,Grand Cherokee,2002,26 900 PLN,230 000 km,Diesel,Automatyczna,SUV,2 685 cm3,163 KM,5,Szary
+Jeep,Grand Cherokee,2015,109 500 PLN,200 993 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Cherokee,2015,60 000 PLN,164 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,188 KM,5,Czarny
+Jeep,Grand Cherokee,2006,50 000 PLN,224 000 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,231 KM,5,Szary
+Jeep,Renegade,2015,61 000 PLN,169 800 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Zielony
+Jeep,Compass,2019,33 500 PLN,30 803 km,Benzyna,Manualna,SUV,1 400 cm3,140 KM,5,Szary
+Jeep,Commander,2007,61 000 PLN,265 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Commander,2008,66 900 PLN,302 500 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Grand Cherokee,2014,68 000 PLN,161 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Szary
+Jeep,Grand Cherokee,2013,78 000 PLN,162 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Wrangler,2008,53 900 PLN,126 000 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,3,Bordowy
+Jeep,Grand Cherokee,2013,138 000 PLN,125 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Bordowy
+Jeep,Grand Cherokee,2020,122 500 PLN,106 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Niebieski
+Jeep,Grand Cherokee,2007,35 000 PLN,182 800 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Czarny
+Jeep,Grand Cherokee,2019,127 800 PLN,158 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2012,66 600 PLN,180 000 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Biały
+Jeep,Cherokee,2005,27 000 PLN,247 000 km,Diesel,Manualna,SUV,2 776 cm3,163 KM,5,Granatowy
+Jeep,Renegade,2018,55 900 PLN,196 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Szary
+Jeep,Compass,2007,17 900 PLN,156 000 km,Benzyna,Manualna,SUV,2 359 cm3,170 KM,5,Srebrny
+Jeep,Cherokee,2020,86 000 PLN,123 700 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Zielony
+Jeep,Compass,2012,33 000 PLN,149 000 km,Diesel,Manualna,SUV,2 143 cm3,163 KM,5,Srebrny
+Jeep,Wrangler,2020,149 000 PLN,28 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2015,45 500 PLN,187 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Niebieski
+Jeep,Wrangler,2020,159 900 PLN,42 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2020,132 900 PLN,78 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Compass,2024,148 890 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Avenger,2024,129 590 PLN,3 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Żółty
+Jeep,Avenger,2024,98 890 PLN,3 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Żółty
+Jeep,Avenger,2024,98 890 PLN,3 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Szary
+Jeep,Grand Cherokee,2017,52 000 PLN,81 836 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2007,88 000 PLN,124 718 km,Benzyna,Automatyczna,SUV,3 778 cm3,199 KM,3,Biały
+Jeep,Grand Cherokee,2014,77 900 PLN,233 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Biały
+Jeep,Grand Cherokee,2001,24 300 PLN,230 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,223 KM,5,Inny kolor
+Jeep,Compass,2023,180 200 PLN,12 154 km,Hybryda,Automatyczna,SUV,1 332 cm3,179 KM,,Niebieski
+Jeep,Wrangler,2015,76 500 PLN,193 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Srebrny
+Jeep,Cherokee,2019,82 900 PLN,131 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Srebrny
+Jeep,Grand Cherokee,2012,65 000 PLN,174 000 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Granatowy
+Jeep,Grand Cherokee,2007,52 000 PLN,303 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Szary
+Jeep,Liberty,2005,26 999 PLN,210 000 km,Benzyna,Automatyczna,SUV,3 701 cm3,210 KM,5,Czarny
+Jeep,Grand Cherokee,1999,22 000 PLN,279 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,223 KM,5,Granatowy
+Jeep,Grand Cherokee,2019,109 500 PLN,77 393 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2012,58 000 PLN,203 321 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Czarny
+Jeep,Grand Cherokee,2016,99 500 PLN,110 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Cherokee,2014,51 000 PLN,239 000 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Bordowy
+Jeep,Wrangler,2023,200 000 PLN,12 500 km,Benzyna,Automatyczna,Minivan,1 995 cm3,270 KM,5,Szary
+Jeep,Wrangler,2017,119 000 PLN,146 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,3,Czarny
+Jeep,Commander,2007,79 900 PLN,186 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,235 KM,5,Szary
+Jeep,Grand Cherokee,2016,98 000 PLN,141 600 km,Benzyna,Automatyczna,SUV,5 654 cm3,352 KM,5,Szary
+Jeep,Grand Cherokee,2017,105 000 PLN,165 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Wrangler,2018,195 000 PLN,84 000 km,Diesel,Automatyczna,SUV,2 143 cm3,200 KM,5,Szary
+Jeep,Grand Cherokee,2019,111 000 PLN,141 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2020,144 200 PLN,43 300 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Compass,2019,89 900 PLN,92 000 km,Benzyna+LPG,Automatyczna,SUV,2 359 cm3,140 KM,5,Srebrny
+Jeep,Grand Cherokee,2016,85 000 PLN,175 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Grand Cherokee,2019,339 450 PLN,27 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Grand Cherokee,2016,35 700 PLN,119 423 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2018,116 800 PLN,98 456 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2014,70 000 PLN,207 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,285 KM,5,Czerwony
+Jeep,Grand Cherokee,2015,95 650 PLN,193 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,1998,27 500 PLN,228 461 km,Benzyna+LPG,Automatyczna,SUV,5 900 cm3,241 KM,5,Czarny
+Jeep,Renegade,2015,58 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 368 cm3,170 KM,5,Biały
+Jeep,Renegade,2017,55 900 PLN,55 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Czarny
+Jeep,Grand Cherokee,2017,95 900 PLN,134 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Compass,2023,149 000 PLN,16 595 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Cherokee,2019,83 900 PLN,70 500 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Szary
+Jeep,Renegade,2016,56 900 PLN,116 500 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Cherokee,2010,31 900 PLN,289 000 km,Diesel,Manualna,SUV,2 768 cm3,177 KM,5,Czarny
+Jeep,Compass,2023,55 000 PLN,29 705 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Szary
+Jeep,Cherokee,2018,99 900 PLN,51 324 km,Benzyna,Automatyczna,Kombi,1 994 cm3,270 KM,5,Biały
+Jeep,Renegade,2016,35 500 PLN,210 441 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Jeep,Wrangler,2019,115 900 PLN,78 837 km,Diesel,Automatyczna,SUV,2 143 cm3,200 KM,5,Szary
+Jeep,Grand Cherokee,2007,36 800 PLN,195 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Srebrny
+Jeep,Renegade,2019,77 899 PLN,52 765 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,,Niebieski
+Jeep,Gladiator,2021,75 000 PLN,37 291 km,Benzyna,Automatyczna,SUV,3 600 cm3,285 KM,4,Szary
+Jeep,Renegade,2017,33 000 PLN,62 983 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Beżowy
+Jeep,Renegade,2019,65 900 PLN,14 950 km,Benzyna,Manualna,SUV,999 cm3,120 KM,5,Szary
+Jeep,Renegade,2024,151 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Grand Cherokee,2021,249 000 PLN,11 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Grand Cherokee,2017,185 000 PLN,121 000 km,Benzyna+LPG,Automatyczna,SUV,6 417 cm3,468 KM,5,Szary
+Jeep,Wagoneer,1987,55 000 PLN,180 000 km,Benzyna,Automatyczna,SUV,3 956 cm3,146 KM,5,Beżowy
+Jeep,Grand Cherokee,2020,136 000 PLN,65 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Inny kolor
+Jeep,Grand Cherokee,2016,99 000 PLN,198 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Renegade,2021,36 000 PLN,38 331 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Błękitny
+Jeep,Gladiator,2020,100 000 PLN,48 825 km,Benzyna,Automatyczna,SUV,3 600 cm3,286 KM,4,Czarny
+Jeep,Grand Cherokee,2015,95 000 PLN,130 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Granatowy
+Jeep,Compass,2017,59 700 PLN,85 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Szary
+Jeep,Cherokee,2008,39 900 PLN,189 000 km,Diesel,Automatyczna,SUV,2 768 cm3,177 KM,5,Czarny
+Jeep,Compass,2021,105 000 PLN,32 326 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Czarny
+Jeep,Grand Cherokee,2018,92 300 PLN,128 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Biały
+Jeep,Cherokee,2019,84 900 PLN,152 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Złoty
+Jeep,Wrangler,2012,132 999 PLN,99 887 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Czarny
+Jeep,Wrangler,2023,269 000 PLN,2 400 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Wrangler,2023,320 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Srebrny
+Jeep,Compass,2019,79 900 PLN,155 445 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Niebieski
+Jeep,Wrangler,2020,149 000 PLN,27 300 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Szary
+Jeep,Wrangler,2021,455 000 PLN,10 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Bordowy
+Jeep,Grand Cherokee,2017,122 000 PLN,240 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2002,28 000 PLN,199 514 km,Benzyna+LPG,Automatyczna,SUV,3 958 cm3,193 KM,5,Złoty
+Jeep,Renegade,2024,149 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Compass,2023,199 900 PLN,3 777 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Cherokee,2019,95 000 PLN,76 800 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Zielony
+Jeep,Grand Cherokee,2019,182 000 PLN,28 263 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Gladiator,2023,342 000 PLN,1 000 km,Diesel,Automatyczna,SUV,2 987 cm3,264 KM,4,Szary
+Jeep,Grand Cherokee,2018,133 500 PLN,93 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Avenger,2023,133 750 PLN,5 km,Benzyna,Automatyczna,SUV,1 199 cm3,100 KM,5,Biały
+Jeep,Grand Cherokee,2023,399 000 PLN,5 000 km,Hybryda,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Gladiator,2021,279 000 PLN,18 792 km,Diesel,Automatyczna,SUV,2 987 cm3,264 KM,4,Bordowy
+Jeep,Grand Cherokee,2019,199 000 PLN,135 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Grand Cherokee,2019,134 000 PLN,71 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Compass,2022,170 000 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,2018,137 900 PLN,149 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2021,151 000 PLN,84 800 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2023,324 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 995 cm3,272 KM,5,Niebieski
+Jeep,Wrangler,2022,315 800 PLN,4 600 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Żółty
+Jeep,Avenger,2024,133 900 PLN,1 242 km,Benzyna,Automatyczna,SUV,1 199 cm3,100 KM,5,Biały
+Jeep,Grand Cherokee,2018,109 000 PLN,85 600 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2021,154 900 PLN,53 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Brązowy
+Jeep,Avenger,2023,124 380 PLN,5 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Żółty
+Jeep,Cherokee,1994,16 600 PLN,281 000 km,Benzyna,Manualna,SUV,2 464 cm3,122 KM,5,Niebieski
+Jeep,Cherokee,2002,20 000 PLN,315 000 km,Diesel,Manualna,SUV,2 499 cm3,143 KM,5,Zielony
+Jeep,Wrangler,2023,249 000 PLN,6 000 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Fioletowy
+Jeep,Compass,2023,210 750 PLN,2 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Srebrny
+Jeep,Renegade,2024,129 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czerwony
+Jeep,Renegade,2015,54 500 PLN,109 000 km,Benzyna+LPG,Automatyczna,SUV,2 398 cm3,180 KM,5,Srebrny
+Jeep,Compass,2021,109 900 PLN,14 866 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Niebieski
+Jeep,Renegade,2018,85 000 PLN,124 900 km,Diesel,Automatyczna,SUV,1 956 cm3,170 KM,5,Pomarańczowy
+Jeep,Compass,2022,189 900 PLN,3 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,130 KM,5,Biały
+Jeep,Renegade,2024,152 000 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Cherokee,2019,39 900 PLN,89 335 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Wrangler,2019,164 820 PLN,85 000 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Niebieski
+Jeep,Avenger,2024,133 250 PLN,1 km,Benzyna,Automatyczna,SUV,1 199 cm3,100 KM,5,Żółty
+Jeep,Grand Cherokee,2007,39 500 PLN,292 000 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,231 KM,,
+Jeep,Avenger,2024,125 000 PLN,5 km,Hybryda,Automatyczna,SUV,,130 KM,5,Czerwony
+Jeep,Avenger,2023,109 000 PLN,5 km,Benzyna,Manualna,SUV,1 199 cm3,100 KM,5,Inny kolor
+Jeep,Compass,2018,73 000 PLN,142 000 km,Benzyna,Automatyczna,SUV,2 359 cm3,170 KM,5,Pomarańczowy
+Jeep,Cherokee,2016,78 000 PLN,94 000 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Srebrny
+Jeep,Compass,2022,149 900 PLN,8 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,240 KM,5,Czarny
+Jeep,Commander,2007,41 900 PLN,235 000 km,Diesel,Automatyczna,SUV,2 987 cm3,216 KM,5,Czarny
+Jeep,Renegade,2019,99 900 PLN,65 656 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,1996,54 900 PLN,215 462 km,Benzyna,Automatyczna,SUV,5 213 cm3,212 KM,5,Czarny
+Jeep,Compass,2022,140 900 PLN,243 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Niebieski
+Jeep,Compass,2023,188 472 PLN,2 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Wrangler,2020,122 000 PLN,105 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Cherokee,1997,21 500 PLN,326 355 km,Benzyna+LPG,Automatyczna,SUV,3 960 cm3,178 KM,5,Czarny
+Jeep,Grand Cherokee,2019,129 000 PLN,83 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2019,149 500 PLN,123 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Brązowy
+Jeep,Avenger,2024,132 900 PLN,4 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Jeep,Avenger,2024,175 000 PLN,1 km,Elektryczny,Automatyczna,Kompakt,,156 KM,5,Czarny
+Jeep,Avenger,2024,130 754 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Beżowy
+Jeep,Wrangler,2024,295 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2016,139 700 PLN,64 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2001,14 000 PLN,213 189 km,Benzyna,Automatyczna,SUV,3 958 cm3,193 KM,5,Srebrny
+Jeep,Avenger,2024,117 900 PLN,4 km,Benzyna,Automatyczna,SUV,1 199 cm3,100 KM,5,Biały
+Jeep,Renegade,2016,50 900 PLN,182 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Pomarańczowy
+Jeep,Compass,2022,75 900 PLN,15 980 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czerwony
+Jeep,Grand Cherokee,2007,33 000 PLN,236 000 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Granatowy
+Jeep,Cherokee,2001,24 900 PLN,236 000 km,Diesel,Manualna,SUV,2 500 cm3,116 KM,2,Szary
+Jeep,Grand Cherokee,2023,399 700 PLN,5 000 km,Hybryda,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2017,189 900 PLN,77 000 km,Benzyna,Automatyczna,SUV,6 417 cm3,468 KM,5,Czarny
+Jeep,Renegade,2015,58 500 PLN,219 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Zielony
+Jeep,Grand Cherokee,2013,79 000 PLN,230 000 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,352 KM,5,Bordowy
+Jeep,Wrangler,2014,77 000 PLN,98 500 km,Benzyna,Manualna,SUV,3 605 cm3,284 KM,3,Szary
+Jeep,Avenger,2024,114 500 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Jeep,Avenger,2024,114 500 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Szary
+Jeep,Commander,2007,46 900 PLN,206 000 km,Benzyna,Automatyczna,SUV,3 700 cm3,210 KM,5,Czarny
+Jeep,Cherokee,2016,64 900 PLN,218 000 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Cherokee,2006,33 000 PLN,255 325 km,Diesel,Manualna,SUV,2 776 cm3,163 KM,5,Czarny
+Jeep,Compass,2018,69 900 PLN,119 950 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Szary
+Jeep,Renegade,2024,142 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Compass,2016,29 900 PLN,160 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,156 KM,5,Biały
+Jeep,Cherokee,2014,60 000 PLN,113 449 km,Benzyna+LPG,Automatyczna,SUV,3 239 cm3,272 KM,5,Srebrny
+Jeep,Avenger,2024,121 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 199 cm3,100 KM,5,Srebrny
+Jeep,Compass,2024,161 600 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czerwony
+Jeep,Renegade,2020,73 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,180 KM,5,Szary
+Jeep,Grand Cherokee,2003,26 200 PLN,202 000 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,258 KM,5,Bordowy
+Jeep,Compass,2014,47 000 PLN,96 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,156 KM,5,Czarny
+Jeep,Grand Cherokee,2020,122 000 PLN,78 600 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+Jeep,Grand Cherokee,2019,124 000 PLN,88 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2006,31 900 PLN,333 909 km,Diesel,Automatyczna,SUV,2 987 cm3,218 KM,5,Brązowy
+Jeep,Renegade,2019,69 900 PLN,114 334 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Niebieski
+Jeep,Grand Cherokee,2019,107 500 PLN,105 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Czarny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Jeep,Grand Cherokee,2024,439 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 995 cm3,380 KM,5,Biały
+Jeep,Cherokee,2018,72 000 PLN,88 000 km,Benzyna+LPG,Automatyczna,SUV,2 380 cm3,180 KM,5,Bordowy
+Jeep,Compass,2020,85 900 PLN,73 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Jeep,Compass,2022,193 500 PLN,5 km,Hybryda,Automatyczna,SUV,,,,Inny kolor
+Jeep,Grand Cherokee,2020,123 000 PLN,99 905 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Compass,2023,165 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Renegade,2014,46 900 PLN,92 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Inny kolor
+Jeep,Grand Cherokee,2017,110 000 PLN,119 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Brązowy
+Jeep,Compass,2020,75 800 PLN,114 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,130 KM,5,Czarny
+Jeep,Grand Cherokee,2005,28 500 PLN,132 000 km,Benzyna,Automatyczna,SUV,5 654 cm3,326 KM,5,Srebrny
+Jeep,Cherokee,2019,55 500 PLN,357 000 km,Benzyna,Automatyczna,SUV,2 398 cm3,180 KM,5,Czarny
+Jeep,Renegade,2016,61 900 PLN,181 400 km,Benzyna,Automatyczna,SUV,2 360 cm3,180 KM,5,Fioletowy
+Jeep,Wrangler,2020,149 000 PLN,90 205 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Zielony
+Jeep,Compass,2019,108 000 PLN,46 150 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czerwony
+Jeep,Compass,2024,156 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,150 KM,5,Niebieski
+Jeep,Grand Cherokee,2018,124 900 PLN,95 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Bordowy
+Jeep,Grand Cherokee,2021,145 000 PLN,59 492 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Srebrny
+Jeep,Grand Cherokee,2017,97 000 PLN,87 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Inny kolor
+Jeep,Avenger,2024,138 900 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,100 KM,5,Żółty
+Jeep,Renegade,2020,82 900 PLN,50 080 km,Benzyna+LPG,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Grand Cherokee,2020,89 000 PLN,150 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Wrangler,2007,75 000 PLN,265 000 km,Diesel,Automatyczna,SUV,2 777 cm3,177 KM,5,Zielony
+Jeep,Compass,2018,59 800 PLN,101 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Wrangler,2021,165 000 PLN,44 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Grand Cherokee,2016,69 990 PLN,261 187 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Czarny
+Jeep,Cherokee,1989,13 999 PLN,300 000 km,Benzyna+LPG,Automatyczna,SUV,3 960 cm3,173 KM,5,Czarny
+Jeep,Patriot,2009,21 900 PLN,190 272 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Jeep,Wrangler,2021,259 000 PLN,12 000 km,Benzyna,Manualna,SUV,1 995 cm3,272 KM,5,Szary
+Jeep,Compass,2020,66 999 PLN,132 000 km,Benzyna,Manualna,SUV,1 368 cm3,140 KM,5,Szary
+Jeep,Compass,2017,78 900 PLN,126 000 km,Diesel,Automatyczna,SUV,1 956 cm3,140 KM,5,Bordowy
+Jeep,Grand Cherokee,2000,31 900 PLN,250 000 km,Benzyna,Automatyczna,SUV,4 701 cm3,223 KM,5,Biały
+Jeep,Wrangler,2019,99 000 PLN,34 398 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Wrangler,2023,259 900 PLN,1 543 km,Hybryda Plug-in,Automatyczna,SUV,1 995 cm3,272 KM,5,Inny kolor
+Jeep,Renegade,2024,125 000 PLN,1 025 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Biały
+Jeep,Compass,2018,80 900 PLN,99 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Szary
+Jeep,Wrangler,2005,55 000 PLN,188 000 km,Benzyna,Manualna,SUV,3 778 cm3,199 KM,3,Czarny
+Jeep,Grand Cherokee,2005,27 000 PLN,190 433 km,Benzyna+LPG,Automatyczna,SUV,4 701 cm3,223 KM,5,Czarny
+Jeep,Grand Cherokee,2005,49 900 PLN,234 000 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,326 KM,5,Srebrny
+Jeep,Compass,2021,165 816,62 000 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,180 KM,5,Biały
+Jeep,Grand Cherokee,2016,106 900 PLN,117 500 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Biały
+Jeep,Wrangler,2021,165 000 PLN,85 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Inny kolor
+Jeep,Grand Cherokee,2011,55 000 PLN,227 000 km,Benzyna+LPG,Automatyczna,SUV,5 654 cm3,352 KM,5,Biały
+Jeep,Compass,2021,104 900 PLN,52 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Czarny
+Jeep,Cherokee,2021,134 900 PLN,24 890 km,Benzyna,Automatyczna,SUV,1 994 cm3,270 KM,5,Czarny
+Jeep,Compass,2013,42 500 PLN,205 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Wrangler,2024,304 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Czarny
+Jeep,Wrangler,2024,299 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 995 cm3,272 KM,5,Biały
+Jeep,Grand Cherokee,2003,42 400 PLN,88 000 km,Diesel,Automatyczna,SUV,2 685 cm3,163 KM,5,Szary
+Jeep,Renegade,2024,153 000 PLN,1 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Renegade,2020,97 000 PLN,85 440 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Biały
+Jeep,Renegade,2016,49 000,203 760 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Niebieski
+Jeep,Compass,2017,74 200 PLN,107 500 km,Diesel,Manualna,SUV,1 956 cm3,140 KM,5,Szary
+Jeep,Renegade,2017,70 000 PLN,89 605 km,Benzyna,Automatyczna,SUV,1 368 cm3,140 KM,5,Biały
+Jeep,Renegade,2024,134 900 PLN,4 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Compass,2019,79 900 PLN,100 000 km,Benzyna,Automatyczna,SUV,1 368 cm3,170 KM,5,Czarny
+Jeep,Wrangler,1998,49 900 PLN,92 000 km,Benzyna,Manualna,SUV,2 464 cm3,121 KM,2,Biały
+Jeep,Renegade,2021,99 000 PLN,11 500 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Jeep,Renegade,2017,69 000 PLN,31 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Srebrny
+Jeep,Compass,2024,157 250 PLN,5 km,Benzyna,Automatyczna,SUV,1 469 cm3,130 KM,5,Granatowy
+Jeep,Compass,2018,36 000 PLN,117 078 km,Benzyna,Automatyczna,SUV,2 359 cm3,180 KM,4,Niebieski
+Jeep,Grand Cherokee,2019,95 000 PLN,126 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Compass,2023,124 990 PLN,4 893 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Compass,2013,47 900 PLN,222 000 km,Benzyna,Automatyczna,SUV,2 398 cm3,170 KM,5,Czarny
+Jeep,Grand Cherokee,2017,57 000 PLN,122 569 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Szary
+Jeep,Grand Cherokee,2019,124 900 PLN,28 500 km,Benzyna,Automatyczna,SUV,3 604 cm3,285 KM,5,Biały
+Jeep,Cherokee,2017,74 500 PLN,129 290 km,Benzyna,Automatyczna,SUV,3 239 cm3,272 KM,5,Czarny
+Jeep,Grand Cherokee,2015,75 900 PLN,222 699 km,Diesel,Automatyczna,Kombi,2 987 cm3,250 KM,5,Czarny
+Jeep,Grand Cherokee,2017,88 900 PLN,195 000 km,Benzyna+LPG,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Wrangler,2006,59 900 PLN,270 000 km,Benzyna,Automatyczna,SUV,3 960 cm3,183 KM,2,Czarny
+Jeep,Wrangler,2014,60 000 PLN,126 939 km,Benzyna,Automatyczna,SUV,3 605 cm3,284 KM,5,Biały
+Jeep,Grand Cherokee,2021,219 000 PLN,32 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Biały
+Jeep,Grand Cherokee,2016,92 000 PLN,181 000 km,Diesel,Automatyczna,SUV,2 987 cm3,250 KM,5,Szary
+Jeep,Grand Cherokee,2015,125 000 PLN,60 000 km,Benzyna,Automatyczna,SUV,3 604 cm3,286 KM,5,Czerwony
+Jeep,Compass,2024,162 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Czarny
+Jeep,Renegade,2024,139 800 PLN,5 km,Hybryda,Automatyczna,SUV,1 469 cm3,130 KM,5,Szary
+Jeep,Compass,2022,124 900 PLN,43 300 km,Hybryda Plug-in,Automatyczna,SUV,1 332 cm3,190 KM,5,Szary
+Jeep,Grand Cherokee,2012,39 000 PLN,141 700 km,Diesel,Automatyczna,SUV,2 987 cm3,241 KM,5,Granatowy

@@ -1,0 +1,865 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Mitsubishi,ASX,2017,58 800 PLN,162 448 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Szary
+Mitsubishi,Outlander,2012,47 500 PLN,178 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Pomarańczowy
+Mitsubishi,ASX,2010,25 500 PLN,222 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Srebrny
+Mitsubishi,Outlander,2013,39 000 PLN,253 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2012,39 900 PLN,272 400 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2015,41 900 PLN,220 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Lancer,2009,51 000 PLN,208 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,240 KM,5,Czarny
+Mitsubishi,Outlander,2016,73 900 PLN,199 820 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Brązowy
+Mitsubishi,Lancer Evolution,2013,84 500 PLN,200 000 km,Benzyna,Manualna,Sedan,1 998 cm3,295 KM,4,Srebrny
+Mitsubishi,Lancer,2013,28 900 PLN,120 000 km,Diesel,Manualna,Kompakt,1 798 cm3,150 KM,4,Czarny
+Mitsubishi,Outlander,2015,74 900 PLN,186 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mitsubishi,ASX,2012,39 900 PLN,123 880 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2015,53 999 PLN,144 684 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2014,42 000 PLN,151 200 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,Lancer,2009,18 000 PLN,190 880 km,Benzyna,Manualna,Sedan,1 499 cm3,109 KM,4,Szary
+Mitsubishi,ASX,2017,63 900 PLN,95 598 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2018,96 000 PLN,116 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Brązowy
+Mitsubishi,ASX,2019,76 900 PLN,29 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Space Star,2021,62 000 PLN,18 240 km,Benzyna,Automatyczna,Auta miejskie,1 193 cm3,71 KM,5,Srebrny
+Mitsubishi,L200,2012,48 000 PLN,295 000 km,Diesel,Manualna,SUV,2 477 cm3,178 KM,4,Czarny
+Mitsubishi,Outlander,2019,95 500 PLN,93 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Brązowy
+Mitsubishi,Outlander,2016,79 990 PLN,199 999 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2012,29 999 PLN,261 828 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Lancer,2014,35 000 PLN,106 400 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,4,Czerwony
+Mitsubishi,Outlander,2014,57 000 PLN,132 874 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Grandis,2009,13 900 PLN,250 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,ASX,2016,53 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2016,52 000 PLN,182 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2011,28 900 PLN,295 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2008,32 000 PLN,277 000 km,Benzyna+LPG,Manualna,SUV,2 360 cm3,170 KM,5,Czarny
+Mitsubishi,Colt,2006,7 600 PLN,242 000 km,Benzyna,Manualna,Auta małe,1 332 cm3,95 KM,3,Czarny
+Mitsubishi,Outlander,2015,56 900 PLN,261 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Colt,2023,81 999 PLN,1 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Czerwony
+Mitsubishi,ASX,2023,138 999 PLN,1 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czerwony
+Mitsubishi,Lancer,2007,16 500 PLN,180 000 km,Benzyna,Manualna,Kombi,1 584 cm3,98 KM,5,Szary
+Mitsubishi,ASX,2023,101 990 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Niebieski
+Mitsubishi,ASX,2011,26 999 PLN,212 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Colt,2006,6 500 PLN,270 000 km,Diesel,Manualna,Auta małe,1 493 cm3,95 KM,5,Srebrny
+Mitsubishi,Lancer,2009,14 900 PLN,203 490 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,ASX,2018,72 000 PLN,38 683 km,Benzyna,Automatyczna,Kompakt,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Outlander,2015,59 000 PLN,180 691 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Biały
+Mitsubishi,Eclipse Cross,2019,78 900 PLN,123 391 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Outlander,2007,21 525 PLN,298 800 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,Colt,2007,5 350 PLN,203 000 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,5,Szary
+Mitsubishi,ASX,2015,43 500 PLN,218 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2014,49 800 PLN,118 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2010,38 900 PLN,112 890 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,ASX,2010,30 900 PLN,178 994 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2014,51 000 PLN,180 000 km,Benzyna,Automatyczna,Minivan,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Colt,2009,13 500 PLN,173 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Szary
+Mitsubishi,Eclipse Cross,2018,90 000 PLN,60 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Szary
+Mitsubishi,Space Star,2013,17 900 PLN,101 200 km,Benzyna,Manualna,Auta miejskie,999 cm3,71 KM,5,Czarny
+Mitsubishi,ASX,2015,45 900 PLN,186 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2012,29 900 PLN,214 700 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer,1999,210 000 PLN,30 000 km,Benzyna,Manualna,Sedan,1 997 cm3,280 KM,4,Biały
+Mitsubishi,ASX,2012,23 900 PLN,146 799 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2013,40 900 PLN,188 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2007,14 000 PLN,456 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Żółty
+Mitsubishi,Pajero,2010,78 500 PLN,192 800 km,Benzyna,Automatyczna,SUV,3 828 cm3,250 KM,5,Biały
+Mitsubishi,ASX,2014,45 000 PLN,187 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Błękitny
+Mitsubishi,L200,2021,55 000 PLN,55 555 km,Diesel,Automatyczna,SUV,2 268 cm3,185 KM,4,Brązowy
+Mitsubishi,Outlander,2012,39 900 PLN,251 500 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2010,32 000 PLN,168 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2022,96 700 PLN,65 414 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czarny
+Mitsubishi,Outlander,2020,95 000 PLN,66 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Lancer Evolution,2013,170 000 PLN,6 000 km,Benzyna,Manualna,Sedan,1 998 cm3,295 KM,4,Czarny
+Mitsubishi,ASX,2019,51 900 PLN,100 921 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2012,34 900 PLN,216 000 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2010,29 999 PLN,206 640 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2018,81 700 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,ASX,2011,38 000 PLN,71 400 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,ASX,2018,64 900 PLN,115 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Colt,2006,5 900 PLN,124 200 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Srebrny
+Mitsubishi,Colt,2008,10 900 PLN,180 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,75 KM,5,Czarny
+Mitsubishi,ASX,2016,39 900 PLN,204 150 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Brązowy
+Mitsubishi,Outlander,2003,10 500 PLN,320 000 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,136 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2019,41 900 PLN,57 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Szary
+Mitsubishi,Colt,2023,69 900 PLN,38 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Biały
+Mitsubishi,Eclipse,2018,65 999 PLN,70 864 km,Benzyna,Automatyczna,SUV,1 499 cm3,222 KM,5,Biały
+Mitsubishi,Space Star,2015,22 900 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Biały
+Mitsubishi,Pajero,2010,29 900 PLN,286 000 km,Diesel,Automatyczna,SUV,3 200 cm3,200 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2019,67 900 PLN,73 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,Lancer,2009,18 900 PLN,217 000 km,Benzyna,Manualna,Auta miejskie,1 798 cm3,143 KM,5,Srebrny
+Mitsubishi,ASX,2015,52 900 PLN,75 134 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2018,56 900 PLN,100 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2018,57 900 PLN,150 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer,2009,14 900 PLN,196 000 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,143 KM,4,Złoty
+Mitsubishi,Lancer,2009,17 700 PLN,185 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czerwony
+Mitsubishi,ASX,2010,27 300 PLN,250 111 km,Diesel,Manualna,SUV,1 798 cm3,149 KM,5,Srebrny
+Mitsubishi,ASX,2011,28 900 PLN,173 860 km,Diesel,Manualna,Kompakt,1 798 cm3,150 KM,5,Srebrny
+Mitsubishi,ASX,2023,85 000 PLN,13 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2018,89 999 PLN,29 854 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Outlander,2016,89 700 PLN,89 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Brązowy
+Mitsubishi,ASX,2018,72 500 PLN,62 112 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2017,69 500 PLN,99 000 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Brązowy
+Mitsubishi,ASX,2011,39 900 PLN,116 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Space Star,2018,29 900 PLN,114 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Szary
+Mitsubishi,ASX,2017,55 900 PLN,113 900 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2016,59 900 PLN,143 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2013,42 000 PLN,254 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mitsubishi,ASX,2010,25 900 PLN,199 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Space Star,2019,27 900 PLN,49 000 km,Benzyna,Manualna,Kompakt,999 cm3,71 KM,5,Niebieski
+Mitsubishi,ASX,2015,43 900 PLN,136 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Eclipse Cross,2019,76 900 PLN,115 766 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,Colt,2005,6 400 PLN,191 500 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Czarny
+Mitsubishi,Outlander,2012,32 500 PLN,241 372 km,Benzyna,Automatyczna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Pajero,2000,26 000 PLN,184 455 km,Benzyna,Automatyczna,SUV,3 497 cm3,202 KM,5,Niebieski
+Mitsubishi,ASX,2011,35 900 PLN,163 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Lancer,2009,19 000 PLN,238 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,Outlander,2015,47 900 PLN,238 200 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Szary
+Mitsubishi,Space Star,2019,42 000 PLN,54 900 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Czerwony
+Mitsubishi,ASX,2013,39 900 PLN,144 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Bordowy
+Mitsubishi,ASX,2014,41 900 PLN,195 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2015,62 900 PLN,67 035 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Granatowy
+Mitsubishi,Lancer,2013,23 800 PLN,82 000 km,Benzyna+LPG,Automatyczna,Sedan,1 998 cm3,152 KM,4,Szary
+Mitsubishi,ASX,2018,67 700 PLN,77 222 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Niebieski
+Mitsubishi,Outlander,2017,74 000 PLN,151 930 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2015,47 990 PLN,103 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Pajero Pinin,2002,7 000 PLN,126 000 km,Benzyna,Manualna,SUV,1 999 cm3,129 KM,5,Niebieski
+Mitsubishi,Eclipse Cross,2018,66 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,ASX,2011,39 950 PLN,93 015 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Niebieski
+Mitsubishi,ASX,2013,36 900 PLN,280 500 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2012,36 800 PLN,258 970 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Space Star,2019,27 000 PLN,101 000 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Biały
+Mitsubishi,Lancer,2009,16 900 PLN,288 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2015,71 000 PLN,152 101 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Space Star,2018,43 000 PLN,29 000 km,Benzyna,Automatyczna,Auta małe,1 193 cm3,80 KM,5,Biały
+Mitsubishi,Outlander,2018,69 900 PLN,77 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Srebrny
+Mitsubishi,ASX,2017,54 900 PLN,126 370 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2010,31 000 PLN,216 029 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Brązowy
+Mitsubishi,Colt,2011,17 500 PLN,85 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Brązowy
+Mitsubishi,Outlander,2010,27 000 PLN,235 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Mitsubishi,ASX,2010,25 000 PLN,240 240 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Błękitny
+Mitsubishi,Lancer,2010,8 500 PLN,178 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,109 KM,5,Szary
+Mitsubishi,Outlander,2007,20 500 PLN,250 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Pajero,2007,25 500 PLN,376 000 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Srebrny
+Mitsubishi,ASX,2011,33 600 PLN,153 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Czerwony
+Mitsubishi,Outlander,2011,32 900 PLN,161 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Szary
+Mitsubishi,Outlander,2017,65 300 PLN,165 667 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2013,46 900 PLN,192 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mitsubishi,ASX,2015,46 500 PLN,96 500 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Brązowy
+Mitsubishi,Outlander,2018,102 900 PLN,37 449 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mitsubishi,i-MiEV,2018,27 000 PLN,74 000 km,Elektryczny,Automatyczna,Auta małe,,67 KM,5,Biały
+Mitsubishi,Lancer,2011,52 900 PLN,205 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,240 KM,5,Niebieski
+Mitsubishi,Colt,2011,13 000 PLN,170 989 km,Benzyna,Manualna,Auta małe,1 332 cm3,95 KM,5,Biały
+Mitsubishi,Outlander,2015,64 000 PLN,99 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Inny kolor
+Mitsubishi,Outlander,2012,32 500 PLN,220 000 km,Diesel,Manualna,SUV,2 179 cm3,156 KM,5,Czarny
+Mitsubishi,Outlander,2017,75 900 PLN,122 600 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Szary
+Mitsubishi,Lancer,2009,22 500 PLN,193 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2022,99 900 PLN,49 274 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Szary
+Mitsubishi,ASX,2017,47 900 PLN,146 000 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Czarny
+Mitsubishi,ASX,2013,39 500 PLN,127 500 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Brązowy
+Mitsubishi,Pajero,2008,29 000 PLN,340 000 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Czarny
+Mitsubishi,Colt,2006,6 700 PLN,191 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Szary
+Mitsubishi,Outlander,2012,45 900 PLN,235 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,149 KM,5,Inny kolor
+Mitsubishi,Space Star,2017,24 900 PLN,80 311 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Biały
+Mitsubishi,ASX,2011,29 000 PLN,334 000 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2019,124 900 PLN,36 515 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Czerwony
+Mitsubishi,ASX,2010,32 900 PLN,251 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Błękitny
+Mitsubishi,ASX,2019,77 000 PLN,25 800 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,Outlander,2017,77 900 PLN,90 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2008,24 400 PLN,296 996 km,Benzyna+LPG,Manualna,SUV,2 360 cm3,170 KM,5,Czarny
+Mitsubishi,Colt,2011,13 900 PLN,127 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,75 KM,3,Czarny
+Mitsubishi,Outlander,2020,119 000 PLN,54 200 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,Outlander,2013,50 000 PLN,163 100 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Biały
+Mitsubishi,Colt,2009,12 999 PLN,184 606 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,5,Niebieski
+Mitsubishi,Outlander,2004,7 800 PLN,235 000 km,Benzyna+LPG,Manualna,SUV,2 378 cm3,160 KM,5,Czarny
+Mitsubishi,Space Star,2013,18 999 PLN,88 400 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Czarny
+Mitsubishi,Space Star,2014,22 900 PLN,120 123 km,Benzyna,Automatyczna,Auta miejskie,1 193 cm3,80 KM,5,Srebrny
+Mitsubishi,Space Star,2019,28 500 PLN,35 000 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Czarny
+Mitsubishi,Colt,2023,74 990 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,ASX,2019,87 900 PLN,84 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2015,49 900 PLN,164 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,ASX,2022,81 900 PLN,3 800 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Space Star,2003,3 900 PLN,300 000 km,Diesel,Manualna,Minivan,1 870 cm3,102 KM,5,Błękitny
+Mitsubishi,Eclipse Cross,2022,114 900 PLN,76 500 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,188 KM,5,Szary
+Mitsubishi,Pajero Pinin,2005,18 900 PLN,189 000 km,Benzyna+LPG,Manualna,SUV,1 834 cm3,114 KM,5,Niebieski
+Mitsubishi,ASX,2018,66 000 PLN,61 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2014,56 500 PLN,188 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Colt,2009,7 300 PLN,170 000 km,Benzyna+LPG,Manualna,Auta małe,1 332 cm3,95 KM,3,Srebrny
+Mitsubishi,Pajero,2013,79 000 PLN,114 236 km,Diesel,Automatyczna,SUV,3 200 cm3,200 KM,5,Biały
+Mitsubishi,Outlander,2007,20 000 PLN,310 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Złoty
+Mitsubishi,Outlander,2015,80 500 PLN,91 597 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Outlander,2019,88 000 PLN,84 088 km,Benzyna,Manualna,SUV,1 998 cm3,149 KM,5,Czerwony
+Mitsubishi,ASX,2011,27 700 PLN,206 200 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,ASX,2011,32 999 PLN,225 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Bordowy
+Mitsubishi,ASX,2018,67 900 PLN,132 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2010,39 999 PLN,169 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Inny kolor
+Mitsubishi,L200,2002,33 900 PLN,230 000 km,Diesel,Manualna,SUV,2 477 cm3,115 KM,4,Niebieski
+Mitsubishi,Lancer,2010,18 000 PLN,370 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2016,52 500 PLN,149 880 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2014,37 900 PLN,129 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czerwony
+Mitsubishi,Space Star,2017,34 900 PLN,17 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Biały
+Mitsubishi,Pajero,2001,27 000 PLN,344 000 km,Diesel,Automatyczna,SUV,3 200 cm3,165 KM,3,Zielony
+Mitsubishi,Outlander,2017,71 000 PLN,148 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Granatowy
+Mitsubishi,Lancer,2010,20 500 PLN,200 000 km,Benzyna,Automatyczna,Auta miejskie,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Lancer,2008,27 500 PLN,56 500 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Lancer,2011,29 900 PLN,155 421 km,Benzyna,Manualna,Kompakt,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2012,30 900 PLN,211 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,Colt,2011,6 000 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Czerwony
+Mitsubishi,Pajero,2002,5 000 PLN,395 078 km,Diesel,Automatyczna,SUV,3 200 cm3,165 KM,3,Srebrny
+Mitsubishi,Outlander,2017,77 000 PLN,67 029 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Brązowy
+Mitsubishi,Lancer,2011,4 600 PLN,307 000 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2018,75 500 PLN,72 000 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Srebrny
+Mitsubishi,ASX,2021,79 900 PLN,29 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,L200,2003,16 400 PLN,90 000 km,Diesel,Manualna,SUV,2 477 cm3,136 KM,4,Niebieski
+Mitsubishi,ASX,2014,39 900 PLN,175 500 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Colt,2009,6 900 PLN,190 196 km,Benzyna,Manualna,Auta małe,1 332 cm3,95 KM,3,Biały
+Mitsubishi,Lancer,2009,23 800 PLN,165 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czerwony
+Mitsubishi,Lancer,2008,17 200 PLN,206 800 km,Benzyna,Manualna,Sedan,1 499 cm3,109 KM,4,Czarny
+Mitsubishi,Outlander,2017,64 900 PLN,87 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Inny kolor
+Mitsubishi,ASX,2017,52 800 PLN,93 230 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Biały
+Mitsubishi,Eclipse Cross,2020,79 700 PLN,90 000 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Eclipse Cross,2018,70 500 PLN,63 869 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,ASX,2015,52 500 PLN,115 485 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Eclipse Cross,2017,65 900 PLN,154 374 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Pajero,2008,58 000 PLN,317 444 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Czarny
+Mitsubishi,Lancer,2009,17 800 PLN,147 000 km,Benzyna,Manualna,Sedan,1 499 cm3,109 KM,4,Czarny
+Mitsubishi,Colt,2007,5 500 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Space Star,2018,31 000 PLN,51 000 km,Benzyna,Manualna,Kompakt,1 193 cm3,80 KM,5,Srebrny
+Mitsubishi,Outlander,2019,85 900,139 232 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2018,71 900 PLN,106 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Brązowy
+Mitsubishi,Outlander,2018,79 827 PLN,170 955 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Brązowy
+Mitsubishi,Lancer,2008,9 700 PLN,372 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2010,36 500 PLN,195 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Lancer Evolution,1999,199 000 PLN,105 000 km,Benzyna,Manualna,Sedan,1 997 cm3,280 KM,4,Niebieski
+Mitsubishi,ASX,2012,31 000 PLN,216 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2010,34 999 PLN,156 794 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2019,66 900 PLN,79 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Colt,2005,5 200 PLN,202 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Niebieski
+Mitsubishi,Outlander,2013,47 900 PLN,108 600 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Lancer,2009,6 000 PLN,225 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2011,43 700 PLN,122 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Niebieski
+Mitsubishi,Eclipse Cross,2018,86 000 PLN,66 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,ASX,2015,50 000 PLN,124 309 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Lancer,2009,17 000 PLN,253 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czerwony
+Mitsubishi,Outlander,2016,34 800 PLN,250 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Biały
+Mitsubishi,ASX,2018,63 000 PLN,48 500 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2014,58 900 PLN,94 829 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Lancer,2009,22 500 PLN,185 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Złoty
+Mitsubishi,Space Star,2018,24 900 PLN,73 200 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Biały
+Mitsubishi,Outlander,2018,75 900 PLN,89 451 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Space Star,2023,70 990 PLN,5 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,4,Inny kolor
+Mitsubishi,Outlander,2020,89 000 PLN,39 678 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,Eclipse Cross,2021,118 000 PLN,16 375 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czerwony
+Mitsubishi,ASX,2018,69 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2015,52 500 PLN,254 200 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Granatowy
+Mitsubishi,Colt,2007,11 900 PLN,190 200 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,5,Szary
+Mitsubishi,ASX,2011,14 999 PLN,272 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2019,79 000 PLN,32 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2015,47 900 PLN,107 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2018,106 900,107 000 km,Benzyna,Automatyczna,SUV,2 000 cm3,150 KM,5,Brązowy
+Mitsubishi,Colt,2005,3 750 PLN,237 000 km,Benzyna,Manualna,Kompakt,1 124 cm3,75 KM,5,Srebrny
+Mitsubishi,Colt,2008,10 499 PLN,70 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,75 KM,5,Srebrny
+Mitsubishi,L200,2020,105 900 PLN,128 600 km,Diesel,Manualna,SUV,2 200 cm3,150 KM,4,Biały
+Mitsubishi,ASX,2011,31 500 PLN,212 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2013,42 900 PLN,138 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2008,19 000 PLN,260 320 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Błękitny
+Mitsubishi,ASX,2014,48 900 PLN,153 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2016,59 500 PLN,78 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Lancer,2010,19 900 PLN,240 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,ASX,2013,45 900 PLN,119 584 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,Lancer,2008,14 999 PLN,205 000 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,143 KM,4,Niebieski
+Mitsubishi,Pajero,2000,17 900 PLN,355 000 km,Diesel,Manualna,SUV,3 200 cm3,165 KM,3,Zielony
+Mitsubishi,ASX,2016,37 900 PLN,181 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,L200,2007,49 000 PLN,175 800 km,Diesel,Manualna,SUV,2 477 cm3,136 KM,4,Granatowy
+Mitsubishi,ASX,2011,36 000 PLN,190 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Niebieski
+Mitsubishi,Outlander,2007,14 000 PLN,277 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Outlander,2007,19 900 PLN,319 285 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,ASX,2023,23 900 PLN,9 900 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Szary
+Mitsubishi,Space Star,2023,72 900 PLN,7 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,L200,2020,17 400 EUR,31 806 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,4,Biały
+Mitsubishi,ASX,2020,89 900 PLN,55 222 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Brązowy
+Mitsubishi,Colt,2008,9 800 PLN,183 754 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Biały
+Mitsubishi,ASX,2015,53 900 PLN,123 600 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Space Star,2022,13 700 PLN,6 100 km,Benzyna,Manualna,Kompakt,1 193 cm3,80 KM,5,Bordowy
+Mitsubishi,Colt,2023,79 900 PLN,4 000 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Srebrny
+Mitsubishi,Lancer,2003,129 900 PLN,107 150 km,Benzyna,Manualna,Sedan,1 997 cm3,280 KM,4,Czarny
+Mitsubishi,Lancer Evolution,1999,199 900 PLN,90 000 km,Benzyna,Manualna,Sedan,1 997 cm3,280 KM,4,Czerwony
+Mitsubishi,Lancer,2009,13 300 PLN,266 000 km,Benzyna,Manualna,Auta miejskie,1 499 cm3,109 KM,5,Srebrny
+Mitsubishi,Pajero Pinin,2001,14 900 PLN,123 600 km,Benzyna,Manualna,SUV,1 999 cm3,129 KM,5,Czarny
+Mitsubishi,Space Star,2022,51 900 PLN,24 870 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Outlander,2016,68 500 PLN,183 600 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Pajero,2004,28 000 PLN,287 000 km,Diesel,Manualna,SUV,2 477 cm3,115 KM,5,Srebrny
+Mitsubishi,Space Star,2019,9 900 PLN,108 396 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Pomarańczowy
+Mitsubishi,ASX,2018,60 900 PLN,62 000 km,Benzyna+LPG,Automatyczna,Kompakt,1 998 cm3,150 KM,5,Srebrny
+Mitsubishi,Outlander,2016,59 999,259 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2014,44 500 PLN,191 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Colt,2007,12 200 PLN,140 000 km,Diesel,Automatyczna,Kompakt,1 493 cm3,95 KM,5,Błękitny
+Mitsubishi,Carisma,2000,4 900 PLN,99 000 km,Benzyna,Manualna,Auta małe,1 597 cm3,90 KM,5,Czerwony
+Mitsubishi,ASX,2023,102 990 PLN,11 km,Hybryda,Manualna,SUV,1 332 cm3,140 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2021,99 500 PLN,72 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,188 KM,5,Bordowy
+Mitsubishi,ASX,2012,39 900 PLN,65 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,ASX,2017,56 990 PLN,93 800 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2010,28 000 PLN,223 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Srebrny
+Mitsubishi,ASX,2017,60 900 PLN,109 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Lancer,2010,22 900 PLN,193 218 km,Benzyna,Manualna,Kompakt,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Eclipse Cross,2023,158 900 PLN,1 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Szary
+Mitsubishi,ASX,2012,27 700 PLN,268 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Niebieski
+Mitsubishi,Pajero,1997,39 000 PLN,390 000 km,Diesel,Manualna,SUV,2 839 cm3,125 KM,5,Szary
+Mitsubishi,Pajero,1997,7 900 PLN,298 000 km,Benzyna+LPG,Manualna,SUV,3 497 cm3,194 KM,5,Niebieski
+Mitsubishi,Outlander,2020,95 900 PLN,56 697 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,Colt,1991,8 900 PLN,99 410 km,Benzyna,Manualna,Kompakt,1 299 cm3,75 KM,3,Niebieski
+Mitsubishi,Outlander,2010,29 500 PLN,225 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Srebrny
+Mitsubishi,Colt,2009,12 900 PLN,154 177 km,Benzyna,Manualna,Minivan,1 332 cm3,95 KM,5,Inny kolor
+Mitsubishi,Space Star,2022,31 000 PLN,5 500 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Złoty
+Mitsubishi,Outlander,2013,39 800 PLN,198 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Granatowy
+Mitsubishi,Outlander,2014,47 500 PLN,70 000 km,Benzyna,Automatyczna,Auta miejskie,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2015,54 900 PLN,108 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Outlander,2017,79 900 PLN,53 409 km,Benzyna,Manualna,Kombi,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2016,49 500 PLN,176 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2018,51 900 PLN,212 321 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Brązowy
+Mitsubishi,ASX,2014,44 900 PLN,174 877 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Colt,2023,79 990 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Niebieski
+Mitsubishi,Lancer,2009,14 500 PLN,230 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,ASX,2015,47 800 PLN,149 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,ASX,2011,28 000 PLN,234 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Biały
+Mitsubishi,ASX,2010,31 900 PLN,184 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Czarny
+Mitsubishi,Colt,2023,79 290 PLN,800 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Pajero,2014,108 900 PLN,144 646 km,Diesel,Automatyczna,SUV,3 200 cm3,200 KM,5,Szary
+Mitsubishi,Colt,2011,14 000 PLN,105 704 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Brązowy
+Mitsubishi,ASX,2015,46 900 PLN,100 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,L200,1999,29 000 PLN,344 000 km,Diesel,Manualna,SUV,2 477 cm3,115 KM,4,Zielony
+Mitsubishi,ASX,2023,117 490 PLN,11 km,Hybryda,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Mitsubishi,Space Star,2022,58 900 PLN,44 157 km,Benzyna,Manualna,Auta miejskie,1 190 cm3,71 KM,5,Srebrny
+Mitsubishi,Space Star,2023,67 000 PLN,5 km,Benzyna,Manualna,Auta małe,1 193 cm3,71 KM,5,Szary
+Mitsubishi,ASX,2023,129 990 PLN,9 428 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Mitsubishi,Pajero Pinin,2003,10 900 PLN,217 000 km,Benzyna,Manualna,SUV,1 999 cm3,129 KM,5,Szary
+Mitsubishi,Pajero,2003,15 000 PLN,270 000 km,Diesel,Automatyczna,SUV,3 200 cm3,165 KM,3,Czarny
+Mitsubishi,Pajero,2004,8 900 PLN,270 000 km,Diesel,Automatyczna,SUV,3 200 cm3,161 KM,5,Inny kolor
+Mitsubishi,Outlander,2011,8 900 PLN,111 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Srebrny
+Mitsubishi,Colt,2010,15 999 PLN,208 000 km,Benzyna,Manualna,Auta małe,1 125 cm3,75 KM,3,Czarny
+Mitsubishi,ASX,2011,26 500 PLN,284 310 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2024,119 690 PLN,5 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Czerwony
+Mitsubishi,Outlander,2016,95 900 PLN,54 200 km,Hybryda,Automatyczna,SUV,1 998 cm3,121 KM,5,Szary
+Mitsubishi,ASX,2012,39 900 PLN,139 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2016,53 900 PLN,145 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Space Star,2020,41 900 PLN,83 158 km,Benzyna,Manualna,Auta miejskie,999 cm3,71 KM,5,Czerwony
+Mitsubishi,Colt,2023,79 000 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,ASX,2023,102 990 PLN,10 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Mitsubishi,Space Star,2023,66 490 PLN,8 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Inny kolor
+Mitsubishi,Colt,2023,87 900 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Szary
+Mitsubishi,Colt,2023,87 900 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Colt,2023,85 500 PLN,200 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Czarny
+Mitsubishi,Colt,2023,79 000 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Szary
+Mitsubishi,ASX,2023,104 490 PLN,5 km,Hybryda,Manualna,SUV,1 333 cm3,140 KM,5,Biały
+Mitsubishi,ASX,2023,102 990 PLN,10 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Mitsubishi,Outlander,2008,25 000 PLN,220 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Srebrny
+Mitsubishi,Outlander,2007,19 900 PLN,258 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Colt,2006,11 900 PLN,93 000 km,Benzyna,Manualna,Kabriolet,1 499 cm3,109 KM,5,Czarny
+Mitsubishi,ASX,2016,47 000 PLN,96 512 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2024,125 990 PLN,5 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Mitsubishi,Space Star,2023,62 500 PLN,10 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Biały
+Mitsubishi,Colt,2023,103 290 PLN,5 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Colt,2023,73 900 PLN,10 km,Benzyna,Manualna,Auta małe,999 cm3,91 KM,5,Czarny
+Mitsubishi,ASX,2018,49 990 PLN,109 900 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2017,54 900 PLN,49 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,ASX,2017,60 000 PLN,88 266 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Srebrny
+Mitsubishi,Outlander,2014,51 500 PLN,176 500 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2016,49 900 PLN,126 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2011,39 900 PLN,144 000 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,147 KM,5,Srebrny
+Mitsubishi,Outlander,2013,19 900 PLN,180 190 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2004,19 999 PLN,146 105 km,Benzyna,Manualna,SUV,2 378 cm3,160 KM,5,Zielony
+Mitsubishi,ASX,2019,76 000 PLN,77 900 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Lancer,2009,10 000 PLN,490 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Space Star,2023,66 990 PLN,5 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Lancer,2010,23 000 PLN,311 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,140 KM,5,Biały
+Mitsubishi,Space Star,2023,64 490 PLN,5 km,Benzyna,Manualna,Auta małe,1 193 cm3,71 KM,5,Inny kolor
+Mitsubishi,Colt,2023,81 990 PLN,3 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Colt,2023,76 890 PLN,5 km,Benzyna,Manualna,Kompakt,998 cm3,91 KM,5,Szary
+Mitsubishi,Space Star,2018,32 900 PLN,124 500 km,Benzyna,Manualna,Kompakt,1 193 cm3,80 KM,5,Czarny
+Mitsubishi,ASX,2023,103 990 PLN,3 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czerwony
+Mitsubishi,Outlander,2019,91 900 PLN,99 800 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Colt,2023,72 990 PLN,5 km,Benzyna,Manualna,Auta małe,999 cm3,66 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2023,164 900 PLN,11 500 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Biały
+Mitsubishi,Eclipse Cross,2023,164 900 PLN,12 000 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2022,159 900 PLN,11 308 km,Hybryda,Automatyczna,SUV,2 360 cm3,98 KM,5,Biały
+Mitsubishi,Eclipse Cross,2018,85 900 PLN,41 930 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Eclipse Cross,2023,179 900 PLN,5 km,Hybryda,Automatyczna,SUV,2 400 cm3,188 KM,5,Czarny
+Mitsubishi,Lancer,2007,15 300 PLN,177 000 km,Benzyna,Manualna,Sedan,1 499 cm3,109 KM,4,Błękitny
+Mitsubishi,Outlander,2019,49 500 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Pajero,2006,34 999 PLN,227 000 km,Diesel,Automatyczna,SUV,3 200 cm3,161 KM,3,Srebrny
+Mitsubishi,Colt,2023,78 900 PLN,9 km,Benzyna,Manualna,Auta małe,999 cm3,91 KM,5,Szary
+Mitsubishi,Lancer,2009,20 000 PLN,199 250 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,143 KM,4,Bordowy
+Mitsubishi,Outlander,2019,77 500 PLN,204 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Pajero,2017,79 900 PLN,72 000 km,Benzyna,Automatyczna,SUV,3 828 cm3,247 KM,5,Brązowy
+Mitsubishi,L200,2004,21 500 PLN,238 000 km,Diesel,Automatyczna,SUV,2 477 cm3,133 KM,4,Granatowy
+Mitsubishi,ASX,2018,24 900 PLN,40 672 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Srebrny
+Mitsubishi,Outlander,2021,109 900 PLN,26 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Czerwony
+Mitsubishi,Galant,1998,12 600 PLN,180 000 km,Benzyna,Manualna,Sedan,1 997 cm3,136 KM,4,Zielony
+Mitsubishi,Pajero,2016,87 000 PLN,160 000 km,Diesel,Automatyczna,SUV,3 200 cm3,190 KM,5,Czarny
+Mitsubishi,Colt,2008,3 300 PLN,179 300 km,Diesel,Manualna,Auta małe,1 493 cm3,95 KM,3,Czarny
+Mitsubishi,ASX,2012,29 900 PLN,199 500 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2017,55 555 PLN,151 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2016,51 900 PLN,238 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Biały
+Mitsubishi,Lancer,2010,21 900 PLN,232 840 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Biały
+Mitsubishi,Outlander,2015,27 800 PLN,240 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,166 KM,5,Czarny
+Mitsubishi,Outlander,2013,57 800 PLN,101 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,Outlander,2022,149 900 PLN,14 500 km,Benzyna,Automatyczna,SUV,2 488 cm3,180 KM,5,Brązowy
+Mitsubishi,Outlander,2008,8 900 PLN,205 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,Space Star,2023,69 200 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,ASX,2023,98 690 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,91 KM,5,Biały
+Mitsubishi,Colt,2023,77 790 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Szary
+Mitsubishi,Colt,2023,77 790 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czarny
+Mitsubishi,ASX,2024,119 690 PLN,5 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Mitsubishi,Space Star,2023,67 900 PLN,11 500 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2022,160 900 PLN,2 214 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2022,160 900 PLN,2 214 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Czarny
+Mitsubishi,ASX,2023,133 900 PLN,5 000 km,Benzyna,Automatyczna,SUV,1 333 cm3,158 KM,5,Czerwony
+Mitsubishi,L200,2016,75 000 PLN,109 583 km,Diesel,Manualna,SUV,2 442 cm3,181 KM,4,Brązowy
+Mitsubishi,ASX,2015,42 500 PLN,185 500 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Lancer,2008,29 900 PLN,158 240 km,Benzyna+LPG,Automatyczna,Sedan,1 998 cm3,152 KM,4,Niebieski
+Mitsubishi,Outlander,2017,69 900 PLN,106 460 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Niebieski
+Mitsubishi,Outlander,2020,105 999 PLN,31 415 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Granatowy
+Mitsubishi,Outlander,2006,7 200 PLN,200 000 km,Benzyna+LPG,Manualna,SUV,1 997 cm3,136 KM,5,Inny kolor
+Mitsubishi,Colt,2005,3 000 PLN,173 940 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Czerwony
+Mitsubishi,i-MiEV,2012,18 900 PLN,134 380 km,Elektryczny,Automatyczna,Auta małe,,67 KM,5,Niebieski
+Mitsubishi,Outlander,2012,43 000 PLN,140 066 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Outlander,2016,75 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Space Star,2001,2 700 PLN,238 000 km,Benzyna+LPG,Manualna,SUV,1 299 cm3,86 KM,5,Zielony
+Mitsubishi,L200,2018,100 001,110 362 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,5,Czarny
+Mitsubishi,Outlander,2015,24 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,147 KM,5,Czerwony
+Mitsubishi,Space Star,2022,51 000 PLN,1 529 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,ASX,2012,26 900 PLN,168 000 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2009,22 200 PLN,168 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Mitsubishi,Outlander,2019,97 000,93 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2019,74 000 PLN,68 015 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Bordowy
+Mitsubishi,Pajero,2007,16 999 PLN,71 800 km,Diesel,Manualna,SUV,2 477 cm3,136 KM,5,Szary
+Mitsubishi,Space Star,2015,22 999 PLN,45 000 km,Benzyna,Manualna,Kompakt,999 cm3,71 KM,5,Czerwony
+Mitsubishi,Outlander,2014,53 505 PLN,202 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2019,105 900 PLN,114 300 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,ASX,2017,56 900 PLN,164 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Grandis,2004,13 800 PLN,199 722 km,Benzyna+LPG,Manualna,Minivan,2 378 cm3,165 KM,5,Bordowy
+Mitsubishi,Outlander,2003,13 500 PLN,240 000 km,Benzyna,Manualna,SUV,1 997 cm3,136 KM,5,Błękitny
+Mitsubishi,Outlander,2022,74 140 PLN,39 883 km,Benzyna,Automatyczna,SUV,2 500 cm3,181 KM,5,Biały
+Mitsubishi,Pajero,2003,22 900 PLN,340 000 km,Diesel,Manualna,SUV,3 200 cm3,161 KM,5,Srebrny
+Mitsubishi,Grandis,2005,10 800 PLN,264 000 km,Benzyna+LPG,Manualna,Minivan,2 378 cm3,165 KM,5,Niebieski
+Mitsubishi,Outlander,2010,39 500 PLN,247 400 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Czarny
+Mitsubishi,Space Star,2021,18 900 PLN,49 000 km,Benzyna,Manualna,Auta małe,1 193 cm3,80 KM,5,Szary
+Mitsubishi,ASX,2011,29 000 PLN,240 000 km,Diesel,Manualna,Kombi,1 798 cm3,150 KM,5,Biały
+Mitsubishi,Colt,2008,9 000 PLN,146 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,75 KM,3,Biały
+Mitsubishi,ASX,2010,29 999 PLN,174 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czerwony
+Mitsubishi,Lancer,2010,19 000 PLN,210 800 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,4,Czarny
+Mitsubishi,ASX,2020,80 000 PLN,32 332 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Eclipse Cross,2019,82 900 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,Outlander,2010,29 900 PLN,250 200 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Outlander,2010,24 900 PLN,314 100 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Szary
+Mitsubishi,Lancer,2012,18 000 PLN,224 000 km,Diesel,Manualna,Sedan,1 798 cm3,116 KM,4,Biały
+Mitsubishi,Lancer,2012,18 000 PLN,224 000 km,Diesel,Manualna,Sedan,1 798 cm3,116 KM,4,Biały
+Mitsubishi,Carisma,2002,6 500 PLN,156 684 km,Diesel,Manualna,Sedan,1 870 cm3,115 KM,5,Czarny
+Mitsubishi,L200,2012,55 499 PLN,221 125 km,Diesel,Manualna,SUV,2 477 cm3,178 KM,4,Czarny
+Mitsubishi,Lancer,2014,40 000 PLN,80 656 km,Benzyna,Manualna,Kompakt,1 798 cm3,140 KM,5,Srebrny
+Mitsubishi,ASX,2011,27 000 PLN,257 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,Lancer,2008,15 000 PLN,220 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Niebieski
+Mitsubishi,Lancer,2008,29 999 PLN,138 100 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2011,37 500 PLN,275 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Czarny
+Mitsubishi,Pajero,2005,25 500 PLN,270 000 km,Diesel,Manualna,SUV,3 200 cm3,161 KM,5,Inny kolor
+Mitsubishi,Space Star,2021,35 900 PLN,35 408 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Lancer,2010,23 000 PLN,207 000 km,Benzyna,Manualna,Sedan,1 798 cm3,143 KM,4,Czarny
+Mitsubishi,Colt,2006,9 500 PLN,110 000 km,Benzyna,Manualna,Kabriolet,1 499 cm3,109 KM,2,Złoty
+Mitsubishi,Eclipse Cross,2021,95 900 PLN,29 700 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Niebieski
+Mitsubishi,Colt,2011,15 700 PLN,170 971 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Biały
+Mitsubishi,Colt,2006,7 500 PLN,196 323 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Niebieski
+Mitsubishi,Eclipse Cross,2022,149 900 PLN,22 000 km,Hybryda,Automatyczna,SUV,2 360 cm3,98 KM,5,Biały
+Mitsubishi,Lancer,1989,15 900 PLN,85 677 km,Benzyna,Manualna,Sedan,1 299 cm3,75 KM,4,Srebrny
+Mitsubishi,Pajero,2006,39 999 PLN,257 000 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Szary
+Mitsubishi,ASX,2011,31 900 PLN,214 900 km,Diesel,Manualna,Kompakt,1 798 cm3,116 KM,5,Inny kolor
+Mitsubishi,Outlander,2008,21 000 PLN,222 800 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,Lancer,2011,24 900 PLN,143 000 km,Benzyna,Manualna,Kompakt,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Colt,2013,13 900 PLN,169 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,75 KM,3,Brązowy
+Mitsubishi,ASX,2014,40 500 PLN,190 598 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Mitsubishi,Lancer,2008,18 900 PLN,210 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Bordowy
+Mitsubishi,ASX,2018,59 999 PLN,125 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2011,24 950 PLN,174 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer Evolution,2011,145 000 PLN,174 735 km,Benzyna,Automatyczna,Sedan,1 998 cm3,295 KM,4,Biały
+Mitsubishi,Outlander,2011,34 900 PLN,180 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Biały
+Mitsubishi,Outlander,2015,53 900 PLN,202 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Colt,2009,4 800 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,3,Czarny
+Mitsubishi,Outlander,2011,29 900 PLN,255 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Srebrny
+Mitsubishi,Outlander,2019,46 800 PLN,81 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Inny kolor
+Mitsubishi,Outlander,2014,29 500 PLN,229 560 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2022,129 500 PLN,42 600 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Szary
+Mitsubishi,L200,2019,37 900 PLN,60 325 km,Diesel,Manualna,SUV,2 442 cm3,154 KM,4,Szary
+Mitsubishi,Colt,2008,9 700 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 124 cm3,75 KM,5,Czarny
+Mitsubishi,Pajero,2015,89 000 PLN,66 000 km,Diesel,Manualna,SUV,3 200 cm3,200 KM,3,Czarny
+Mitsubishi,ASX,2014,47 900 PLN,59 700 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Space Star,2021,45 000 PLN,6 231 km,Benzyna,Manualna,Auta małe,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Outlander,2007,18 000 PLN,271 420 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,Outlander,2014,55 000 PLN,169 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Srebrny
+Mitsubishi,Outlander,2010,34 000 PLN,272 000 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Szary
+Mitsubishi,Outlander,2020,94 000 PLN,46 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2010,29 700 PLN,185 432 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer,2011,24 500 PLN,186 000 km,Benzyna,Manualna,Auta miejskie,1 590 cm3,117 KM,4,Srebrny
+Mitsubishi,ASX,2016,57 000 PLN,77 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Lancer,2009,17 499 PLN,266 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,4,Czarny
+Mitsubishi,Outlander,2018,85 900 PLN,96 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Srebrny
+Mitsubishi,L200,2018,35 500 PLN,121 000 km,Diesel,Manualna,SUV,2 442 cm3,181 KM,2,Czarny
+Mitsubishi,L200,2015,68 500 PLN,242 500 km,Diesel,Manualna,SUV,2 442 cm3,154 KM,4,Czarny
+Mitsubishi,Outlander,2010,36 500 PLN,229 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Srebrny
+Mitsubishi,ASX,2018,34 000 PLN,103 886 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,ASX,2010,33 900 PLN,199 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2020,42 000 PLN,38 518 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Outlander,2022,65 000 PLN,58 932 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Biały
+Mitsubishi,Lancer,2015,34 900 PLN,105 700 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,4,Biały
+Mitsubishi,ASX,2010,35 900 PLN,227 423 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2019,34 000 PLN,128 041 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Niebieski
+Mitsubishi,Carisma,1999,1 500 PLN,244 645 km,Benzyna,Manualna,Auta miejskie,1 834 cm3,125 KM,5,Zielony
+Mitsubishi,Outlander,2008,19 500 PLN,225 449 km,Diesel,Manualna,SUV,2 179 cm3,156 KM,5,Beżowy
+Mitsubishi,ASX,2015,45 900 PLN,153 000 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Błękitny
+Mitsubishi,Space Star,2021,31 900 PLN,43 123 km,Benzyna,Manualna,Auta miejskie,999 cm3,71 KM,5,Złoty
+Mitsubishi,Pajero,2000,37 000 PLN,260 000 km,Diesel,Automatyczna,SUV,3 200 cm3,165 KM,3,Srebrny
+Mitsubishi,Space Star,2022,44 900 PLN,1 700 km,Benzyna,Manualna,Auta małe,1 193 cm3,71 KM,5,Biały
+Mitsubishi,Eclipse Cross,2022,58 600 PLN,5 183 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Niebieski
+Mitsubishi,Space Star,2013,22 800 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Szary
+Mitsubishi,Colt,2010,13 900 PLN,181 006 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Srebrny
+Mitsubishi,Outlander,2015,80 000 PLN,141 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2018,63 900 PLN,76 077 km,Benzyna,Manualna,Kombi,1 590 cm3,117 KM,5,Niebieski
+Mitsubishi,Grandis,2008,14 000 PLN,276 257 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,ASX,2011,31 200 PLN,153 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2019,84 800 PLN,101 151 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Szary
+Mitsubishi,ASX,2017,40 800 PLN,115 000 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Biały
+Mitsubishi,Outlander,2008,15 000 PLN,416 266 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Inny kolor
+Mitsubishi,Outlander,2012,34 700 PLN,191 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Brązowy
+Mitsubishi,Outlander,2018,99 000 PLN,91 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,202 KM,5,Biały
+Mitsubishi,Space Star,2015,21 900 PLN,124 300 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Czarny
+Mitsubishi,Outlander,2014,49 900 PLN,211 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mitsubishi,Outlander,2011,37 900 PLN,194 500 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Brązowy
+Mitsubishi,Grandis,2006,5 500 PLN,250 000 km,Diesel,Manualna,Minivan,1 968 cm3,136 KM,5,Srebrny
+Mitsubishi,Colt,2006,10 900 PLN,124 859 km,Benzyna,Manualna,Kabriolet,1 499 cm3,109 KM,2,Pomarańczowy
+Mitsubishi,ASX,2018,72 900 PLN,46 020 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2017,57 900 PLN,109 066 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Czarny
+Mitsubishi,Outlander,2016,70 000 PLN,118 000 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Lancer,2011,24 900 PLN,170 000 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Colt,2010,11 999 PLN,211 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,75 KM,3,Biały
+Mitsubishi,ASX,2018,67 800 PLN,76 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Lancer,2008,17 500 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Szary
+Mitsubishi,L200,2016,97 900 PLN,95 000 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,4,Inny kolor
+Mitsubishi,Lancer,2009,18 000 PLN,189 650 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,L200,2003,27 500 PLN,290 000 km,Diesel,Manualna,SUV,2 477 cm3,115 KM,4,Srebrny
+Mitsubishi,L200,2000,23 900 PLN,250 872 km,Diesel,Manualna,SUV,2 477 cm3,100 KM,4,Czerwony
+Mitsubishi,Eclipse Cross,2018,80 000 PLN,81 318 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,Outlander,2015,62 500 PLN,168 429 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Czarny
+Mitsubishi,Lancer Evolution,2014,95 000 PLN,121 932 km,Benzyna,Manualna,Sedan,1 998 cm3,295 KM,4,Czarny
+Mitsubishi,ASX,2014,36 000 PLN,255 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2015,48 900 PLN,186 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2014,58 800 PLN,236 863 km,Hybryda,Automatyczna,SUV,1 998 cm3,121 KM,5,Biały
+Mitsubishi,Outlander,2019,99 800 PLN,108 200 km,Hybryda,Automatyczna,SUV,1 968 cm3,140 KM,5,Brązowy
+Mitsubishi,ASX,2014,54 000 PLN,83 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2010,34 900 PLN,240 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2018,64 900 PLN,54 700 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Biały
+Mitsubishi,Lancer,2009,21 900 PLN,133 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czerwony
+Mitsubishi,Outlander,2017,72 999 PLN,89 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2011,39 999 PLN,190 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2014,46 900 PLN,121 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Inny kolor
+Mitsubishi,Pajero Pinin,2005,19 900 PLN,117 254 km,Benzyna,Manualna,SUV,1 999 cm3,129 KM,5,Szary
+Mitsubishi,ASX,2018,58 900 PLN,142 350 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2013,49 900 PLN,120 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2010,37 900 PLN,232 123 km,Benzyna+LPG,Manualna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Grandis,2007,19 000 PLN,236 000 km,Diesel,Manualna,Minivan,1 968 cm3,136 KM,5,Biały
+Mitsubishi,Outlander,2015,67 000 PLN,115 209 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2006,9 500 PLN,277 000 km,Benzyna,Automatyczna,SUV,2 378 cm3,160 KM,5,Srebrny
+Mitsubishi,Outlander,2020,89 900 PLN,59 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Czerwony
+Mitsubishi,Pajero,2000,24 999 PLN,299 000 km,Diesel,Manualna,SUV,3 200 cm3,165 KM,3,Inny kolor
+Mitsubishi,ASX,2015,45 900 PLN,239 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2010,36 900 PLN,189 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Biały
+Mitsubishi,Lancer,2008,22 900 PLN,202 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2017,82 900 PLN,102 359 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Fioletowy
+Mitsubishi,ASX,2014,40 500 PLN,195 348 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,Outlander,2017,69 900 PLN,126 000 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Biały
+Mitsubishi,Colt,2005,7 300 PLN,186 940 km,Benzyna,Manualna,Auta małe,1 124 cm3,75 KM,3,Zielony
+Mitsubishi,ASX,2018,60 900 PLN,54 925 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Pajero Pinin,2003,19 700 PLN,190 000 km,Benzyna,Manualna,SUV,1 834 cm3,114 KM,3,Niebieski
+Mitsubishi,L200,2018,150 000 PLN,88 300 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,4,Czarny
+Mitsubishi,Space Star,2023,65 961 PLN,10 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,71 KM,5,Czerwony
+Mitsubishi,ASX,2023,102 490 PLN,10 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Mitsubishi,Colt,2023,79 990 PLN,9 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Niebieski
+Mitsubishi,Colt,2023,75 900 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Szary
+Mitsubishi,Colt,2023,80 290 PLN,10 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Outlander,2019,75 000 PLN,126 742 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Niebieski
+Mitsubishi,Eclipse Cross,2023,174 890 PLN,5 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Srebrny
+Mitsubishi,Colt,2005,8 900 PLN,203 000 km,Benzyna,Manualna,Auta miejskie,1 500 cm3,109 KM,5,Niebieski
+Mitsubishi,ASX,2023,102 990 PLN,10 km,Hybryda,Manualna,SUV,1 332 cm3,140 KM,5,Czerwony
+Mitsubishi,ASX,2023,111 990 PLN,10 km,Hybryda,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Mitsubishi,Space Star,2023,69 900 PLN,3 122 km,Benzyna,Automatyczna,Auta miejskie,1 193 cm3,71 KM,5,Biały
+Mitsubishi,Galant,1992,16 900 PLN,132 500 km,Benzyna,Manualna,Kompakt,1 997 cm3,109 KM,5,Biały
+Mitsubishi,Lancer,2011,20 800 PLN,235 000 km,Benzyna+LPG,Automatyczna,Sedan,1 798 cm3,140 KM,4,Szary
+Mitsubishi,Outlander,2014,39 000 PLN,168 500 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Srebrny
+Mitsubishi,Carisma,2004,9 800 PLN,220 000 km,Benzyna,Manualna,Sedan,1 834 cm3,122 KM,5,Czarny
+Mitsubishi,Outlander,2006,17 900 PLN,185 000 km,Benzyna,Manualna,SUV,1 997 cm3,136 KM,5,Czarny
+Mitsubishi,Colt,2010,12 900 PLN,198 600 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2019,91 500 PLN,15 615 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Inny kolor
+Mitsubishi,Eclipse Cross,2018,65 900 PLN,140 000 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Outlander,2006,22 999 PLN,139 600 km,Benzyna,Manualna,SUV,2 378 cm3,160 KM,5,Srebrny
+Mitsubishi,ASX,2016,43 999 PLN,181 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Space Star,2020,44 200 PLN,40 437 km,Benzyna,Manualna,Kompakt,999 cm3,71 KM,5,Biały
+Mitsubishi,ASX,2018,58 900 PLN,113 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Niebieski
+Mitsubishi,ASX,2016,56 900 PLN,121 000 km,Benzyna,Manualna,SUV,1 590 cm3,116 KM,5,Czarny
+Mitsubishi,ASX,2011,34 900 PLN,170 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Czarny
+Mitsubishi,ASX,2015,48 900 PLN,93 784 km,Benzyna,Manualna,SUV,1 590 cm3,116 KM,5,Szary
+Mitsubishi,Colt,2007,10 500 PLN,166 500 km,Diesel,Manualna,Kompakt,1 493 cm3,95 KM,3,Srebrny
+Mitsubishi,Outlander,2014,48 000 PLN,185 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Srebrny
+Mitsubishi,Outlander,2013,39 900 PLN,175 200 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2010,29 900 PLN,201 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,Lancer,2009,22 900 PLN,166 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,143 KM,5,Czerwony
+Mitsubishi,ASX,2012,35 900 PLN,201 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,ASX,2011,29 900 PLN,274 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Bordowy
+Mitsubishi,Colt,2023,105 990 PLN,7 405 km,Hybryda,Automatyczna,Kompakt,1 600 cm3,143 KM,5,Niebieski
+Mitsubishi,Lancer,2009,18 000 PLN,245 500 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Niebieski
+Mitsubishi,ASX,2016,52 900 PLN,127 101 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2011,27 900 PLN,231 428 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Inny kolor
+Mitsubishi,Outlander,2018,82 000 PLN,108 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,Eclipse,1995,10 000 PLN,197 331 km,Benzyna,Manualna,Coupe,1 997 cm3,145 KM,2,Srebrny
+Mitsubishi,ASX,2014,44 900 PLN,179 431 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Srebrny
+Mitsubishi,Colt,2005,7 500 PLN,202 156 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Inny kolor
+Mitsubishi,Outlander,2010,27 000 PLN,230 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Granatowy
+Mitsubishi,Eclipse Cross,2022,51 900 PLN,28 300 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Biały
+Mitsubishi,Lancer,2009,18 900 PLN,218 000 km,Benzyna,Manualna,Sedan,1 798 cm3,143 KM,4,Bordowy
+Mitsubishi,Outlander,2018,86 900 PLN,91 500 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czerwony
+Mitsubishi,ASX,2015,54 899 PLN,30 890 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Space Star,1999,3 500 PLN,182 000 km,Benzyna,Manualna,Minivan,1 299 cm3,86 KM,5,Złoty
+Mitsubishi,ASX,2010,28 000 PLN,280 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Mitsubishi,Space Star,2013,22 000 PLN,177 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,80 KM,5,Zielony
+Mitsubishi,Eclipse Cross,2018,90 000 PLN,67 440 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Szary
+Mitsubishi,Outlander,2015,62 999 PLN,149 164 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,ASX,2015,56 999 PLN,69 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2018,87 000 PLN,68 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Colt,2006,8 800 PLN,168 000 km,Benzyna,Manualna,Auta miejskie,1 100 cm3,75 KM,5,Szary
+Mitsubishi,ASX,2016,57 900 PLN,125 895 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Space Star,2021,39 999 PLN,26 600 km,Benzyna,Manualna,Auta małe,1 193 cm3,80 KM,5,Złoty
+Mitsubishi,ASX,2012,43 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Srebrny
+Mitsubishi,Colt,2010,12 500 PLN,207 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Outlander,2019,125 000 PLN,37 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Granatowy
+Mitsubishi,Space Star,2023,62 900 PLN,3 000 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Lancer,2008,10 500 PLN,416 720 km,Benzyna,Manualna,Auta małe,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Outlander,2018,84 450 PLN,91 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Srebrny
+Mitsubishi,Colt,2009,13 200 PLN,126 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,75 KM,5,Czerwony
+Mitsubishi,ASX,2010,36 900 PLN,197 355 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,Pajero Pinin,2003,26 900 PLN,124 000 km,Benzyna,Manualna,SUV,1 834 cm3,114 KM,3,Niebieski
+Mitsubishi,ASX,2020,69 900 PLN,90 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2016,77 000 PLN,109 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Eclipse Cross,2019,76 900 PLN,133 330 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Lancer,2011,23 900 PLN,218 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,109 KM,5,Czarny
+Mitsubishi,ASX,2010,32 700 PLN,297 000 km,Benzyna,Manualna,SUV,1 598 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2010,29 900 PLN,291 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2016,49 900 PLN,158 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Beżowy
+Mitsubishi,Colt,2005,7 800 PLN,210 000 km,Benzyna,Automatyczna,Auta małe,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2018,72 800 PLN,69 400 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,ASX,2015,53 000 PLN,112 103 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2019,94 999 PLN,48 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,Pajero,1994,17 900 PLN,200 000 km,Diesel,Manualna,SUV,2 477 cm3,99 KM,3,Czarny
+Mitsubishi,Outlander,2016,73 900 PLN,151 107 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Space Star,2020,35 900 PLN,34 691 km,Benzyna,Manualna,Auta miejskie,999 cm3,71 KM,5,Biały
+Mitsubishi,ASX,2018,69 000 PLN,36 500 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2017,52 800 PLN,89 817 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,ASX,2020,76 000 PLN,58 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Pajero,1990,19 900 PLN,250 000 km,Diesel,Manualna,SUV,2 477 cm3,95 KM,3,Brązowy
+Mitsubishi,Outlander,2017,79 800 PLN,126 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Biały
+Mitsubishi,ASX,2010,26 999 PLN,215 718 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Srebrny
+Mitsubishi,Space Star,2018,33 000 PLN,139 000 km,Benzyna,Automatyczna,Auta małe,1 193 cm3,80 KM,5,Czarny
+Mitsubishi,Lancer,2008,17 500 PLN,395 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Czarny
+Mitsubishi,L200,2020,59 999 PLN,198 328 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,4,Biały
+Mitsubishi,Grandis,2007,2 500 PLN,242 000 km,Diesel,Manualna,Minivan,1 968 cm3,136 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2023,136 000 PLN,15 300 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Srebrny
+Mitsubishi,ASX,2019,65 555 PLN,72 900 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2004,7 800 PLN,113 200 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Pajero,2010,59 900 PLN,268 740 km,Benzyna+LPG,Automatyczna,SUV,3 828 cm3,250 KM,5,Srebrny
+Mitsubishi,Pajero,2011,47 900 PLN,290 000 km,Diesel,Manualna,SUV,3 200 cm3,200 KM,5,Szary
+Mitsubishi,Lancer,2009,21 900 PLN,195 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,140 KM,4,Srebrny
+Mitsubishi,ASX,2013,32 000 PLN,173 400 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,ASX,2012,34 900 PLN,193 000 km,Diesel,Manualna,SUV,1 800 cm3,150 KM,5,Inny kolor
+Mitsubishi,Lancer,2010,16 900 PLN,260 000 km,Benzyna,Manualna,Kompakt,1 499 cm3,109 KM,5,Srebrny
+Mitsubishi,L200,2014,55 350 PLN,131 620 km,Diesel,Manualna,SUV,2 477 cm3,136 KM,2,Biały
+Mitsubishi,L200,2014,55 350 PLN,131 620 km,Diesel,Manualna,SUV,2 477 cm3,136 KM,2,Biały
+Mitsubishi,L200,2015,54 999 PLN,198 000 km,Diesel,Manualna,SUV,2 442 cm3,154 KM,4,Biały
+Mitsubishi,Lancer,2010,23 900 PLN,178 385 km,Benzyna,Manualna,Kompakt,1 798 cm3,140 KM,4,Czarny
+Mitsubishi,Outlander,2010,40 900 PLN,104 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Eclipse,2007,18 900 PLN,136 000 km,Benzyna+LPG,Automatyczna,Coupe,2 378 cm3,162 KM,2,Inny kolor
+Mitsubishi,Colt,2009,16 900 PLN,167 000 km,Benzyna,Automatyczna,Kompakt,1 332 cm3,95 KM,5,Brązowy
+Mitsubishi,ASX,2019,67 999 PLN,29 900 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2023,73 790 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony
+Mitsubishi,Outlander,2020,94 700 PLN,40 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Szary
+Mitsubishi,Colt,2023,77 790 PLN,10 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Czarny
+Mitsubishi,L200,2019,87 900 PLN,257 000 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,4,Czarny
+Mitsubishi,ASX,2012,39 900 PLN,188 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Colt,2009,10 900 PLN,202 693 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Outlander,2019,80 000 PLN,57 238 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Czerwony
+Mitsubishi,Space Star,2021,52 000,50 538 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,5,Fioletowy
+Mitsubishi,Outlander,2013,32 700 PLN,221 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2019,74 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,ASX,2014,47 900 PLN,149 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,ASX,2015,49 900 PLN,139 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2011,21 897 PLN,160 000 km,Benzyna,Automatyczna,Auta miejskie,1 332 cm3,95 KM,5,Czarny
+Mitsubishi,Lancer,2008,13 000 PLN,247 533 km,Benzyna+LPG,Automatyczna,Auta miejskie,1 798 cm3,143 KM,5,Szary
+Mitsubishi,Outlander,2013,27 500 PLN,157 391 km,Diesel,Manualna,SUV,2 300 cm3,156 KM,5,Biały
+Mitsubishi,Eclipse Cross,2018,86 700 PLN,26 500 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Beżowy
+Mitsubishi,Space Star,2016,30 900 PLN,62 000 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,80 KM,5,Srebrny
+Mitsubishi,Lancer,2009,21 000 PLN,170 253 km,Benzyna+LPG,Manualna,Kompakt,1 800 cm3,143 KM,5,Czarny
+Mitsubishi,ASX,2020,90 000,76 360 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Lancer,2010,52 000 PLN,173 600 km,Benzyna+LPG,Automatyczna,Kompakt,1 998 cm3,240 KM,5,Pomarańczowy
+Mitsubishi,Lancer Evolution,2005,54 000 PLN,191 572 km,Benzyna,Manualna,Sedan,1 997 cm3,280 KM,4,Niebieski
+Mitsubishi,Eclipse Cross,2023,59 900 PLN,9 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czarny
+Mitsubishi,Lancer,2017,39 000 PLN,137 000 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Lancer,2006,3 500 PLN,355 000 km,Benzyna+LPG,Manualna,Kombi,1 584 cm3,98 KM,5,Szary
+Mitsubishi,ASX,2017,62 999 PLN,77 481 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2015,49 900 PLN,136 783 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,ASX,2017,64 900 PLN,76 000 km,Benzyna+LPG,Manualna,SUV,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Space Star,2004,3 900 PLN,400 000 km,Diesel,Manualna,Minivan,1 870 cm3,115 KM,5,Srebrny
+Mitsubishi,ASX,2013,39 000 PLN,249 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2017,82 900 PLN,83 000 km,Benzyna+LPG,Automatyczna,Kombi,2 998 cm3,224 KM,5,Inny kolor
+Mitsubishi,Outlander,2013,39 600 PLN,297 765 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2019,79 900 PLN,65 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Bordowy
+Mitsubishi,Outlander,2008,25 400 PLN,174 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Złoty
+Mitsubishi,Outlander,2013,33 500 PLN,240 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Czarny
+Mitsubishi,Lancer,2012,16 000 PLN,310 236 km,Benzyna+LPG,Manualna,Kompakt,1 590 cm3,117 KM,5,Czerwony
+Mitsubishi,Eclipse Cross,2018,84 500 PLN,35 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,Lancer Evolution,2002,199 900 PLN,46 000 km,Benzyna,Manualna,Sedan,1 997 cm3,265 KM,4,Biały
+Mitsubishi,Lancer,2010,44 897 PLN,175 000 km,Benzyna+LPG,Automatyczna,Kompakt,1 998 cm3,240 KM,5,Czarny
+Mitsubishi,Space Star,2015,20 900 PLN,126 460 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Biały
+Mitsubishi,Lancer,2009,16 600 PLN,213 695 km,Benzyna,Manualna,Auta małe,1 798 cm3,143 KM,5,Czarny
+Mitsubishi,Space Star,2023,70 990 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,4,Bordowy
+Mitsubishi,ASX,2011,35 900 PLN,189 949 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Outlander,2018,94 500 PLN,47 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2013,49 900 PLN,180 600 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Pomarańczowy
+Mitsubishi,ASX,2016,49 900 PLN,86 700 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2004,6 000 PLN,146 748 km,Benzyna,Manualna,Auta małe,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Colt,2010,12 900 PLN,212 313 km,Benzyna,Manualna,Kompakt,1 124 cm3,75 KM,5,Czarny
+Mitsubishi,Outlander,2016,82 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,166 KM,5,Czerwony
+Mitsubishi,ASX,2012,37 900 PLN,173 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Niebieski
+Mitsubishi,Eclipse Cross,2021,124 850 PLN,41 291 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czarny
+Mitsubishi,Outlander,2009,19 900 PLN,381 440 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Mitsubishi,Outlander,2014,45 999 PLN,220 000 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2008,26 000 PLN,277 353 km,Benzyna,Manualna,SUV,2 360 cm3,170 KM,5,Szary
+Mitsubishi,ASX,2017,74 000 PLN,50 500 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Inny kolor
+Mitsubishi,Outlander,2019,93 000 PLN,83 000 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2018,76 000 PLN,96 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Outlander,2022,56 250 PLN,35 500 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,Outlander,2016,69 900 PLN,185 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Brązowy
+Mitsubishi,Galant,1999,9 500 PLN,225 000 km,Benzyna,Manualna,Kombi,2 351 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2018,77 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,2 360 cm3,170 KM,5,Granatowy
+Mitsubishi,ASX,2015,37 900 PLN,220 000 km,Diesel,Manualna,SUV,1 560 cm3,114 KM,5,Szary
+Mitsubishi,Pajero,2007,56 900 PLN,279 000 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Czarny
+Mitsubishi,Lancer,2010,24 400 PLN,246 700 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,143 KM,4,Czarny
+Mitsubishi,Lancer,2010,22 000 PLN,204 000 km,Benzyna,Manualna,Sedan,1 798 cm3,143 KM,4,Szary
+Mitsubishi,ASX,2011,24 500 PLN,320 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Srebrny
+Mitsubishi,ASX,2013,30 500 PLN,190 000 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Biały
+Mitsubishi,L200,2018,95 900 PLN,189 000 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,5,Beżowy
+Mitsubishi,Outlander,2013,49 900 PLN,236 000 km,Hybryda,Automatyczna,SUV,1 998 cm3,121 KM,5,Błękitny
+Mitsubishi,Outlander,2015,67 500 PLN,217 300 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mitsubishi,Pajero,1992,24 900 PLN,275 000 km,Benzyna+LPG,Automatyczna,SUV,2 972 cm3,150 KM,3,Czarny
+Mitsubishi,Space Star,2014,16 900 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 193 cm3,80 KM,5,Szary
+Mitsubishi,Pajero,2002,29 900 PLN,229 000 km,Diesel,Manualna,SUV,3 200 cm3,165 KM,5,Zielony
+Mitsubishi,Eclipse Cross,2019,73 900 PLN,82 000 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,ASX,2015,46 900 PLN,140 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2009,6 500 PLN,337 221 km,Benzyna+LPG,Manualna,Kompakt,1 332 cm3,95 KM,5,Czerwony
+Mitsubishi,Colt,2009,6 800 PLN,139 000 km,Benzyna,Manualna,Kompakt,1 124 cm3,75 KM,3,Czerwony
+Mitsubishi,Colt,2009,9 500 PLN,105 500 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,3,Niebieski
+Mitsubishi,Colt,2009,11 200 PLN,148 400 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Srebrny
+Mitsubishi,Colt,2008,7 900 PLN,188 754 km,Benzyna+LPG,Manualna,Kompakt,1 332 cm3,95 KM,5,Czarny
+Mitsubishi,ASX,2015,46 900 PLN,109 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,Pajero,2008,43 050 PLN,265 000 km,Diesel,Automatyczna,SUV,3 200 cm3,200 KM,5,Granatowy
+Mitsubishi,ASX,2015,47 900 PLN,81 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer,2010,19 800 PLN,256 000 km,Diesel,Manualna,Kompakt,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,Space Star,2013,18 550 PLN,72 856 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Czarny
+Mitsubishi,ASX,2018,59 900 PLN,106 321 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Colt,2009,8 900 PLN,239 000 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,3,Biały
+Mitsubishi,Lancer,2011,19 000 PLN,242 805 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,5,Szary
+Mitsubishi,ASX,2011,30 900 PLN,217 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Czarny
+Mitsubishi,ASX,2014,43 500 PLN,117 300 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2016,72 000 PLN,130 006 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2018,69 900 PLN,84 907 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,ASX,2017,61 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Beżowy
+Mitsubishi,Lancer,2011,20 900 PLN,132 000 km,Benzyna,Manualna,Kompakt,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Lancer,2011,17 000 PLN,223 311 km,Benzyna+LPG,Manualna,Auta małe,1 798 cm3,140 KM,5,Srebrny
+Mitsubishi,Outlander,2019,98 900 PLN,113 900 km,Hybryda,Automatyczna,SUV,2 360 cm3,135 KM,5,Biały
+Mitsubishi,Space Star,2016,24 900 PLN,44 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,71 KM,5,Czarny
+Mitsubishi,ASX,2015,49 900 PLN,167 000 km,Benzyna,Manualna,SUV,1 590 cm3,116 KM,5,Czerwony
+Mitsubishi,Lancer,2008,6 900 PLN,351 644 km,Diesel,Manualna,Coupe,1 968 cm3,140 KM,5,Szary
+Mitsubishi,ASX,2015,43 900 PLN,149 350 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2020,76 000 PLN,87 500 km,Benzyna+LPG,Automatyczna,SUV,1 998 cm3,150 KM,5,Srebrny
+Mitsubishi,Outlander,2014,53 500 PLN,123 945 km,Diesel,Automatyczna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Outlander,2015,61 800 PLN,180 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Biały
+Mitsubishi,Eclipse Cross,2018,65 900 PLN,81 616 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Szary
+Mitsubishi,Space Star,2023,49 900 PLN,6 513 km,Benzyna,Manualna,Auta miejskie,1 193 cm3,71 KM,5,Biały
+Mitsubishi,ASX,2023,96 900 PLN,7 800 km,Hybryda,Manualna,Auta miejskie,1 332 cm3,140 KM,5,Srebrny
+Mitsubishi,Outlander,2015,62 900 PLN,141 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Szary
+Mitsubishi,ASX,2024,120 190 PLN,10 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Mitsubishi,Pajero Pinin,2002,8 500 PLN,282 079 km,Benzyna,Manualna,SUV,1 999 cm3,129 KM,5,Czarny
+Mitsubishi,Eclipse Cross,2022,119 900 PLN,32 000 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czerwony
+Mitsubishi,Lancer,2008,19 900 PLN,220 400 km,Benzyna,Manualna,Sedan,1 798 cm3,143 KM,4,Srebrny
+Mitsubishi,ASX,2019,74 900 PLN,83 993 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Eclipse,2018,84 000 PLN,81 798 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czerwony
+Mitsubishi,ASX,2017,61 900 PLN,59 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Pajero Pinin,2002,25 000 PLN,146 891 km,Benzyna+LPG,Manualna,SUV,1 834 cm3,114 KM,3,Szary
+Mitsubishi,Outlander,2015,48 500 PLN,148 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Galant,2002,15 900 PLN,225 895 km,Benzyna,Manualna,Sedan,2 498 cm3,161 KM,4,Granatowy
+Mitsubishi,Eclipse Cross,2018,78 900 PLN,92 453 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Biały
+Mitsubishi,3000GT,1997,59 900 PLN,148 000 km,Benzyna,Automatyczna,Coupe,2 972 cm3,160 KM,2,Zielony
+Mitsubishi,ASX,2011,45 000 PLN,105 073 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2023,164 900 PLN,13 610 km,Hybryda,Automatyczna,SUV,2 360 cm3,188 KM,5,Niebieski
+Mitsubishi,Space Star,2015,17 900 PLN,199 000 km,Benzyna,Manualna,Auta małe,1 193 cm3,80 KM,5,Czarny
+Mitsubishi,Space Star,2015,17 900 PLN,199 000 km,Benzyna,Manualna,Auta małe,1 193 cm3,80 KM,5,Czarny
+Mitsubishi,Outlander,2013,42 800 PLN,186 000 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Szary
+Mitsubishi,Outlander,2016,68 000 PLN,111 000 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Space Star,2013,14 900 PLN,142 000 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Czarny
+Mitsubishi,Lancer,2009,17 900 PLN,204 302 km,Benzyna,Manualna,Sedan,1 798 cm3,143 KM,4,Złoty
+Mitsubishi,Space Star,2017,24 890 PLN,72 832 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Srebrny
+Mitsubishi,Outlander,2015,68 800 PLN,124 896 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Szary
+Mitsubishi,Colt,2012,14 800 PLN,151 000 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,95 KM,3,Srebrny
+Mitsubishi,Lancer,2010,23 500 PLN,172 000 km,Benzyna+LPG,Manualna,Kompakt,1 798 cm3,143 KM,5,Czerwony
+Mitsubishi,Outlander,2008,23 900 PLN,229 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Złoty
+Mitsubishi,Colt,2023,77 790 PLN,1 km,Benzyna,Manualna,Auta małe,999 cm3,91 KM,5,Szary
+Mitsubishi,Eclipse Cross,2023,175 890 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Szary
+Mitsubishi,ASX,2012,35 900 PLN,189 321 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Biały
+Mitsubishi,Eclipse Cross,2023,175 890 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,2 360 cm3,98 KM,5,Czarny
+Mitsubishi,ASX,2023,99 990 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Mitsubishi,Space Star,2023,64 990 PLN,1 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Space Star,2023,70 990 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,Space Star,2023,64 990 PLN,1 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Szary
+Mitsubishi,ASX,2011,31 900 PLN,179 400 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Eclipse Cross,2022,88 600 PLN,27 382 km,Benzyna,Automatyczna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,Colt,2023,69 900 PLN,8 000 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Szary
+Mitsubishi,ASX,2012,36 900 PLN,132 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Space Star,2022,49 900 PLN,14 000 km,Benzyna,Automatyczna,Auta małe,1 193 cm3,71 KM,5,Szary
+Mitsubishi,L200,2016,79 000 PLN,190 000 km,Diesel,Automatyczna,SUV,2 442 cm3,181 KM,4,Czarny
+Mitsubishi,ASX,2011,33 990 PLN,219 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Niebieski
+Mitsubishi,Outlander,2013,36 700 PLN,285 000 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,ASX,2015,44 900 PLN,163 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,ASX,2011,32 900 PLN,196 000 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Szary
+Mitsubishi,Outlander,2014,58 000 PLN,174 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,147 KM,5,Biały
+Mitsubishi,Space Star,2023,64 400 PLN,10 km,Benzyna,Manualna,Kompakt,1 193 cm3,71 KM,5,Czerwony
+Mitsubishi,Lancer,2011,23 900 PLN,220 000 km,Benzyna,Manualna,Kompakt,1 590 cm3,117 KM,5,Czarny
+Mitsubishi,Pajero,2011,49 700 PLN,254 455 km,Benzyna+LPG,Automatyczna,SUV,3 828 cm3,250 KM,5,Biały
+Mitsubishi,Pajero,2011,49 700 PLN,254 455 km,Benzyna+LPG,Automatyczna,SUV,3 828 cm3,250 KM,5,Biały
+Mitsubishi,Pajero,2007,46 900 PLN,204 000 km,Diesel,Automatyczna,SUV,3 200 cm3,170 KM,5,Szary
+Mitsubishi,Outlander,2011,29 999 PLN,258 000 km,Diesel,Manualna,SUV,2 268 cm3,177 KM,5,Brązowy
+Mitsubishi,Colt,2007,7 900 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,3,Srebrny
+Mitsubishi,Pajero,2012,59 900 PLN,165 000 km,Benzyna,Automatyczna,SUV,3 828 cm3,250 KM,5,Biały
+Mitsubishi,Lancer Evolution,2012,73 800 PLN,107 000 km,Benzyna,Automatyczna,Sedan,1 998 cm3,295 KM,4,Biały
+Mitsubishi,Colt,2006,11 300 PLN,93 450 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Czarny
+Mitsubishi,Outlander,2010,25 900 PLN,222 000 km,Benzyna,Manualna,SUV,1 998 cm3,147 KM,5,Czarny
+Mitsubishi,Space Star,2014,19 900 PLN,113 600 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Biały
+Mitsubishi,Lancer Evolution,2003,190 000 PLN,74 500 km,Benzyna,Manualna,Sedan,1 998 cm3,295 KM,4,Czerwony
+Mitsubishi,ASX,2012,47 500 PLN,48 393 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Brązowy
+Mitsubishi,ASX,2019,67 777 PLN,75 400 km,Benzyna,Manualna,SUV,1 590 cm3,117 KM,5,Biały
+Mitsubishi,Outlander,2015,65 000 PLN,222 550 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,121 KM,5,Czarny
+Mitsubishi,Space Star,2015,17 700 PLN,134 000 km,Benzyna,Manualna,Auta małe,999 cm3,71 KM,5,Srebrny
+Mitsubishi,Eclipse Cross,2018,92 900 PLN,72 800 km,Benzyna,Automatyczna,SUV,1 500 cm3,163 KM,5,Czarny
+Mitsubishi,ASX,2012,33 990 PLN,192 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Brązowy
+Mitsubishi,Eclipse Cross,2019,79 900 PLN,67 460 km,Benzyna,Manualna,SUV,1 499 cm3,163 KM,5,Czarny
+Mitsubishi,Carisma,2000,6 900 PLN,197 420 km,Benzyna,Manualna,Sedan,1 834 cm3,122 KM,5,Bordowy
+Mitsubishi,ASX,2014,34 900 PLN,219 276 km,Diesel,Manualna,SUV,1 798 cm3,116 KM,5,Szary
+Mitsubishi,Pajero,2022,78 000 PLN,134 000 km,Benzyna,Automatyczna,SUV,3 800 cm3,250 KM,5,Biały
+Mitsubishi,Carisma,2000,3 000 PLN,284 000 km,Diesel,Manualna,Sedan,1 870 cm3,90 KM,5,Granatowy
+Mitsubishi,Space Star,2020,49 900 PLN,16 838 km,Benzyna,Automatyczna,Auta miejskie,1 193 cm3,80 KM,5,Inny kolor
+Mitsubishi,L200,2024,170 000 PLN,300 km,Diesel,Automatyczna,SUV,2 399 cm3,180 KM,4,Inny kolor
+Mitsubishi,Outlander,2020,76 000 PLN,58 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,147 KM,5,Szary
+Mitsubishi,Outlander,2014,41 800 PLN,199 719 km,Diesel,Manualna,SUV,2 268 cm3,150 KM,5,Szary
+Mitsubishi,Colt,2012,21 900 PLN,141 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,95 KM,5,Beżowy
+Mitsubishi,Lancer,2015,37 800 PLN,109 000 km,Benzyna,Manualna,Sedan,1 590 cm3,117 KM,5,Inny kolor
+Mitsubishi,Outlander,2005,17 300 PLN,327 000 km,Benzyna,Manualna,SUV,1 997 cm3,202 KM,5,Srebrny
+Mitsubishi,Outlander,2014,52 000 PLN,120 373 km,Benzyna,Automatyczna,SUV,1 998 cm3,150 KM,5,Czarny
+Mitsubishi,Outlander,2019,38 000 PLN,142 248 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,4,Czarny
+Mitsubishi,ASX,2021,73 200 PLN,54 136 km,Benzyna,Manualna,SUV,1 998 cm3,150 KM,5,Biały
+Mitsubishi,Colt,2023,80 290 PLN,5 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Czerwony

@@ -1,0 +1,929 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Seat,Leon,2004,12 900 PLN,245 000 km,Benzyna,Manualna,Kompakt,1 597 cm3,105 KM,5,Czarny
+Seat,Ibiza,2017,42 500 PLN,88 000 km,Benzyna,Manualna,Auta małe,999 cm3,115 KM,5,Biały
+Seat,Ibiza,2011,20 900 PLN,146 715 km,Diesel,Manualna,Auta małe,1 598 cm3,90 KM,5,Inny kolor
+Seat,Ibiza,2019,26 000 PLN,55 000 km,Benzyna,Manualna,Auta małe,999 cm3,80 KM,5,Szary
+Seat,Altea XL,2007,14 999 PLN,160 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Seat,Leon,2009,8 800 PLN,308 665 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Czarny
+Seat,Leon,2011,17 999 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Ibiza,2011,21 300 PLN,176 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Czarny
+Seat,Leon,2014,43 700 PLN,165 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,140 KM,3,Czarny
+Seat,Ibiza,2011,29 900 PLN,148 759 km,Benzyna,Automatyczna,Coupe,1 390 cm3,180 KM,3,Czarny
+Seat,Ibiza,2016,46 900 PLN,107 626 km,Benzyna,Manualna,Auta miejskie,1 798 cm3,192 KM,3,Szary
+Seat,Leon,2017,55 900 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Biały
+Seat,Ateca,2018,93 500 PLN,73 200 km,Benzyna,Automatyczna,SUV,1 395 cm3,150 KM,5,Biały
+Seat,Leon,2017,56 000 PLN,112 705 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Szary
+Seat,Leon,2018,55 900 PLN,103 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Czarny
+Seat,Leon,2006,12 000 PLN,240 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Srebrny
+Seat,Leon,2017,51 900 PLN,126 200 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Niebieski
+Seat,Arona,2019,82 900 PLN,46 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Niebieski
+Seat,Alhambra,2012,24 990 PLN,229 800 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Seat,Alhambra,2013,47 600 PLN,177 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Ateca,2019,99 000 PLN,34 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Inny kolor
+Seat,Mii,2014,17 500 PLN,103 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,3,Żółty
+Seat,Ibiza,2015,27 700 PLN,195 000 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Szary
+Seat,Leon,2016,42 900 PLN,151 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Czarny
+Seat,Leon,2006,13 000 PLN,123 362 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Błękitny
+Seat,Ibiza,2010,17 700 PLN,152 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Czarny
+Seat,Altea XL,2012,21 499 PLN,194 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2008,16 900 PLN,127 400 km,Benzyna,Manualna,Auta miejskie,1 395 cm3,122 KM,5,Szary
+Seat,Leon,2015,48 300 PLN,117 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,5,Biały
+Seat,Ateca,2024,145 450 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Arona,2024,105 500 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Szary
+Seat,Arona,2024,132 319 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Seat,Arona,2024,132 319 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2024,119 516 PLN,1 km,Benzyna,Manualna,Kombi,1 498 cm3,115 KM,5,Szary
+Seat,Leon,2013,33 500 PLN,85 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Szary
+Seat,Tarraco,2019,128 000 PLN,52 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Seat,Exeo,2011,26 800 PLN,276 500 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Biały
+Seat,Ibiza,2004,5 900 PLN,170 000 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,5,Srebrny
+Seat,Altea,2012,21 000 PLN,212 131 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Seat,Altea XL,2010,16 000 PLN,266 000 km,Benzyna,Manualna,Minivan,1 984 cm3,200 KM,5,Czarny
+Seat,Leon,2017,32 900 PLN,222 000 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Biały
+Seat,Leon,2014,34 500 PLN,141 511 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2018,77 900 PLN,93 510 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Czarny
+Seat,Leon,2014,45 000 PLN,227 200 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Arona,2020,79 900 PLN,12 619 km,Benzyna,Automatyczna,Auta małe,999 cm3,115 KM,5,Biały
+Seat,Exeo,2009,14 500 PLN,269 555 km,Benzyna+LPG,Manualna,Sedan,1 781 cm3,150 KM,5,Czarny
+Seat,Leon,2019,46 500 PLN,49 000 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Srebrny
+Seat,Ibiza,2023,69 900 PLN,11 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Biały
+Seat,Leon,2024,159 900 PLN,1 km,Hybryda Plug-in,Automatyczna,Kombi,1 395 cm3,150 KM,5,Szary
+Seat,Ibiza,2024,113 800 PLN,5 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Czarny
+Seat,Leon,2023,114 900 PLN,15 000 km,Diesel,Manualna,Kombi,1 968 cm3,115 KM,5,Szary
+Seat,Ateca,2024,149 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Ateca,2024,140 873 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2014,43 900 PLN,198 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Inny kolor
+Seat,Ibiza,2010,30 900 PLN,148 000 km,Benzyna,Automatyczna,Kompakt,1 390 cm3,180 KM,3,Biały
+Seat,Leon,2021,69 900 PLN,44 446 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Biały
+Seat,Ibiza,2009,10 500 PLN,215 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Czerwony
+Seat,Leon,2014,64 500 PLN,92 272 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,5,Biały
+Seat,Ateca,2020,104 000 PLN,39 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Granatowy
+Seat,Ibiza,2024,111 000 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Czerwony
+Seat,Ateca,2024,153 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Arona,2024,106 000 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czerwony
+Seat,Arona,2024,104 000 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Leon,2024,121 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Arona,2024,102 300 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Srebrny
+Seat,Arona,2024,102 300 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Leon,2015,39 900 PLN,164 743 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Szary
+Seat,Leon,2017,35 900 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Szary
+Seat,Ibiza,2017,52 900 PLN,62 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Biały
+Seat,Leon,2017,55 900 PLN,84 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Szary
+Seat,Leon,2011,17 900 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,5,Żółty
+Seat,Leon,2011,24 900 PLN,121 521 km,Benzyna,Manualna,Kompakt,1 800 cm3,160 KM,5,Czarny
+Seat,Leon,2019,61 900 PLN,87 220 km,Benzyna,Manualna,Kompakt,1 498 cm3,131 KM,5,Biały
+Seat,Ibiza,2013,24 900 PLN,109 800 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Złoty
+Seat,Alhambra,2002,5 700 PLN,294 000 km,Diesel,Manualna,Minivan,1 896 cm3,115 KM,5,Zielony
+Seat,Leon,2018,52 400 PLN,98 000 km,Benzyna,Manualna,Kombi,1 197 cm3,110 KM,5,Srebrny
+Seat,Altea,2006,9 990 PLN,178 000 km,Benzyna+LPG,Automatyczna,Minivan,1 595 cm3,102 KM,5,Szary
+Seat,Leon,2018,68 500 PLN,73 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Biały
+Seat,Altea,2006,8 000 PLN,222 000 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Seat,Leon,2016,50 900 PLN,159 870 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Szary
+Seat,Toledo,2002,5 000 PLN,130 000 km,Benzyna,Manualna,Sedan,1 595 cm3,100 KM,4,Niebieski
+Seat,Ibiza,2011,19 900 PLN,155 148 km,Benzyna,Manualna,Auta małe,1 197 cm3,105 KM,5,Srebrny
+Seat,Leon,2018,54 000 PLN,164 000 km,Diesel,Manualna,Kombi,1 598 cm3,116 KM,5,Srebrny
+Seat,Tarraco,2022,148 000 PLN,13 500 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Granatowy
+Seat,Altea,2011,15 000 PLN,323 056 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Szary
+Seat,Ibiza,2013,17 500 PLN,174 000 km,Diesel,Manualna,Auta małe,1 199 cm3,75 KM,5,Czarny
+Seat,Ibiza,2007,9 600 PLN,205 700 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,5,Czarny
+Seat,Arona,2022,70 900 PLN,41 297 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Srebrny
+Seat,Leon,2009,19 200 PLN,235 600 km,Benzyna+LPG,Manualna,Kompakt,1 595 cm3,102 KM,5,Biały
+Seat,Ibiza,2011,16 900 PLN,174 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,3,Czarny
+Seat,Altea,2010,14 900 PLN,212 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Szary
+Seat,Tarraco,2019,99 900 PLN,83 944 km,Benzyna,Manualna,SUV,1 498 cm3,149 KM,5,Beżowy
+Seat,Leon,2007,15 500 PLN,201 160 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2021,89 900 PLN,75 262 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Biały
+Seat,Arona,2018,62 500 PLN,71 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Szary
+Seat,Leon,2007,16 000 PLN,326 000 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Czerwony
+Seat,Leon,2007,16 000 PLN,326 000 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Czerwony
+Seat,Ibiza,2008,9 900 PLN,198 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,105 KM,3,Czarny
+Seat,Ibiza,2011,17 500 PLN,182 177 km,Diesel,Manualna,Auta małe,1 199 cm3,75 KM,3,Biały
+Seat,Leon,2007,13 900 PLN,232 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Inny kolor
+Seat,Ibiza,2012,11 900 PLN,164 000 km,Diesel,Manualna,Kompakt,1 968 cm3,143 KM,5,Czarny
+Seat,Leon,2007,12 000 PLN,239 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2019,50 900 PLN,88 300 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czerwony
+Seat,Ibiza,2011,13 900 PLN,159 000 km,Diesel,Manualna,Kompakt,1 199 cm3,75 KM,5,Biały
+Seat,Ibiza,2017,28 000 PLN,84 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Czarny
+Seat,Ateca,2019,94 999 PLN,122 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Seat,Ibiza,2011,16 900 PLN,169 000 km,Benzyna+LPG,Manualna,Kombi,1 390 cm3,85 KM,5,Czarny
+Seat,Leon,2015,35 000 PLN,200 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Seat,Ibiza,2011,17 500 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Brązowy
+Seat,Ibiza,2009,18 500 PLN,224 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Czarny
+Seat,Altea XL,2013,21 900 PLN,284 596 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Inny kolor
+Seat,Leon,2018,28 900 PLN,212 000 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Srebrny
+Seat,Leon,2011,19 800 PLN,200 100 km,Diesel,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Czarny
+Seat,Ibiza,2011,19 900 PLN,152 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Czarny
+Seat,Leon,2018,39 500 PLN,112 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,86 KM,5,Granatowy
+Seat,Ibiza,2014,21 000 PLN,192 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Szary
+Seat,Alhambra,2011,42 900 PLN,230 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2011,27 500 PLN,273 786 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Biały
+Seat,Mii,2014,17 500 PLN,157 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,3,Czarny
+Seat,Alhambra,2016,49 900 PLN,226 000 km,Diesel,Manualna,Minivan,1 968 cm3,150 KM,5,Czarny
+Seat,Ibiza,2014,29 800 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Niebieski
+Seat,Leon,2011,35 500 PLN,125 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,211 KM,5,Niebieski
+Seat,Ibiza,2018,41 700 PLN,107 000 km,Diesel,Manualna,Kompakt,1 598 cm3,80 KM,5,Szary
+Seat,Altea,2004,8 500 PLN,321 370 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Ibiza,2013,23 500 PLN,142 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,3,Biały
+Seat,Leon,2024,119 000 PLN,5 335 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Szary
+Seat,Leon,2004,11 500 PLN,204 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Seat,Ibiza,2024,81 000 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Biały
+Seat,Ibiza,2024,93 000 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Seat,Leon,2014,43 990 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Szary
+Seat,Leon,2003,9 700 PLN,280 000 km,Diesel,Manualna,Kompakt,1 896 cm3,130 KM,5,Srebrny
+Seat,Ibiza,2011,9 000 PLN,265 548 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Szary
+Seat,Ibiza,2015,28 900 PLN,90 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,5,Czarny
+Seat,Leon,2020,124 900 PLN,77 700 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Szary
+Seat,Leon,2014,39 900 PLN,155 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Czerwony
+Seat,Ibiza,2011,22 900 PLN,217 000 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,105 KM,5,Szary
+Seat,Leon,2009,28 000 PLN,146 003 km,Benzyna,Manualna,Kompakt,1 984 cm3,211 KM,5,Biały
+Seat,Ibiza,2009,10 500 PLN,234 400 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Zielony
+Seat,Leon,2017,59 900 PLN,69 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Inny kolor
+Seat,Toledo,2001,6 900 PLN,304 000 km,Benzyna+LPG,Manualna,Sedan,1 781 cm3,125 KM,4,Niebieski
+Seat,Ibiza,2013,22 900 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Czarny
+Seat,Leon,2015,45 900 PLN,194 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Czarny
+Seat,Leon,2006,15 900 PLN,296 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ibiza,2011,16 900 PLN,189 300 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,3,Czarny
+Seat,Tarraco,2023,149 900 PLN,27 683 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Exeo,2009,16 900 PLN,235 600 km,Benzyna,Manualna,Sedan,1 595 cm3,102 KM,4,Czarny
+Seat,Leon,2005,10 500 PLN,297 046 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Seat,Ibiza,2015,22 900 PLN,142 000 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Inny kolor
+Seat,Tarraco,2019,85 900 PLN,337 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Zielony
+Seat,Leon,2014,35 900 PLN,105 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Niebieski
+Seat,Leon,2008,28 900 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,240 KM,5,Czerwony
+Seat,Arona,2018,29 500 PLN,64 000 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Szary
+Seat,Leon,2015,50 900 PLN,135 404 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Biały
+Seat,Ateca,2018,72 000 PLN,165 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Beżowy
+Seat,Leon,2019,79 900 PLN,112 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czarny
+Seat,Ibiza,2006,8 900 PLN,174 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Granatowy
+Seat,Leon,2007,12 000 PLN,257 000 km,Benzyna,Manualna,Auta małe,1 595 cm3,102 KM,5,Szary
+Seat,Alhambra,2011,62 800 PLN,231 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,170 KM,5,Srebrny
+Seat,Leon,2015,46 900 PLN,163 000 km,Benzyna,Manualna,Kombi,1 395 cm3,140 KM,5,Szary
+Seat,Leon,2008,19 000 PLN,203 700 km,Diesel,Manualna,Auta miejskie,1 896 cm3,105 KM,5,Srebrny
+Seat,Ibiza,2006,10 000 PLN,133 423 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Błękitny
+Seat,Leon,2018,59 999 PLN,179 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Srebrny
+Seat,Exeo,2012,29 000 PLN,269 000 km,Benzyna,Manualna,Kombi,1 984 cm3,211 KM,5,Biały
+Seat,Leon,2015,69 800 PLN,232 200 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Czarny
+Seat,Leon,2019,66 500 PLN,102 000 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,150 KM,5,Szary
+Seat,Exeo,2010,23 900 PLN,108 000 km,Benzyna,Manualna,Kombi,1 798 cm3,120 KM,5,Czerwony
+Seat,Ibiza,2013,21 000 PLN,166 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,105 KM,5,Czarny
+Seat,Ateca,2017,60 500 PLN,217 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Szary
+Seat,Altea XL,2007,13 500 PLN,255 228 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Czarny
+Seat,Altea XL,2010,23 999 PLN,249 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Inny kolor
+Seat,Ateca,2019,99 900 PLN,46 616 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Altea XL,2007,14 500 PLN,248 239 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2016,35 800 PLN,200 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Biały
+Seat,Ibiza,2006,18 900 PLN,293 000 km,Diesel,Manualna,Kompakt,1 896 cm3,130 KM,5,Czarny
+Seat,Altea XL,2007,14 250 PLN,244 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2015,39 900 PLN,113 000 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,105 KM,5,Czerwony
+Seat,Leon,2022,77 900 PLN,90 250 km,Benzyna,Automatyczna,Kombi,999 cm3,110 KM,5,Szary
+Seat,Arona,2024,93 200 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Szary
+Seat,Exeo,2011,19 900 PLN,208 500 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Szary
+Seat,Arona,2019,53 900 PLN,96 240 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Czarny
+Seat,Leon,2022,78 500 PLN,57 128 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Seat,Ibiza,2010,23 500 PLN,163 868 km,Diesel,Manualna,Kompakt,1 968 cm3,143 KM,3,Szary
+Seat,Ibiza,2014,16 000 PLN,183 400 km,Diesel,Manualna,Auta małe,1 199 cm3,75 KM,5,Inny kolor
+Seat,Leon,2008,14 500 PLN,163 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2014,34 900 PLN,171 300 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Brązowy
+Seat,Leon,2007,10 000 PLN,273 000 km,Diesel,Manualna,Auta małe,1 896 cm3,105 KM,5,Czarny
+Seat,Ibiza,2004,5 000 PLN,225 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,75 KM,5,Niebieski
+Seat,Ibiza,2006,6 900 PLN,241 695 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,3,Czarny
+Seat,Arona,2020,54 989,99 200 km,Benzyna+CNG,Manualna,SUV,999 cm3,95 KM,5,Biały
+Seat,Ateca,2019,77 700 PLN,136 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Leon,2014,24 900 PLN,330 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Czarny
+Seat,Leon,2006,15 900 PLN,177 900 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ateca,2021,118 900 PLN,61 836 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Seat,Leon,2021,83 900 PLN,116 231 km,Diesel,Manualna,Kompakt,1 968 cm3,114 KM,5,Czerwony
+Seat,Ateca,2023,119 900 PLN,26 519 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Ateca,2024,145 370 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2006,24 786 PLN,144 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,200 KM,5,Czarny
+Seat,Arona,2023,89 900 PLN,1 872 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Seat,Altea,2009,15 500 PLN,219 177 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Czarny
+Seat,Leon,2019,70 000 PLN,144 350 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2020,73 500 PLN,105 000 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Szary
+Seat,Ibiza,2016,30 900 PLN,67 200 km,Benzyna,Manualna,Kompakt,999 cm3,75 KM,3,Biały
+Seat,Leon,2007,14 600 PLN,129 100 km,Benzyna,Manualna,Auta miejskie,1 595 cm3,102 KM,5,Szary
+Seat,Ateca,2020,89 000 PLN,53 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2015,43 800 PLN,221 000 km,Diesel,Manualna,Auta miejskie,1 968 cm3,150 KM,5,Czarny
+Seat,Altea,2008,14 900 PLN,167 600 km,Benzyna,Manualna,Minivan,1 390 cm3,85 KM,5,Czarny
+Seat,Leon,2017,96 999,120 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Czerwony
+Seat,Ateca,2019,93 997,95 622 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Pomarańczowy
+Seat,Leon,2013,51 000 PLN,90 123 km,Benzyna,Manualna,Auta małe,1 798 cm3,180 KM,5,Szary
+Seat,Ateca,2024,139 433 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Ibiza,2009,7 500 PLN,276 485 km,Benzyna+LPG,Manualna,Kompakt,1 390 cm3,86 KM,3,Czarny
+Seat,Leon,2011,30 900 PLN,172 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Biały
+Seat,Altea,2007,10 000 PLN,240 667 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Seat,Ibiza,2010,14 900 PLN,168 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Czarny
+Seat,Leon,2018,75 000 PLN,79 900 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Seat,Altea,2009,16 900 PLN,230 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2006,12 900 PLN,270 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Seat,Altea,2012,20 600 PLN,191 987 km,Benzyna,Manualna,Minivan,1 390 cm3,85 KM,5,Biały
+Seat,Leon,2017,53 500 PLN,130 100 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Czarny
+Seat,Leon,2019,49 999 PLN,94 175 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Seat,Leon,2019,66 800 PLN,148 855 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Czarny
+Seat,Tarraco,2019,109 999 PLN,89 100 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Inny kolor
+Seat,Leon,2020,63 837 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Biały
+Seat,Ibiza,2011,16 499 PLN,274 000 km,Diesel,Manualna,Kombi,1 199 cm3,75 KM,5,Srebrny
+Seat,Ibiza,2008,17 900 PLN,197 173 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Zielony
+Seat,Ibiza,2012,20 900 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Granatowy
+Seat,Arona,2019,82 000 PLN,59 560 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2008,18 900 PLN,169 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ibiza,2016,22 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,999 cm3,75 KM,5,Srebrny
+Seat,Ibiza,2013,18 900 PLN,165 000 km,Benzyna,Automatyczna,Kombi,1 395 cm3,150 KM,5,Szary
+Seat,Leon,2015,13 900 PLN,208 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Biały
+Seat,Ibiza,2012,16 900 PLN,195 357 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,3,Czarny
+Seat,Ateca,2017,59 890 PLN,103 556 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Seat,Ateca,2017,65 500 PLN,145 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Biały
+Seat,Alhambra,2012,37 900 PLN,270 000 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Czarny
+Seat,Altea,2008,13 000 PLN,215 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2004,6 299 PLN,269 000 km,Diesel,Manualna,Kompakt,1 896 cm3,110 KM,5,Niebieski
+Seat,Ibiza,2016,28 900 PLN,132 000 km,Diesel,Manualna,Kompakt,1 422 cm3,90 KM,5,Czarny
+Seat,Leon,2013,32 999 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,105 KM,5,Czarny
+Seat,Leon,2016,55 000 PLN,162 000 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Brązowy
+Seat,Ibiza,2016,19 999 PLN,50 000 km,Benzyna,Manualna,Sedan,1 197 cm3,90 KM,3,Czerwony
+Seat,Leon,2010,27 999 PLN,233 342 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Biały
+Seat,Alhambra,2011,39 999 PLN,240 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2018,55 000 PLN,94 328 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Seat,Leon,2014,42 600 PLN,152 500 km,Diesel,Automatyczna,Auta miejskie,1 968 cm3,150 KM,3,Czarny
+Seat,Leon,2018,61 300 PLN,156 415 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Biały
+Seat,Ateca,2017,79 900 PLN,86 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Biały
+Seat,Leon,2013,32 500 PLN,119 104 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Czarny
+Seat,Ibiza,2012,24 900 PLN,102 799 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,3,Czarny
+Seat,Altea XL,2009,19 800 PLN,128 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Szary
+Seat,Arona,2018,57 700 PLN,45 684 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Toledo,2008,10 900 PLN,290 000 km,Benzyna+LPG,Manualna,Kompakt,1 595 cm3,102 KM,5,Niebieski
+Seat,Ibiza,2010,14 999 PLN,70 959 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Bordowy
+Seat,Leon,2007,34 999 PLN,75 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,240 KM,5,Czerwony
+Seat,Ateca,2017,71 600 PLN,125 378 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Biały
+Seat,Ateca,2024,135 873 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Arona,2024,97 600 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Seat,Alhambra,2015,57 900 PLN,219 458 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2015,34 900 PLN,167 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,5,Beżowy
+Seat,Mii,2019,29 500 PLN,77 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,5,Biały
+Seat,Ibiza,2007,8 500 PLN,265 000 km,Benzyna+LPG,Manualna,Auta małe,1 198 cm3,60 KM,3,Czerwony
+Seat,Leon,2014,66 000 PLN,123 200 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Szary
+Seat,Leon,2021,94 900 PLN,44 988 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Inny kolor
+Seat,Ibiza,2018,35 000 PLN,118 700 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Szary
+Seat,Leon,2004,12 500 PLN,176 625 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Seat,Ibiza,2012,21 900 PLN,129 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Czarny
+Seat,Leon,2006,8 700 PLN,351 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Srebrny
+Seat,Leon,2018,43 900 PLN,173 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Granatowy
+Seat,Ibiza,2010,16 700 PLN,282 100 km,Diesel,Manualna,Auta małe,1 598 cm3,90 KM,5,Czarny
+Seat,Ibiza,2009,17 750 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,3,Biały
+Seat,Leon,2013,37 900 PLN,223 700 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Beżowy
+Seat,Altea XL,2011,19 900 PLN,131 982 km,Benzyna,Automatyczna,Minivan,1 798 cm3,160 KM,5,Srebrny
+Seat,Arona,2024,125 564 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Seat,Ateca,2024,137 947 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Alhambra,2012,44 900 PLN,229 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Czerwony
+Seat,Leon,2015,42 555 PLN,227 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Ibiza,2013,33 999 PLN,67 000 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,105 KM,5,Czerwony
+Seat,Ateca,2022,116 999 PLN,32 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2006,16 800 PLN,227 867 km,Benzyna,Manualna,Kompakt,1 984 cm3,185 KM,5,Czerwony
+Seat,Ibiza,2016,19 900 PLN,277 680 km,Diesel,Manualna,Auta małe,1 422 cm3,75 KM,5,Biały
+Seat,Leon,2020,69 900 PLN,159 907 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Leon,2020,78 000 PLN,47 700 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Czerwony
+Seat,Altea XL,2007,13 400 PLN,180 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Błękitny
+Seat,Altea,2006,6 000 PLN,292 500 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Srebrny
+Seat,Altea XL,2010,17 999 PLN,196 000 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Czarny
+Seat,Leon,2016,32 900 PLN,225 500 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Seat,Ateca,2024,99 900 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Biały
+Seat,Arona,2024,99 900 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czerwony
+Seat,Leon,2016,33 500 PLN,139 442 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Czarny
+Seat,Exeo,2009,14 000 PLN,223 000 km,Benzyna,Manualna,Sedan,1 595 cm3,102 KM,4,Srebrny
+Seat,Leon,2014,27 500 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,105 KM,5,Szary
+Seat,Leon,2018,62 800 PLN,174 127 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Seat,Leon,2007,5 470 PLN,212 250 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Czarny
+Seat,Altea,2007,6 999 PLN,285 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Inny kolor
+Seat,Ibiza,2017,29 900 PLN,145 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,5,Inny kolor
+Seat,Leon,2016,52 900 PLN,156 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Exeo,2011,17 900 PLN,288 600 km,Diesel,Manualna,Kombi,1 968 cm3,120 KM,5,Czarny
+Seat,Leon,2016,43 000 PLN,241 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Biały
+Seat,Leon,2015,41 800 PLN,182 000 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Szary
+Seat,Ibiza,2017,43 900 PLN,77 700 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Niebieski
+Seat,Toledo,2016,32 500 PLN,176 616 km,Benzyna+LPG,Manualna,Sedan,1 197 cm3,90 KM,5,Biały
+Seat,Altea,2007,8 500 PLN,323 000 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Granatowy
+Seat,Exeo,2011,25 800 PLN,202 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,143 KM,5,Inny kolor
+Seat,Leon,2019,67 350 PLN,102 000 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Szary
+Seat,Leon,2021,42 500 PLN,209 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Seat,Toledo,2016,33 600 PLN,111 300 km,Benzyna,Manualna,Kompakt,1 197 cm3,90 KM,5,Beżowy
+Seat,Leon,2016,50 950 PLN,211 700 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Biały
+Seat,Ateca,2018,76 900 PLN,53 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Czerwony
+Seat,Leon,2008,16 900 PLN,195 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2013,48 000 PLN,202 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2001,8 000 PLN,180 279 km,Benzyna,Manualna,Kompakt,1 781 cm3,125 KM,5,Niebieski
+Seat,Altea,2007,13 900 PLN,220 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2016,45 600 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,110 KM,5,Niebieski
+Seat,Leon,2016,69 950 PLN,161 000 km,Benzyna,Manualna,Kombi,1 984 cm3,290 KM,5,Czerwony
+Seat,Ibiza,2017,49 500 PLN,72 213 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Szary
+Seat,Ibiza,2014,24 900 PLN,134 245 km,Benzyna,Manualna,Kombi,1 198 cm3,60 KM,5,Biały
+Seat,Ibiza,2021,24 500 PLN,37 000 km,Benzyna,Manualna,Auta małe,999 cm3,80 KM,5,Szary
+Seat,Ibiza,2012,17 900 PLN,162 000 km,Diesel,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Czarny
+Seat,Ibiza,2017,39 900 PLN,180 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,75 KM,5,Biały
+Seat,Exeo,2013,28 900 PLN,230 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Szary
+Seat,Arona,2022,79 800 PLN,31 000 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Szary
+Seat,Altea,2008,17 500 PLN,162 989 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Mii,2019,29 500 PLN,25 300 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Seat,Leon,2019,69 987 PLN,67 700 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2004,26 900 PLN,225 000 km,Benzyna,Manualna,Auta miejskie,2 791 cm3,204 KM,5,Czarny
+Seat,Leon,2015,34 999 PLN,186 562 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Seat,Leon,2017,76 900 PLN,166 493 km,Benzyna,Manualna,Kombi,1 984 cm3,290 KM,5,Biały
+Seat,Leon,2000,24 000 PLN,231 887 km,Benzyna,Manualna,Auta miejskie,1 781 cm3,225 KM,5,Żółty
+Seat,Arona,2024,120 900 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czerwony
+Seat,Arona,2024,102 200 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Niebieski
+Seat,Leon,2012,22 500 PLN,177 064 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czerwony
+Seat,Ibiza,2016,29 900 PLN,178 000 km,Benzyna,Manualna,Kombi,1 197 cm3,90 KM,5,Czarny
+Seat,Leon,2022,34 900,22 461 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Fioletowy
+Seat,Leon,2013,32 900 PLN,152 500 km,Benzyna,Manualna,Auta małe,1 395 cm3,122 KM,5,Błękitny
+Seat,Ateca,2017,64 999 PLN,170 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Czarny
+Seat,Ibiza,2019,20 500 PLN,33 000 km,Benzyna,Manualna,Auta małe,999 cm3,115 KM,5,Biały
+Seat,Arona,2022,67 000 PLN,44 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Seat,Leon,2014,59 999 PLN,176 000 km,Benzyna,Automatyczna,Coupe,1 984 cm3,280 KM,3,Czarny
+Seat,Leon,2014,39 499 PLN,182 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Złoty
+Seat,Leon,2019,102 000 PLN,104 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Szary
+Seat,Leon,2010,20 000 PLN,142 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,125 KM,5,Czerwony
+Seat,Altea XL,2007,13 900 PLN,289 022 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Czarny
+Seat,Leon,2015,38 900 PLN,208 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czarny
+Seat,Arona,2024,106 400 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Biały
+Seat,Altea,2007,12 400 PLN,258 000 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Brązowy
+Seat,Ateca,2018,121 900 PLN,32 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Czarny
+Seat,Leon,2017,48 500 PLN,215 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Biały
+Seat,Toledo,1999,2 500 PLN,392 300 km,Benzyna+LPG,Manualna,Sedan,2 324 cm3,150 KM,4,Czarny
+Seat,Leon,2016,46 900 PLN,210 000 km,Diesel,Manualna,Coupe,1 968 cm3,184 KM,3,Czerwony
+Seat,Leon,2016,41 500 PLN,163 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Seat,Leon,2013,37 900 PLN,180 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Biały
+Seat,Ibiza,2009,14 000 PLN,175 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Szary
+Seat,Alhambra,1998,5 900 PLN,257 000 km,Benzyna,Manualna,Minivan,1 984 cm3,115 KM,5,Zielony
+Seat,Leon,2016,37 900 PLN,284 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czarny
+Seat,Ibiza,2013,26 500 PLN,142 626 km,Diesel,Manualna,Kompakt,1 598 cm3,90 KM,5,Czarny
+Seat,Ibiza,2008,12 900 PLN,198 020 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,3,Czarny
+Seat,Leon,2024,107 000 PLN,5 km,Benzyna,Manualna,Kompakt,1 498 cm3,115 KM,5,Niebieski
+Seat,Alhambra,2011,40 900 PLN,246 423 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Czarny
+Seat,Leon,2007,13 500 PLN,241 500 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Biały
+Seat,Leon,2006,20 900 PLN,222 860 km,Benzyna,Manualna,Kompakt,1 984 cm3,185 KM,5,Czarny
+Seat,Ateca,2024,148 000 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Arona,2024,127 500 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Inny kolor
+Seat,Ibiza,2009,15 500 PLN,173 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Srebrny
+Seat,Cordoba,2005,3 999 PLN,248 000 km,Benzyna+LPG,Manualna,Sedan,1 390 cm3,75 KM,4,Zielony
+Seat,Toledo,2015,28 000 PLN,167 000 km,Diesel,Manualna,Sedan,1 422 cm3,90 KM,5,Inny kolor
+Seat,Altea XL,2014,22 000 PLN,150 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Ibiza,2017,47 900 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Inny kolor
+Seat,Leon,2003,17 900 PLN,357 000 km,Benzyna,Manualna,Kompakt,1 781 cm3,180 KM,5,Niebieski
+Seat,Ibiza,2017,43 900 PLN,96 632 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Inny kolor
+Seat,Toledo,2016,32 000 PLN,167 433 km,Benzyna+LPG,Manualna,Kompakt,1 197 cm3,90 KM,5,Biały
+Seat,Altea XL,2010,16 999 PLN,225 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2014,41 900 PLN,169 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2008,17 800 PLN,410 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Seat,Ibiza,2018,39 900 PLN,49 707 km,Benzyna,Manualna,Auta miejskie,999 cm3,75 KM,5,Czarny
+Seat,Leon,2018,118 000 PLN,86 600 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Biały
+Seat,Leon,2017,110 000 PLN,143 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Biały
+Seat,Ateca,2017,92 000 PLN,51 000 km,Benzyna,Automatyczna,SUV,1 400 cm3,150 KM,5,Inny kolor
+Seat,Leon,2016,85 999 PLN,105 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,290 KM,5,Czerwony
+Seat,Leon,2018,73 000 PLN,105 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Szary
+Seat,Ateca,2019,69 900 PLN,196 750 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Arona,2018,64 900 PLN,53 000 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Biały
+Seat,Leon,2014,29 999 PLN,122 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Czerwony
+Seat,Ibiza,2012,19 900 PLN,154 000 km,Benzyna,Manualna,Kombi,1 390 cm3,86 KM,5,Czarny
+Seat,Tarraco,2019,129 900 PLN,47 200 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Seat,Alhambra,2007,16 400 PLN,290 900 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Exeo,2011,13 900 PLN,356 400 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Szary
+Seat,Altea XL,2012,20 900 PLN,184 253 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Szary
+Seat,Leon,2018,62 900 PLN,114 000 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Biały
+Seat,Leon,2010,19 900 PLN,238 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Inny kolor
+Seat,Leon,2014,33 500 PLN,280 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Szary
+Seat,Altea,2006,14 300 PLN,176 551 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Szary
+Seat,Alhambra,2014,52 500 PLN,197 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2005,12 900 PLN,228 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Granatowy
+Seat,Altea,2007,16 900 PLN,270 000 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Czarny
+Seat,Leon,2007,16 900 PLN,121 905 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Szary
+Seat,Leon,2015,41 900 PLN,142 100 km,Diesel,Manualna,Kombi,1 968 cm3,149 KM,5,Czarny
+Seat,Leon,2019,69 000 PLN,105 031 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Czerwony
+Seat,Leon,2016,80 600 PLN,106 291 km,Benzyna,Manualna,Kombi,1 984 cm3,290 KM,5,Biały
+Seat,Ibiza,2012,22 500 PLN,171 200 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Czarny
+Seat,Leon,2006,14 900 PLN,217 533 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Srebrny
+Seat,Leon,2006,14 900 PLN,180 043 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Leon,2017,64 500 PLN,127 000 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Czarny
+Seat,Leon,2020,97 500 PLN,83 900 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,290 KM,5,Czarny
+Seat,Ateca,2019,89 790 PLN,84 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2019,60 900 PLN,184 230 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Seat,Ibiza,2005,6 500 PLN,167 099 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,3,Czarny
+Seat,Exeo,2011,14 999 PLN,264 187 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Biały
+Seat,Leon,2021,99 900 PLN,70 779 km,Hybryda Plug-in,Automatyczna,Kompakt,1 395 cm3,204 KM,5,Czerwony
+Seat,Leon,2017,79 900 PLN,88 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,300 KM,3,Czarny
+Seat,Altea,2004,9 900 PLN,226 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Granatowy
+Seat,Leon,2014,38 700 PLN,246 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Seat,Leon,2019,75 900 PLN,78 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Srebrny
+Seat,Ibiza,2007,6 900 PLN,167 900 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,5,Czarny
+Seat,Altea,2011,21 500 PLN,190 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Seat,Leon,2015,66 900 PLN,165 100 km,Benzyna,Manualna,Kompakt,1 984 cm3,280 KM,5,Biały
+Seat,Cordoba,2003,4 300 PLN,207 000 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,4,Czarny
+Seat,Leon,2007,8 500 PLN,320 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Srebrny
+Seat,Leon,2020,93 000 PLN,26 050 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2010,17 900 PLN,191 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,105 KM,5,Biały
+Seat,Toledo,2016,33 900 PLN,156 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Beżowy
+Seat,Arona,2024,108 600 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Seat,Leon,2015,74 900 PLN,127 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Szary
+Seat,Leon,2014,45 900 PLN,244 450 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Inny kolor
+Seat,Arona,2020,57 500 PLN,50 500 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Seat,Ibiza,2008,11 900 PLN,150 850 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,3,Srebrny
+Seat,Leon,2008,23 900 PLN,84 637 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czerwony
+Seat,Alhambra,2017,80 000 PLN,269 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,184 KM,5,Czarny
+Seat,Ateca,2017,68 500 PLN,178 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Seat,Ibiza,2010,12 500 PLN,216 000 km,Diesel,Manualna,Auta małe,1 598 cm3,90 KM,5,Czarny
+Seat,Altea,2006,9 900 PLN,241 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Niebieski
+Seat,Leon,2018,56 900 PLN,205 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Czarny
+Seat,Mii,2013,19 000 PLN,77 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Czarny
+Seat,Altea,2011,22 900 PLN,121 500 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2009,27 500 PLN,301 500 km,Benzyna,Manualna,Kompakt,1 984 cm3,240 KM,5,Biały
+Seat,Leon,2021,114 900 PLN,45 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Szary
+Seat,Ibiza,2015,24 900 PLN,212 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,5,Zielony
+Seat,Leon,2018,64 800 PLN,178 095 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Niebieski
+Seat,Ibiza,2018,46 000 PLN,17 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Czerwony
+Seat,Leon,2010,14 900 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,125 KM,5,Biały
+Seat,Alhambra,2016,69 900 PLN,277 202 km,Diesel,Automatyczna,Minivan,1 968 cm3,184 KM,5,Brązowy
+Seat,Leon,2018,66 000 PLN,114 000 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Czerwony
+Seat,Alhambra,2015,70 900 PLN,200 000 km,Diesel,Automatyczna,SUV,1 968 cm3,184 KM,5,Brązowy
+Seat,Ateca,2020,115 000 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2009,17 900 PLN,225 208 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ateca,2019,57 900 PLN,48 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2008,26 900 PLN,205 171 km,Benzyna,Manualna,Kompakt,1 984 cm3,241 KM,5,Bordowy
+Seat,Toledo,2019,42 900 PLN,108 500 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Srebrny
+Seat,Exeo,2013,29 999 PLN,177 200 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Niebieski
+Seat,Ibiza,2007,8 000 PLN,163 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,3,Srebrny
+Seat,Arona,2019,41 200 PLN,57 738 km,Diesel,Manualna,SUV,1 598 cm3,95 KM,5,Czerwony
+Seat,Leon,2014,24 500 PLN,192 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Srebrny
+Seat,Leon,2007,16 500 PLN,204 124 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,200 KM,5,Czarny
+Seat,Leon,2015,39 999 PLN,138 200 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Biały
+Seat,Leon,2008,9 900 PLN,260 000 km,Benzyna,Manualna,Minivan,1 800 cm3,160 KM,5,Czarny
+Seat,Leon,2018,67 900 PLN,110 000 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Szary
+Seat,Altea XL,2009,11 500 PLN,302 400 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Toledo,2000,8 500 PLN,332 034 km,Benzyna,Manualna,Sedan,2 324 cm3,150 KM,4,Srebrny
+Seat,Leon,2014,33 400 PLN,239 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Szary
+Seat,Ibiza,2020,35 900 PLN,105 000 km,Benzyna,Manualna,Kompakt,999 cm3,80 KM,5,Srebrny
+Seat,Leon,2015,46 000 PLN,211 436 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Srebrny
+Seat,Leon,2013,24 200 PLN,202 434 km,Benzyna,Automatyczna,Sedan,1 197 cm3,105 KM,5,Beżowy
+Seat,Ateca,2024,126 200 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Altea XL,2011,25 900 PLN,236 100 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Biały
+Seat,Altea,2012,19 000 PLN,230 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Seat,Leon,2018,60 900 PLN,139 500 km,Benzyna,Manualna,Kompakt,1 395 cm3,149 KM,5,Czarny
+Seat,Ibiza,2010,13 200 PLN,164 500 km,Benzyna,Manualna,Coupe,1 198 cm3,70 KM,5,Szary
+Seat,Exeo,2009,25 900 PLN,169 000 km,Benzyna+LPG,Manualna,Sedan,1 781 cm3,150 KM,5,Czarny
+Seat,Leon,2017,84 900 PLN,100 500 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Bordowy
+Seat,Leon,2019,71 999 PLN,84 500 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Niebieski
+Seat,Tarraco,2019,129 500 PLN,38 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Zielony
+Seat,Ibiza,2014,17 500 PLN,174 342 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Czerwony
+Seat,Leon,2017,86 500 PLN,121 500 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Czerwony
+Seat,Leon,2020,52 900 PLN,157 000 km,Benzyna,Manualna,Coupe,1 498 cm3,130 KM,5,Bordowy
+Seat,Ibiza,2013,26 999 PLN,205 681 km,Diesel,Manualna,Coupe,1 598 cm3,105 KM,3,Biały
+Seat,Ibiza,2011,13 900 PLN,238 200 km,Benzyna,Manualna,Kompakt,1 198 cm3,64 KM,3,Srebrny
+Seat,Leon,2017,42 900 PLN,100 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Błękitny
+Seat,Ateca,2024,147 200 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Ateca,2024,154 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Ibiza,2008,9 900 PLN,121 700 km,Benzyna+LPG,Manualna,Kompakt,1 198 cm3,70 KM,3,Czarny
+Seat,Tarraco,2019,86 999 PLN,155 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2021,89 900 PLN,79 900 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Leon,2020,74 900 PLN,67 000 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Seat,Ibiza,2017,38 500 PLN,110 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Biały
+Seat,Ateca,2017,75 999 PLN,187 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Pomarańczowy
+Seat,Ibiza,2011,17 000 PLN,200 000 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Czarny
+Seat,Altea,2011,18 400 PLN,169 938 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Czarny
+Seat,Ateca,2021,89 900 PLN,61 551 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Ibiza,2003,5 800 PLN,218 000 km,Diesel,Manualna,Auta miejskie,1 422 cm3,75 KM,3,Czarny
+Seat,Ibiza,2009,16 900 PLN,169 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Błękitny
+Seat,Ibiza,2017,44 000 PLN,132 000 km,Benzyna,Manualna,Auta miejskie,1 395 cm3,150 KM,5,Szary
+Seat,Altea XL,2008,15 900 PLN,209 123 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2008,24 500 PLN,250 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,200 KM,5,Srebrny
+Seat,Ateca,2023,119 900 PLN,28 335 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2019,44 800 PLN,147 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Inny kolor
+Seat,Leon,2010,27 900 PLN,143 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Srebrny
+Seat,Leon,2016,77 000 PLN,114 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,290 KM,5,Czerwony
+Seat,Leon,2016,65 900 PLN,105 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,5,Brązowy
+Seat,Leon,2009,16 900 PLN,286 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2014,66 000 PLN,124 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,265 KM,5,Biały
+Seat,Leon,2008,10 900 PLN,322 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2003,5 800 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Czerwony
+Seat,Leon,2016,82 500 PLN,110 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,290 KM,5,Czerwony
+Seat,Leon,2016,37 999 PLN,269 400 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Szary
+Seat,Ateca,2024,137 947 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Leon,2018,106 650 PLN,57 777 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,290 KM,5,Niebieski
+Seat,Leon,2013,40 000 PLN,222 400 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Czarny
+Seat,Leon,2013,34 700 PLN,174 228 km,Benzyna,Manualna,Auta miejskie,1 395 cm3,140 KM,3,Biały
+Seat,Ibiza,2016,22 500 PLN,260 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,75 KM,5,Biały
+Seat,Leon,2020,69 900 PLN,65 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Czerwony
+Seat,Ateca,2020,79 900 PLN,179 000 km,Diesel,Automatyczna,SUV,1 598 cm3,115 KM,5,Brązowy
+Seat,Leon,2015,62 300 PLN,143 618 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Czarny
+Seat,Ibiza,2016,44 900 PLN,126 300 km,Benzyna,Automatyczna,Kompakt,999 cm3,95 KM,5,Czerwony
+Seat,Ibiza,2009,13 490 PLN,158 500 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Granatowy
+Seat,Arona,2023,70 900 PLN,34 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Szary
+Seat,Toledo,2008,8 500 PLN,274 296 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Srebrny
+Seat,Alhambra,2011,34 900 PLN,320 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2015,49 500 PLN,98 000 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Czerwony
+Seat,Leon,2009,24 444 PLN,91 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Błękitny
+Seat,Altea,2006,14 900 PLN,200 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Szary
+Seat,Ibiza,2009,16 605 PLN,222 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Czerwony
+Seat,Ibiza,2009,16 900 PLN,165 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Biały
+Seat,Leon,2010,23 900 PLN,253 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2007,15 500 PLN,287 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Czerwony
+Seat,Ibiza,2014,17 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czerwony
+Seat,Ibiza,2014,24 800 PLN,116 873 km,Benzyna,Manualna,Auta małe,1 198 cm3,60 KM,5,Czerwony
+Seat,Ibiza,2010,22 800 PLN,110 643 km,Diesel,Manualna,Auta małe,1 896 cm3,105 KM,5,Pomarańczowy
+Seat,Ateca,2023,149 900 PLN,10 010 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Altea,2005,15 000 PLN,160 870 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Szary
+Seat,Leon,2008,18 900 PLN,211 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Szary
+Seat,Ibiza,2012,16 500 PLN,112 326 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,3,Czarny
+Seat,Alhambra,2014,46 500 PLN,240 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Seat,Leon,2010,19 900 PLN,155 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Arona,2018,58 900 PLN,128 000 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Czerwony
+Seat,Ateca,2018,92 900 PLN,82 700 km,Benzyna,Automatyczna,SUV,2 000 cm3,190 KM,5,Czarny
+Seat,Leon,2021,88 900 PLN,78 200 km,Benzyna,Automatyczna,Kombi,1 500 cm3,150 KM,5,Biały
+Seat,Leon,2020,53 900 PLN,197 000 km,Benzyna,Manualna,Kombi,1 500 cm3,130 KM,5,Biały
+Seat,Ibiza,2013,22 900 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,3,Czarny
+Seat,Leon,2018,59 900 PLN,185 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Biały
+Seat,Exeo,2009,22 900 PLN,281 337 km,Benzyna+LPG,Manualna,Kombi,1 781 cm3,150 KM,5,Czarny
+Seat,Ibiza,2007,7 900 PLN,214 290 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Czarny
+Seat,Leon,2013,29 900 PLN,330 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2015,43 500 PLN,173 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Czarny
+Seat,Altea,2005,13 200 PLN,177 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ibiza,2009,13 000 PLN,167 000 km,Benzyna,Manualna,Coupe,1 198 cm3,70 KM,3,Żółty
+Seat,Ibiza,2006,9 999 PLN,286 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 198 cm3,70 KM,3,Czarny
+Seat,Leon,2008,16 600 PLN,207 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Srebrny
+Seat,Leon,2021,88 900 PLN,78 200 km,Benzyna,Automatyczna,Kombi,1 500 cm3,150 KM,5,Biały
+Seat,Leon,2021,86 900 PLN,600 km,Benzyna,Manualna,Kombi,1 000 cm3,110 KM,5,Biały
+Seat,Leon,2001,7 500 PLN,250 000 km,Diesel,Manualna,Kompakt,1 896 cm3,110 KM,5,Srebrny
+Seat,Ateca,2018,92 900 PLN,82 700 km,Benzyna,Automatyczna,SUV,2 000 cm3,190 KM,5,Czarny
+Seat,Ibiza,2010,12 900 PLN,138 000 km,Benzyna,Automatyczna,Kompakt,1 390 cm3,150 KM,5,Biały
+Seat,Ateca,2019,114 999 PLN,46 890 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Seat,Leon,2018,58 000 PLN,106 300 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Seat,Alhambra,2013,45 000 PLN,269 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Srebrny
+Seat,Altea XL,2007,9 800 PLN,180 500 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Czarny
+Seat,Leon,2011,22 400 PLN,234 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Czarny
+Seat,Arona,2018,52 900 PLN,132 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Seat,Leon,2018,28 900 PLN,69 321 km,Benzyna,Manualna,Kombi,1 197 cm3,110 KM,5,Szary
+Seat,Mii,2019,34 900 PLN,16 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Złoty
+Seat,Ibiza,2013,18 900 PLN,117 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,3,Czerwony
+Seat,Leon,2016,48 900 PLN,159 341 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Szary
+Seat,Altea,2010,21 900 PLN,224 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Szary
+Seat,Ibiza,2006,5 900 PLN,237 000 km,Benzyna+LPG,Manualna,Auta małe,1 390 cm3,75 KM,5,Czarny
+Seat,Leon,2011,23 900 PLN,265 782 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Niebieski
+Seat,Exeo,2010,23 900 PLN,149 000 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Srebrny
+Seat,Alhambra,2013,48 000 PLN,210 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2014,45 900 PLN,211 232 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Czarny
+Seat,Leon,2016,56 900 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 984 cm3,280 KM,5,Biały
+Seat,Leon,2015,37 900 PLN,160 700 km,Benzyna,Manualna,Kombi,1 197 cm3,110 KM,5,Czerwony
+Seat,Ateca,2020,68 800 PLN,160 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Ibiza,2008,18 500 PLN,172 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,86 KM,5,Czarny
+Seat,Leon,2020,89 900 PLN,38 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,131 KM,5,Granatowy
+Seat,Ibiza,2008,19 900 PLN,154 600 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,3,Biały
+Seat,Leon,2006,15 000 PLN,330 856 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Exeo,2012,19 800 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 798 cm3,120 KM,5,Granatowy
+Seat,Leon,2008,9 900 PLN,258 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Zielony
+Seat,Leon,2006,15 000 PLN,330 856 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Exeo,2012,19 800 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 798 cm3,120 KM,5,Granatowy
+Seat,Leon,2008,9 900 PLN,258 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Zielony
+Seat,Arona,2019,62 900 PLN,71 000 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Szary
+Seat,Leon,2023,120 900 PLN,13 000 km,Hybryda,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Seat,Ateca,2023,97 900 PLN,26 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Niebieski
+Seat,Ibiza,2011,17 900 PLN,158 000 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Srebrny
+Seat,Ibiza,2012,20 900 PLN,164 000 km,Diesel,Manualna,Kombi,1 199 cm3,75 KM,5,Niebieski
+Seat,Leon,2010,18 900 PLN,221 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Niebieski
+Seat,Ibiza,2023,77 900 PLN,8 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Seat,Leon,2017,59 900 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Biały
+Seat,Ibiza,2016,35 900 PLN,80 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,110 KM,5,Biały
+Seat,Leon,2018,118 900 PLN,137 710 km,Benzyna,Automatyczna,Kombi,1 984 cm3,370 KM,5,Niebieski
+Seat,Leon,2017,63 500 PLN,76 150 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Granatowy
+Seat,Leon,2009,32 900 PLN,222 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,241 KM,5,Czarny
+Seat,Altea,2007,11 500 PLN,226 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Bordowy
+Seat,Ibiza,2010,16 900 PLN,121 900 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,,
+Seat,Leon,2012,24 900 PLN,177 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Seat,Toledo,2008,14 900 PLN,125 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Ibiza,2006,8 500 PLN,223 257 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Szary
+Seat,Leon,2014,42 500 PLN,226 000 km,Diesel,Manualna,Kompakt,1 968 cm3,184 KM,5,Czarny
+Seat,Leon,2014,31 000 PLN,210 000 km,Benzyna,Manualna,Kombi,1 395 cm3,140 KM,5,Czerwony
+Seat,Ibiza,2015,35 000 PLN,46 217 km,Benzyna,Manualna,Kompakt,1 197 cm3,90 KM,5,Czarny
+Seat,Ateca,2019,97 500 PLN,112 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Seat,Ibiza,2018,44 900 PLN,70 167 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Czarny
+Seat,Alhambra,2012,35 900 PLN,116 000 km,Benzyna,Manualna,Minivan,1 395 cm3,150 KM,5,Czarny
+Seat,Leon,2006,13 500 PLN,155 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Czarny
+Seat,Ateca,2024,123 260 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2012,28 300 PLN,60 500 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Leon,2016,49 999 PLN,183 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Szary
+Seat,Arona,2024,97 000 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Srebrny
+Seat,Ibiza,2012,17 000 PLN,148 866 km,Benzyna,Manualna,Kompakt,1 198 cm3,69 KM,3,Czerwony
+Seat,Ibiza,2024,110 000 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,115 KM,5,Czerwony
+Seat,Arona,2024,102 200 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Szary
+Seat,Leon,2023,135 000 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Seat,Arona,2024,108 600 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Srebrny
+Seat,Ateca,2024,153 100 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Ateca,2024,137 300 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Ateca,2024,137 947 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Ateca,2024,139 433 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Ateca,2023,137 900 PLN,28 300 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czerwony
+Seat,Leon,2014,27 900 PLN,97 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,149 KM,5,Szary
+Seat,Leon,2011,19 900 PLN,198 000 km,Diesel,Automatyczna,Kompakt,1 598 cm3,105 KM,5,Żółty
+Seat,Ibiza,2006,8 500 PLN,304 500 km,Diesel,Manualna,Kompakt,1 896 cm3,100 KM,5,Czarny
+Seat,Mii,2013,18 800 PLN,78 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,5,Srebrny
+Seat,Leon,2015,39 900 PLN,155 560 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Szary
+Seat,Mii,2014,21 900 PLN,107 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Czerwony
+Seat,Leon,2018,41 900 PLN,133 932 km,Benzyna,Manualna,Kompakt,1 197 cm3,85 KM,5,Niebieski
+Seat,Leon,2013,28 900 PLN,104 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,5,Czerwony
+Seat,Leon,2008,16 900 PLN,202 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Czarny
+Seat,Ibiza,2009,18 000 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Szary
+Seat,Leon,2013,32 000 PLN,202 968 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Leon,2019,59 800 PLN,160 000 km,Benzyna,Manualna,Coupe,1 498 cm3,131 KM,5,Inny kolor
+Seat,Leon,2017,39 900 PLN,177 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Seat,Leon,2011,19 999 PLN,259 000 km,Diesel,Manualna,Auta małe,1 598 cm3,105 KM,5,Czarny
+Seat,Ibiza,2010,13 900 PLN,170 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,3,Czarny
+Seat,Leon,2015,72 900 PLN,125 923 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,280 KM,5,Biały
+Seat,Ibiza,2015,24 000 PLN,246 388 km,Diesel,Manualna,Auta małe,1 422 cm3,90 KM,5,Inny kolor
+Seat,Leon,2013,28 900 PLN,185 300 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Szary
+Seat,Leon,2019,65 000 PLN,90 000 km,Benzyna,Manualna,Kombi,1 498 cm3,131 KM,5,Biały
+Seat,Tarraco,2019,121 000 PLN,110 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,150 KM,5,Niebieski
+Seat,Ateca,2017,92 900 PLN,89 987 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Seat,Toledo,2002,6 500 PLN,250 000 km,Benzyna,Manualna,Sedan,1 598 cm3,105 KM,4,Niebieski
+Seat,Leon,2007,13 900 PLN,258 134 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Czarny
+Seat,Arona,2018,70 000 PLN,89 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Leon,2010,19 999 PLN,315 279 km,Benzyna,Manualna,Kompakt,1 984 cm3,211 KM,5,Biały
+Seat,Ibiza,2006,7 000 PLN,257 000 km,Diesel,Manualna,Kompakt,1 896 cm3,100 KM,5,Srebrny
+Seat,Leon,2020,86 900 PLN,142 380 km,Diesel,Manualna,Kompakt,1 968 cm3,115 KM,5,Czarny
+Seat,Leon,2018,56 800 PLN,164 975 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2002,6 500 PLN,296 000 km,Benzyna,Manualna,Kompakt,1 781 cm3,125 KM,5,Srebrny
+Seat,Leon,2018,40 800 PLN,105 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Biały
+Seat,Ateca,2017,62 700 PLN,157 467 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Szary
+Seat,Tarraco,2022,134 900 PLN,29 500 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Altea,2009,17 500 PLN,190 000 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Czarny
+Seat,Ibiza,2015,19 900 PLN,177 383 km,Diesel,Manualna,Auta małe,1 598 cm3,90 KM,5,Inny kolor
+Seat,Ibiza,2012,18 900 PLN,155 430 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,5,Zielony
+Seat,Altea XL,2007,13 999 PLN,179 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2013,18 700 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Ateca,2021,94 000 PLN,61 265 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2015,47 700 PLN,217 452 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Biały
+Seat,Mii,2014,14 900 PLN,135 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Biały
+Seat,Alhambra,2018,25 700 PLN,98 000 km,Benzyna,Manualna,Minivan,1 395 cm3,150 KM,5,Biały
+Seat,Leon,2011,18 900 PLN,259 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2011,25 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Czerwony
+Seat,Leon,2012,44 900 PLN,228 700 km,Benzyna,Manualna,Kompakt,1 984 cm3,265 KM,5,Biały
+Seat,Leon,2019,107 900 PLN,109 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,300 KM,5,Srebrny
+Seat,Altea XL,2013,27 900 PLN,181 452 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Srebrny
+Seat,Ibiza,2016,30 900 PLN,78 806 km,Benzyna,Manualna,Kombi,999 cm3,75 KM,5,Szary
+Seat,Ateca,2016,74 900 PLN,115 728 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Srebrny
+Seat,Altea XL,2007,14 900 PLN,246 000 km,Benzyna,Manualna,Minivan,1 798 cm3,160 KM,5,Biały
+Seat,Leon,2018,62 900 PLN,187 180 km,Benzyna,Automatyczna,Kombi,1 395 cm3,150 KM,5,Biały
+Seat,Arona,2018,57 900 PLN,112 000 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Biały
+Seat,Leon,2007,17 700 PLN,198 235 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Szary
+Seat,Ateca,2017,69 100 PLN,203 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Czarny
+Seat,Arona,2024,92 900 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Szary
+Seat,Leon,2017,51 500 PLN,188 050 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Szary
+Seat,Arona,2024,92 900 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Seat,Ibiza,2018,44 900 PLN,121 708 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Bordowy
+Seat,Ateca,2017,73 900 PLN,85 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Biały
+Seat,Leon,2021,60 000 PLN,82 000 km,Hybryda Plug-in,Automatyczna,Kombi,1 395 cm3,150 KM,5,Czarny
+Seat,Leon,2012,33 000 PLN,197 000 km,Benzyna,Manualna,Auta małe,1 395 cm3,122 KM,5,Biały
+Seat,Alhambra,2012,22 900 PLN,203 793 km,Diesel,Automatyczna,Minivan,1 968 cm3,170 KM,5,Szary
+Seat,Ibiza,2014,23 900 PLN,126 300 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Seat,Ibiza,2009,16 400 PLN,161 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,3,Niebieski
+Seat,Leon,2016,41 999 PLN,150 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2011,52 500 PLN,160 000 km,Benzyna,Manualna,Auta małe,1 984 cm3,265 KM,5,Czarny
+Seat,Ibiza,2009,13 400 PLN,166 714 km,Benzyna+LPG,Manualna,Kompakt,1 390 cm3,86 KM,3,Bordowy
+Seat,Altea XL,2009,18 600 PLN,211 800 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Seat,Altea,2009,16 900 PLN,222 393 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Szary
+Seat,Arona,2022,85 900 PLN,8 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Czarny
+Seat,Arona,2023,88 900 PLN,7 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Czarny
+Seat,Exeo,2012,26 900 PLN,194 498 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Niebieski
+Seat,Ateca,2018,99 900 PLN,109 500 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Czarny
+Seat,Leon,2022,109 900 PLN,8 357 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Niebieski
+Seat,Ibiza,2008,13 800 PLN,117 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,5,Czerwony
+Seat,Leon,2000,8 200 PLN,143 000 km,Benzyna,Manualna,Kompakt,1 781 cm3,125 KM,5,Granatowy
+Seat,Ibiza,2014,23 900 PLN,89 997 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Czerwony
+Seat,Toledo,2017,14 900 PLN,103 460 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Szary
+Seat,Leon,2020,115 000 PLN,20 000 km,Hybryda Plug-in,Automatyczna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Seat,Ibiza,2006,7 900 PLN,274 368 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,3,Czarny
+Seat,Altea XL,2015,26 999 PLN,242 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Biały
+Seat,Arona,2024,93 400 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Czerwony
+Seat,Tarraco,2023,154 900 PLN,22 885 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Seat,Arona,2024,89 900 PLN,2 400 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Biały
+Seat,Arona,2024,90 707 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Niebieski
+Seat,Arona,2024,102 300 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Seat,Leon,2011,33 900 PLN,185 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,211 KM,5,Czarny
+Seat,Ibiza,2011,23 000 PLN,128 000 km,Benzyna+LPG,Manualna,Kompakt,1 198 cm3,60 KM,3,Czerwony
+Seat,Ibiza,2011,23 000 PLN,128 000 km,Benzyna+LPG,Manualna,Kompakt,1 198 cm3,60 KM,3,Czerwony
+Seat,Toledo,2017,14 900 PLN,103 460 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Szary
+Seat,Exeo,2013,27 900 PLN,238 000 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Srebrny
+Seat,Ateca,2023,114 900 PLN,43 057 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Ibiza,2016,29 900 PLN,102 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,5,Biały
+Seat,Ibiza,2015,29 800 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,5,Niebieski
+Seat,Ateca,2023,114 900 PLN,42 690 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2015,27 500 PLN,270 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Czerwony
+Seat,Ibiza,2011,29 900 PLN,154 000 km,Benzyna,Automatyczna,Auta miejskie,1 390 cm3,180 KM,3,Biały
+Seat,Ibiza,2012,21 900 PLN,151 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Czarny
+Seat,Ibiza,2010,11 200 PLN,220 321 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Złoty
+Seat,Leon,2015,45 888 PLN,66 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,3,Biały
+Seat,Ibiza,2024,103 000 PLN,7 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Niebieski
+Seat,Leon,2021,74 899 PLN,75 094 km,Benzyna,Manualna,Kompakt,1 498 cm3,131 KM,,Niebieski
+Seat,Leon,2014,36 500 PLN,227 669 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Czerwony
+Seat,Ibiza,2011,15 900 PLN,216 330 km,Diesel,Manualna,Kombi,1 199 cm3,75 KM,5,Biały
+Seat,Ateca,2020,112 700 PLN,33 889 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2020,62 900 PLN,143 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Szary
+Seat,Ateca,2024,137 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2022,78 500 PLN,70 895 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Seat,Ateca,2024,140 499 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2005,10 900 PLN,324 000 km,Diesel,Manualna,Kompakt,1 896 cm3,130 KM,5,Niebieski
+Seat,Leon,2014,39 900 PLN,187 900 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Seat,Ibiza,2010,24 900 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,3,Czerwony
+Seat,Altea,2006,12 000 PLN,162 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Srebrny
+Seat,Tarraco,2022,123 000 PLN,18 120 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Tarraco,2020,99 999 PLN,192 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Granatowy
+Seat,Ibiza,2010,14 800 PLN,198 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,3,Czerwony
+Seat,Leon,2019,46 000 PLN,84 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,86 KM,5,Szary
+Seat,Leon,2014,37 700 PLN,181 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Szary
+Seat,Tarraco,2020,142 900 PLN,60 852 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Seat,Altea,2008,13 300 PLN,313 000 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Czarny
+Seat,Toledo,2016,35 000 PLN,164 000 km,Benzyna,Automatyczna,Sedan,1 395 cm3,125 KM,5,Czarny
+Seat,Leon,2010,10 500 PLN,215 000 km,Diesel,Manualna,Kompakt,1 598 cm3,105 KM,5,Biały
+Seat,Ibiza,2013,24 800 PLN,141 800 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,5,Czarny
+Seat,Leon,2015,39 900 PLN,162 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czarny
+Seat,Leon,2014,31 499 PLN,206 000 km,Benzyna,Manualna,Auta małe,1 395 cm3,125 KM,5,Biały
+Seat,Ateca,2017,72 900 PLN,179 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Seat,Leon,2005,6 000 PLN,235 000 km,Benzyna,Manualna,Kompakt,1 595 cm3,102 KM,5,Granatowy
+Seat,Leon,2017,32 900 PLN,211 000 km,Benzyna,Manualna,Kombi,1 197 cm3,110 KM,5,Inny kolor
+Seat,Leon,2021,82 900 PLN,101 668 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Szary
+Seat,Ibiza,2008,15 000 PLN,231 598 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Czarny
+Seat,Cordoba,2004,5 300 PLN,183 350 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,5,Zielony
+Seat,Ateca,2024,134 900 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Seat,Leon,2021,64 900 PLN,55 650 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Szary
+Seat,Leon,2013,29 900 PLN,188 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,3,Czerwony
+Seat,Ibiza,2009,15 000 PLN,218 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Czarny
+Seat,Leon,2018,57 900 PLN,191 200 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Seat,Leon,2017,51 900 PLN,175 355 km,Benzyna,Automatyczna,Auta miejskie,1 395 cm3,150 KM,5,Srebrny
+Seat,Ibiza,2023,79 950 PLN,419 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Biały
+Seat,Arona,2017,66 900 PLN,41 900 km,Benzyna,Automatyczna,SUV,999 cm3,116 KM,5,Czerwony
+Seat,Leon,2006,13 700 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Srebrny
+Seat,Ibiza,2008,7 500 PLN,200 100 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Niebieski
+Seat,Ateca,2020,87 700 PLN,80 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Altea XL,2013,24 900 PLN,220 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Ibiza,2013,18 700 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,3,Czarny
+Seat,Ateca,2024,137 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Ateca,2024,128 900 PLN,10 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Leon,2022,112 900 PLN,34 300 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Seat,Arona,2019,61 500 PLN,95 950 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Szary
+Seat,Mii,2014,19 499 PLN,185 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Żółty
+Seat,Leon,2019,49 900 PLN,145 931 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Seat,Leon,2006,6 000 PLN,309 000 km,Benzyna+LPG,Manualna,Kompakt,1 595 cm3,102 KM,5,Czerwony
+Seat,Leon,2021,79 999 PLN,155 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Leon,2021,79 999 PLN,155 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Arona,2019,64 900 PLN,76 293 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Srebrny
+Seat,Altea XL,2013,25 500 PLN,236 000 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Altea,2006,13 500 PLN,285 000 km,Benzyna+LPG,Manualna,Minivan,1 595 cm3,102 KM,5,Czerwony
+Seat,Toledo,2016,8 900 PLN,91 000 km,Diesel,Manualna,Sedan,1 598 cm3,115 KM,4,Biały
+Seat,Leon,2014,45 900 PLN,165 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Ibiza,2015,30 000 PLN,88 000 km,Benzyna,Manualna,Auta małe,1 197 cm3,90 KM,5,Fioletowy
+Seat,Ibiza,2013,18 500 PLN,122 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 198 cm3,70 KM,3,Czarny
+Seat,Leon,2023,119 900 PLN,19 416 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Seat,Ateca,2018,85 400 PLN,76 782 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Srebrny
+Seat,Leon,2003,19 999 PLN,236 000 km,Benzyna,Manualna,Kompakt,1 781 cm3,180 KM,5,Czarny
+Seat,Altea XL,2008,11 900 PLN,311 140 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Srebrny
+Seat,Leon,2019,56 850 PLN,131 369 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Seat,Leon,2022,64 900 PLN,64 291 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Srebrny
+Seat,Leon,2021,85 900 PLN,98 338 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czerwony
+Seat,Arona,2024,96 983 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Niebieski
+Seat,Leon,2017,56 900 PLN,73 150 km,Benzyna,Manualna,Kompakt,1 395 cm3,125 KM,5,Fioletowy
+Seat,Ibiza,2012,18 900 PLN,139 124 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Czarny
+Seat,Ateca,2024,132 582 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Arona,2024,93 000 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Tarraco,2024,180 605 PLN,10 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Seat,Arona,2019,55 000 PLN,60 000 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,115 KM,5,Biały
+Seat,Leon,2014,42 100 PLN,141 700 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Biały
+Seat,Arona,2019,64 900 PLN,76 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Inny kolor
+Seat,Leon,2000,9 000 PLN,258 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Niebieski
+Seat,Alhambra,2007,17 900 PLN,224 000 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Szary
+Seat,Leon,2015,42 900 PLN,250 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Biały
+Seat,Arona,2019,53 900 PLN,189 174 km,Diesel,Manualna,SUV,1 598 cm3,95 KM,5,Biały
+Seat,Leon,2016,89 999 PLN,83 550 km,Benzyna,Automatyczna,Kombi,1 984 cm3,290 KM,5,Szary
+Seat,Alhambra,2013,46 900 PLN,205 000 km,Diesel,Automatyczna,Minivan,1 968 cm3,140 KM,5,Czerwony
+Seat,Alhambra,2003,7 900 PLN,249 000 km,Benzyna,Manualna,Minivan,2 000 cm3,115 KM,5,Srebrny
+Seat,Ibiza,2011,28 900 PLN,167 000 km,Benzyna,Automatyczna,Auta miejskie,1 390 cm3,180 KM,3,Szary
+Seat,Leon,2018,95 000 PLN,90 000 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,300 KM,5,Inny kolor
+Seat,Arona,2024,102 529 PLN,10 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Biały
+Seat,Leon,2015,39 999 PLN,223 650 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Tarraco,2023,142 900,8 780 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Altea,2011,18 000 PLN,123 000 km,Benzyna,Manualna,Minivan,1 197 cm3,105 KM,5,Srebrny
+Seat,Arona,2024,102 762 PLN,1 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Niebieski
+Seat,Ibiza,2005,5 000 PLN,283 000 km,Benzyna+LPG,Manualna,Kompakt,1 390 cm3,75 KM,5,Czarny
+Seat,Ateca,2024,155 800 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Cordoba,2006,6 500 PLN,204 800 km,Diesel,Manualna,Sedan,1 422 cm3,70 KM,4,Błękitny
+Seat,Leon,2017,47 900 PLN,188 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Biały
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Seat,Arona,2023,89 900 PLN,22 856 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Srebrny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Seat,Ateca,2024,155 800 PLN,7 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2021,85 900 PLN,46 158 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Seat,Leon,2015,43 500 PLN,122 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Brązowy
+Seat,Leon,2007,16 950 PLN,158 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Czarny
+Seat,Toledo,2004,11 900 PLN,201 000 km,Diesel,Manualna,Kompakt,1 896 cm3,105 KM,5,Złoty
+Seat,Leon,2023,107 999 PLN,10 500 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Seat,Leon,2009,19 900 PLN,202 527 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Pomarańczowy
+Seat,Ibiza,2003,5 900 PLN,322 700 km,Diesel,Manualna,Auta miejskie,1 896 cm3,100 KM,5,Srebrny
+Seat,Arosa,2002,4 900 PLN,193 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,60 KM,3,Inny kolor
+Seat,Arona,2021,69 000 PLN,71 632 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Czerwony
+Seat,Arona,2024,116 800 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Niebieski
+Seat,Ibiza,2009,15 900 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,85 KM,5,Czarny
+Seat,Ateca,2024,137 773 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Arona,2024,116 296 PLN,10 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Seat,Ateca,2019,72 100 PLN,142 584 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Szary
+Seat,Ibiza,2011,19 800 PLN,190 000 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Czarny
+Seat,Leon,2019,62 900 PLN,98 318 km,Benzyna,Manualna,Kompakt,1 498 cm3,131 KM,5,Czarny
+Seat,Leon,2014,38 500 PLN,132 053 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,3,Srebrny
+Seat,Tarraco,2019,110 700 PLN,125 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Seat,Tarraco,2019,110 700 PLN,125 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Seat,Arona,2020,15 990 PLN,1 km,Benzyna,Automatyczna,Kombi,999 cm3,115 KM,5,Biały
+Seat,Tarraco,2020,115 990 PLN,187 300 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Czarny
+Seat,Ateca,2024,123 663 PLN,5 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Ateca,2019,119 000 PLN,47 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Ibiza,2021,39 900 PLN,213 000 km,Diesel,Manualna,Kompakt,1 598 cm3,95 KM,5,Biały
+Seat,Ibiza,2022,69 900 PLN,8 781 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Seat,Altea XL,2009,12 900 PLN,223 000 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Granatowy
+Seat,Leon,2006,11 900 PLN,333 000 km,Diesel,Manualna,Kompakt,1 968 cm3,140 KM,5,Czarny
+Seat,Leon,2021,84 900 PLN,80 511 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Seat,Cordoba,2005,4 800 PLN,341 574 km,Diesel,Manualna,Sedan,1 422 cm3,70 KM,4,Czarny
+Seat,Leon,2019,57 850 PLN,96 678 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Czarny
+Seat,Leon,2019,52 850 PLN,114 168 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Czarny
+Seat,Leon,2019,52 850 PLN,114 168 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Czarny
+Seat,Ateca,2024,132 500 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2019,64 900 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Biały
+Seat,Ibiza,2015,34 900 PLN,107 749 km,Benzyna,Manualna,Auta miejskie,999 cm3,110 KM,5,Zielony
+Seat,Ateca,2023,119 900 PLN,32 187 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Seat,Altea XL,2012,23 500 PLN,211 000 km,Benzyna,Manualna,Minivan,1 390 cm3,125 KM,5,Srebrny
+Seat,Ateca,2024,126 500 PLN,5 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2020,66 900 PLN,123 835 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Seat,Leon,2015,50 000 PLN,202 345 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Seat,Leon,2022,65 900 PLN,58 674 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Seat,Tarraco,2023,149 900 PLN,24 468 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Seat,Ibiza,2015,36 900 PLN,115 000 km,Benzyna,Automatyczna,Coupe,1 390 cm3,180 KM,3,Biały
+Seat,Exeo,2010,16 500 PLN,354 500 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Srebrny
+Seat,Arona,2024,102 900 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czerwony
+Seat,Alhambra,2015,57 990 PLN,212 546 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Ibiza,2008,16 900 PLN,174 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,86 KM,5,Czarny
+Seat,Altea,2004,12 900 PLN,199 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Granatowy
+Seat,Ateca,2019,128 000 PLN,22 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,300 KM,5,Czarny
+Seat,Ibiza,2016,25 900 PLN,106 715 km,Diesel,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Szary
+Seat,Ateca,2019,99 900 PLN,104 153 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Seat,Leon,2010,19 900 PLN,255 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Srebrny
+Seat,Ateca,2023,124 800 PLN,19 481 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Seat,Ibiza,2012,24 000 PLN,118 500 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,105 KM,5,Błękitny
+Seat,Leon,2005,13 900 PLN,132 000 km,Benzyna,Manualna,Kompakt,1 984 cm3,150 KM,5,Czerwony
+Seat,Altea,2009,18 900 PLN,177 000 km,Diesel,Manualna,Minivan,1 896 cm3,105 KM,5,Szary
+Seat,Leon,2018,64 900 PLN,103 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Seat,Arona,2024,97 000 PLN,10 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Srebrny
+Seat,Arona,2022,91 200 PLN,14 085 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Seat,Altea XL,2008,16 000 PLN,247 432 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Czarny
+Seat,Ateca,2024,124 765 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Alhambra,2013,45 900 PLN,201 591 km,Diesel,Manualna,Minivan,1 968 cm3,140 KM,5,Czarny
+Seat,Ibiza,2012,21 900 PLN,133 755 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Czarny
+Seat,Ateca,2023,132 990 PLN,10 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Seat,Ibiza,2023,104 600 PLN,4 785 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,149 KM,5,Czerwony
+Seat,Leon,2019,69 900 PLN,102 607 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Czerwony
+Seat,Leon,2021,64 900 PLN,51 104 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Srebrny
+Seat,Leon,2022,151 000 PLN,1 100 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Szary
+Seat,Ateca,2024,137 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Seat,Arona,2024,94 900 PLN,6 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Biały
+Seat,Ateca,2019,97 000 PLN,68 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Seat,Arona,2024,94 900 PLN,6 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Mii,2014,11 600 PLN,119 500 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Czarny
+Seat,Ibiza,2012,19 900 PLN,151 240 km,Benzyna,Manualna,Kombi,1 390 cm3,86 KM,5,Szary
+Seat,Arona,2024,102 900 PLN,6 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Czarny
+Seat,Ateca,2022,127 900 PLN,19 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Seat,Leon,2014,47 999 PLN,178 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,3,Czarny
+Seat,Ibiza,2007,8 700 PLN,220 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,3,Srebrny
+Seat,Tarraco,2020,119 900 PLN,45 540 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Zielony
+Seat,Leon,2016,94 900 PLN,75 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,365 KM,5,Czerwony
+Seat,Leon,2020,79 999 PLN,43 700 km,Benzyna,Manualna,Kompakt,1 498 cm3,130 KM,5,Szary
+Seat,Tarraco,2019,87 900,168 371 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Inny kolor
+Seat,Ibiza,2022,64 900 PLN,64 010 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Biały
+Seat,Tarraco,2024,215 000 PLN,4 000 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Zielony
+Seat,Arona,2022,73 900 PLN,20 862 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Srebrny
+Seat,Ibiza,2004,29 800 PLN,175 000 km,Benzyna,Manualna,Auta małe,1 781 cm3,180 KM,3,Beżowy
+Seat,Arona,2024,102 900 PLN,6 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Seat,Leon,2001,7 500 PLN,348 437 km,Diesel,Manualna,Kompakt,1 900 cm3,90 KM,5,Czerwony
+Seat,Altea,2007,13 200 PLN,230 000 km,Diesel,Manualna,Minivan,1 968 cm3,170 KM,5,Srebrny
+Seat,Ibiza,2024,129 000 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,149 KM,5,Czerwony
+Seat,Arona,2024,94 900 PLN,6 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Szary
+Seat,Arona,2022,92 000 PLN,12 959 km,Benzyna,Manualna,SUV,998 cm3,110 KM,5,Srebrny
+Seat,Arona,2019,67 900 PLN,74 782 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Srebrny
+Seat,Ateca,2017,81 900 PLN,148 912 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Seat,Altea XL,2012,22 000 PLN,157 909 km,Diesel,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2003,8 200 PLN,264 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,105 KM,5,Czarny
+Seat,Leon,2016,35 500 PLN,98 286 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Czerwony
+Seat,Leon,2018,45 900 PLN,193 000 km,Diesel,Automatyczna,Kompakt,1 598 cm3,115 KM,5,Inny kolor
+Seat,Arona,2024,108 761 PLN,1 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Niebieski
+Seat,Altea,2007,14 900 PLN,174 000 km,Benzyna,Manualna,Minivan,1 595 cm3,102 KM,5,Szary
+Seat,Leon,2014,52 000 PLN,148 000 km,Diesel,Manualna,Kompakt,1 968 cm3,150 KM,5,Czerwony
+Seat,Leon,2014,38 900 PLN,212 000 km,Diesel,Manualna,Kompakt,1 598 cm3,110 KM,5,Szary
+Seat,Leon,2017,47 999 PLN,175 000 km,Benzyna,Manualna,Kombi,1 395 cm3,125 KM,5,Biały
+Seat,Ibiza,2014,32 500 PLN,130 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 598 cm3,81 KM,5,Szary
+Seat,Ibiza,2017,23 999 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,75 KM,5,Czerwony
+Seat,Tarraco,2021,126 000 PLN,25 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Seat,Ibiza,2015,24 500 PLN,216 000 km,Diesel,Manualna,Auta miejskie,1 598 cm3,105 KM,5,Czarny
+Seat,Arona,2018,54 900 PLN,86 852 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Inny kolor
+Seat,Ibiza,2007,6 700 PLN,264 000 km,Diesel,Manualna,Kompakt,1 422 cm3,80 KM,3,Czarny
+Seat,Leon,2014,46 700 PLN,105 720 km,Benzyna,Manualna,Kompakt,1 395 cm3,122 KM,5,Czerwony
+Seat,Exeo,2012,24 900 PLN,237 000 km,Diesel,Manualna,Kombi,1 968 cm3,143 KM,5,Biały
+Seat,Leon,2009,24 500 PLN,279 000 km,Diesel,Manualna,Kompakt,1 968 cm3,170 KM,5,Biały
+Seat,Leon,2021,81 900 PLN,62 228 km,Benzyna,Manualna,Kombi,1 498 cm3,130 KM,5,Czarny
+Seat,Ibiza,2016,34 900 PLN,144 074 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,90 KM,5,Czarny

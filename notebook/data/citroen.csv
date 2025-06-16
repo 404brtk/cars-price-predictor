@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Citroën,C4,2010,6 500 PLN,250 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,Berlingo,2015,28 500 PLN,216 229 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Srebrny
+Citroën,C4,2024,103 900 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,C4,2011,23 000 PLN,195 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Citroën,C4 Grand Picasso,2015,35 999 PLN,232 778 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Czarny
+Citroën,C4 Picasso,2007,10 800 PLN,309 304 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Niebieski
+Citroën,C3 Aircross,2024,58 900 PLN,10 500 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Niebieski
+Citroën,C4 Cactus,2014,36 500 PLN,97 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,C5,2006,8 500 PLN,279 143 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Srebrny
+Citroën,Nemo,2011,16 000 PLN,169 872 km,Benzyna,Manualna,Minivan,1 360 cm3,75 KM,4,Błękitny
+Citroën,C1,2006,6 500 PLN,122 000 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Szary
+Citroën,C4,2012,28 900 PLN,185 000 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,156 KM,5,Biały
+Citroën,Jumpy Combi,2008,28 900 PLN,237 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,4,Szary
+Citroën,C5 Aircross,2019,79 900 PLN,149 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Citroën,C5,2010,21 000 PLN,293 000 km,Diesel,Automatyczna,Sedan,2 992 cm3,241 KM,5,Złoty
+Citroën,C3 Picasso,2016,26 400 PLN,80 000 km,Diesel,Manualna,Auta małe,1 560 cm3,109 KM,5,Szary
+Citroën,C3,2020,53 900 PLN,89 074 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,110 KM,5,Szary
+Citroën,C4 Grand Picasso,2016,49 000 PLN,152 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,C5,2015,32 600 PLN,244 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Biały
+Citroën,C3,2019,42 900 PLN,73 300 km,Diesel,Manualna,Auta małe,1 499 cm3,102 KM,5,Biały
+Citroën,C5 Aircross,2020,45 999 PLN,100 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Czarny
+Citroën,C4 Picasso,2008,10 500 PLN,298 500 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Srebrny
+Citroën,C3,2018,44 999 PLN,87 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Biały
+Citroën,DS3,2011,23 600 PLN,122 700 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,3,Biały
+Citroën,C4 Cactus,2018,49 900 PLN,72 364 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Inny kolor
+Citroën,C4 Picasso,2012,22 500 PLN,174 800 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Srebrny
+Citroën,C3 Picasso,2014,24 500 PLN,56 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Szary
+Citroën,C5 Aircross,2019,67 500 PLN,134 472 km,Benzyna,Manualna,SUV,1 199 cm3,131 KM,5,Czarny
+Citroën,C5 Aircross,2019,69 000 PLN,100 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Biały
+Citroën,C4 Picasso,2007,13 900 PLN,265 000 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Bordowy
+Citroën,C5,2010,12 900 PLN,291 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,5,Biały
+Citroën,C4 Picasso,2007,14 500 PLN,155 550 km,Benzyna,Automatyczna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Citroën,C4 Picasso,2014,41 900 PLN,99 100 km,Benzyna,Manualna,Minivan,1 598 cm3,156 KM,5,Brązowy
+Citroën,Berlingo,2012,28 999 PLN,216 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Czarny
+Citroën,C4 Picasso,2007,13 000 PLN,250 230 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Granatowy
+Citroën,C4 Picasso,2012,14 900 PLN,317 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C2,2008,5 300 PLN,177 000 km,Benzyna,Manualna,Auta małe,1 360 cm3,73 KM,3,Srebrny
+Citroën,C3,2003,5 600 PLN,216 700 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,75 KM,5,Granatowy
+Citroën,C3,2021,49 700 PLN,15 680 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Biały
+Citroën,C5,2013,29 990 PLN,265 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C4 Grand Picasso,2019,44 900 PLN,173 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,DS4,2013,26 900 PLN,198 000 km,Diesel,Manualna,Kompakt,1 560 cm3,114 KM,5,Czarny
+Citroën,Berlingo,2024,111 900 PLN,1 km,Diesel,Manualna,Kombi,1 499 cm3,102 KM,5,Biały
+Citroën,C3,2009,9 000 PLN,190 000 km,Benzyna,Manualna,Minivan,1 360 cm3,88 KM,5,Biały
+Citroën,C5 Aircross,2020,69 900 PLN,144 560 km,Diesel,Manualna,SUV,1 499 cm3,130 KM,5,Czarny
+Citroën,C5,2010,22 000 PLN,300 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Złoty
+Citroën,C5,2010,19 900 PLN,326 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Szary
+Citroën,C4 Picasso,2015,31 000 PLN,184 000 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Czarny
+Citroën,Berlingo,2024,113 900 PLN,1 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Niebieski
+Citroën,DS3,2010,16 900 PLN,182 500 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,156 KM,3,Szary
+Citroën,Jumpy Combi,2014,46 000 PLN,277 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,5,Srebrny
+Citroën,C5 Aircross,2024,145 900 PLN,1 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,C4,2024,106 500 PLN,1 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,Berlingo,2008,20 500 PLN,285 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,4,Zielony
+Citroën,C1,2006,8 700 PLN,32 200 km,Benzyna,Automatyczna,Auta małe,998 cm3,68 KM,3,Srebrny
+Citroën,DS5,2012,44 000 PLN,116 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Biały
+Citroën,C5 Aircross,2023,139 999 PLN,12 500 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Citroën,C4,2014,21 500 PLN,233 333 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Granatowy
+Citroën,Xsara Picasso,2003,6 900 PLN,168 000 km,Benzyna,Manualna,Minivan,1 749 cm3,116 KM,5,Srebrny
+Citroën,C5 Aircross,2020,81 900 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,181 KM,5,Inny kolor
+Citroën,Berlingo,2012,24 900 PLN,225 000 km,Diesel,Manualna,Kombi,1 560 cm3,110 KM,4,Bordowy
+Citroën,C1,2017,24 900 PLN,137 400 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Inny kolor
+Citroën,C4,2012,17 900 PLN,227 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Czarny
+Citroën,DS3,2011,16 900 PLN,232 000 km,Benzyna,Manualna,Auta małe,1 397 cm3,95 KM,3,Niebieski
+Citroën,Berlingo,2015,31 999 PLN,197 000 km,Diesel,Manualna,Kombi,1 560 cm3,92 KM,5,Szary
+Citroën,C3 Aircross,2018,49 900 PLN,95 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,C4 Picasso,2009,13 900 PLN,211 700 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Brązowy
+Citroën,C4 Picasso,2010,14 900 PLN,308 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C4,2013,17 000 PLN,210 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Czarny
+Citroën,DS4,2014,34 900 PLN,154 000 km,Diesel,Manualna,Kompakt,1 997 cm3,150 KM,5,Granatowy
+Citroën,C4 Grand Picasso,2016,45 000 PLN,174 030 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Biały
+Citroën,C4 Grand Picasso,2007,13 900 PLN,239 000 km,Benzyna,Automatyczna,Minivan,1 997 cm3,140 KM,5,Inny kolor
+Citroën,C4 Picasso,2009,13 900 PLN,214 298 km,Benzyna,Automatyczna,Minivan,1 598 cm3,150 KM,5,Niebieski
+Citroën,Berlingo,2008,17 500 PLN,312 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Inny kolor
+Citroën,Saxo,2000,3 990 PLN,97 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,60 KM,3,Niebieski
+Citroën,C5,2009,15 900 PLN,315 000 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Granatowy
+Citroën,DS4,2011,32 200 PLN,112 180 km,Diesel,Automatyczna,Kompakt,1 560 cm3,112 KM,5,Biały
+Citroën,C5,2008,14 999 PLN,295 566 km,Diesel,Automatyczna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Citroën,Jumpy Combi,2010,29 900 PLN,290 000 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,4,Srebrny
+Citroën,C4 Aircross,2012,20 000 PLN,250 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Szary
+Citroën,C4,2021,64 900 PLN,81 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,C4,2012,29 900 PLN,157 052 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,120 KM,5,Brązowy
+Citroën,C4 Cactus,2019,53 000 PLN,153 000 km,Diesel,Automatyczna,SUV,1 499 cm3,120 KM,5,Szary
+Citroën,C3,2004,9 900 PLN,130 867 km,Benzyna,Automatyczna,Auta małe,1 587 cm3,109 KM,5,Niebieski
+Citroën,C5X,2022,126 000 PLN,52 000 km,Benzyna,Automatyczna,Sedan,1 598 cm3,181 KM,5,Szary
+Citroën,C3 Picasso,2016,27 999 PLN,126 019 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Bordowy
+Citroën,C4,2006,5 000 PLN,262 020 km,Benzyna+LPG,Manualna,Kompakt,1 587 cm3,110 KM,5,Czerwony
+Citroën,C4 Picasso,2014,39 000 PLN,145 800 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Niebieski
+Citroën,C5,2014,36 999 PLN,240 000 km,Diesel,Automatyczna,Kombi,2 179 cm3,204 KM,5,Złoty
+Citroën,C-Crosser,2008,22 900 PLN,268 000 km,Diesel,Manualna,SUV,2 179 cm3,156 KM,5,Czarny
+Citroën,C4,2013,15 550 PLN,259 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Szary
+Citroën,C4 Picasso,2015,19 699 PLN,180 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Błękitny
+Citroën,C1,2011,12 500 PLN,136 580 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Czarny
+Citroën,C2,2006,5 858 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,60 KM,3,Srebrny
+Citroën,C8,2005,11 700 PLN,220 000 km,Benzyna,Manualna,Minivan,1 997 cm3,140 KM,5,Granatowy
+Citroën,C4 Picasso,2017,25 900 PLN,99 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Szary
+Citroën,C4 Picasso,2017,25 900 PLN,99 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Szary
+Citroën,C5 Aircross,2019,78 000 PLN,146 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Biały
+Citroën,C3,2023,49 800 PLN,6 661 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Szary
+Citroën,C2,2003,6 700 PLN,137 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,60 KM,3,Czarny
+Citroën,C3,2004,5 500 PLN,193 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,75 KM,5,Srebrny
+Citroën,DS4,2015,29 500 PLN,241 000 km,Diesel,Manualna,Kompakt,1 560 cm3,120 KM,5,Szary
+Citroën,Berlingo,2012,19 600 PLN,203 533 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,4,Biały
+Citroën,Berlingo,2016,42 900 PLN,170 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Biały
+Citroën,Berlingo,2012,24 900 PLN,235 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,5,Niebieski
+Citroën,Berlingo,2010,21 900 PLN,194 213 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Srebrny
+Citroën,C4 Picasso,2009,14 600 PLN,147 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Czerwony
+Citroën,Berlingo,2009,24 000 PLN,160 000 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Czarny
+Citroën,C4 Grand Picasso,2012,18 700 PLN,306 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Granatowy
+Citroën,C1,2008,13 700 PLN,90 000 km,Benzyna,Automatyczna,Auta małe,998 cm3,68 KM,5,Zielony
+Citroën,C3,2007,10 900 PLN,122 400 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,60 KM,5,Czarny
+Citroën,Berlingo,2018,69 000 PLN,189 664 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Srebrny
+Citroën,C1,2019,38 900 PLN,40 600 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Biały
+Citroën,C1,2011,11 900 PLN,167 780 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czarny
+Citroën,C3,2005,4 990 PLN,190 000 km,Benzyna,Manualna,Auta miejskie,1 124 cm3,60 KM,5,Bordowy
+Citroën,C4 Picasso,2010,14 000 PLN,273 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Biały
+Citroën,C3,2020,15 900 PLN,78 000 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Czarny
+Citroën,C-Elysée,2017,33 500 PLN,94 650 km,Benzyna+LPG,Automatyczna,Sedan,1 587 cm3,115 KM,4,Granatowy
+Citroën,C3 Aircross,2017,48 900 PLN,130 300 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,Jumper,2016,186 000 PLN,215 000 km,Diesel,Manualna,Minivan,1 997 cm3,130 KM,4,Srebrny
+Citroën,C4 Picasso,2008,9 300 PLN,235 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Inny kolor
+Citroën,C4,2008,11 500 PLN,175 000 km,Benzyna+LPG,Manualna,Kompakt,1 587 cm3,109 KM,5,Czarny
+Citroën,Berlingo,2016,30 700 PLN,148 000 km,Diesel,Manualna,Minivan,1 560 cm3,99 KM,5,Niebieski
+Citroën,C4,2006,9 800 PLN,234 780 km,Benzyna,Manualna,Coupe,1 587 cm3,110 KM,3,Czerwony
+Citroën,Berlingo,2022,94 000 PLN,28 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Inny kolor
+Citroën,C4 SpaceTourer,2020,46 900 PLN,148 000 km,Diesel,Manualna,Minivan,1 499 cm3,131 KM,5,Szary
+Citroën,C5,2008,18 900 PLN,147 600 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Citroën,C5 Aircross,2021,79 000 PLN,39 000 km,Diesel,Manualna,SUV,1 499 cm3,130 KM,5,Czarny
+Citroën,DS5,2014,48 500 PLN,112 500 km,Diesel,Automatyczna,Sedan,1 560 cm3,115 KM,5,Biały
+Citroën,DS3,2012,29 999 PLN,137 000 km,Benzyna,Manualna,Auta małe,1 598 cm3,207 KM,3,Czarny
+Citroën,C4,2016,29 500 PLN,152 487 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Szary
+Citroën,C5,2014,31 900 PLN,220 000 km,Diesel,Manualna,Kombi,1 560 cm3,114 KM,4,Biały
+Citroën,C4 Cactus,2015,29 900 PLN,237 301 km,Diesel,Automatyczna,SUV,1 560 cm3,92 KM,5,Bordowy
+Citroën,C4 Picasso,2014,36 990 PLN,173 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Citroën,C4 Picasso,2015,36 900 PLN,219 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Niebieski
+Citroën,C5,2014,38 900 PLN,242 311 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2013,32 999 PLN,178 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,5,Niebieski
+Citroën,Berlingo,2014,32 900 PLN,146 917 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,5,Szary
+Citroën,Inny,2021,29 999 PLN,20 000 km,Elektryczny,Automatyczna,Auta miejskie,,10 KM,2,Inny kolor
+Citroën,C4 Picasso,2007,8 900 PLN,302 000 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,C4 Cactus,2015,35 000 PLN,77 209 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Czerwony
+Citroën,C5,2012,22 500 PLN,102 900 km,Benzyna,Manualna,Sedan,1 598 cm3,156 KM,4,Niebieski
+Citroën,C5,2005,18 500 PLN,286 200 km,Benzyna,Manualna,Sedan,1 997 cm3,140 KM,5,Złoty
+Citroën,Berlingo,2007,12 500 PLN,229 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Błękitny
+Citroën,C4 Grand Picasso,2017,48 200 PLN,112 900 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Srebrny
+Citroën,C4 Picasso,2014,22 999 PLN,224 500 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Czerwony
+Citroën,C5,2008,19 500 PLN,230 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Granatowy
+Citroën,C3,2010,23 900 PLN,242 975 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,120 KM,5,Czarny
+Citroën,C4 Cactus,2017,44 999 PLN,138 700 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Czarny
+Citroën,C3,2017,36 300 PLN,81 885 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Biały
+Citroën,C3,2007,7 900 PLN,199 990 km,Benzyna,Manualna,Kompakt,1 124 cm3,60 KM,5,Szary
+Citroën,C4 Cactus,2017,35 600 PLN,79 860 km,Diesel,Manualna,Sedan,1 560 cm3,100 KM,5,Fioletowy
+Citroën,C3,2014,19 900 PLN,128 000 km,Diesel,Manualna,Auta miejskie,1 398 cm3,68 KM,5,Biały
+Citroën,C1,2009,5 000 PLN,259 000 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czerwony
+Citroën,C4 Picasso,2010,13 000 PLN,216 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,Berlingo,2018,47 355 PLN,209 000 km,Diesel,Manualna,Kombi,1 560 cm3,102 KM,5,Srebrny
+Citroën,Berlingo,2012,26 500 PLN,190 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,90 KM,4,Niebieski
+Citroën,C4 Cactus,2015,33 000 PLN,119 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Brązowy
+Citroën,C4 Grand Picasso,2014,39 999 PLN,150 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Czarny
+Citroën,C5,2014,19 900 PLN,208 000 km,Benzyna,Manualna,Kombi,1 598 cm3,156 KM,5,Szary
+Citroën,C5,2014,19 900 PLN,208 000 km,Benzyna,Manualna,Kombi,1 598 cm3,156 KM,5,Szary
+Citroën,C3 Aircross,2020,49 900 PLN,30 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,C3,2014,22 500 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Granatowy
+Citroën,Berlingo,2006,18 400 PLN,174 000 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Czarny
+Citroën,C5,2008,19 999 PLN,199 272 km,Diesel,Automatyczna,Sedan,1 997 cm3,136 KM,5,Szary
+Citroën,C4 Aircross,2012,33 900 PLN,205 000 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Inny kolor
+Citroën,C8,2007,9 250 PLN,278 652 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Niebieski
+Citroën,DS3,2011,18 600 PLN,118 619 km,Benzyna,Manualna,Kompakt,1 598 cm3,156 KM,3,Inny kolor
+Citroën,DS4,2015,41 000 PLN,161 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,112 KM,5,Czarny
+Citroën,C5,2010,18 000 PLN,250 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Citroën,SpaceTourer,2019,58 000 PLN,120 000 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,4,Biały
+Citroën,C4 Grand Picasso,2012,25 900 PLN,292 378 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Brązowy
+Citroën,C5,2013,29 900 PLN,251 891 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Szary
+Citroën,C4 Picasso,2017,20 900 PLN,161 123 km,Diesel,Automatyczna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,C4,2016,30 000 PLN,113 000 km,Benzyna,Manualna,Coupe,1 199 cm3,110 KM,5,Biały
+Citroën,C3,2018,44 900 PLN,47 800 km,Benzyna,Manualna,Auta małe,1 199 cm3,83 KM,5,Szary
+Citroën,C4 Cactus,2015,37 800 PLN,67 630 km,Diesel,Manualna,Auta małe,1 560 cm3,99 KM,5,Fioletowy
+Citroën,C5,2009,22 000 PLN,299 458 km,Benzyna+LPG,Automatyczna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Citroën,C4 Cactus,2015,33 500 PLN,99 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,C4,2011,16 000 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Biały
+Citroën,C3,2010,21 000 PLN,137 129 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Inny kolor
+Citroën,C3,2006,6 400 PLN,186 000 km,Diesel,Manualna,Auta miejskie,1 398 cm3,68 KM,5,Srebrny
+Citroën,C3,2013,16 200 PLN,175 000 km,Diesel,Manualna,Auta miejskie,1 398 cm3,68 KM,5,Srebrny
+Citroën,C5 Aircross,2019,75 900 PLN,48 266 km,Diesel,Manualna,SUV,1 499 cm3,130 KM,5,Niebieski
+Citroën,Berlingo,2008,18 942 PLN,193 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,4,Srebrny
+Citroën,Berlingo,2021,95 000 PLN,35 300 km,Benzyna,Manualna,Kombi,1 199 cm3,110 KM,5,Biały
+Citroën,C4 Grand Picasso,2017,48 500 PLN,171 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Biały
+Citroën,C4 Picasso,2008,7 900 PLN,320 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C4,2022,88 000 PLN,52 000 km,Diesel,Automatyczna,Kompakt,1 499 cm3,130 KM,5,Czerwony
+Citroën,C5 Aircross,2023,115 555 PLN,14 900 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Citroën,C4,2014,27 000 PLN,152 500 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Szary
+Citroën,C3,2018,44 000 PLN,92 800 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,5,Inny kolor
+Citroën,Berlingo,2011,15 900 PLN,198 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Niebieski
+Citroën,C4 Cactus,2015,31 000 PLN,120 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Fioletowy
+Citroën,CX,1976,11 000 PLN,57 350 km,Benzyna,Manualna,Sedan,2 175 cm3,120 KM,4,Zielony
+Citroën,C1,2007,7 500 PLN,91 461 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Srebrny
+Citroën,C5,2008,6 499 PLN,278 036 km,Diesel,Manualna,Kompakt,1 997 cm3,136 KM,5,Czarny
+Citroën,C5,2010,18 500 PLN,275 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Srebrny
+Citroën,C4,2023,99 900 PLN,15 810 km,Diesel,Automatyczna,Kompakt,1 499 cm3,130 KM,5,Szary
+Citroën,C4 Picasso,2007,12 500 PLN,230 700 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Bordowy
+Citroën,Xsara Picasso,2006,7 000 PLN,214 127 km,Benzyna+LPG,Manualna,Minivan,1 587 cm3,110 KM,5,Szary
+Citroën,Berlingo,2017,49 400 PLN,141 514 km,Diesel,Manualna,Minivan,1 560 cm3,102 KM,5,Brązowy
+Citroën,C5,2015,52 900 PLN,112 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Brązowy
+Citroën,C5,2013,23 000 PLN,176 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Biały
+Citroën,C4 Cactus,2016,29 800 PLN,159 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C4 Picasso,2015,43 900 PLN,242 290 km,Benzyna,Automatyczna,Minivan,1 598 cm3,165 KM,5,Bordowy
+Citroën,C5,2015,41 900 PLN,151 000 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,5,Czarny
+Citroën,C3,2019,39 900 PLN,92 876 km,Benzyna+LPG,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Srebrny
+Citroën,DS4,2013,27 999 PLN,276 000 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Szary
+Citroën,C4 Picasso,2009,9 700 PLN,255 336 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Szary
+Citroën,C4 Picasso,2011,22 222 PLN,231 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Niebieski
+Citroën,C4 Picasso,2013,27 100 PLN,218 713 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Brązowy
+Citroën,C4,2011,19 900 PLN,166 500 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Czarny
+Citroën,DS5,2014,43 500 PLN,84 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,200 KM,5,Biały
+Citroën,DS3,2016,25 500 PLN,119 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,3,Inny kolor
+Citroën,C3,2023,56 500 PLN,300 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Inny kolor
+Citroën,C5,2009,6 900 PLN,365 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Niebieski
+Citroën,Inny,2020,28 500 PLN,10 228 km,Elektryczny,Automatyczna,Auta małe,,8 KM,2,Błękitny
+Citroën,C3 Aircross,2023,84 900 PLN,14 993 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Czarny
+Citroën,C4 Picasso,2016,46 900 PLN,224 024 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,C4 Cactus,2018,39 000 PLN,112 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Szary
+Citroën,DS5,2012,39 900 PLN,144 145 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Biały
+Citroën,C4 Picasso,2015,29 990 PLN,211 000 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Srebrny
+Citroën,DS3,2011,21 700 PLN,245 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,114 KM,3,Biały
+Citroën,DS3,2011,21 700 PLN,245 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,114 KM,3,Biały
+Citroën,C4 Cactus,2015,41 500 PLN,101 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,C5,2012,25 999 PLN,212 000 km,Diesel,Automatyczna,Sedan,2 992 cm3,241 KM,4,Czarny
+Citroën,C1,2019,38 800 PLN,14 500 km,Benzyna,Manualna,Auta małe,998 cm3,72 KM,5,Niebieski
+Citroën,C5,2008,10 700 PLN,345 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Czarny
+Citroën,C5 Aircross,2019,69 900 PLN,142 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Citroën,Jumper,2016,54 800 PLN,281 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,4,Biały
+Citroën,DS4,2016,39 000 PLN,94 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Bordowy
+Citroën,C5 Aircross,2021,94 900 PLN,43 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,181 KM,5,Srebrny
+Citroën,C3 Picasso,2012,19 500 PLN,218 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Citroën,C3,2008,6 500 PLN,144 949 km,Benzyna,Automatyczna,Kompakt,1 360 cm3,88 KM,5,Beżowy
+Citroën,C1,2006,4 999 PLN,205 500 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Czerwony
+Citroën,Berlingo,2016,33 500 PLN,85 383 km,Diesel,Manualna,Minivan,1 560 cm3,102 KM,5,Biały
+Citroën,C3,2011,18 000 PLN,137 300 km,Diesel,Manualna,Auta małe,1 398 cm3,68 KM,5,Biały
+Citroën,C3,2014,19 500 PLN,162 050 km,Diesel,Manualna,Kompakt,1 398 cm3,68 KM,5,Biały
+Citroën,C4,2024,94 900 PLN,6 700 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Bordowy
+Citroën,C3,2015,34 900 PLN,132 532 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,82 KM,5,Inny kolor
+Citroën,C5,2012,28 000 PLN,120 000 km,Diesel,Manualna,Sedan,1 560 cm3,112 KM,5,Czarny
+Citroën,C3,2018,40 500 PLN,51 500 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Szary
+Citroën,C4 Picasso,2017,48 500 PLN,107 800 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Granatowy
+Citroën,C4,2017,38 500 PLN,87 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,130 KM,5,Błękitny
+Citroën,C5,2012,26 000 PLN,251 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Czarny
+Citroën,Berlingo,2015,38 500 PLN,158 000 km,Diesel,Manualna,Kompakt,1 560 cm3,102 KM,5,Czarny
+Citroën,C3,2012,18 500 PLN,143 622 km,Diesel,Manualna,Auta miejskie,1 398 cm3,70 KM,5,Biały
+Citroën,Jumpy Combi,2010,17 900 PLN,32 000 km,Diesel,Manualna,Kombi,1 560 cm3,90 KM,4,Biały
+Citroën,C5 Aircross,2020,69 900 PLN,171 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,C5,2010,11 500 PLN,299 000 km,Diesel,Manualna,Sedan,1 560 cm3,112 KM,5,Niebieski
+Citroën,C3 Picasso,2013,20 400 PLN,127 800 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Srebrny
+Citroën,C5,2008,15 400 PLN,280 000 km,Benzyna+LPG,Manualna,Sedan,1 749 cm3,125 KM,5,Inny kolor
+Citroën,C5,2009,12 999 PLN,183 405 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Szary
+Citroën,Berlingo,2010,19 900 PLN,199 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Srebrny
+Citroën,C5,2012,30 900 PLN,252 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Czarny
+Citroën,C4 Picasso,2017,39 900 PLN,174 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,120 KM,5,Granatowy
+Citroën,C-Elysée,2019,28 500 PLN,60 000 km,Benzyna,Manualna,Sedan,1 199 cm3,82 KM,4,Szary
+Citroën,Jumpy Combi,2007,16 000 PLN,320 000 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,4,Srebrny
+Citroën,C5,2012,21 000 PLN,319 276 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Czarny
+Citroën,Berlingo,2017,23 499 PLN,270 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,4,Biały
+Citroën,Berlingo,2018,54 500 PLN,98 500 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,C4 Picasso,2008,12 900 PLN,454 840 km,Benzyna,Automatyczna,Minivan,1 997 cm3,140 KM,5,Brązowy
+Citroën,Berlingo,2012,24 400 PLN,243 500 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Granatowy
+Citroën,C3 Aircross,2018,46 900 PLN,50 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Srebrny
+Citroën,C4 Picasso,2013,28 500 PLN,184 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Citroën,C4 Picasso,2009,13 500 PLN,252 047 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Niebieski
+Citroën,C4,2018,29 900 PLN,133 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,100 KM,5,Szary
+Citroën,DS3,2019,47 800 PLN,95 900 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,3,Biały
+Citroën,DS5,2013,39 900 PLN,235 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Czarny
+Citroën,C5,2012,20 500 PLN,213 000 km,Benzyna,Manualna,Kombi,1 598 cm3,156 KM,5,Brązowy
+Citroën,SpaceTourer,2021,165 000 PLN,106 000 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Brązowy
+Citroën,DS4,2014,34 900 PLN,170 000 km,Diesel,Manualna,Kompakt,1 560 cm3,120 KM,5,Czarny
+Citroën,C4 Picasso,2017,62 900 PLN,193 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Brązowy
+Citroën,DS7,2019,69 999 PLN,145 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Czarny
+Citroën,C4 Picasso,2008,13 500 PLN,233 000 km,Benzyna+LPG,Manualna,Minivan,1 749 cm3,125 KM,5,Beżowy
+Citroën,C4 Cactus,2015,29 999 PLN,94 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Czerwony
+Citroën,Berlingo,2019,45 500 PLN,154 000 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Biały
+Citroën,C3 Pluriel,2003,2 700 PLN,149 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,75 KM,2,Złoty
+Citroën,C3 Aircross,2018,47 500 PLN,79 000 km,Diesel,Manualna,SUV,1 560 cm3,99 KM,5,Inny kolor
+Citroën,Berlingo,2015,32 900 PLN,158 945 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Czarny
+Citroën,C4 Cactus,2018,44 900 PLN,60 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,C4,2012,21 900 PLN,135 000 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Bordowy
+Citroën,C5,2015,29 900 PLN,252 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Biały
+Citroën,DS3,2013,24 900 PLN,89 405 km,Diesel,Manualna,Auta miejskie,1 560 cm3,92 KM,3,Czarny
+Citroën,Berlingo,2017,37 900 PLN,196 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Srebrny
+Citroën,C4 SpaceTourer,2019,43 800 PLN,126 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Szary
+Citroën,C3,2019,41 000 PLN,97 000 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Biały
+Citroën,C5,2010,16 000 PLN,180 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Citroën,C4,2006,10 700 PLN,182 000 km,Benzyna,Manualna,Kompakt,1 587 cm3,109 KM,5,Szary
+Citroën,C4 Picasso,2010,19 900 PLN,111 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,109 KM,5,Brązowy
+Citroën,DS4,2012,30 800 PLN,136 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Citroën,C3 Picasso,2009,15 800 PLN,220 000 km,Benzyna,Manualna,Auta miejskie,1 397 cm3,95 KM,5,Zielony
+Citroën,C4,2011,22 199 PLN,123 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Szary
+Citroën,C5,2009,15 900 PLN,200 000 km,Benzyna,Manualna,Kombi,1 749 cm3,125 KM,5,Czarny
+Citroën,DS4,2014,39 800 PLN,146 000 km,Diesel,Manualna,SUV,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2018,49 900 PLN,71 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Szary
+Citroën,DS5,2014,39 000 PLN,187 500 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Szary
+Citroën,C4 Grand Picasso,2013,22 000 PLN,162 970 km,Diesel,Manualna,Minivan,1 560 cm3,112 KM,5,Granatowy
+Citroën,C3,2019,26 900 PLN,25 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Beżowy
+Citroën,C4,2013,15 000 PLN,228 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Biały
+Citroën,C4,2012,26 800 PLN,104 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Szary
+Citroën,Berlingo,2008,5 700 PLN,187 000 km,Benzyna,Manualna,Minivan,1 360 cm3,75 KM,5,Błękitny
+Citroën,C4 Grand Picasso,2006,12 600 PLN,178 837 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Bordowy
+Citroën,C5,2009,22 900 PLN,96 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Szary
+Citroën,C1,2006,8 400 PLN,171 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,68 KM,5,Szary
+Citroën,DS5,2015,47 900 PLN,207 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,180 KM,5,Fioletowy
+Citroën,DS4,2014,37 000 PLN,193 000 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Czarny
+Citroën,C3,2012,17 500 PLN,157 382 km,Diesel,Manualna,Auta małe,1 398 cm3,68 KM,5,Brązowy
+Citroën,C4 Picasso,2015,34 900 PLN,191 788 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Biały
+Citroën,C5,2012,15 900 PLN,240 000 km,Diesel,Automatyczna,Kombi,2 992 cm3,240 KM,5,Biały
+Citroën,C4 Picasso,2018,34 900 PLN,171 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,120 KM,5,Biały
+Citroën,C2,2008,14 999 PLN,107 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 587 cm3,122 KM,3,Czarny
+Citroën,2 CV,1977,29 000 PLN,103 200 km,Benzyna,Manualna,Kabriolet,602 cm3,29 KM,2,Zielony
+Citroën,C4,2022,81 000 PLN,16 100 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,Jumpy Combi,2018,43 000 PLN,215 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,177 KM,4,Żółty
+Citroën,C3,2017,34 800 PLN,92 500 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Biały
+Citroën,C5,2012,25 900 PLN,221 280 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Niebieski
+Citroën,C4 Cactus,2018,45 900 PLN,69 702 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,DS3,2011,19 900 PLN,156 462 km,Benzyna,Manualna,Auta małe,1 397 cm3,95 KM,3,Niebieski
+Citroën,DS3,2011,19 900 PLN,156 462 km,Benzyna,Manualna,Auta małe,1 397 cm3,95 KM,3,Niebieski
+Citroën,C4 Grand Picasso,2016,23 500 PLN,150 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Czarny
+Citroën,C4 Grand Picasso,2014,41 900 PLN,192 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,116 KM,5,Srebrny
+Citroën,C5,2014,42 000 PLN,115 000 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Czarny
+Citroën,C4 Picasso,2008,13 900 PLN,249 000 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Czarny
+Citroën,C4,2022,89 900 PLN,15 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Inny kolor
+Citroën,C3 Aircross,2017,39 900 PLN,137 700 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Błękitny
+Citroën,C3,2021,54 499 PLN,32 500 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Szary
+Citroën,C4 SpaceTourer,2019,65 900 PLN,189 600 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Czerwony
+Citroën,C3,2011,15 999 PLN,165 500 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,73 KM,5,Czarny
+Citroën,C3,2010,18 900 PLN,211 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,120 KM,5,Błękitny
+Citroën,C4 Picasso,2017,46 900 PLN,89 000 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Szary
+Citroën,C5,2008,15 000 PLN,280 000 km,Diesel,Manualna,Kombi,2 179 cm3,170 KM,5,Czarny
+Citroën,C5 Aircross,2019,74 999 PLN,140 500 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,Berlingo,2009,16 900 PLN,264 800 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,C3,2013,20 500 PLN,133 500 km,Benzyna,Manualna,Auta małe,999 cm3,68 KM,5,Szary
+Citroën,Xantia,1995,10 200 PLN,57 000 km,Diesel,Manualna,Sedan,1 905 cm3,70 KM,5,Srebrny
+Citroën,Berlingo,2015,38 900 PLN,152 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Beżowy
+Citroën,DS5,2016,49 900 PLN,127 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,180 KM,5,Inny kolor
+Citroën,C3,2010,12 900 PLN,120 000 km,Diesel,Manualna,Kompakt,1 398 cm3,68 KM,5,Inny kolor
+Citroën,C1,2007,8 500 PLN,142 300 km,Benzyna,Manualna,Auta miejskie,998 cm3,68 KM,3,Niebieski
+Citroën,Berlingo,2017,36 500 PLN,210 083 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Biały
+Citroën,C5 Aircross,2023,45 000 PLN,6 300 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Srebrny
+Citroën,C4 Picasso,2014,35 900 PLN,204 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Bordowy
+Citroën,C4,2012,22 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 560 cm3,110 KM,5,Inny kolor
+Citroën,C4 Cactus,2017,34 990 PLN,126 600 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Biały
+Citroën,C5,2011,34 600 PLN,224 431 km,Diesel,Automatyczna,Sedan,2 179 cm3,204 KM,4,Czarny
+Citroën,C5,2016,29 900 PLN,217 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Czarny
+Citroën,C5,2012,24 000 PLN,249 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Szary
+Citroën,C4 Grand Picasso,2012,20 000 PLN,216 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Czarny
+Citroën,Berlingo,2017,24 900 PLN,281 000 km,Diesel,Manualna,Minivan,1 560 cm3,99 KM,5,Biały
+Citroën,C4 Grand Picasso,2017,33 900 PLN,200 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,C4 Grand Picasso,2008,12 999 PLN,254 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,136 KM,5,Srebrny
+Citroën,C3 Picasso,2011,18 600 PLN,228 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,120 KM,5,Biały
+Citroën,C5,2011,30 900 PLN,142 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Granatowy
+Citroën,Berlingo,2011,16 900 PLN,329 675 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Błękitny
+Citroën,C4,2022,90 999 PLN,48 480 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Pomarańczowy
+Citroën,C4 Picasso,2009,14 500 PLN,219 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Citroën,C5,2009,18 500 PLN,315 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,5,Szary
+Citroën,DS5,2012,32 900 PLN,268 000 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Inny kolor
+Citroën,C4,2012,16 900 PLN,170 000 km,Diesel,Manualna,Kompakt,1 560 cm3,110 KM,5,Szary
+Citroën,C4,2013,24 900 PLN,94 444 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Citroën,C3 Aircross,2019,56 900 PLN,37 307 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,C3,2013,23 400 PLN,128 000 km,Diesel,Manualna,Auta miejskie,1 398 cm3,68 KM,5,Czerwony
+Citroën,C4 SpaceTourer,2020,33 900 PLN,46 000 km,Diesel,Automatyczna,Minivan,1 499 cm3,131 KM,5,Szary
+Citroën,Berlingo,2024,124 900 PLN,8 030 km,Diesel,Automatyczna,Kombi,1 499 cm3,130 KM,5,Biały
+Citroën,C3,2018,39 400 PLN,78 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Biały
+Citroën,C4,2010,9 900 PLN,231 913 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Citroën,C3,2017,37 900 PLN,97 500 km,Diesel,Manualna,Auta miejskie,1 560 cm3,75 KM,5,Biały
+Citroën,C4,2011,17 900 PLN,220 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Srebrny
+Citroën,C3,2007,8 500 PLN,204 000 km,Benzyna,Manualna,Kompakt,1 360 cm3,75 KM,5,Czarny
+Citroën,C5,2005,7 900 PLN,264 000 km,Benzyna,Automatyczna,Kompakt,1 997 cm3,140 KM,5,Srebrny
+Citroën,Berlingo,2003,7 000 PLN,265 000 km,Benzyna,Manualna,Minivan,1 360 cm3,75 KM,5,Srebrny
+Citroën,C4 Grand Picasso,2010,15 000 PLN,277 582 km,Benzyna,Automatyczna,Minivan,1 598 cm3,150 KM,5,Inny kolor
+Citroën,C3 Aircross,2019,52 900 PLN,53 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,Berlingo,2017,15 900 PLN,65 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,4,Inny kolor
+Citroën,C3,2013,21 900 PLN,144 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Biały
+Citroën,C3,2019,19 900 PLN,52 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Inny kolor
+Citroën,C1,2021,28 900 PLN,24 000 km,Benzyna,Manualna,Auta miejskie,1 000 cm3,72 KM,5,Czerwony
+Citroën,C4 Cactus,2014,35 900 PLN,137 142 km,Benzyna,Manualna,Auta małe,1 199 cm3,110 KM,5,Żółty
+Citroën,C5,2014,29 900 PLN,144 500 km,Diesel,Automatyczna,Kombi,1 560 cm3,112 KM,5,Inny kolor
+Citroën,C4,2011,17 900 PLN,283 500 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Biały
+Citroën,DS3,2011,17 989 PLN,161 278 km,Benzyna,Manualna,Coupe,1 598 cm3,120 KM,3,Czarny
+Citroën,C3 Aircross,2022,69 900 PLN,26 000 km,Benzyna,Automatyczna,Minivan,1 199 cm3,130 KM,5,Czarny
+Citroën,C4 Picasso,2015,35 900 PLN,129 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Citroën,C4 Picasso,2015,45 900 PLN,85 500 km,Diesel,Automatyczna,Minivan,1 560 cm3,116 KM,5,Brązowy
+Citroën,DS5,2014,43 700 PLN,204 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,180 KM,5,Złoty
+Citroën,C4 Picasso,2016,54 900 PLN,140 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,Jumpy Combi,2021,108 000 PLN,146 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,177 KM,4,Czarny
+Citroën,DS3,2011,21 900 PLN,145 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,156 KM,3,Czerwony
+Citroën,C3 Aircross,2020,64 500 PLN,45 839 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Citroën,C5,2012,20 900 PLN,200 000 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Biały
+Citroën,C3 Picasso,2014,25 900 PLN,110 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Szary
+Citroën,C4 Picasso,2012,17 900 PLN,361 606 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Biały
+Citroën,C3,2006,5 800 PLN,128 015 km,Benzyna,Manualna,Kompakt,1 124 cm3,60 KM,5,Bordowy
+Citroën,C3,2019,53 500 PLN,54 413 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,5,Inny kolor
+Citroën,C3,2018,42 000 PLN,26 183 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Szary
+Citroën,C4 Picasso,2008,11 900 PLN,303 000 km,Benzyna+LPG,Manualna,Minivan,1 749 cm3,125 KM,5,Granatowy
+Citroën,C4,2022,99 900 PLN,46 418 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,156 KM,5,Czarny
+Citroën,C4,2008,7 500 PLN,210 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Czerwony
+Citroën,C4 Grand Picasso,2007,14 800 PLN,176 300 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Niebieski
+Citroën,C5,2011,17 600 PLN,379 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Citroën,C1,2018,18 900 PLN,83 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,82 KM,5,Czarny
+Citroën,C3,2017,32 900 PLN,133 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Czerwony
+Citroën,C4 Cactus,2014,39 900 PLN,91 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,Berlingo,2009,20 900 PLN,252 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Srebrny
+Citroën,C3 Picasso,2012,19 900 PLN,203 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Inny kolor
+Citroën,C3 Picasso,2015,23 000 PLN,67 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Czarny
+Citroën,DS5,2012,34 500 PLN,179 127 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2019,129 500 PLN,47 000 km,Diesel,Manualna,Minivan,1 560 cm3,99 KM,5,Niebieski
+Citroën,C4,2022,25 900 PLN,60 000 km,Elektryczny,Automatyczna,Kompakt,,136 KM,5,Brązowy
+Citroën,C1,2011,10 870 PLN,216 222 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Biały
+Citroën,C5,2014,32 500 PLN,214 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Szary
+Citroën,C4 Cactus,2016,37 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Niebieski
+Citroën,C4 Grand Picasso,2016,43 900 PLN,156 983 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Czarny
+Citroën,C3,2017,39 900 PLN,90 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Biały
+Citroën,C5,2011,19 500 PLN,106 000 km,Benzyna,Automatyczna,Kombi,1 598 cm3,156 KM,5,Srebrny
+Citroën,C4 Grand Picasso,2013,34 900 PLN,222 580 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Brązowy
+Citroën,C3,2017,24 900 PLN,21 813 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Szary
+Citroën,C4,2017,29 900 PLN,214 000 km,Diesel,Manualna,Auta małe,1 560 cm3,120 KM,5,Biały
+Citroën,Xsara Picasso,2007,5 400 PLN,194 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Srebrny
+Citroën,C5 Aircross,2020,92 600 PLN,78 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,Berlingo,2017,49 900 PLN,164 000 km,Diesel,Manualna,Kombi,1 560 cm3,120 KM,5,Szary
+Citroën,Berlingo,2009,11 900 PLN,340 000 km,Benzyna+LPG,Manualna,Minivan,1 587 cm3,90 KM,4,Szary
+Citroën,DS5,2015,49 600 PLN,107 000 km,Diesel,Manualna,Kompakt,1 996 cm3,150 KM,5,Granatowy
+Citroën,SpaceTourer,2017,99 937,211 800 km,Diesel,Automatyczna,Minivan,1 997 cm3,177 KM,5,Beżowy
+Citroën,C4 Cactus,2019,44 900 PLN,139 000 km,Diesel,Manualna,SUV,1 499 cm3,102 KM,5,Biały
+Citroën,C4 Grand Picasso,2016,31 000 PLN,172 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Citroën,C-Crosser,2008,24 000 PLN,204 500 km,Benzyna+LPG,Manualna,SUV,2 360 cm3,170 KM,5,Czarny
+Citroën,Xsara Picasso,2005,6 500 PLN,110 050 km,Benzyna,Manualna,Minivan,1 587 cm3,110 KM,5,Czarny
+Citroën,DS5,2012,32 300 PLN,235 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,120 KM,5,Szary
+Citroën,C4,2012,24 500 PLN,177 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Biały
+Citroën,C5,2010,20 600 PLN,255 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Granatowy
+Citroën,C3 Picasso,2009,19 999 PLN,124 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Bordowy
+Citroën,C4 Picasso,2010,15 900 PLN,295 213 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Srebrny
+Citroën,DS3,2013,14 200 PLN,190 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,92 KM,3,Brązowy
+Citroën,C4 Picasso,2010,14 999 PLN,240 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Inny kolor
+Citroën,C4,2009,8 900 PLN,239 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Srebrny
+Citroën,C3,2023,42 999 PLN,7 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Biały
+Citroën,C3,2015,12 900 PLN,115 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Niebieski
+Citroën,C4 Picasso,2016,40 900 PLN,190 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,C3,2016,26 800 PLN,47 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Biały
+Citroën,C4,2012,19 900 PLN,188 000 km,Benzyna,Manualna,Auta miejskie,1 397 cm3,95 KM,5,Szary
+Citroën,Berlingo,2013,30 135 PLN,233 450 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Czarny
+Citroën,C4,2022,85 900 PLN,26 500 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,C4,2015,29 800 PLN,154 000 km,Diesel,Manualna,Kompakt,1 560 cm3,100 KM,5,Srebrny
+Citroën,C3,2018,35 900 PLN,125 000 km,Diesel,Manualna,Kompakt,1 499 cm3,102 KM,5,Brązowy
+Citroën,Berlingo,2012,32 000 PLN,197 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Brązowy
+Citroën,Berlingo,2012,32 000 PLN,197 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Brązowy
+Citroën,Jumper,2019,36 000 PLN,230 000 km,Diesel,Manualna,Minivan,1 997 cm3,163 KM,4,Biały
+Citroën,C3 Aircross,2020,56 600 PLN,49 431 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czarny
+Citroën,C3 Picasso,2010,13 999 PLN,139 885 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Zielony
+Citroën,C3,2024,69 900 PLN,5 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Czarny
+Citroën,Berlingo,2010,18 500 PLN,250 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Szary
+Citroën,C3,2024,69 900 PLN,5 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Biały
+Citroën,C5,2012,26 500 PLN,270 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C5 Aircross,2019,71 900 PLN,52 700 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Citroën,DS,1967,125 000 PLN,12 000 km,Benzyna,Manualna,Coupe,2 100 cm3,120 KM,4,Niebieski
+Citroën,C4 Grand Picasso,2016,35 900 PLN,151 117 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Czarny
+Citroën,C-Elysée,2017,27 500 PLN,125 000 km,Benzyna,Manualna,Sedan,1 199 cm3,82 KM,4,Szary
+Citroën,C4,2024,89 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Citroën,Jumpy Combi,2019,63 900 PLN,147 241 km,Diesel,Manualna,Kombi,1 997 cm3,120 KM,4,Biały
+Citroën,C4 Grand Picasso,2015,36 900 PLN,221 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Czarny
+Citroën,DS5,2015,42 500 PLN,211 500 km,Diesel,Manualna,SUV,1 997 cm3,150 KM,5,Czarny
+Citroën,Inny,2020,21 999 PLN,20 000 km,Elektryczny,Automatyczna,Auta miejskie,,8 KM,2,Szary
+Citroën,Berlingo,2019,64 999 PLN,119 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Biały
+Citroën,C5,2013,19 900 PLN,256 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Citroën,Berlingo,2017,35 900 PLN,138 000 km,Diesel,Manualna,Minivan,1 560 cm3,102 KM,5,Srebrny
+Citroën,C3 Picasso,2010,14 900 PLN,193 800 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Czarny
+Citroën,C4 SpaceTourer,2018,41 900 PLN,74 000 km,Diesel,Automatyczna,Minivan,1 499 cm3,130 KM,5,Szary
+Citroën,DS5,2016,40 000 PLN,81 000 km,Diesel,Manualna,Kompakt,1 560 cm3,120 KM,5,Szary
+Citroën,C3 Picasso,2010,18 900 PLN,143 000 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Czarny
+Citroën,C4 Picasso,2009,19 700 PLN,183 768 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Niebieski
+Citroën,C4,2021,84 300 PLN,70 500 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Pomarańczowy
+Citroën,C3,2010,16 500 PLN,162 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,75 KM,5,Czarny
+Citroën,C5,2010,15 700 PLN,296 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C4,2012,22 950 PLN,164 850 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Biały
+Citroën,DS3,2014,26 400 PLN,200 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,92 KM,3,Biały
+Citroën,C5,2012,22 500 PLN,222 800 km,Benzyna,Manualna,Kombi,1 598 cm3,156 KM,5,Czarny
+Citroën,DS4,2012,31 300 PLN,213 363 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Czarny
+Citroën,DS4,2013,32 900 PLN,270 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Granatowy
+Citroën,C4,2011,22 900 PLN,202 500 km,Diesel,Manualna,Kompakt,1 997 cm3,150 KM,5,Szary
+Citroën,C8,2004,6 500 PLN,289 000 km,Diesel,Manualna,Minivan,1 997 cm3,110 KM,5,Szary
+Citroën,Jumpy Combi,2009,25 000 PLN,222 000 km,Diesel,Manualna,Kombi,1 997 cm3,120 KM,4,Biały
+Citroën,C4,2010,4 200 PLN,193 598 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Czarny
+Citroën,DS3,2011,23 900 PLN,69 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,120 KM,3,Szary
+Citroën,C4,2013,17 400 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Czerwony
+Citroën,C3 Picasso,2015,24 500 PLN,89 100 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Czarny
+Citroën,C4 Picasso,2013,28 900 PLN,247 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,116 KM,5,Srebrny
+Citroën,C5,2008,29 500 PLN,252 650 km,Benzyna+LPG,Automatyczna,Sedan,2 946 cm3,211 KM,5,Granatowy
+Citroën,C3,2017,29 500 PLN,152 698 km,Diesel,Manualna,Kompakt,1 560 cm3,75 KM,5,Biały
+Citroën,Berlingo,2008,13 900 PLN,159 000 km,Benzyna,Manualna,Minivan,1 587 cm3,90 KM,5,Niebieski
+Citroën,C4,2013,27 500 PLN,191 500 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,120 KM,5,Srebrny
+Citroën,DS4,2012,31 900 PLN,185 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,112 KM,5,Biały
+Citroën,C4 Cactus,2017,32 800 PLN,120 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Fioletowy
+Citroën,C4 Cactus,2016,33 900 PLN,114 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Biały
+Citroën,C4 Grand Picasso,2009,16 800 PLN,262 818 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Złoty
+Citroën,C5,2014,23 900 PLN,195 000 km,Diesel,Manualna,Kombi,1 560 cm3,114 KM,4,Czarny
+Citroën,C4 Picasso,2014,38 900 PLN,74 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Bordowy
+Citroën,C1,2010,9 500 PLN,107 779 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,68 KM,5,Czarny
+Citroën,C4 Picasso,2012,15 900 PLN,242 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Inny kolor
+Citroën,C4 Cactus,2016,35 000 PLN,104 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Srebrny
+Citroën,C4,2021,106 900 PLN,48 000 km,Elektryczny,Automatyczna,Kompakt,,136 KM,5,Szary
+Citroën,C5,2005,7 000 PLN,267 402 km,Diesel,Manualna,Kombi,2 179 cm3,136 KM,5,Brązowy
+Citroën,Berlingo,2012,16 999 PLN,189 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Bordowy
+Citroën,C3,2005,6 500 PLN,188 815 km,Benzyna,Manualna,Kompakt,1 124 cm3,60 KM,5,Czarny
+Citroën,Xsara Picasso,2001,3 300 PLN,280 000 km,Benzyna+LPG,Manualna,Auta małe,1 749 cm3,117 KM,5,Srebrny
+Citroën,C4,2012,22 900 PLN,213 600 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Szary
+Citroën,C4 Picasso,2007,7 000 PLN,263 872 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,Berlingo,2008,6 990 PLN,239 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,4,Srebrny
+Citroën,C4 Grand Picasso,2011,18 900 PLN,196 000 km,Diesel,Manualna,Minivan,1 560 cm3,112 KM,5,Niebieski
+Citroën,Berlingo,2019,54 900 PLN,249 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Szary
+Citroën,C4 Cactus,2015,32 500 PLN,167 210 km,Diesel,Automatyczna,SUV,1 560 cm3,99 KM,5,Srebrny
+Citroën,C5,2009,45 900 PLN,218 500 km,Diesel,Automatyczna,Sedan,2 992 cm3,241 KM,4,Granatowy
+Citroën,C4,2011,26 700 PLN,158 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Granatowy
+Citroën,DS5,2012,35 500 PLN,207 047 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Granatowy
+Citroën,C4,2023,42 900 PLN,2 500 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Inny kolor
+Citroën,C3 Picasso,2014,25 000 PLN,141 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Inny kolor
+Citroën,C3 Picasso,2010,16 500 PLN,158 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Złoty
+Citroën,C4,2021,44 700 PLN,83 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,155 KM,5,Bordowy
+Citroën,SpaceTourer,2019,125 000 PLN,173 462 km,Diesel,Automatyczna,Minivan,1 997 cm3,177 KM,5,Srebrny
+Citroën,C4 Picasso,2017,27 900 PLN,116 500 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Biały
+Citroën,C4 Picasso,2017,44 700 PLN,45 205 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Szary
+Citroën,C4 Cactus,2018,35 500 PLN,79 174 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Biały
+Citroën,C4,2006,6 300 PLN,253 000 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Srebrny
+Citroën,Inny,2021,29 900 PLN,6 260 km,Elektryczny,Automatyczna,Auta małe,,8 KM,2,Błękitny
+Citroën,C3,2017,29 900 PLN,123 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,75 KM,5,Biały
+Citroën,C4 Picasso,2015,41 000 PLN,211 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,C4,2014,24 500 PLN,175 500 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,120 KM,5,Granatowy
+Citroën,C5 Aircross,2019,80 500 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Citroën,C3,2019,44 500 PLN,87 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Srebrny
+Citroën,C5 Aircross,2020,81 800 PLN,156 420 km,Diesel,Automatyczna,SUV,1 997 cm3,178 KM,5,Biały
+Citroën,DS3,2011,17 200 PLN,206 400 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,156 KM,3,Biały
+Citroën,C5 Aircross,2023,124 900 PLN,13 080 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Biały
+Citroën,C1,2018,31 000 PLN,48 000 km,Benzyna,Manualna,Auta małe,998 cm3,69 KM,5,Granatowy
+Citroën,C4 Picasso,2014,33 900 PLN,86 370 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Szary
+Citroën,Berlingo,2011,18 000 PLN,280 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Inny kolor
+Citroën,Berlingo,2010,17 200 PLN,344 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Biały
+Citroën,C5,2009,9 900 PLN,288 342 km,Diesel,Automatyczna,Kombi,1 997 cm3,136 KM,5,Granatowy
+Citroën,C3 Aircross,2022,52 900 PLN,95 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,110 KM,5,Niebieski
+Citroën,C3,2015,21 000 PLN,174 000 km,Diesel,Manualna,Auta miejskie,1 398 cm3,68 KM,5,Biały
+Citroën,DS5,2012,39 900 PLN,200 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Srebrny
+Citroën,Jumpy Combi,2011,13 200 PLN,259 000 km,Diesel,Manualna,Kombi,1 560 cm3,90 KM,4,Czarny
+Citroën,C3 Aircross,2019,43 800 PLN,23 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C3,2019,54 900 PLN,64 000 km,Benzyna,Automatyczna,Auta małe,1 199 cm3,110 KM,5,Biały
+Citroën,C4,2007,6 500 PLN,248 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Granatowy
+Citroën,C5,2011,26 600 PLN,227 400 km,Diesel,Manualna,Sedan,1 997 cm3,140 KM,4,Czarny
+Citroën,C1,2009,12 800 PLN,163 710 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Biały
+Citroën,C3,2019,45 000 PLN,97 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Biały
+Citroën,Jumper,2020,129 000 PLN,133 647 km,Diesel,Manualna,Kombi,2 179 cm3,164 KM,4,Biały
+Citroën,C3,2023,62 900 PLN,10 463 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Błękitny
+Citroën,C5 Aircross,2019,47 900 PLN,84 942 km,Diesel,Manualna,SUV,1 499 cm3,131 KM,5,Szary
+Citroën,C3,2019,50 600 PLN,77 781 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,5,Biały
+Citroën,Berlingo,2009,21 900 PLN,169 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Niebieski
+Citroën,BX,1990,7 800 PLN,250 000 km,Benzyna,Manualna,Kompakt,1 580 cm3,88 KM,5,Zielony
+Citroën,C4 Picasso,2016,34 600 PLN,117 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Czarny
+Citroën,C5X,2023,147 900 PLN,19 500 km,Hybryda,Automatyczna,SUV,1 598 cm3,225 KM,5,Szary
+Citroën,C5,2009,12 300 PLN,184 000 km,Benzyna,Manualna,Sedan,1 749 cm3,125 KM,5,Czarny
+Citroën,Berlingo,2010,19 900 PLN,335 200 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Inny kolor
+Citroën,Jumpy Combi,2007,17 500 PLN,239 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,4,Biały
+Citroën,Berlingo,2012,32 500 PLN,93 670 km,Benzyna,Manualna,Minivan,1 598 cm3,98 KM,5,Czerwony
+Citroën,Berlingo,2022,79 335 PLN,38 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Biały
+Citroën,SpaceTourer,2017,77 950 PLN,181 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,Jumpy Combi,2014,24 500 PLN,248 000 km,Diesel,Manualna,Kombi,1 997 cm3,128 KM,4,Biały
+Citroën,C3,2016,29 999 PLN,120 000 km,Diesel,Manualna,Kompakt,1 560 cm3,99 KM,5,Biały
+Citroën,C2,2009,9 900 PLN,272 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,73 KM,3,Biały
+Citroën,C5,2008,20 499 PLN,314 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,136 KM,5,Czarny
+Citroën,C3 Aircross,2018,49 000 PLN,94 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czarny
+Citroën,Berlingo,2009,20 900 PLN,134 000 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Biały
+Citroën,C5,2011,18 500 PLN,211 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Czarny
+Citroën,C4,2007,5 200 PLN,323 500 km,Diesel,Manualna,Coupe,1 560 cm3,109 KM,3,Czerwony
+Citroën,Berlingo,2019,83 900 PLN,50 000 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Szary
+Citroën,Berlingo,2020,57 700 PLN,140 000 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Biały
+Citroën,C2,2007,9 999 PLN,155 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,73 KM,3,Srebrny
+Citroën,C5,2007,8 500 PLN,328 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,5,Biały
+Citroën,C4,2015,15 000 PLN,121 400 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Granatowy
+Citroën,SpaceTourer,2019,50 430 PLN,67 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,177 KM,5,Bordowy
+Citroën,C3 Aircross,2024,102 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Bordowy
+Citroën,C4 Cactus,2019,55 900 PLN,61 200 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Błękitny
+Citroën,C4 Grand Picasso,2013,29 900 PLN,294 000 km,Diesel,Manualna,Minivan,1 560 cm3,116 KM,5,Szary
+Citroën,C3 Aircross,2022,72 500 PLN,6 800 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C5,2014,33 900 PLN,235 000 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Czarny
+Citroën,C3,2017,34 900 PLN,86 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Inny kolor
+Citroën,C4 Picasso,2015,44 400 PLN,151 000 km,Benzyna,Automatyczna,Minivan,1 598 cm3,165 KM,5,Bordowy
+Citroën,C4 Picasso,2014,27 900 PLN,253 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Srebrny
+Citroën,C3,2011,14 000 PLN,125 076 km,Benzyna+LPG,Manualna,Auta miejskie,1 124 cm3,60 KM,5,Złoty
+Citroën,C4 Picasso,2011,16 900 PLN,193 372 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Biały
+Citroën,C4 Aircross,2015,35 900 PLN,198 200 km,Diesel,Manualna,SUV,1 798 cm3,150 KM,5,Biały
+Citroën,C5,2015,28 999 PLN,218 237 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Citroën,C5,2009,24 900 PLN,277 300 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Citroën,C3 Aircross,2018,53 000 PLN,84 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,DS3,2010,18 999 PLN,209 541 km,Benzyna,Manualna,Auta małe,1 397 cm3,95 KM,3,Czarny
+Citroën,C4 Grand Picasso,2009,14 500 PLN,160 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Szary
+Citroën,C4,2015,24 900 PLN,237 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,99 KM,5,Biały
+Citroën,C5 Aircross,2019,66 900 PLN,64 145 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Biały
+Citroën,C4,2005,10 900 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 997 cm3,177 KM,3,Czerwony
+Citroën,Berlingo,2015,18 450 PLN,366 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,4,Biały
+Citroën,XM,1998,24 900 PLN,255 000 km,Benzyna,Automatyczna,Kompakt,2 946 cm3,190 KM,5,Granatowy
+Citroën,C3,2006,8 900 PLN,125 000 km,Benzyna,Manualna,Auta małe,1 124 cm3,60 KM,5,Srebrny
+Citroën,C3,2019,32 900 PLN,184 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,82 KM,5,Biały
+Citroën,Berlingo,2016,38 700 PLN,175 000 km,Diesel,Manualna,Minivan,1 560 cm3,102 KM,5,Brązowy
+Citroën,Jumpy Combi,2020,85 000 PLN,65 484 km,Diesel,Manualna,Kombi,1 499 cm3,120 KM,4,Biały
+Citroën,C3,2019,36 000 PLN,43 019 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Biały
+Citroën,C5,2012,27 300 PLN,250 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Srebrny
+Citroën,Jumper,2009,129 000 PLN,268 000 km,Diesel,Manualna,Kombi,2 198 cm3,120 KM,4,Biały
+Citroën,C5 Aircross,2019,67 900 PLN,168 900 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,DS3,2011,18 989 PLN,125 687 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,156 KM,3,Niebieski
+Citroën,C4 Cactus,2020,54 900 PLN,35 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czarny
+Citroën,C4 Cactus,2020,54 900 PLN,35 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czarny
+Citroën,C4 Picasso,2013,25 000 PLN,97 500 km,Benzyna,Manualna,Minivan,1 598 cm3,156 KM,5,Srebrny
+Citroën,C5,2013,33 900 PLN,246 000 km,Diesel,Automatyczna,Kombi,2 179 cm3,204 KM,5,Brązowy
+Citroën,C4,2014,17 800 PLN,311 580 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Szary
+Citroën,C4,2021,87 500 PLN,44 000 km,Elektryczny,Automatyczna,Kompakt,,136 KM,5,Niebieski
+Citroën,C4 Cactus,2014,37 600 PLN,113 000 km,Diesel,Manualna,SUV,1 560 cm3,99 KM,5,Czarny
+Citroën,C5,2002,2 200 PLN,83 000 km,Benzyna,Manualna,Sedan,1 997 cm3,140 KM,5,Zielony
+Citroën,DS5,2013,39 000 PLN,320 000 km,Hybryda,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2009,4 400 PLN,223 000 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,5,Biały
+Citroën,C3,2018,29 900 PLN,75 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Zielony
+Citroën,C4,2011,19 900 PLN,217 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,110 KM,5,Srebrny
+Citroën,C5 Aircross,2019,87 000 PLN,102 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,180 KM,5,Szary
+Citroën,DS3,2011,21 500 PLN,153 992 km,Benzyna,Manualna,Kompakt,1 598 cm3,156 KM,3,Żółty
+Citroën,Berlingo,2019,45 999 PLN,128 000 km,Diesel,Manualna,Minivan,1 499 cm3,102 KM,5,Czarny
+Citroën,C3,2018,36 500 PLN,44 000 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Biały
+Citroën,C4,2004,6 000 PLN,129 000 km,Benzyna,Manualna,Auta małe,1 587 cm3,110 KM,3,Szary
+Citroën,C4 Grand Picasso,2014,38 900 PLN,219 000 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Bordowy
+Citroën,C4 Grand Picasso,2008,17 900 PLN,229 500 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Szary
+Citroën,C4 Picasso,2010,17 900 PLN,220 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Fioletowy
+Citroën,C5,2009,17 200 PLN,253 000 km,Benzyna,Automatyczna,Kombi,1 598 cm3,156 KM,5,Srebrny
+Citroën,C4 Picasso,2007,11 800 PLN,289 307 km,Diesel,Automatyczna,Minivan,1 997 cm3,136 KM,5,Czarny
+Citroën,C4 Picasso,2010,17 700 PLN,239 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Niebieski
+Citroën,C4,2009,10 500 PLN,334 000 km,Diesel,Automatyczna,Auta miejskie,1 560 cm3,110 KM,5,Czarny
+Citroën,Berlingo,2016,42 900 PLN,140 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Szary
+Citroën,C4 Cactus,2017,36 900 PLN,135 362 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Szary
+Citroën,C4,2014,34 100 PLN,149 592 km,Diesel,Manualna,Kompakt,1 997 cm3,150 KM,5,Czarny
+Citroën,C3,2017,42 900 PLN,107 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,110 KM,5,Pomarańczowy
+Citroën,C5,2011,13 999 PLN,287 303 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,156 KM,5,Czarny
+Citroën,SpaceTourer,2017,148 000 PLN,99 600 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Srebrny
+Citroën,C4,2016,32 500 PLN,139 000 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,C4,2012,23 950 PLN,281 530 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Złoty
+Citroën,C3 Picasso,2015,23 900 PLN,171 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Czerwony
+Citroën,C3,2018,41 000 PLN,101 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Biały
+Citroën,C3,2021,43 900 PLN,84 000 km,Diesel,Manualna,Kompakt,1 499 cm3,102 KM,5,Biały
+Citroën,C5,2012,22 500 PLN,212 000 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2011,27 600 PLN,219 000 km,Diesel,Manualna,Minivan,1 560 cm3,112 KM,5,Czarny
+Citroën,C4 Picasso,2011,19 999 PLN,256 000 km,Diesel,Manualna,Minivan,1 560 cm3,112 KM,5,Granatowy
+Citroën,C5,2010,16 900 PLN,232 214 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Błękitny
+Citroën,C5,2009,18 700 PLN,239 000 km,Benzyna,Manualna,Sedan,1 749 cm3,125 KM,4,Szary
+Citroën,C5,2009,17 500 PLN,179 417 km,Diesel,Automatyczna,Kombi,1 997 cm3,136 KM,5,Niebieski
+Citroën,C4 Picasso,2011,20 500 PLN,208 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Brązowy
+Citroën,C4 Grand Picasso,2007,11 900 PLN,304 000 km,Benzyna+LPG,Automatyczna,Minivan,1 997 cm3,140 KM,5,Srebrny
+Citroën,Xsara Picasso,2006,8 100 PLN,277 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Inny kolor
+Citroën,C4 Grand Picasso,2011,11 900 PLN,170 000 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Srebrny
+Citroën,C4 Grand Picasso,2013,16 600 PLN,275 000 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Bordowy
+Citroën,C3 Picasso,2015,25 999 PLN,150 000 km,Benzyna,Manualna,Minivan,1 199 cm3,110 KM,5,Srebrny
+Citroën,DS3,2014,26 500 PLN,68 000 km,Benzyna,Manualna,Auta małe,1 598 cm3,120 KM,3,Czarny
+Citroën,C4,2022,84 000 PLN,21 129 km,Diesel,Automatyczna,Kompakt,1 499 cm3,130 KM,5,Biały
+Citroën,C4,2008,8 499 PLN,288 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,5,Czarny
+Citroën,DS5,2012,33 900 PLN,239 000 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Szary
+Citroën,C4,2021,72 900 PLN,68 246 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Citroën,C5,2010,15 700 PLN,283 030 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Inny kolor
+Citroën,C4,2009,9 300 PLN,304 263 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Srebrny
+Citroën,C4 Cactus,2015,9 999 PLN,110 000 km,Diesel,Manualna,SUV,1 560 cm3,100 KM,5,Srebrny
+Citroën,Berlingo,2007,11 700 PLN,181 600 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Bordowy
+Citroën,C5,2014,28 900 PLN,189 362 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Biały
+Citroën,C3,2019,43 000 PLN,96 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,110 KM,5,Szary
+Citroën,Berlingo,2005,4 800 PLN,403 000 km,Diesel,Manualna,Minivan,1 997 cm3,90 KM,4,Błękitny
+Citroën,C4 Grand Picasso,2007,12 500 PLN,313 000 km,Benzyna+LPG,Manualna,Minivan,1 749 cm3,125 KM,5,Czarny
+Citroën,C5,2009,9 500 PLN,310 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,136 KM,5,Czarny
+Citroën,C4 Grand Picasso,2014,42 800 PLN,186 400 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Srebrny
+Citroën,C5,2011,15 900 PLN,352 850 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,Berlingo,2019,64 000 PLN,139 600 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Biały
+Citroën,C5,2009,9 000 PLN,282 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Granatowy
+Citroën,C4,2022,89 000 PLN,4 533 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Inny kolor
+Citroën,C5,2009,12 900 PLN,360 243 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Citroën,C4,2011,22 900 PLN,179 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Granatowy
+Citroën,C4 Picasso,2012,22 900 PLN,214 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Szary
+Citroën,DS4,2011,22 900 PLN,135 332 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,156 KM,5,Bordowy
+Citroën,C5,2012,19 900 PLN,199 872 km,Benzyna,Manualna,Sedan,1 598 cm3,156 KM,4,Czarny
+Citroën,SpaceTourer,2018,78 000 PLN,221 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,177 KM,4,Srebrny
+Citroën,DS3,2010,20 900 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,156 KM,3,Biały
+Citroën,C3,2017,29 900 PLN,56 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Szary
+Citroën,C8,2009,14 900 PLN,238 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,5,Granatowy
+Citroën,C-Crosser,2008,27 800 PLN,185 000 km,Benzyna+LPG,Automatyczna,SUV,2 360 cm3,170 KM,5,Srebrny
+Citroën,C3,2014,26 900 PLN,107 000 km,Benzyna,Automatyczna,Auta miejskie,1 199 cm3,82 KM,5,Biały
+Citroën,Berlingo,2016,54 000 PLN,62 950 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,C4 Picasso,2011,20 000 PLN,202 500 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C5,2008,13 900 PLN,270 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,136 KM,5,Srebrny
+Citroën,Berlingo,2014,29 900 PLN,208 000 km,Diesel,Manualna,Minivan,1 560 cm3,114 KM,5,Czarny
+Citroën,C4,2013,25 900 PLN,113 245 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Czerwony
+Citroën,C4,2022,66 900 PLN,139 000 km,Diesel,Manualna,SUV,1 499 cm3,110 KM,5,Szary
+Citroën,Xsara Picasso,2007,8 300 PLN,288 411 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Szary
+Citroën,Berlingo,2019,82 000 PLN,114 000 km,Diesel,Automatyczna,Minivan,1 499 cm3,130 KM,5,Czerwony
+Citroën,C4 Picasso,2015,35 900 PLN,97 399 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Srebrny
+Citroën,C4,2011,23 900 PLN,169 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Srebrny
+Citroën,DS3,2011,16 900 PLN,170 000 km,Diesel,Manualna,Auta małe,1 560 cm3,92 KM,3,Błękitny
+Citroën,C4 Cactus,2018,44 900 PLN,121 781 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Niebieski
+Citroën,C3,2018,44 000 PLN,40 000 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Srebrny
+Citroën,C3,2022,62 400 PLN,30 000 km,Benzyna,Automatyczna,Auta małe,1 199 cm3,110 KM,5,Czarny
+Citroën,C3,2018,44 999 PLN,41 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Niebieski
+Citroën,C4,2021,78 900 PLN,85 658 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Inny kolor
+Citroën,C3,2010,15 744 PLN,55 000 km,Benzyna,Manualna,Auta małe,1 360 cm3,75 KM,5,Czarny
+Citroën,C4,2024,99 900 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Citroën,C4,2021,79 900 PLN,69 958 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Brązowy
+Citroën,C5,2008,15 900 PLN,290 000 km,Diesel,Manualna,Kombi,2 179 cm3,170 KM,5,Czarny
+Citroën,C5,2013,30 900 PLN,119 700 km,Diesel,Automatyczna,Kombi,1 560 cm3,114 KM,5,Inny kolor
+Citroën,C5,2016,40 000 PLN,183 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Granatowy
+Citroën,C4 Picasso,2009,17 700 PLN,193 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Granatowy
+Citroën,C4,2022,44 900 PLN,68 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czarny
+Citroën,Berlingo,2009,24 900 PLN,192 000 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,C4,2007,8 000 PLN,256 281 km,Benzyna,Manualna,Auta małe,1 587 cm3,110 KM,5,Czerwony
+Citroën,C4,2009,16 499 PLN,164 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Bordowy
+Citroën,C5,2014,29 900 PLN,269 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Granatowy
+Citroën,C4 Picasso,2012,17 500 PLN,240 000 km,Diesel,Manualna,Kombi,1 560 cm3,110 KM,5,Srebrny
+Citroën,C3,2018,36 900 PLN,156 150 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Czarny
+Citroën,C1,2007,8 999 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,68 KM,3,Czerwony
+Citroën,C5,2014,34 900 PLN,179 500 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Granatowy
+Citroën,Berlingo,2010,18 600 PLN,325 700 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Czarny
+Citroën,C3,2011,17 500 PLN,137 000 km,Benzyna+LPG,Manualna,Sedan,1 397 cm3,95 KM,5,Inny kolor
+Citroën,C3,2021,42 900 PLN,42 126 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Szary
+Citroën,C4 Cactus,2016,44 000 PLN,45 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Biały
+Citroën,C4 Picasso,2018,41 800 PLN,175 500 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Granatowy
+Citroën,C3 Aircross,2023,38 800 PLN,50 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C4 Picasso,2008,19 900 PLN,154 000 km,Benzyna,Manualna,Minivan,1 749 cm3,125 KM,5,Inny kolor
+Citroën,C4 Grand Picasso,2015,35 900 PLN,190 000 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Czarny
+Citroën,C4 Picasso,2015,43 999 PLN,163 600 km,Diesel,Manualna,Minivan,1 560 cm3,115 KM,5,Czarny
+Citroën,C3 Picasso,2013,21 900 PLN,149 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Czerwony
+Citroën,C3,2016,39 900 PLN,84 081 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Niebieski
+Citroën,C-Crosser,2008,24 700 PLN,226 100 km,Diesel,Manualna,SUV,2 179 cm3,156 KM,5,Srebrny
+Citroën,C3,2013,18 500 PLN,94 400 km,Benzyna,Manualna,Kompakt,999 cm3,68 KM,5,Szary
+Citroën,C4,2015,30 700 PLN,190 000 km,Diesel,Manualna,Minivan,1 560 cm3,112 KM,5,Czarny
+Citroën,C5,2017,30 900 PLN,242 000 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Biały
+Citroën,C3,2017,38 900 PLN,98 600 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,110 KM,5,Inny kolor
+Citroën,Berlingo,2010,23 000 PLN,218 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Biały
+Citroën,C5,2008,7 000 PLN,330 001 km,Diesel,Automatyczna,Sedan,2 720 cm3,204 KM,4,Inny kolor
+Citroën,Jumpy Combi,2014,36 800 PLN,280 000 km,Diesel,Manualna,Minivan,1 997 cm3,136 KM,4,Szary
+Citroën,C4 Grand Picasso,2015,29 999 PLN,186 200 km,Benzyna,Manualna,Minivan,1 598 cm3,156 KM,5,Czarny
+Citroën,C3,2010,23 900 PLN,150 000 km,Benzyna,Manualna,Auta małe,1 598 cm3,120 KM,5,Czarny
+Citroën,C5,2001,5 900 PLN,260 700 km,Benzyna,Manualna,Sedan,1 997 cm3,138 KM,5,Szary
+Citroën,C3 Aircross,2018,44 900 PLN,80 000 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Citroën,C4 Picasso,2012,18 000 PLN,235 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Szary
+Citroën,C3,2009,13 900 PLN,133 029 km,Benzyna,Manualna,Auta małe,1 360 cm3,73 KM,5,Czerwony
+Citroën,C-Elysée,2012,20 800 PLN,128 300 km,Benzyna,Manualna,Sedan,1 587 cm3,115 KM,4,Srebrny
+Citroën,C4,2011,21 700 PLN,207 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Szary
+Citroën,DS4,2017,48 000 PLN,104 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Szary
+Citroën,C4 Picasso,2008,12 500 PLN,264 000 km,Diesel,Manualna,Minivan,1 560 cm3,109 KM,5,Czarny
+Citroën,C3,2018,39 500 PLN,82 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Biały
+Citroën,C4 Cactus,2017,35 900 PLN,150 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Beżowy
+Citroën,C4 Grand Picasso,2007,15 000 PLN,250 700 km,Benzyna+LPG,Manualna,Minivan,1 749 cm3,125 KM,5,Srebrny
+Citroën,Berlingo,2018,25 800 PLN,135 123 km,Diesel,Manualna,Minivan,1 560 cm3,75 KM,4,Biały
+Citroën,Berlingo,2014,33 900 PLN,185 000 km,Diesel,Manualna,Minivan,1 560 cm3,92 KM,5,Szary
+Citroën,C4,2011,22 900 PLN,208 000 km,Diesel,Automatyczna,Auta miejskie,1 560 cm3,120 KM,5,Biały
+Citroën,Jumpy Combi,2009,17 900 PLN,299 800 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,4,Srebrny
+Citroën,C4 Picasso,2016,45 600 PLN,113 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Biały
+Citroën,C3 Aircross,2020,41 999 PLN,83 500 km,Diesel,Manualna,SUV,1 499 cm3,102 KM,5,Fioletowy
+Citroën,C5,2012,25 000 PLN,212 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Inny kolor
+Citroën,C3,2020,38 000 PLN,80 800 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Biały
+Citroën,C5,2004,4 950 PLN,524 000 km,Diesel,Manualna,Sedan,1 997 cm3,138 KM,5,Błękitny
+Citroën,Berlingo,2017,22 000 PLN,150 000 km,Diesel,Manualna,Minivan,1 560 cm3,102 KM,5,Biały
+Citroën,DS5,2012,38 500 PLN,270 000 km,Hybryda,Automatyczna,Auta miejskie,1 997 cm3,163 KM,5,Złoty
+Citroën,C3 Picasso,2009,15 499 PLN,100 000 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Bordowy
+Citroën,DS4,2017,37 900 PLN,190 000 km,Diesel,Manualna,Kompakt,1 560 cm3,120 KM,5,Biały
+Citroën,C1,2008,13 400 PLN,153 000 km,Benzyna,Automatyczna,Auta małe,998 cm3,68 KM,5,Czerwony
+Citroën,C5,2009,16 500 PLN,295 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C4,2012,15 500 PLN,180 200 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Czarny
+Citroën,C3,2019,39 600 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Czarny
+Citroën,C4 Grand Picasso,2012,18 900 PLN,243 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,112 KM,5,Srebrny
+Citroën,C5 Aircross,2022,69 900 PLN,18 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Citroën,C3,2010,13 000 PLN,342 218 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Szary
+Citroën,C1,2006,3 800 PLN,192 857 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Szary
+Citroën,C3,2014,19 900 PLN,139 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,68 KM,5,Czarny
+Citroën,Berlingo,2018,46 900 PLN,123 732 km,Diesel,Manualna,Minivan,1 560 cm3,99 KM,5,Szary
+Citroën,C3,2023,62 000 PLN,1 087 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Czarny
+Citroën,C4,2021,68 000 PLN,123 000 km,Diesel,Automatyczna,Kompakt,1 499 cm3,130 KM,5,Biały
+Citroën,C5 Aircross,2020,88 900 PLN,143 500 km,Diesel,Automatyczna,SUV,1 997 cm3,177 KM,5,Szary
+Citroën,C4,2022,89 900 PLN,43 456 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Srebrny
+Citroën,C4 Grand Picasso,2015,48 900 PLN,184 450 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Szary
+Citroën,C4 Cactus,2015,33 000 PLN,155 059 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Brązowy
+Citroën,C2,2008,10 900 PLN,166 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,73 KM,3,Biały
+Citroën,C4 Grand Picasso,2012,10 900 PLN,190 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,112 KM,5,Brązowy
+Citroën,C3 Aircross,2019,46 300 PLN,81 000 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Biały
+Citroën,DS4,2016,37 900 PLN,205 000 km,Diesel,Automatyczna,Auta miejskie,1 560 cm3,120 KM,5,Szary
+Citroën,C5 Aircross,2022,114 900 PLN,86 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Biały
+Citroën,C5 Aircross,2021,69 900 PLN,139 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Srebrny
+Citroën,C4,2024,79 900 PLN,13 643 km,Benzyna,Automatyczna,Sedan,1 199 cm3,130 KM,5,Szary
+Citroën,C3,2014,24 000 PLN,85 500 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Fioletowy
+Citroën,C5 Aircross,2021,68 900 PLN,168 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Srebrny
+Citroën,C5 Aircross,2022,124 400 PLN,24 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,180 KM,5,Granatowy
+Citroën,C4 Picasso,2011,18 800 PLN,219 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Brązowy
+Citroën,C3,2024,83 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,110 KM,5,Szary
+Citroën,C3,2012,13 000 PLN,181 000 km,Benzyna,Manualna,Auta miejskie,1 360 cm3,73 KM,5,Srebrny
+Citroën,C5,2012,20 800 PLN,271 302 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,4,Granatowy
+Citroën,C3,2018,48 900 PLN,34 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C3,2017,47 500 PLN,24 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Biały
+Citroën,C4,2016,25 800 PLN,154 000 km,Diesel,Manualna,Kompakt,1 560 cm3,99 KM,5,Szary
+Citroën,C5,2010,16 500 PLN,162 785 km,Benzyna,Manualna,Sedan,1 598 cm3,156 KM,4,Srebrny
+Citroën,C5,2010,22 500 PLN,284 400 km,Diesel,Automatyczna,Sedan,1 997 cm3,163 KM,5,Szary
+Citroën,Berlingo,2016,37 000 PLN,134 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Czerwony
+Citroën,C4 Grand Picasso,2014,42 000 PLN,220 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Czarny
+Citroën,C5,2012,26 500 PLN,154 000 km,Diesel,Manualna,Kombi,1 560 cm3,112 KM,5,Szary
+Citroën,DS3,2010,22 500 PLN,165 000 km,Benzyna,Manualna,Auta małe,1 598 cm3,156 KM,2,Czarny
+Citroën,C6,2007,18 000 PLN,211 500 km,Diesel,Automatyczna,Sedan,2 720 cm3,204 KM,4,Czarny
+Citroën,C5X,2024,159 000 PLN,2 km,Benzyna,Automatyczna,Sedan,1 199 cm3,130 KM,5,Szary
+Citroën,C5X,2024,159 900 PLN,2 km,Benzyna,Automatyczna,Sedan,1 199 cm3,130 KM,5,Biały
+Citroën,C4,2005,4 999 PLN,379 000 km,Benzyna+LPG,Manualna,Kompakt,1 587 cm3,110 KM,5,Szary
+Citroën,C4 Picasso,2016,39 900 PLN,123 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Brązowy
+Citroën,Berlingo,2006,12 800 PLN,259 200 km,Benzyna,Manualna,Minivan,1 360 cm3,75 KM,4,Szary
+Citroën,DS5,2015,46 900 PLN,178 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Citroën,C4 Grand Picasso,2008,13 400 PLN,223 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,136 KM,5,Czarny
+Citroën,C5,2012,22 900 PLN,214 000 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Citroën,C3,2021,54 900 PLN,74 709 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Szary
+Citroën,C5,2013,25 900 PLN,199 003 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Citroën,C3,2014,11 900 PLN,180 000 km,Diesel,Manualna,Auta małe,1 398 cm3,68 KM,5,Biały
+Citroën,C4,2018,49 200 PLN,49 745 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,C3 Aircross,2018,44 900 PLN,95 948 km,Benzyna,Automatyczna,SUV,1 199 cm3,110 KM,5,Czerwony
+Citroën,Berlingo,2020,79 900 PLN,131 295 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Szary
+Citroën,C3,2019,39 900 PLN,95 152 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Czerwony
+Citroën,C3,2012,29 900 PLN,124 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 360 cm3,75 KM,5,Bordowy
+Citroën,C3,2013,22 500 PLN,193 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,92 KM,5,Biały
+Citroën,C4,2021,72 900 PLN,11 103 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Pomarańczowy
+Citroën,C3,2024,74 900 PLN,3 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Czarny
+Citroën,C4 Picasso,2012,18 500 PLN,288 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,112 KM,5,Beżowy
+Citroën,C5,2015,39 000 PLN,212 500 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Biały
+Citroën,C4X,2024,109 790 PLN,2 km,Benzyna,Automatyczna,Sedan,1 199 cm3,130 KM,4,Szary
+Citroën,Berlingo,2010,23 900 PLN,264 483 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,4,Biały
+Citroën,C4X,2024,116 790 PLN,2 km,Diesel,Automatyczna,Kompakt,1 499 cm3,130 KM,5,Szary
+Citroën,C4,2005,6 000 PLN,251 000 km,Diesel,Manualna,Kompakt,1 997 cm3,136 KM,3,Czarny
+Citroën,C5,2012,18 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 560 cm3,114 KM,5,Srebrny
+Citroën,C4,2018,47 800 PLN,118 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,120 KM,5,Srebrny
+Citroën,Berlingo,2011,19 900 PLN,175 000 km,Benzyna,Manualna,Minivan,1 598 cm3,98 KM,5,Biały
+Citroën,DS5,2012,39 900 PLN,225 000 km,Diesel,Manualna,Kompakt,1 997 cm3,163 KM,5,Biały
+Citroën,DS4,2012,27 900 PLN,124 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Srebrny
+Citroën,Xsara Picasso,2007,13 600 PLN,229 000 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Szary
+Citroën,DS4,2012,27 900 PLN,124 000 km,Diesel,Manualna,Kompakt,1 560 cm3,112 KM,5,Srebrny
+Citroën,Xsara Picasso,2007,13 600 PLN,229 000 km,Benzyna,Manualna,Minivan,1 587 cm3,109 KM,5,Szary
+Citroën,C4 SpaceTourer,2018,49 900 PLN,160 000 km,Diesel,Manualna,Minivan,1 499 cm3,130 KM,5,Biały
+Citroën,C-Elysée,2017,26 937 PLN,72 000 km,Benzyna,Manualna,Sedan,1 199 cm3,82 KM,4,Szary
+Citroën,C4,2024,118 900 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 199 cm3,136 KM,5,Biały
+Citroën,DS5,2015,53 000 PLN,139 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Granatowy
+Citroën,C5,2011,23 700 PLN,225 000 km,Diesel,Manualna,Sedan,1 997 cm3,163 KM,5,Szary
+Citroën,C3,2018,46 900 PLN,81 500 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Szary
+Citroën,C3,2017,34 900 PLN,38 700 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Beżowy
+Citroën,DS4,2012,30 900 PLN,192 717 km,Diesel,Manualna,Auta miejskie,1 560 cm3,112 KM,5,Czarny
+Citroën,Jumper,2014,46 800 PLN,297 495 km,Diesel,Manualna,Kombi,2 198 cm3,130 KM,4,Czarny
+Citroën,Berlingo,2017,42 500 PLN,154 754 km,Diesel,Manualna,Minivan,1 560 cm3,120 KM,5,Biały
+Citroën,C3 Picasso,2009,15 700 PLN,154 200 km,Benzyna,Manualna,Minivan,1 397 cm3,95 KM,5,Bordowy
+Citroën,C4,2008,12 000 PLN,148 000 km,Benzyna,Manualna,Kompakt,1 587 cm3,110 KM,5,Błękitny
+Citroën,C5,2009,10 200 PLN,302 950 km,Diesel,Manualna,Kombi,1 997 cm3,140 KM,5,Srebrny
+Citroën,C3,2017,23 499 PLN,99 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,110 KM,5,Czarny
+Citroën,Xsara Picasso,2010,7 900 PLN,270 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Srebrny
+Citroën,C3,2003,3 600 PLN,167 188 km,Benzyna,Manualna,Kompakt,1 124 cm3,60 KM,5,Niebieski
+Citroën,C3,2012,22 400 PLN,150 000 km,Benzyna,Manualna,Auta małe,1 360 cm3,73 KM,5,Biały
+Citroën,Berlingo,2024,110 452,1 km,Benzyna,Manualna,Kombi,1 199 cm3,110 KM,5,Srebrny
+Citroën,C5,2012,9 900 PLN,330 333 km,Diesel,Automatyczna,Kombi,1 560 cm3,112 KM,5,Czarny
+Citroën,C3,2020,41 900 PLN,23 574 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Czarny
+Citroën,C3,2018,38 900 PLN,66 274 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Biały
+Citroën,C4,2007,15 200 PLN,333 000 km,Diesel,Manualna,Kompakt,1 997 cm3,136 KM,5,Czarny
+Citroën,Berlingo,2016,36 900 PLN,198 000 km,Diesel,Manualna,Minivan,1 560 cm3,99 KM,5,Czarny
+Citroën,C4,2021,79 400,81 581 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Pomarańczowy
+Citroën,C4 Picasso,2018,57 900 PLN,129 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,150 KM,5,Szary
+Citroën,C3,2017,48 000 PLN,23 860 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Biały
+Citroën,C4,2010,2 000 PLN,258 500 km,Diesel,Automatyczna,Kompakt,1 560 cm3,109 KM,3,Czarny
+Citroën,C4,2021,81 400 PLN,68 388 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,156 KM,5,Pomarańczowy
+Citroën,C1,2014,15 000 PLN,98 016 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czerwony
+Citroën,Berlingo,2010,13 900 PLN,364 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Srebrny
+Citroën,C4 Cactus,2016,36 900 PLN,74 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Inny kolor
+Citroën,C5,2008,7 900 PLN,334 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Granatowy
+Citroën,C-Zero,2020,13 900 PLN,52 000 km,Elektryczny,Automatyczna,Auta miejskie,,67 KM,5,Szary
+Citroën,Xsara Picasso,2004,3 400 PLN,192 000 km,Diesel,Manualna,Minivan,1 997 cm3,90 KM,5,Srebrny
+Citroën,C5 Aircross,2021,94 800 PLN,55 667 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Citroën,Xsara Picasso,2006,6 900 PLN,318 000 km,Benzyna+LPG,Manualna,Minivan,1 587 cm3,110 KM,5,Inny kolor
+Citroën,C3,2018,39 000 PLN,103 123 km,Benzyna,Manualna,Kompakt,1 199 cm3,110 KM,5,Zielony
+Citroën,C6,2007,9 300 PLN,279 000 km,Diesel,Manualna,Sedan,2 179 cm3,170 KM,4,Granatowy
+Citroën,DS5,2016,53 700 PLN,173 451 km,Diesel,Automatyczna,Sedan,1 997 cm3,180 KM,5,Biały
+Citroën,C3 Aircross,2021,59 900 PLN,47 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Czarny
+Citroën,Jumpy Combi,2011,12 900 PLN,284 575 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,4,Biały
+Citroën,C4,2017,30 500 PLN,157 250 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,131 KM,4,Szary
+Citroën,C3,2024,57 900 PLN,3 200 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Szary
+Citroën,C4 Picasso,2010,14 900 PLN,271 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,136 KM,5,Brązowy
+Citroën,Berlingo,2012,26 800 PLN,207 284 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,5,Inny kolor
+Citroën,C3,2021,49 900 PLN,36 995 km,Diesel,Manualna,Auta miejskie,1 499 cm3,102 KM,5,Biały
+Citroën,C3,2010,17 500 PLN,170 000 km,Benzyna,Manualna,Auta miejskie,1 397 cm3,95 KM,5,Srebrny
+Citroën,C4,2006,8 900 PLN,119 115 km,Benzyna,Manualna,Kompakt,1 360 cm3,90 KM,5,Szary
+Citroën,C4,2005,9 900 PLN,155 000 km,Benzyna,Manualna,Auta miejskie,1 400 cm3,90 KM,5,Niebieski
+Citroën,DS5,2015,55 900 PLN,70 450 km,Diesel,Manualna,Sedan,1 997 cm3,150 KM,5,Złoty
+Citroën,C4,2012,23 900 PLN,213 000 km,Diesel,Automatyczna,Kompakt,1 600 cm3,115 KM,5,Czarny
+Citroën,C5 Aircross,2020,91 900 PLN,101 786 km,Diesel,Automatyczna,SUV,1 499 cm3,131 KM,5,Szary
+Citroën,C2,2005,9 500 PLN,210 358 km,Benzyna,Manualna,Auta małe,1 587 cm3,122 KM,3,Czarny
+Citroën,C3,2012,18 900 PLN,131 000 km,Benzyna,Manualna,Kompakt,1 397 cm3,95 KM,5,Biały
+Citroën,C3,2018,38 000 PLN,30 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Srebrny
+Citroën,C3 Aircross,2023,76 000 PLN,5 700 km,Benzyna,Manualna,SUV,1 199 cm3,110 KM,5,Szary
+Citroën,C4,2021,84 850 PLN,44 899 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Szary
+Citroën,C3,2018,45 900 PLN,47 000 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Czerwony
+Citroën,C5,2013,24 800 PLN,176 000 km,Benzyna,Manualna,Sedan,1 598 cm3,156 KM,4,Biały
+Citroën,C3,2017,37 900 PLN,59 462 km,Benzyna,Manualna,Auta małe,1 199 cm3,68 KM,5,Zielony
+Citroën,C4 Picasso,2012,29 900 PLN,148 400 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,120 KM,5,Srebrny
+Citroën,Berlingo,2013,23 500 PLN,220 000 km,Diesel,Manualna,Minivan,1 560 cm3,90 KM,4,Srebrny
+Citroën,C5 Aircross,2022,92 500 PLN,16 306 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Fioletowy
+Citroën,DS4,2015,36 500 PLN,169 000 km,Diesel,Manualna,Kompakt,1 600 cm3,114 KM,5,Szary
+Citroën,C3,2016,25 800 PLN,73 800 km,Benzyna,Manualna,Auta małe,999 cm3,68 KM,5,Niebieski
+Citroën,C3,2018,48 700 PLN,91 524 km,Benzyna,Automatyczna,Auta małe,1 199 cm3,110 KM,5,Biały
+Citroën,DS4,2018,48 900 PLN,162 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,120 KM,5,Szary
+Citroën,C5 Aircross,2019,81 900 PLN,69 466 km,Benzyna,Manualna,Kompakt,1 199 cm3,130 KM,5,Czerwony
+Citroën,C5,2004,3 900 PLN,365 000 km,Diesel,Manualna,Kombi,1 997 cm3,109 KM,5,Bordowy
+Citroën,C3 Aircross,2018,46 500 PLN,68 755 km,Benzyna,Manualna,Auta miejskie,1 199 cm3,82 KM,5,Szary
+Citroën,C5,2016,29 800 PLN,165 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,180 KM,5,Czarny
+Citroën,Inny,1929,44 500 PLN,62 824 km,Benzyna,Manualna,Kompakt,1 600 cm3,46 KM,4,Bordowy
+Citroën,C3,2012,29 900 PLN,72 491 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,120 KM,5,Szary
+Citroën,C5 Aircross,2019,72 499 PLN,75 340 km,Diesel,Manualna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,C4,2017,22 700 PLN,186 000 km,Diesel,Manualna,Kompakt,1 560 cm3,99 KM,5,Srebrny
+Citroën,C5 Aircross,2020,89 700 PLN,38 000 km,Diesel,Automatyczna,SUV,1 499 cm3,130 KM,5,Szary
+Citroën,Berlingo,2014,33 900 PLN,207 000 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Srebrny
+Citroën,C3,2008,7 000 PLN,259 957 km,Benzyna,Manualna,Kompakt,1 360 cm3,73 KM,5,Niebieski
+Citroën,C3,2024,69 000 PLN,2 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Szary
+Citroën,Xsara Picasso,2005,4 000 PLN,279 200 km,Diesel,Manualna,Minivan,1 560 cm3,110 KM,5,Niebieski
+Citroën,C-Elysée,2018,26 900 PLN,176 000 km,Benzyna,Manualna,Sedan,1 199 cm3,82 KM,4,Niebieski
+Citroën,C5,2005,10 900 PLN,187 000 km,Benzyna,Automatyczna,Kombi,2 946 cm3,207 KM,5,Czarny
+Citroën,C3 Aircross,2020,24 900 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 199 cm3,130 KM,5,Beżowy
+Citroën,C4 Cactus,2014,34 900 PLN,119 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Żółty
+Citroën,C3,2010,12 900 PLN,140 000 km,Benzyna+LPG,Manualna,Kompakt,1 360 cm3,73 KM,5,Biały
+Citroën,XM,1996,21 500 PLN,212 000 km,Benzyna,Automatyczna,Sedan,2 963 cm3,167 KM,5,Granatowy
+Citroën,DS5,2012,13 900 PLN,234 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Szary
+Citroën,C1,2018,34 900 PLN,32 000 km,Benzyna,Automatyczna,Auta miejskie,998 cm3,69 KM,5,Srebrny
+Citroën,DS3,2010,17 800 PLN,143 000 km,Benzyna,Manualna,Auta małe,1 598 cm3,120 KM,3,Czerwony
+Citroën,C3,2017,35 900 PLN,76 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,82 KM,5,Inny kolor
+Citroën,C3,2014,18 900 PLN,120 700 km,Benzyna,Manualna,Auta miejskie,999 cm3,68 KM,5,Czerwony
+Citroën,C5,2010,20 300 PLN,242 858 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C4 Picasso,2009,11 000 PLN,198 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C8,2006,13 500 PLN,250 982 km,Benzyna,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Citroën,C5,2010,20 300 PLN,242 858 km,Diesel,Manualna,Kombi,1 997 cm3,163 KM,5,Czarny
+Citroën,C4 Picasso,2009,11 000 PLN,198 000 km,Diesel,Automatyczna,Minivan,1 560 cm3,110 KM,5,Czarny
+Citroën,C8,2006,13 500 PLN,250 982 km,Benzyna,Manualna,Minivan,1 997 cm3,140 KM,5,Szary
+Citroën,C3,2018,34 900 PLN,139 800 km,Benzyna,Manualna,Auta małe,1 199 cm3,83 KM,5,Inny kolor
+Citroën,DS5,2013,35 500 PLN,121 400 km,Diesel,Automatyczna,Auta miejskie,1 560 cm3,119 KM,5,Zielony
+Citroën,C4,2013,27 900 PLN,139 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,120 KM,5,Srebrny
+Citroën,C5,2008,12 750 PLN,290 000 km,Diesel,Automatyczna,Kombi,1 997 cm3,136 KM,5,Czarny
+Citroën,C3,2024,68 200 PLN,2 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Biały
+Citroën,C3,2019,45 000 PLN,97 000 km,Benzyna,Manualna,Kompakt,1 199 cm3,82 KM,5,Beżowy
+Citroën,DS3,2011,19 300 PLN,169 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,92 KM,3,Szary
+Citroën,C4 Grand Picasso,2018,61 000,99 860 km,Benzyna,Automatyczna,Minivan,1 199 cm3,130 KM,5,Niebieski
+Citroën,Jumpy Combi,2014,49 900 PLN,214 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,163 KM,5,Czarny
+Citroën,C3 Aircross,2019,63 499 PLN,121 100 km,Diesel,Automatyczna,SUV,1 499 cm3,120 KM,5,Szary
+Citroën,C3 Picasso,2010,19 700 PLN,105 022 km,Benzyna,Manualna,Minivan,1 598 cm3,120 KM,5,Złoty
+Citroën,SpaceTourer,2019,117 900 PLN,123 501 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Czarny
+Citroën,C4 Cactus,2016,34 900 PLN,146 000 km,Benzyna,Manualna,SUV,1 199 cm3,82 KM,5,Szary
+Citroën,C1,2013,18 900 PLN,133 000 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czarny
+Citroën,C1,2008,8 900 PLN,108 190 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,3,Czerwony
+Citroën,C5 Aircross,2019,84 999 PLN,154 985 km,Diesel,Automatyczna,SUV,1 499 cm3,131 KM,5,Szary
+Citroën,C4,2024,108 068 PLN,11 km,Benzyna,Automatyczna,Kompakt,1 199 cm3,130 KM,5,Czerwony
+Citroën,Berlingo,2012,31 900 PLN,185 018 km,Diesel,Manualna,Minivan,1 600 cm3,75 KM,5,Niebieski
+Citroën,C3,2014,16 900 PLN,230 000 km,Diesel,Manualna,Auta małe,1 560 cm3,92 KM,5,Fioletowy
+Citroën,C3,2012,15 500 PLN,175 000 km,Diesel,Manualna,Kompakt,1 560 cm3,92 KM,5,Bordowy
+Citroën,DS3,2014,32 900 PLN,103 000 km,Benzyna,Manualna,Auta małe,1 199 cm3,82 KM,3,Czarny
+Citroën,C4 SpaceTourer,2018,58 000 PLN,84 500 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Srebrny
+Citroën,DS3,2016,23 900 PLN,97 610 km,Diesel,Manualna,Auta małe,1 560 cm3,99 KM,3,Biały
+Citroën,DS5,2012,39 600 PLN,179 000 km,Diesel,Automatyczna,Kompakt,1 997 cm3,163 KM,5,Szary
+Citroën,Berlingo,2020,78 000 PLN,86 000 km,Diesel,Automatyczna,Minivan,1 499 cm3,130 KM,5,Szary
+Citroën,C3,2021,48 000,98 017 km,Benzyna,Manualna,Kompakt,1 199 cm3,83 KM,5,Szary
+Citroën,C4 Grand Picasso,2017,46 500 PLN,104 000 km,Benzyna,Manualna,Minivan,1 199 cm3,130 KM,5,Niebieski
+Citroën,DS5,2013,32 000 PLN,255 392 km,Diesel,Manualna,Sedan,1 997 cm3,163 KM,5,Brązowy
+Citroën,C5,2011,22 900 PLN,164 000 km,Benzyna,Automatyczna,Kombi,1 598 cm3,156 KM,5,Srebrny

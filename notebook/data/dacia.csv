@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Dacia,Dokker,2017,27 000 PLN,116 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2019,59 800 PLN,111 000 km,Benzyna,Manualna,SUV,1 333 cm3,150 KM,5,Szary
+Dacia,Jogger,2022,86 900 PLN,17 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Sandero Stepway,2023,62 000 PLN,31 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2024,59 900 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Duster,2015,35 600 PLN,115 000 km,Benzyna,Manualna,SUV,1 199 cm3,125 KM,5,Zielony
+Dacia,Duster,2012,16 500 PLN,145 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Sandero Stepway,2015,23 500 PLN,140 045 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Srebrny
+Dacia,Sandero Stepway,2013,21 600 PLN,215 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Bordowy
+Dacia,Sandero Stepway,2020,54 500 PLN,19 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Inny kolor
+Dacia,Logan,2017,19 559 PLN,154 275 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,73 KM,5,Bordowy
+Dacia,Logan,2015,20 900 PLN,240 000 km,Diesel,Manualna,Sedan,1 461 cm3,90 KM,5,Biały
+Dacia,Sandero,2018,29 999 PLN,69 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,73 KM,5,Biały
+Dacia,Dokker,2015,27 900 PLN,64 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,4,Granatowy
+Dacia,Duster,2019,58 500 PLN,99 003 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Czarny
+Dacia,Jogger,2024,82 660 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Zielony
+Dacia,Sandero,2021,58 000 PLN,12 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Inny kolor
+Dacia,Dokker,2017,36 900 PLN,128 813 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Dokker,2016,27 000 PLN,241 766 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Granatowy
+Dacia,Jogger,2024,81 000 PLN,1 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Duster,2016,31 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Czarny
+Dacia,Duster,2011,17 500 PLN,190 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Niebieski
+Dacia,Dokker,2016,30 300 PLN,100 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,4,Srebrny
+Dacia,Duster,2010,24 900 PLN,176 500 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Inny kolor
+Dacia,Sandero Stepway,2014,25 800 PLN,142 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Bordowy
+Dacia,Sandero Stepway,2024,68 400 PLN,1 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Niebieski
+Dacia,Sandero Stepway,2024,63 360 PLN,1 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Dacia,Duster,2014,31 700 PLN,125 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Biały
+Dacia,Lodgy,2015,24 900 PLN,159 431 km,Benzyna,Manualna,Minivan,1 598 cm3,83 KM,5,Biały
+Dacia,Sandero,2009,11 200 PLN,147 374 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Srebrny
+Dacia,Duster,2014,34 900 PLN,78 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Zielony
+Dacia,Lodgy,2019,39 500 PLN,143 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Lodgy,2019,39 500 PLN,143 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Lodgy,2017,36 500 PLN,132 000 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Szary
+Dacia,Duster,2019,54 900 PLN,59 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Brązowy
+Dacia,Dokker,2019,53 000 PLN,164 836 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Niebieski
+Dacia,Lodgy,2017,41 500 PLN,125 800 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2023,97 500 PLN,11 990 km,Benzyna,Manualna,SUV,1 332 cm3,150 KM,5,Zielony
+Dacia,Duster,2015,34 800 PLN,69 750 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Dacia,Duster,2014,34 900 PLN,153 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Dokker,2019,42 900 PLN,117 232 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,5,Biały
+Dacia,Spring,2022,41 700 PLN,17 000 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Duster,2021,58 800 PLN,30 658 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Niebieski
+Dacia,Dokker,2015,16 800 PLN,126 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Biały
+Dacia,Sandero Stepway,2018,37 500 PLN,129 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Srebrny
+Dacia,Logan,2013,17 999 PLN,87 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Złoty
+Dacia,Duster,2010,21 950 PLN,184 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero Stepway,2016,33 900 PLN,96 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Niebieski
+Dacia,Sandero,2021,39 300 PLN,20 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,101 KM,5,Czarny
+Dacia,Duster,2011,19 800 PLN,275 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Granatowy
+Dacia,Sandero,2014,23 000 PLN,144 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Bordowy
+Dacia,Duster,2019,60 250 PLN,29 022 km,Benzyna,Manualna,SUV,1 333 cm3,130 KM,5,Inny kolor
+Dacia,Sandero Stepway,2023,68 000 PLN,3 758 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Sandero Stepway,2024,69 000 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2022,61 900 PLN,21 000 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Zielony
+Dacia,Sandero Stepway,2022,55 900 PLN,35 000 km,Benzyna,Manualna,SUV,999 cm3,91 KM,5,Pomarańczowy
+Dacia,Dokker,2017,47 900 PLN,51 161 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Logan,2018,32 500 PLN,69 782 km,Benzyna,Manualna,Kombi,998 cm3,73 KM,5,Biały
+Dacia,Duster,2015,37 200 PLN,135 800 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Inny kolor
+Dacia,Duster,2011,24 500 PLN,217 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero,2015,26 000 PLN,98 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2022,57 900 PLN,10 500 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Dokker,2013,25 000 PLN,197 112 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Srebrny
+Dacia,Sandero Stepway,2021,54 900 PLN,82 619 km,Benzyna,Automatyczna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Dokker,2020,46 000 PLN,169 127 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Szary
+Dacia,Duster,2019,66 500 PLN,31 000 km,Benzyna,Manualna,SUV,1 333 cm3,150 KM,5,Beżowy
+Dacia,Logan,2016,18 000 PLN,118 000 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,73 KM,5,Brązowy
+Dacia,Dokker,2017,39 999 PLN,164 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Granatowy
+Dacia,Sandero,2017,27 800 PLN,114 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Brązowy
+Dacia,Logan,2009,13 000 PLN,250 000 km,Diesel,Manualna,Kombi,1 461 cm3,68 KM,5,Biały
+Dacia,Logan,2014,15 500 PLN,213 300 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Biały
+Dacia,Sandero Stepway,2022,64 900 PLN,25 850 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2022,64 900 PLN,25 311 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Duster,2022,18 850 PLN,28 969 km,Benzyna+LPG,Manualna,SUV,999 cm3,91 KM,5,Biały
+Dacia,Duster,2011,26 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Sandero,2016,26 900 PLN,62 400 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Brązowy
+Dacia,Duster,2014,24 900 PLN,138 900 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Szary
+Dacia,Spring,2022,21 000 PLN,10 000 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Dokker Van,2020,30 900 PLN,227 726 km,Benzyna,Manualna,Kombi,1 332 cm3,102 KM,5,Biały
+Dacia,Spring,2022,41 800 PLN,30 000 km,Elektryczny,Automatyczna,SUV,,45 KM,5,Biały
+Dacia,Sandero,2015,22 900 PLN,106 008 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,5,Czarny
+Dacia,Sandero,2011,8 000 PLN,208 000 km,Diesel,Manualna,Kompakt,1 461 cm3,75 KM,5,Inny kolor
+Dacia,Duster,2016,34 900 PLN,146 800 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Biały
+Dacia,Duster,2021,47 900 PLN,120 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Sandero Stepway,2013,23 800 PLN,109 000 km,Benzyna,Manualna,Minivan,999 cm3,100 KM,5,Srebrny
+Dacia,Duster,2021,63 900 PLN,33 500 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Niebieski
+Dacia,Duster,2020,75 000 PLN,97 263 km,Benzyna,Manualna,SUV,1 333 cm3,150 KM,5,Pomarańczowy
+Dacia,Lodgy,2019,38 500 PLN,142 000 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Inny kolor
+Dacia,Sandero Stepway,2014,23 900 PLN,43 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Czarny
+Dacia,Sandero,2012,22 000 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,84 KM,5,Zielony
+Dacia,Duster,2021,52 600 PLN,70 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,101 KM,5,Bordowy
+Dacia,Duster,2010,23 900 PLN,220 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Niebieski
+Dacia,Lodgy,2022,78 800 PLN,28 641 km,Diesel,Manualna,Minivan,1 461 cm3,115 KM,5,Biały
+Dacia,Dokker,2014,28 699,199 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Inny kolor
+Dacia,Duster,2014,35 500 PLN,69 635 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Granatowy
+Dacia,Lodgy,2012,16 300 PLN,186 500 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Srebrny
+Dacia,Duster,2015,34 900 PLN,116 000 km,Benzyna,Manualna,SUV,1 199 cm3,125 KM,5,Inny kolor
+Dacia,Sandero,2010,19 900 PLN,132 400 km,Benzyna,Manualna,Auta małe,1 598 cm3,105 KM,5,Czerwony
+Dacia,Duster,2010,24 900 PLN,167 749 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Czarny
+Dacia,Jogger,2022,69 900 PLN,29 905 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Duster,2019,54 500 PLN,118 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Niebieski
+Dacia,Spring,2024,39 555 PLN,1 234 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Niebieski
+Dacia,Sandero,2021,45 600 PLN,27 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Srebrny
+Dacia,Duster,2019,49 900 PLN,110 000 km,Benzyna,Manualna,SUV,1 333 cm3,150 KM,5,Czerwony
+Dacia,Sandero Stepway,2015,27 900 PLN,79 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Niebieski
+Dacia,Sandero Stepway,2022,62 900 PLN,21 200 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2014,25 900 PLN,114 500 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Błękitny
+Dacia,Duster,2022,63 900 PLN,80 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Czerwony
+Dacia,Duster,2024,97 695 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Beżowy
+Dacia,Duster,2018,52 900 PLN,90 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Dacia,Duster,2021,71 000 PLN,46 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Bordowy
+Dacia,Sandero,2010,8 800 PLN,116 000 km,Benzyna+LPG,Manualna,Auta małe,1 390 cm3,75 KM,5,Biały
+Dacia,Lodgy,2015,27 900 PLN,117 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Niebieski
+Dacia,Dokker,2019,55 000 PLN,126 300 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,5,Czarny
+Dacia,Jogger,2023,87 500 PLN,3 100 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Duster,2017,38 900 PLN,185 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Dokker,2019,39 000 PLN,189 500 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Czarny
+Dacia,Sandero,2019,14 800 PLN,46 707 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Niebieski
+Dacia,Dokker,2019,39 000 PLN,195 500 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Czarny
+Dacia,Sandero,2012,24 900 PLN,141 420 km,Benzyna,Manualna,Sedan,1 598 cm3,84 KM,5,Czerwony
+Dacia,Lodgy,2018,28 500 PLN,209 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Sandero,2017,29 900 PLN,120 000 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Błękitny
+Dacia,Duster,2024,97 695 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2019,34 200 PLN,40 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Dacia,Dokker,2017,33 000,165 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2011,26 000 PLN,194 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Biały
+Dacia,Logan,2018,12 000 PLN,202 000 km,Benzyna+LPG,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Dacia,Duster,2021,60 900 PLN,55 700 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Bordowy
+Dacia,Duster,2020,49 900 PLN,84 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Czarny
+Dacia,Sandero Stepway,2021,56 500 PLN,33 000 km,Benzyna,Automatyczna,SUV,999 cm3,91 KM,5,Biały
+Dacia,Dokker,2020,42 500 PLN,157 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Sandero,2010,10 900 PLN,57 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,75 KM,5,Niebieski
+Dacia,Logan,2013,17 900 PLN,168 000 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Granatowy
+Dacia,Lodgy,2019,39 900 PLN,94 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,5,Inny kolor
+Dacia,Duster,2019,50 900 PLN,110 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Dacia,Duster,2019,56 500 PLN,60 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Dacia,Lodgy,2018,43 500 PLN,151 312 km,Diesel,Manualna,Minivan,1 461 cm3,107 KM,5,Błękitny
+Dacia,Sandero,2021,46 900 PLN,18 900 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Sandero Stepway,2012,16 900 PLN,171 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,85 KM,5,Inny kolor
+Dacia,Duster,2020,63 900 PLN,69 122 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Czarny
+Dacia,Duster,2019,59 900 PLN,59 900 km,Benzyna,Manualna,SUV,1 598 cm3,116 KM,5,Szary
+Dacia,Lodgy,2016,19 999 PLN,218 000 km,Diesel,Manualna,Minivan,1 461 cm3,109 KM,5,Niebieski
+Dacia,Duster,2015,37 945,218 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,,
+Dacia,Sandero Stepway,2021,49 900 PLN,52 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Inny kolor
+Dacia,Duster,2024,123 900 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,140 KM,5,Szary
+Dacia,Sandero,2009,10 600 PLN,105 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,75 KM,5,Srebrny
+Dacia,Sandero,2024,77 290 PLN,1 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Beżowy
+Dacia,Sandero,2011,19 900 PLN,160 000 km,Benzyna,Manualna,Sedan,1 598 cm3,84 KM,5,Szary
+Dacia,Duster,2020,59 000 PLN,79 900 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2022,32 495 PLN,39 605 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2016,24 900 PLN,113 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,73 KM,5,Brązowy
+Dacia,Sandero Stepway,2015,28 000 PLN,173 100 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Biały
+Dacia,Logan,2022,46 900 PLN,60 690 km,Benzyna+LPG,Manualna,Sedan,898 cm3,90 KM,4,Biały
+Dacia,Duster,2023,79 999 PLN,34 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Sandero Stepway,2020,32 800 PLN,91 000 km,Diesel,Manualna,Kompakt,1 461 cm3,95 KM,5,Szary
+Dacia,Sandero,2019,28 000 PLN,75 000 km,Benzyna,Manualna,Auta małe,998 cm3,73 KM,5,Granatowy
+Dacia,Sandero,2024,69 200 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Dokker,2019,37 900 PLN,148 000 km,Benzyna,Manualna,Minivan,1 333 cm3,102 KM,5,Biały
+Dacia,Dokker,2015,25 900 PLN,94 000 km,Benzyna,Manualna,Kombi,1 197 cm3,115 KM,5,Szary
+Dacia,Jogger,2022,78 500 PLN,59 900 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Duster,2016,34 000 PLN,233 841 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Dacia,Lodgy,2019,43 900 PLN,119 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Czarny
+Dacia,Sandero Stepway,2021,49 900 PLN,65 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Biały
+Dacia,Sandero,2018,32 800 PLN,101 980 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Brązowy
+Dacia,Sandero Stepway,2016,31 000 PLN,71 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Czarny
+Dacia,Logan,2014,21 000 PLN,160 512 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,75 KM,5,Biały
+Dacia,Duster,2017,32 900 PLN,175 200 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Dacia,Duster,2014,30 900 PLN,176 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Zielony
+Dacia,Sandero Stepway,2017,35 850 PLN,140 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2010,18 999 PLN,146 000 km,Benzyna,Manualna,SUV,1 598 cm3,87 KM,5,Bordowy
+Dacia,Sandero,2020,13 600 PLN,50 336 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Srebrny
+Dacia,Sandero Stepway,2017,32 900 PLN,16 000 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,5,Błękitny
+Dacia,Sandero Stepway,2021,46 800 PLN,32 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,101 KM,5,Srebrny
+Dacia,Sandero Stepway,2020,50 000 PLN,64 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Duster,2017,41 200 PLN,88 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Dacia,Duster,2019,55 900 PLN,46 500 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Beżowy
+Dacia,Sandero,2011,19 900 PLN,107 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,84 KM,5,Inny kolor
+Dacia,Duster,2022,75 000 PLN,58 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Inny kolor
+Dacia,Dokker,2019,43 900 PLN,127 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Jogger,2023,87 999 PLN,16 000 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Srebrny
+Dacia,Dokker,2014,27 800 PLN,140 000 km,Benzyna,Manualna,Kombi,1 598 cm3,84 KM,5,Granatowy
+Dacia,Sandero,2009,12 400 PLN,143 900 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,5,Niebieski
+Dacia,Sandero Stepway,2018,34 999 PLN,50 520 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Biały
+Dacia,Duster,2021,56 000 PLN,73 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Czerwony
+Dacia,Logan,2017,30 500 PLN,97 000 km,Benzyna,Automatyczna,Kombi,898 cm3,90 KM,5,Niebieski
+Dacia,Lodgy,2018,38 200 PLN,105 000 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Dokker Van,2019,33 825 PLN,227 900 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,3,Biały
+Dacia,Sandero,2009,9 500 PLN,212 000 km,Diesel,Manualna,Kompakt,1 461 cm3,86 KM,5,Szary
+Dacia,Duster,2024,101 800 PLN,1 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Beżowy
+Dacia,Duster,2013,25 900 PLN,219 674 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czarny
+Dacia,Duster,2022,65 900 PLN,41 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Bordowy
+Dacia,Duster,2023,97 900 PLN,14 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Zielony
+Dacia,Duster,2012,22 000 PLN,190 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2023,94 900 PLN,943 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Czarny
+Dacia,Sandero,2017,35 600 PLN,102 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Brązowy
+Dacia,Sandero Stepway,2024,76 900 PLN,178 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Dokker,2016,32 900 PLN,163 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,5,Błękitny
+Dacia,Spring,2024,26 900 PLN,5 300 km,Elektryczny,Automatyczna,SUV,,45 KM,5,Biały
+Dacia,Jogger,2022,77 900 PLN,21 700 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Duster,2018,55 900 PLN,79 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Dacia,Duster,2022,69 900 PLN,41 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Pomarańczowy
+Dacia,Sandero,2022,42 000 PLN,13 110 km,Benzyna,Manualna,Auta miejskie,999 cm3,67 KM,5,Biały
+Dacia,Duster,2016,34 900 PLN,179 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Duster,2013,28 900 PLN,265 613 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Srebrny
+Dacia,Sandero,2009,12 600 PLN,158 900 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Biały
+Dacia,Dokker,2018,8 500 PLN,121 000 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2010,25 900 PLN,98 500 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Sandero,2018,35 000 PLN,96 600 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Granatowy
+Dacia,Duster,2020,51 900 PLN,92 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Złoty
+Dacia,Duster,2018,49 900 PLN,153 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Dacia,Duster,2022,72 900 PLN,55 600 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Duster,2013,28 700 PLN,123 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2021,62 300 PLN,26 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Niebieski
+Dacia,Jogger,2023,95 000 PLN,783 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2016,34 900 PLN,246 100 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Srebrny
+Dacia,Duster,2019,52 500 PLN,131 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Inny kolor
+Dacia,Duster,2024,89 800 PLN,10 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Zielony
+Dacia,Jogger,2024,95 400 PLN,2 700 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Szary
+Dacia,Duster,2021,69 000 PLN,30 630 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Logan,2016,25 500 PLN,135 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Brązowy
+Dacia,Duster,2018,54 900 PLN,98 138 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Dacia,Duster,2019,62 750 PLN,32 300 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Srebrny
+Dacia,Lodgy,2015,12 900 PLN,340 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,84 KM,5,Biały
+Dacia,Sandero Stepway,2024,69 900 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Lodgy,2012,19 500 PLN,160 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,83 KM,5,Biały
+Dacia,Jogger,2024,93 900 PLN,10 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Zielony
+Dacia,Duster,2020,64 999 PLN,52 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Dacia,Sandero,2008,13 500 PLN,210 692 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Szary
+Dacia,Dokker,2020,50 000 PLN,105 000 km,Benzyna,Manualna,Kombi,1 333 cm3,130 KM,5,Czarny
+Dacia,Sandero Stepway,2024,73 500 PLN,1 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Sandero,2019,35 499 PLN,82 600 km,Benzyna,Manualna,Kompakt,999 cm3,73 KM,5,Biały
+Dacia,Duster,2020,59 900 PLN,82 989 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Złoty
+Dacia,Sandero Stepway,2024,76 900 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Beżowy
+Dacia,Sandero,2018,27 800 PLN,68 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,73 KM,5,Brązowy
+Dacia,Duster,2017,39 692,112 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Dacia,Duster,2023,31 999 PLN,32 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Zielony
+Dacia,Duster,2021,58 900 PLN,79 300 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Czerwony
+Dacia,Logan,2020,25 000 PLN,87 641 km,Benzyna,Manualna,Kombi,998 cm3,73 KM,5,Brązowy
+Dacia,Lodgy,2013,23 000 PLN,199 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,84 KM,5,Brązowy
+Dacia,Sandero,2017,32 900 PLN,180 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Biały
+Dacia,Duster,2012,35 900 PLN,144 140 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Biały
+Dacia,Duster,2017,39 500 PLN,144 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Złoty
+Dacia,Lodgy,2015,15 999 PLN,227 000 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Srebrny
+Dacia,Sandero Stepway,2015,35 000 PLN,40 000 km,Benzyna,Automatyczna,Auta małe,898 cm3,90 KM,5,Błękitny
+Dacia,Sandero,2018,27 900 PLN,163 214 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Dacia,Lodgy,2012,22 900 PLN,130 000 km,Diesel,Manualna,Minivan,1 461 cm3,115 KM,5,Biały
+Dacia,Duster,2019,61 900 PLN,76 382 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Srebrny
+Dacia,Sandero Stepway,2015,27 900 PLN,68 255 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Niebieski
+Dacia,Duster,2020,53 799 PLN,93 784 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Niebieski
+Dacia,Duster,2019,52 500 PLN,146 900 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Duster,2018,51 999 PLN,42 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Pomarańczowy
+Dacia,Sandero Stepway,2015,30 800 PLN,60 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Biały
+Dacia,Lodgy,2019,44 900 PLN,29 950 km,Benzyna,Manualna,Minivan,1 333 cm3,130 KM,5,Biały
+Dacia,Lodgy,2014,34 700 PLN,89 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Brązowy
+Dacia,Sandero,2024,32 900 PLN,6 200 km,Benzyna,Manualna,Auta małe,999 cm3,91 KM,5,Biały
+Dacia,Duster,2020,39 975 PLN,179 200 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Sandero Stepway,2018,37 900 PLN,71 400 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Szary
+Dacia,Jogger,2023,89 500 PLN,3 436 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Logan,2008,11 500 PLN,219 200 km,Diesel,Manualna,Kombi,1 461 cm3,68 KM,5,Niebieski
+Dacia,Spring,2021,43 000 PLN,60 000 km,Elektryczny,Automatyczna,Auta małe,,45 KM,5,Srebrny
+Dacia,Sandero,2020,39 800 PLN,69 120 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Srebrny
+Dacia,Dokker,2017,23 900 PLN,51 000 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,,
+Dacia,Dokker,2015,28 900 PLN,102 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Szary
+Dacia,Duster,2021,57 995 PLN,92 442 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Inny kolor
+Dacia,Lodgy,2016,29 900 PLN,129 000 km,Benzyna,Manualna,Kombi,1 197 cm3,115 KM,5,Niebieski
+Dacia,Sandero Stepway,2016,33 500 PLN,104 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Granatowy
+Dacia,Duster,2023,105 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Zielony
+Dacia,Duster,2023,84 900 PLN,15 792 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2017,29 500 PLN,89 600 km,Benzyna+LPG,Manualna,Auta miejskie,1 149 cm3,73 KM,5,Czerwony
+Dacia,Sandero Stepway,2024,79 900 PLN,10 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Beżowy
+Dacia,Sandero Stepway,2024,79 900 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Lodgy,2012,19 200 PLN,311 000 km,Diesel,Manualna,Minivan,1 461 cm3,107 KM,5,Brązowy
+Dacia,Dokker,2017,24 354 PLN,95 950 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2024,82 600 PLN,10 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2023,77 900 PLN,29 429 km,Benzyna,Automatyczna,Kompakt,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Lodgy,2012,21 900 PLN,160 266 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,84 KM,5,Srebrny
+Dacia,Duster,2010,27 500 PLN,148 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Logan,2013,13 900 PLN,265 555 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,4,Beżowy
+Dacia,Jogger,2024,92 200 PLN,5 km,Benzyna,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Jogger,2024,95 400 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Jogger,2024,95 400 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2024,82 800 PLN,1 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Zielony
+Dacia,Sandero,2024,76 200 PLN,1 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Biały
+Dacia,Duster,2011,29 900 PLN,147 100 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Błękitny
+Dacia,Duster,2024,97 800 PLN,5 km,Benzyna+LPG,Manualna,SUV,998 cm3,100 KM,5,Czarny
+Dacia,Duster,2024,123 500 PLN,1 km,Hybryda,Automatyczna,SUV,1 600 cm3,140 KM,5,Zielony
+Dacia,Lodgy,2017,35 200 PLN,147 739 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Szary
+Dacia,Duster,2022,74 250 PLN,50 100 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Szary
+Dacia,Logan,2015,18 900 PLN,184 000 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,73 KM,5,Srebrny
+Dacia,Sandero,2017,29 900 PLN,6 894 km,Benzyna,Manualna,Kompakt,1 149 cm3,73 KM,5,Brązowy
+Dacia,Duster,2010,17 500 PLN,259 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Duster,2024,88 500 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Czarny
+Dacia,Lodgy,2018,42 900 PLN,146 300 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2015,27 700 PLN,90 600 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Biały
+Dacia,Dokker,2020,41 500 PLN,120 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Sandero,2018,25 000 PLN,11 139 km,Benzyna,Manualna,Sedan,999 cm3,73 KM,5,Niebieski
+Dacia,Sandero,2017,38 900 PLN,124 618 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Srebrny
+Dacia,Sandero Stepway,2018,27 500 PLN,175 301 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Biały
+Dacia,Lodgy,2012,24 999 PLN,126 650 km,Benzyna,Manualna,Minivan,1 598 cm3,82 KM,5,Złoty
+Dacia,Logan,2007,3 900 PLN,416 000 km,Diesel,Manualna,Kombi,1 461 cm3,68 KM,5,Srebrny
+Dacia,Jogger,2022,66 900 PLN,8 000 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Jogger,2024,112 000 PLN,5 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Szary
+Dacia,Dokker,2015,35 900 PLN,131 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Dokker,2014,15 490 PLN,264 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,4,Biały
+Dacia,Sandero,2024,61 900 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2023,79 800 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Pomarańczowy
+Dacia,Dokker,2018,45 000 PLN,3 800 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,84 KM,5,Inny kolor
+Dacia,Duster,2024,123 580 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,140 KM,5,Beżowy
+Dacia,Duster,2020,59 990 PLN,106 795 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Złoty
+Dacia,Sandero,2023,75 700 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Logan,2016,21 849 PLN,114 487 km,Benzyna,Manualna,Sedan,1 149 cm3,73 KM,4,Biały
+Dacia,Sandero,2024,64 900 PLN,25 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Czarny
+Dacia,Dokker,2013,7 999 PLN,139 827 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Granatowy
+Dacia,Jogger,2022,75 900 PLN,18 349 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Logan,2015,18 500 PLN,278 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Inny kolor
+Dacia,Duster,2013,35 900 PLN,150 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Granatowy
+Dacia,Lodgy,2019,48 000 PLN,150 000 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Inny kolor
+Dacia,Duster,2022,81 900 PLN,29 369 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Inny kolor
+Dacia,Duster,2022,78 800 PLN,17 774 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Inny kolor
+Dacia,Duster,2024,96 600 PLN,3 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2013,29 500 PLN,109 327 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Dacia,Duster,2021,64 799 PLN,39 400 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Szary
+Dacia,Sandero,2021,14 800 PLN,48 000 km,Benzyna,Manualna,Kompakt,999 cm3,67 KM,5,Biały
+Dacia,Sandero Stepway,2021,21 800 PLN,24 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,101 KM,5,Czerwony
+Dacia,Sandero,2019,29 520 PLN,117 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Srebrny
+Dacia,Duster,2014,32 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Zielony
+Dacia,Sandero,2020,34 800 PLN,47 000 km,Diesel,Manualna,Kompakt,1 461 cm3,95 KM,5,Niebieski
+Dacia,Duster,2018,46 900 PLN,179 800 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Szary
+Dacia,Sandero,2013,19 900 PLN,180 000 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Biały
+Dacia,Duster,2019,44 900 PLN,151 000 km,Diesel,Manualna,SUV,1 461 cm3,116 KM,5,Biały
+Dacia,Sandero Stepway,2022,68 500 PLN,17 833 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Inny kolor
+Dacia,Jogger,2024,83 900 PLN,4 km,Benzyna+LPG,Manualna,Minivan,1 000 cm3,100 KM,5,Biały
+Dacia,Duster,2024,91 200 PLN,9 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,,Szary
+Dacia,Sandero,2021,53 900 PLN,30 846 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Duster,2024,89 500 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Brązowy
+Dacia,Sandero,2013,23 900 PLN,84 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Biały
+Dacia,Duster,2024,125 900 PLN,1 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Dacia,Duster,2023,85 900 PLN,22 762 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Niebieski
+Dacia,Lodgy,2019,29 900 PLN,230 555 km,Benzyna,Manualna,Minivan,1 333 cm3,100 KM,5,Szary
+Dacia,Duster,2019,67 850 PLN,81 582 km,Benzyna,Manualna,SUV,1 333 cm3,130 KM,5,Inny kolor
+Dacia,Duster,2018,47 900 PLN,69 977 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Dacia,Sandero,2021,49 000 PLN,10 895 km,Benzyna,Manualna,Kompakt,999 cm3,67 KM,5,Niebieski
+Dacia,Duster,2018,55 900 PLN,58 559 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Dacia,Duster,2021,62 000 PLN,86 774 km,Benzyna+LPG,Manualna,SUV,999 cm3,101 KM,5,Niebieski
+Dacia,Duster,2024,119 795 PLN,1 km,Hybryda,Automatyczna,SUV,1 598 cm3,140 KM,5,Szary
+Dacia,Duster,2024,94 500 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,4,Biały
+Dacia,Sandero,2013,10 000 PLN,118 899 km,Diesel,Manualna,SUV,1 461 cm3,75 KM,5,Inny kolor
+Dacia,Lodgy,2014,30 000 PLN,104 309 km,Benzyna,Manualna,Minivan,1 198 cm3,115 KM,5,Srebrny
+Dacia,Duster,2017,39 900 PLN,152 000 km,Benzyna,Manualna,SUV,1 199 cm3,125 KM,5,Szary
+Dacia,Duster,2021,67 900 PLN,68 000 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Duster,2024,122 000 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Brązowy
+Dacia,Sandero Stepway,2018,40 900 PLN,65 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2023,23 900 PLN,38 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,110 KM,5,Biały
+Dacia,Duster,2018,54 900 PLN,89 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Czarny
+Dacia,Duster,2022,69 900 PLN,50 269 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Inny kolor
+Dacia,Duster,2024,126 000 PLN,5 km,Hybryda,Manualna,SUV,1 199 cm3,130 KM,,Zielony
+Dacia,Duster,2024,126 400 PLN,5 km,Hybryda,Automatyczna,SUV,1 600 cm3,140 KM,5,Beżowy
+Dacia,Duster,2024,87 500 PLN,10 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Logan,2013,11 500 PLN,63 400 km,Diesel,Manualna,Sedan,1 461 cm3,75 KM,4,Srebrny
+Dacia,Duster,2024,100 000 PLN,10 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Lodgy,2015,23 500 PLN,91 520 km,Diesel,Manualna,Minivan,1 461 cm3,107 KM,5,Biały
+Dacia,Sandero,2022,24 900 PLN,15 905 km,Benzyna,Manualna,Auta miejskie,999 cm3,65 KM,5,Biały
+Dacia,Duster,2018,48 700 PLN,97 961 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Dacia,Sandero,2020,34 444 PLN,58 000 km,Benzyna,Manualna,Auta miejskie,998 cm3,73 KM,5,Szary
+Dacia,Duster,2022,74 700 PLN,28 139 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Inny kolor
+Dacia,Lodgy,2012,19 999 PLN,269 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Brązowy
+Dacia,Lodgy,2015,18 500 PLN,170 094 km,Diesel,Manualna,Minivan,1 461 cm3,107 KM,5,Niebieski
+Dacia,Sandero,2022,49 999 PLN,58 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2022,24 500 PLN,21 421 km,Benzyna,Manualna,Auta miejskie,999 cm3,65 KM,5,Biały
+Dacia,Sandero Stepway,2024,82 500 PLN,4 km,Benzyna+LPG,Manualna,SUV,1 000 cm3,100 KM,5,Zielony
+Dacia,Sandero Stepway,2020,49 900 PLN,33 054 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Biały
+Dacia,Duster,2011,23 900 PLN,235 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Dacia,Sandero Stepway,2023,32 900 PLN,22 450 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Srebrny
+Dacia,Duster,2014,32 900 PLN,126 168 km,Benzyna,Manualna,SUV,1 199 cm3,125 KM,5,Szary
+Dacia,Duster,2018,67 900 PLN,70 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Niebieski
+Dacia,Sandero,2022,46 900 PLN,35 520 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Biały
+Dacia,Sandero,2024,71 800 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Dacia,Duster,2010,19 900 PLN,282 513 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Brązowy
+Dacia,Sandero,2017,25 800 PLN,92 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,73 KM,5,Biały
+Dacia,Duster,2013,26 500 PLN,189 500 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Szary
+Dacia,Duster,2024,98 000 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Beżowy
+Dacia,Spring,2021,31 000 PLN,6 400 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Duster,2011,21 500 PLN,135 800 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Beżowy
+Dacia,Duster,2011,25 900 PLN,151 993 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2011,25 900 PLN,151 993 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero,2024,67 260 PLN,10 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Dacia,Logan,2018,24 900 PLN,141 000 km,Benzyna,Manualna,Kombi,999 cm3,73 KM,5,Niebieski
+Dacia,Sandero Stepway,2013,23 333 PLN,73 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Czerwony
+Dacia,Duster,2024,97 500 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Sandero Stepway,2024,77 300 PLN,500 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Sandero,2017,35 900 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Niebieski
+Dacia,Dokker,2016,35 916 PLN,119 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2012,22 000 PLN,200 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czarny
+Dacia,Sandero,2023,77 000 PLN,6 100 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Złoty
+Dacia,Sandero,2021,55 900 PLN,26 400 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,91 KM,5,Biały
+Dacia,Duster,2019,49 900 PLN,127 390 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Dacia,Sandero Stepway,2015,25 900 PLN,149 332 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Niebieski
+Dacia,Jogger,2023,79 500 PLN,50 000 km,Benzyna,Manualna,Minivan,999 cm3,110 KM,5,Szary
+Dacia,Duster,2019,48 500 PLN,210 029 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Granatowy
+Dacia,Duster,2021,63 900 PLN,84 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Złoty
+Dacia,Dokker,2018,29 900 PLN,33 900 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Szary
+Dacia,Sandero Stepway,2024,78 700 PLN,1 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Biały
+Dacia,Duster,2023,89 900 PLN,15 792 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero Stepway,2019,40 900 PLN,29 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Brązowy
+Dacia,Sandero Stepway,2012,24 900 PLN,119 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,85 KM,5,Brązowy
+Dacia,Dokker,2014,12 300 PLN,436 807 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,4,Biały
+Dacia,Duster,2022,69 900 PLN,14 044 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Sandero Stepway,2014,23 900 PLN,117 000 km,Benzyna+LPG,Manualna,Kompakt,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2014,35 999 PLN,186 205 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2014,29 990 PLN,194 100 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Czarny
+Dacia,Duster,2012,28 500 PLN,220 352 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Srebrny
+Dacia,Logan,2020,31 500 PLN,132 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Dacia,Lodgy,2019,42 000,99 690 km,Benzyna,Manualna,Minivan,1 332 cm3,102 KM,5,Biały
+Dacia,Duster,2023,87 000,26 271 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Inny kolor
+Dacia,Duster,2020,58 000 PLN,89 462 km,Benzyna,Manualna,SUV,1 332 cm3,131 KM,5,Biały
+Dacia,Duster,2020,60 000 PLN,56 340 km,Benzyna+LPG,Manualna,SUV,999 cm3,101 KM,5,Niebieski
+Dacia,Lodgy,2015,24 700 PLN,199 000 km,Benzyna,Manualna,Minivan,1 197 cm3,116 KM,5,Biały
+Dacia,Sandero,2011,21 900 PLN,55 000 km,Benzyna,Manualna,Sedan,1 598 cm3,84 KM,5,Czerwony
+Dacia,Duster,2019,35 700 PLN,21 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Sandero,2013,18 900 PLN,112 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Biały
+Dacia,Sandero Stepway,2015,27 900 PLN,171 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Niebieski
+Dacia,Dokker,2013,26 000 PLN,146 000 km,Benzyna,Manualna,Minivan,1 598 cm3,84 KM,5,Granatowy
+Dacia,Spring,2020,47 900 PLN,18 789 km,Elektryczny,Automatyczna,Auta małe,,45 KM,5,Biały
+Dacia,Duster,2011,8 000 PLN,251 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Sandero Stepway,2021,64 000 PLN,19 000 km,Benzyna,Automatyczna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Logan,2014,21 800 PLN,70 000 km,Benzyna,Manualna,Sedan,1 149 cm3,75 KM,4,Srebrny
+Dacia,Sandero Stepway,2013,26 000 PLN,157 292 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Inny kolor
+Dacia,Duster,2017,29 900 PLN,230 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Biały
+Dacia,Lodgy,2017,29 500 PLN,205 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Sandero Stepway,2012,5 500 PLN,205 992 km,Diesel,Manualna,SUV,1 500 cm3,88 KM,5,Czerwony
+Dacia,Duster,2018,28 800 PLN,55 090 km,Diesel,Automatyczna,SUV,1 500 cm3,109 KM,5,Czarny
+Dacia,Duster,2017,9 800 PLN,161 831 km,Benzyna,Manualna,SUV,1 200 cm3,125 KM,5,Szary
+Dacia,Duster,2023,50 000 PLN,16 074 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Dacia,Lodgy,2014,22 900 PLN,218 213 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2014,35 600 PLN,44 111 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Czarny
+Dacia,Logan,2014,17 500 PLN,104 958 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Biały
+Dacia,Duster,2020,67 000 PLN,33 579 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Beżowy
+Dacia,Duster,2024,113 200 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Beżowy
+Dacia,Sandero,2021,26 500 PLN,40 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,65 KM,5,Bordowy
+Dacia,Sandero,2021,47 200 PLN,41 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Biały
+Dacia,Dokker,2018,37 900 PLN,62 000 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Srebrny
+Dacia,Duster,2013,32 350 PLN,175 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Brązowy
+Dacia,Duster,2022,80 000 PLN,28 500 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Duster,2018,45 000 PLN,175 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Granatowy
+Dacia,Duster,2024,122 500 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,93 KM,5,Beżowy
+Dacia,Sandero,2010,19 900 PLN,93 000 km,Benzyna,Manualna,Minivan,1 598 cm3,87 KM,5,Srebrny
+Dacia,Sandero,2017,25 200 PLN,186 900 km,Benzyna,Manualna,Sedan,999 cm3,73 KM,5,Biały
+Dacia,Dokker,2020,53 900 PLN,68 000 km,Diesel,Manualna,Minivan,1 461 cm3,95 KM,5,Biały
+Dacia,Dokker,2020,53 900 PLN,68 000 km,Diesel,Manualna,Minivan,1 461 cm3,95 KM,5,Biały
+Dacia,Duster,2021,70 000 PLN,25 221 km,Benzyna+LPG,Manualna,SUV,999 cm3,91 KM,5,Inny kolor
+Dacia,Duster,2024,89 300 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Sandero,2011,13 500 PLN,161 500 km,Diesel,Manualna,Auta małe,1 461 cm3,75 KM,5,Czarny
+Dacia,Duster,2017,37 900 PLN,127 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Dacia,Duster,2016,34 000 PLN,220 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Srebrny
+Dacia,Duster,2021,65 000,94 628 km,Benzyna+LPG,Manualna,SUV,999 cm3,91 KM,5,Inny kolor
+Dacia,Sandero Stepway,2023,72 000 PLN,13 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Logan,2016,27 500 PLN,114 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Inny kolor
+Dacia,Logan,2007,8 300 PLN,240 000 km,Diesel,Manualna,Minivan,1 461 cm3,68 KM,5,Srebrny
+Dacia,Sandero Stepway,2014,14 900 PLN,204 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Srebrny
+Dacia,Sandero Stepway,2019,45 900 PLN,28 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Bordowy
+Dacia,Sandero,2009,13 400 PLN,109 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,87 KM,5,Inny kolor
+Dacia,Duster,2014,12 900 PLN,167 498 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Inny kolor
+Dacia,Sandero Stepway,2012,18 900 PLN,145 000 km,Benzyna,Manualna,SUV,1 598 cm3,85 KM,5,Bordowy
+Dacia,Dokker,2015,27 900 PLN,221 100 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Srebrny
+Dacia,Duster,2014,31 900 PLN,109 050 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Biały
+Dacia,Duster,2019,54 999 PLN,89 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Czarny
+Dacia,Logan,2014,17 000 PLN,164 050 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Niebieski
+Dacia,Duster,2021,75 000 PLN,41 300 km,Benzyna+LPG,Automatyczna,SUV,999 cm3,90 KM,5,Inny kolor
+Dacia,Sandero Stepway,2019,32 900 PLN,38 277 km,Benzyna,Manualna,Auta miejskie,999 cm3,73 KM,5,Błękitny
+Dacia,Logan,2020,29 999 PLN,148 000 km,Benzyna,Automatyczna,Kombi,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2011,25 900 PLN,70 000 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Biały
+Dacia,Duster,2020,30 700 PLN,71 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Bordowy
+Dacia,Duster,2017,56 900 PLN,70 600 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,115 KM,5,Czarny
+Dacia,Duster,2016,42 000,111 319 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Dacia,Duster,2020,57 900 PLN,82 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Dacia,Duster,2017,40 959 PLN,160 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Dacia,Duster,2012,27 900 PLN,175 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Inny kolor
+Dacia,Duster,2017,49 900 PLN,22 600 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Sandero Stepway,2021,52 600 PLN,11 200 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,101 KM,5,Srebrny
+Dacia,Dokker,2019,39 999,160 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2023,36 900 PLN,8 270 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Inny kolor
+Dacia,Dokker,2018,28 500 PLN,217 394 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2024,85 239 PLN,5 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Dacia,Duster,2021,64 900 PLN,117 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Spring,2021,59 000 PLN,35 000 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Biały
+Dacia,Duster,2020,49 900 PLN,46 000 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero Stepway,2013,19 900 PLN,200 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Niebieski
+Dacia,Sandero Stepway,2020,35 800 PLN,28 700 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Czerwony
+Dacia,Lodgy,2021,29 900 PLN,30 000 km,Benzyna,Manualna,Minivan,1 332 cm3,102 KM,5,Biały
+Dacia,Logan,2014,19 500 PLN,198 754 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Dokker,2019,51 900 PLN,124 621 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Logan,2017,29 400 PLN,176 449 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2013,33 000 PLN,143 550 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Sandero Stepway,2019,24 900 PLN,66 800 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Czarny
+Dacia,Spring,2021,28 999 PLN,12 000 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Duster,2020,51 500 PLN,96 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Granatowy
+Dacia,Duster,2012,24 700 PLN,177 382 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Lodgy,2014,21 500 PLN,330 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,84 KM,5,Beżowy
+Dacia,Sandero,2021,59 900 PLN,48 240 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Czerwony
+Dacia,Sandero,2012,29 900 PLN,41 870 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2024,79 500 PLN,5 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Jogger,2024,87 450 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Dacia,Duster,2017,36 900 PLN,215 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Dacia,Dokker,2017,37 569,140 891 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2019,43 050 PLN,193 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Dacia,Sandero Stepway,2024,73 400 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Beżowy
+Dacia,Sandero,2019,30 000 PLN,90 000 km,Benzyna+LPG,Manualna,Kompakt,998 cm3,73 KM,5,Granatowy
+Dacia,Duster,2017,39 000 PLN,127 350 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Inny kolor
+Dacia,Duster,2021,45 900 PLN,169 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Sandero,2010,18 000 PLN,157 924 km,Diesel,Manualna,Kompakt,1 461 cm3,68 KM,5,Czerwony
+Dacia,Duster,2018,37 900 PLN,249 113 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Dacia,Dokker,2019,49 500 PLN,152 152 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Dokker,2019,49 500 PLN,152 152 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Dokker,2017,38 800 PLN,133 476 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Dokker,2017,38 900 PLN,139 892 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Logan,2014,19 900 PLN,125 347 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,4,Czarny
+Dacia,Sandero,2010,15 000 PLN,240 056 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Srebrny
+Dacia,Duster,2020,53 000 PLN,96 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Dacia,Jogger,2023,81 160 PLN,5 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Sandero,2024,70 600 PLN,5 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2015,30 300 PLN,95 380 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Srebrny
+Dacia,Jogger,2024,80 440 PLN,5 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Duster,2021,59 900 PLN,15 000 km,Diesel,Manualna,SUV,1 461 cm3,116 KM,5,Srebrny
+Dacia,Jogger,2024,90 250 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Dokker,2018,39 900 PLN,67 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,5,Niebieski
+Dacia,Lodgy,2012,14 900 PLN,250 000 km,Benzyna,Manualna,Minivan,1 598 cm3,83 KM,5,Granatowy
+Dacia,Duster,2024,123 500 PLN,2 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Srebrny
+Dacia,Sandero,2022,64 500 PLN,24 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Inny kolor
+Dacia,Sandero Stepway,2024,83 800 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Zielony
+Dacia,Duster,2010,21 800 PLN,289 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2015,15 500 PLN,75 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Granatowy
+Dacia,Duster,2022,71 500 PLN,17 500 km,Benzyna,Manualna,SUV,1 333 cm3,130 KM,5,Srebrny
+Dacia,Logan,2011,4 500 PLN,246 453 km,Benzyna,Manualna,Kombi,1 598 cm3,85 KM,5,Beżowy
+Dacia,Sandero,2019,29 900 PLN,38 530 km,Benzyna,Manualna,Auta miejskie,999 cm3,73 KM,5,Szary
+Dacia,Duster,2011,15 000 PLN,304 499 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Sandero Stepway,2024,68 560 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Beżowy
+Dacia,Sandero Stepway,2013,25 999 PLN,153 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2014,30 900 PLN,100 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Szary
+Dacia,Duster,2018,39 800 PLN,236 000 km,Diesel,Manualna,SUV,1 461 cm3,116 KM,5,Szary
+Dacia,Duster,2021,53 800 PLN,24 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Niebieski
+Dacia,Sandero,2021,58 900 PLN,62 513 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2024,82 200 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Zielony
+Dacia,Dokker,2017,20 000 PLN,108 685 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Czarny
+Dacia,Spring,2021,38 500 PLN,31 000 km,Elektryczny,Automatyczna,SUV,,45 KM,5,Srebrny
+Dacia,Dokker,2017,20 000 PLN,108 685 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Czarny
+Dacia,Spring,2021,38 500 PLN,31 000 km,Elektryczny,Automatyczna,SUV,,45 KM,5,Srebrny
+Dacia,Duster,2016,45 000 PLN,61 793 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Czarny
+Dacia,Duster,2022,66 900 PLN,65 200 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Jogger,2023,85 400 PLN,5 km,Benzyna,Manualna,Auta miejskie,999 cm3,110 KM,5,Szary
+Dacia,Sandero,2020,45 000 PLN,20 203 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Niebieski
+Dacia,Sandero Stepway,2024,83 800 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Szary
+Dacia,Jogger,2023,91 000 PLN,2 400 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Zielony
+Dacia,Lodgy,2015,27 000 PLN,289 431 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,84 KM,5,Srebrny
+Dacia,Sandero Stepway,2023,76 300 PLN,3 607 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2024,103 950 PLN,8 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Beżowy
+Dacia,Duster,2024,118 000 PLN,1 km,Hybryda,Manualna,SUV,1 200 cm3,130 KM,,Szary
+Dacia,Duster,2024,96 500 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,,Zielony
+Dacia,Sandero Stepway,2024,66 880 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Niebieski
+Dacia,Duster,2012,19 700 PLN,138 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Lodgy,2013,16 500 PLN,214 500 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,84 KM,5,Granatowy
+Dacia,Duster,2024,96 425 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Dacia,Sandero,2024,82 990 PLN,4 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Niebieski
+Dacia,Sandero,2024,85 900 PLN,4 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Beżowy
+Dacia,Sandero,2024,68 160 PLN,1 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Niebieski
+Dacia,Jogger,2023,80 000 PLN,31 274 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Duster,2019,54 000 PLN,72 342 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Dacia,Sandero,2024,81 000 PLN,5 km,Benzyna+LPG,Manualna,Auta miejskie,1 000 cm3,100 KM,,Beżowy
+Dacia,Sandero Stepway,2014,24 800 PLN,215 200 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Biały
+Dacia,Sandero Stepway,2023,76 900 PLN,33 437 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,90 KM,5,Srebrny
+Dacia,Duster,2015,38 800 PLN,110 210 km,Benzyna,Manualna,SUV,1 200 cm3,125 KM,5,Brązowy
+Dacia,Duster,2023,90 600 PLN,4 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Zielony
+Dacia,Jogger,2024,79 335 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Sandero Stepway,2024,82 200 PLN,1 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Zielony
+Dacia,Jogger,2024,93 300 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Sandero,2024,72 000 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Zielony
+Dacia,Sandero Stepway,2024,78 900 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Beżowy
+Dacia,Jogger,2024,93 450 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Dokker,2019,38 000 PLN,64 169 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,4,Biały
+Dacia,Duster,2024,98 800 PLN,4 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Duster,2016,42 000 PLN,97 500 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Inny kolor
+Dacia,Sandero Stepway,2020,39 900 PLN,46 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Czerwony
+Dacia,Duster,2019,49 100 PLN,147 694 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Duster,2019,45 900 PLN,168 326 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Srebrny
+Dacia,Duster,2019,56 900 PLN,51 675 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Biały
+Dacia,Duster,2017,50 000 PLN,43 961 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Zielony
+Dacia,Duster,2023,84 900 PLN,4 800 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Inny kolor
+Dacia,Jogger,2024,79 400 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Dacia,Jogger,2024,73 400 PLN,5 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Dacia,Sandero,2013,5 590 PLN,126 927 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Biały
+Dacia,Duster,2020,44 999 PLN,62 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Duster,2024,86 900 PLN,15 171 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2018,26 900 PLN,112 000 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Granatowy
+Dacia,Duster,2018,52 500 PLN,52 497 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Szary
+Dacia,Jogger,2024,93 950 PLN,9 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Dokker,2016,27 000 PLN,150 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Błękitny
+Dacia,Duster,2013,31 300 PLN,156 600 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero Stepway,2021,51 500 PLN,36 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2022,54 400 PLN,65 712 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Duster,2023,87 600 PLN,22 381 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Niebieski
+Dacia,Logan Van,2016,28 900 PLN,71 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Szary
+Dacia,Logan,2008,8 300 PLN,203 500 km,Diesel,Manualna,Kombi,1 461 cm3,85 KM,5,Granatowy
+Dacia,Sandero,2022,55 300 PLN,86 108 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Dokker,2015,26 900 PLN,287 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,84 KM,5,Biały
+Dacia,Duster,2012,29 999 PLN,113 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2022,72 800 PLN,26 100 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Pomarańczowy
+Dacia,Pick Up,2012,18 900 PLN,208 693 km,Diesel,Manualna,Kompakt,1 461 cm3,88 KM,2,Biały
+Dacia,Duster,2019,54 999 PLN,87 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Niebieski
+Dacia,Sandero Stepway,2024,68 320 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Beżowy
+Dacia,Sandero,2016,29 900 PLN,58 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,73 KM,5,Biały
+Dacia,Sandero,2019,44 500 PLN,58 000 km,Diesel,Manualna,Kompakt,1 461 cm3,95 KM,5,Biały
+Dacia,Sandero Stepway,2024,81 100 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Dacia,Sandero,2010,16 600 PLN,221 640 km,Benzyna,Manualna,Minivan,1 598 cm3,87 KM,5,Szary
+Dacia,Logan,2018,25 900 PLN,107 157 km,Benzyna+LPG,Manualna,Sedan,998 cm3,73 KM,4,Granatowy
+Dacia,Duster,2022,81 900 PLN,99 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Sandero,2015,23 900 PLN,152 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Szary
+Dacia,Sandero,2023,74 500 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Duster,2024,100 200 PLN,5 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Duster,2019,51 900 PLN,38 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Granatowy
+Dacia,Jogger,2024,117 500 PLN,5 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Brązowy
+Dacia,Sandero,2016,9 900 PLN,52 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,73 KM,5,Granatowy
+Dacia,Sandero,2011,9 800 PLN,183 888 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Niebieski
+Dacia,Lodgy,2020,47 900 PLN,57 000 km,Benzyna,Manualna,Minivan,1 332 cm3,131 KM,5,Srebrny
+Dacia,Duster,2018,51 000 PLN,70 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Złoty
+Dacia,Lodgy,2013,23 900 PLN,191 000 km,Diesel,Manualna,Minivan,1 461 cm3,107 KM,5,Szary
+Dacia,Spring,2024,96 300 PLN,1 km,Elektryczny,Automatyczna,SUV,,65 KM,5,Czerwony
+Dacia,Duster,2019,55 900 PLN,113 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Srebrny
+Dacia,Sandero,2011,19 900 PLN,107 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,84 KM,5,Inny kolor
+Dacia,Jogger,2024,105 000 PLN,1 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Biały
+Dacia,Jogger,2024,107 550 PLN,10 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Biały
+Dacia,Duster,2024,91 200 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Dacia,Jogger,2024,114 500 PLN,5 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Szary
+Dacia,Sandero Stepway,2020,42 900 PLN,45 700 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,101 KM,5,Błękitny
+Dacia,Sandero,2018,26 900 PLN,48 800 km,Benzyna,Manualna,Auta miejskie,999 cm3,73 KM,5,Granatowy
+Dacia,Dokker,2020,52 700 PLN,72 400 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Duster,2024,120 000 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,93 KM,5,Czarny
+Dacia,Dokker,2019,42 400 PLN,139 500 km,Benzyna+LPG,Manualna,Auta miejskie,1 598 cm3,108 KM,5,Biały
+Dacia,Duster,2024,108 300 PLN,1 km,Hybryda,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Dacia,Dokker,2020,50 900 PLN,79 650 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Duster,2024,91 200 PLN,1 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Lodgy,2013,20 500 PLN,141 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Czarny
+Dacia,Duster,2021,79 900 PLN,30 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Pomarańczowy
+Dacia,Duster,2021,44 500 PLN,121 460 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Duster,2023,85 900 PLN,2 500 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Zielony
+Dacia,Duster,2024,118 300 PLN,1 km,Hybryda,Manualna,SUV,1 199 cm3,130 KM,5,Zielony
+Dacia,Duster,2021,65 900 PLN,25 924 km,Benzyna,Manualna,SUV,1 332 cm3,150 KM,5,Pomarańczowy
+Dacia,Duster,2021,69 900 PLN,29 000 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Bordowy
+Dacia,Duster,2018,59 800 PLN,70 300 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Brązowy
+Dacia,Jogger,2024,96 079 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Dacia,Sandero,2021,49 900 PLN,60 733 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Srebrny
+Dacia,Dokker,2014,27 900 PLN,147 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Szary
+Dacia,Logan,2009,13 000 PLN,250 000 km,Diesel,Manualna,Kombi,1 461 cm3,68 KM,5,Biały
+Dacia,Dokker,2020,28 900 PLN,63 000 km,Benzyna,Manualna,Kombi,1 332 cm3,131 KM,,
+Dacia,Duster,2011,33 900 PLN,130 743 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Spring,2023,39 900 PLN,20 340 km,Elektryczny,Automatyczna,SUV,,65 KM,5,Niebieski
+Dacia,Duster,2015,34 900 PLN,84 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Szary
+Dacia,Jogger,2024,90 200 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2021,79 999 PLN,58 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Pomarańczowy
+Dacia,Sandero Stepway,2024,79 900 PLN,4 km,Benzyna+LPG,Manualna,SUV,1 000 cm3,100 KM,5,Niebieski
+Dacia,Sandero Stepway,2024,79 900 PLN,4 km,Benzyna+LPG,Manualna,SUV,1 000 cm3,100 KM,5,Zielony
+Dacia,Sandero Stepway,2021,56 000 PLN,61 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Czarny
+Dacia,Sandero,2023,77 900 PLN,15 412 km,Benzyna,Automatyczna,Auta małe,999 cm3,90 KM,5,Szary
+Dacia,Duster,2019,49 900 PLN,74 500 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Duster,2024,88 400 PLN,5 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Brązowy
+Dacia,Sandero,2019,12 500 PLN,75 860 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Brązowy
+Dacia,Sandero Stepway,2024,83 999 PLN,8 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Srebrny
+Dacia,Duster,2016,31 900 PLN,136 415 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Dacia,Dokker,2016,29 900 PLN,86 049 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Brązowy
+Dacia,Sandero Stepway,2010,13 900 PLN,150 065 km,Diesel,Manualna,Kompakt,1 461 cm3,68 KM,5,Czerwony
+Dacia,Duster,2021,69 900 PLN,17 858 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Niebieski
+Dacia,Duster,2012,29 550 PLN,186 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2023,93 900 PLN,13 830 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Inny kolor
+Dacia,Duster,2020,62 900 PLN,58 000 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Czarny
+Dacia,Logan,2010,15 900 PLN,210 000 km,Benzyna,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Dacia,Jogger,2024,69 999 PLN,8 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Szary
+Dacia,Lodgy,2014,24 900 PLN,140 000 km,Benzyna,Manualna,Minivan,1 197 cm3,116 KM,5,Biały
+Dacia,Sandero Stepway,2022,59 900 PLN,30 987 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Dacia,Dokker,2017,35 800 PLN,92 500 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Granatowy
+Dacia,Jogger,2022,77 000 PLN,25 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Niebieski
+Dacia,Duster,2019,29 700 PLN,49 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Biały
+Dacia,Sandero Stepway,2021,52 400 PLN,30 868 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Czarny
+Dacia,Lodgy,2014,28 999 PLN,144 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,83 KM,5,Niebieski
+Dacia,Sandero Stepway,2022,53 000 PLN,17 580 km,Benzyna,Manualna,Auta miejskie,999 cm3,101 KM,5,Szary
+Dacia,Lodgy,2018,33 000 PLN,198 218 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Srebrny
+Dacia,Duster,2024,123 700 PLN,5 km,Hybryda,Automatyczna,SUV,1 598 cm3,140 KM,5,Szary
+Dacia,Duster,2013,31 000 PLN,186 882 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero,2019,12 500 PLN,38 900 km,Benzyna,Manualna,Auta miejskie,999 cm3,73 KM,5,Brązowy
+Dacia,Sandero,2024,71 200 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Zielony
+Dacia,Duster,2011,22 000 PLN,287 341 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Dokker,2014,26 900 PLN,247 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Czarny
+Dacia,Sandero,2019,47 000 PLN,23 574 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Niebieski
+Dacia,Logan,2021,32 900 PLN,136 000 km,Benzyna+LPG,Manualna,Sedan,999 cm3,100 KM,5,Biały
+Dacia,Duster,2022,74 000 PLN,37 369 km,Benzyna,Manualna,SUV,1 332 cm3,131 KM,,
+Dacia,Duster,2019,53 500 PLN,67 500 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Dacia,Sandero,2018,34 000 PLN,84 585 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Biały
+Dacia,Duster,2011,27 900 PLN,101 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Duster,2022,79 900 PLN,13 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Srebrny
+Dacia,Duster,2014,35 900 PLN,109 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Duster,2020,56 000 PLN,78 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Duster,2019,61 900 PLN,25 133 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero Stepway,2023,73 900 PLN,27 724 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,90 KM,5,Szary
+Dacia,Sandero Stepway,2022,68 500 PLN,17 833 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Inny kolor
+Dacia,Duster,2022,79 900 PLN,35 586 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Inny kolor
+Dacia,Sandero,2022,58 800 PLN,23 922 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Niebieski
+Dacia,Duster,2022,81 900 PLN,22 165 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Inny kolor
+Dacia,Jogger,2024,96 450 PLN,9 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Sandero Stepway,2024,70 500 PLN,9 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Biały
+Dacia,Sandero,2022,58 000 PLN,12 340 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Szary
+Dacia,Sandero,2022,59 900 PLN,5 881 km,Benzyna,Manualna,Kompakt,1 000 cm3,90 KM,5,Niebieski
+Dacia,Duster,2019,39 999 PLN,154 900 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Biały
+Dacia,Sandero Stepway,2014,25 900 PLN,153 000 km,Benzyna,Manualna,Kompakt,900 cm3,90 KM,5,Biały
+Dacia,Sandero,2022,59 900 PLN,22 359 km,Benzyna,Manualna,SUV,1 000 cm3,90 KM,5,Szary
+Dacia,Sandero,2022,58 500 PLN,14 049 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Szary
+Dacia,Sandero,2010,14 900 PLN,123 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Srebrny
+Dacia,Duster,2019,52 900 PLN,112 500 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Srebrny
+Dacia,Sandero,2017,31 900 PLN,47 000 km,Benzyna,Manualna,Kompakt,999 cm3,73 KM,5,Biały
+Dacia,Duster,2021,48 900 PLN,94 213 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Złoty
+Dacia,Duster,2021,62 000 PLN,47 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Szary
+Dacia,Sandero,2009,12 900 PLN,145 897 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Czerwony
+Dacia,Dokker,2019,26 900 PLN,149 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Dacia,Jogger,2024,107 900 PLN,1 400 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Szary
+Dacia,Sandero,2021,29 999 PLN,195 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Dacia,Duster,2013,33 900 PLN,97 670 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero,2024,79 900 PLN,389 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Dacia,Logan,2019,16 900 PLN,98 000 km,Benzyna,Manualna,Kombi,998 cm3,73 KM,5,Biały
+Dacia,Duster,2021,47 600 PLN,152 645 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Dokker,2014,19 987,239 600 km,Benzyna,Manualna,Kombi,1 598 cm3,84 KM,4,Granatowy
+Dacia,Lodgy,2016,28 500 PLN,120 000 km,Benzyna,Manualna,Minivan,1 198 cm3,115 KM,5,Granatowy
+Dacia,Duster,2011,27 999 PLN,103 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Duster,2011,27 000 PLN,140 775 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Biały
+Dacia,Logan,2008,5 500 PLN,206 735 km,Diesel,Manualna,Sedan,1 461 cm3,86 KM,4,Inny kolor
+Dacia,Sandero Stepway,2016,19 900 PLN,80 000 km,Benzyna,Automatyczna,SUV,898 cm3,90 KM,5,Czarny
+Dacia,Sandero Stepway,2015,26 999 PLN,177 200 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2017,45 500 PLN,61 000 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Dokker,2019,52 000 PLN,65 873 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Szary
+Dacia,Duster,2019,54 000,105 659 km,Benzyna,Manualna,SUV,1 332 cm3,131 KM,5,Inny kolor
+Dacia,Sandero Stepway,2022,62 850 PLN,23 521 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Niebieski
+Dacia,Duster,2019,67 000 PLN,79 106 km,Benzyna,Manualna,SUV,1 332 cm3,150 KM,5,Czarny
+Dacia,Duster,2019,60 000 PLN,41 561 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Czarny
+Dacia,Duster,2019,59 900 PLN,78 208 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Niebieski
+Dacia,Sandero,2009,10 400 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Czarny
+Dacia,Sandero,2021,60 000 PLN,21 970 km,Benzyna,Manualna,Kompakt,999 cm3,91 KM,5,Srebrny
+Dacia,Duster,2018,56 000 PLN,60 796 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Inny kolor
+Dacia,Duster,2021,57 000 PLN,65 033 km,Benzyna+LPG,Manualna,SUV,999 cm3,91 KM,5,Szary
+Dacia,Duster,2020,46 900 PLN,177 000 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Biały
+Dacia,Duster,2020,63 500 PLN,92 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Niebieski
+Dacia,Sandero,2018,10 500 PLN,45 786 km,Benzyna,Manualna,Auta miejskie,900 cm3,90 KM,5,Bordowy
+Dacia,Sandero,2018,32 000 PLN,87 228 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Granatowy
+Dacia,Sandero Stepway,2010,21 900 PLN,195 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,87 KM,5,Bordowy
+Dacia,Duster,2012,27 500 PLN,138 880 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero,2008,16 000 PLN,105 900 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,75 KM,5,Srebrny
+Dacia,Duster,2019,64 900 PLN,50 600 km,Benzyna,Manualna,SUV,1 333 cm3,130 KM,5,Pomarańczowy
+Dacia,Sandero,2019,32 000 PLN,43 218 km,Benzyna,Manualna,Kompakt,998 cm3,73 KM,5,Biały
+Dacia,Duster,2017,41 500 PLN,90 600 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Biały
+Dacia,Sandero,2021,40 000 PLN,59 500 km,Benzyna,Manualna,Auta małe,999 cm3,90 KM,5,Granatowy
+Dacia,Duster,2012,29 900 PLN,179 890 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Inny kolor
+Dacia,Lodgy,2016,28 900 PLN,130 000 km,Diesel,Manualna,Minivan,1 461 cm3,109 KM,5,Czarny
+Dacia,Sandero Stepway,2020,22 900 PLN,50 000 km,Diesel,Manualna,SUV,1 461 cm3,95 KM,5,Niebieski
+Dacia,Duster,2016,36 000 PLN,78 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Czarny
+Dacia,Logan,2014,25 900 PLN,94 846 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,,
+Dacia,Sandero,2017,29 600 PLN,70 652 km,Benzyna,Manualna,Kompakt,999 cm3,73 KM,5,Niebieski
+Dacia,Sandero Stepway,2014,23 600 PLN,145 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Niebieski
+Dacia,Spring,2020,39 900 PLN,28 000 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Sandero,2024,70 300 PLN,1 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,,Biały
+Dacia,Jogger,2024,85 550 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Biały
+Dacia,Jogger,2024,97 150 PLN,1 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,,Zielony
+Dacia,Lodgy,2014,12 900 PLN,170 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Czarny
+Dacia,Jogger,2023,54 900 PLN,5 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Lodgy,2018,17 500 PLN,103 809 km,Diesel,Manualna,Minivan,1 461 cm3,109 KM,5,Szary
+Dacia,Jogger,2023,54 900 PLN,5 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Lodgy,2018,17 500 PLN,103 809 km,Diesel,Manualna,Minivan,1 461 cm3,109 KM,5,Szary
+Dacia,Sandero,2022,62 900 PLN,25 200 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2008,10 999 PLN,145 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,75 KM,5,Czerwony
+Dacia,Duster,2017,38 400 PLN,172 000 km,Benzyna,Manualna,SUV,1 598 cm3,115 KM,5,Niebieski
+Dacia,Sandero Stepway,2020,44 800 PLN,25 250 km,Benzyna,Manualna,Minivan,999 cm3,91 KM,5,Czarny
+Dacia,Duster,2018,35 499 PLN,244 298 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Szary
+Dacia,Sandero,2016,32 500 PLN,100 000 km,Benzyna+LPG,Manualna,Auta miejskie,898 cm3,90 KM,5,Niebieski
+Dacia,Duster,2019,58 000 PLN,41 200 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Dacia,Sandero Stepway,2021,57 900 PLN,26 000 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Brązowy
+Dacia,Dokker,2015,35 400 PLN,187 600 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Niebieski
+Dacia,Sandero,2018,33 000 PLN,39 000 km,Benzyna,Manualna,Auta małe,998 cm3,73 KM,5,Granatowy
+Dacia,Duster,2019,45 000 PLN,41 941 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Duster,2013,19 300 PLN,100 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Srebrny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Dacia,Sandero Stepway,2010,16 800 PLN,211 350 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,87 KM,5,Czerwony
+Dacia,Duster,2020,58 000 PLN,67 500 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Srebrny
+Dacia,Duster,2017,38 700 PLN,79 595 km,Diesel,Automatyczna,SUV,1 461 cm3,109 KM,5,Srebrny
+Dacia,Sandero,2013,22 900 PLN,178 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Niebieski
+Dacia,Dokker,2017,39 999 PLN,93 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Biały
+Dacia,Dokker,2018,34 800 PLN,134 000 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2014,35 500 PLN,170 050 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Sandero Stepway,2022,69 800 PLN,10 850 km,Benzyna,Automatyczna,Kompakt,999 cm3,90 KM,5,Czarny
+Dacia,Duster,2015,19 900 PLN,186 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Zielony
+Dacia,Duster,2020,56 900 PLN,46 000 km,Diesel,Manualna,SUV,1 461 cm3,116 KM,5,Czarny
+Dacia,Duster,2022,71 900,18 000 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Inny kolor
+Dacia,Duster,2014,38 900 PLN,95 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Dacia,Logan,2016,20 700 PLN,231 000 km,Benzyna,Manualna,Kombi,1 149 cm3,73 KM,5,Niebieski
+Dacia,Spring,2021,45 500 PLN,22 415 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Duster,2010,21 900 PLN,239 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Inny kolor
+Dacia,Sandero Stepway,2017,39 000 PLN,134 190 km,Benzyna+LPG,Manualna,Kompakt,898 cm3,90 KM,5,Szary
+Dacia,Logan,2014,16 999 PLN,130 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Dacia,Sandero,2016,26 500 PLN,97 377 km,Benzyna,Manualna,Kompakt,1 149 cm3,74 KM,5,Biały
+Dacia,Duster,2011,23 900 PLN,202 131 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Szary
+Dacia,Sandero Stepway,2017,30 900 PLN,102 300 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Srebrny
+Dacia,Duster,2010,20 900 PLN,148 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Brązowy
+Dacia,Duster,2017,29 900 PLN,198 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Granatowy
+Dacia,Lodgy,2016,27 900 PLN,175 643 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Biały
+Dacia,Logan,2018,21 500 PLN,220 000 km,Benzyna+LPG,Manualna,Kombi,898 cm3,90 KM,5,Niebieski
+Dacia,Lodgy,2019,41 900 PLN,83 946 km,Benzyna,Manualna,Minivan,1 598 cm3,102 KM,5,Granatowy
+Dacia,Duster,2014,38 900 PLN,105 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Zielony
+Dacia,Dokker Van,2017,22 500 PLN,248 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,102 KM,4,Biały
+Dacia,Duster,2023,83 900 PLN,20 245 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Zielony
+Dacia,Duster,2018,59 500 PLN,134 142 km,Diesel,Automatyczna,SUV,1 461 cm3,109 KM,5,Złoty
+Dacia,Sandero,2009,13 600 PLN,116 400 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Biały
+Dacia,Logan,2008,6 999 PLN,235 000 km,Benzyna,Manualna,Minivan,1 598 cm3,85 KM,5,Bordowy
+Dacia,Sandero,2019,44 500 PLN,38 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Brązowy
+Dacia,Duster,2017,47 000 PLN,70 400 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Czarny
+Dacia,Sandero,2012,8 999 PLN,125 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,84 KM,5,Czerwony
+Dacia,Lodgy,2018,39 500 PLN,105 527 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,102 KM,5,Biały
+Dacia,Duster,2016,33 500 PLN,139 200 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Niebieski
+Dacia,Duster,2022,71 900 PLN,44 344 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Inny kolor
+Dacia,Logan,2021,35 554,156 000 km,Benzyna+LPG,Manualna,Sedan,999 cm3,91 KM,4,Biały
+Dacia,Spring,2023,32 900 PLN,7 300 km,Elektryczny,Automatyczna,Auta miejskie,,45 KM,5,Srebrny
+Dacia,Duster,2020,55 000 PLN,48 233 km,Benzyna,Manualna,SUV,999 cm3,101 KM,5,Pomarańczowy
+Dacia,Dokker,2019,41 900 PLN,111 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,109 KM,5,Srebrny
+Dacia,Sandero Stepway,2014,26 499 PLN,149 000 km,Benzyna,Manualna,Kompakt,989 cm3,90 KM,5,Biały
+Dacia,Sandero,2012,19 500 PLN,180 000 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,84 KM,5,Czerwony
+Dacia,Duster,2016,26 500 PLN,239 000 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Biały
+Dacia,Duster,2022,65 600 PLN,79 600 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Niebieski
+Dacia,Duster,2022,69 000 PLN,42 225 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Szary
+Dacia,Sandero,2013,24 900 PLN,74 320 km,Benzyna+LPG,Manualna,Kompakt,1 149 cm3,75 KM,5,Granatowy
+Dacia,Sandero Stepway,2021,58 900 PLN,13 000 km,Benzyna,Manualna,SUV,999 cm3,91 KM,5,Szary
+Dacia,Duster,2012,20 500 PLN,250 000 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Brązowy
+Dacia,Duster,2012,20 500 PLN,250 000 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Brązowy
+Dacia,Duster,2018,57 900 PLN,70 100 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Granatowy
+Dacia,Duster,2024,89 700 PLN,15 000 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Czarny
+Dacia,Logan,2020,30 500 PLN,89 000 km,Benzyna,Manualna,Sedan,998 cm3,73 KM,5,Granatowy
+Dacia,Duster,2022,82 900 PLN,11 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Biały
+Dacia,Logan,2022,39 500 PLN,99 000 km,Benzyna+LPG,Manualna,Sedan,898 cm3,90 KM,4,Biały
+Dacia,Duster,2016,34 700 PLN,195 000 km,Benzyna+LPG,Manualna,SUV,1 598 cm3,114 KM,5,Brązowy
+Dacia,Sandero,2015,24 400 PLN,120 000 km,Benzyna,Manualna,Auta miejskie,1 200 cm3,75 KM,5,Biały
+Dacia,Sandero,2014,16 900 PLN,158 000 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Pomarańczowy
+Dacia,Sandero,2009,10 000 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,75 KM,5,Granatowy
+Dacia,Duster,2021,61 900 PLN,63 000 km,Diesel,Manualna,SUV,1 461 cm3,114 KM,5,Biały
+Dacia,Duster,2013,28 999 PLN,196 103 km,Diesel,Manualna,SUV,1 461 cm3,109 KM,5,Czarny
+Dacia,Lodgy,2021,57 900 PLN,38 555 km,Diesel,Manualna,Kombi,1 461 cm3,116 KM,5,Biały
+Dacia,Duster,2013,34 950 PLN,123 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Dacia,Sandero,2021,52 900 PLN,29 827 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Bordowy
+Dacia,Duster,2018,38 700 PLN,168 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Inny kolor
+Dacia,Duster,2018,33 500 PLN,43 500 km,Diesel,Manualna,SUV,1 461 cm3,115 KM,5,Niebieski
+Dacia,Sandero Stepway,2018,32 900 PLN,116 700 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Granatowy
+Dacia,Dokker,2017,33 900,170 705 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2024,88 700 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,101 KM,5,Inny kolor
+Dacia,Jogger,2022,41 900 PLN,20 000 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Dacia,Jogger,2023,84 900 PLN,1 500 km,Benzyna,Manualna,Minivan,999 cm3,110 KM,5,Szary
+Dacia,Sandero,2023,78 200 PLN,5 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Brązowy
+Dacia,Sandero Stepway,2024,86 199 PLN,8 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,110 KM,5,Beżowy
+Dacia,Sandero Stepway,2016,34 900 PLN,47 384 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Srebrny
+Dacia,Duster,2012,14 900 PLN,120 000 km,Diesel,Manualna,SUV,1 461 cm3,107 KM,5,Biały
+Dacia,Duster,2023,92 000 PLN,2 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Dacia,Sandero Stepway,2024,72 000 PLN,8 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Jogger,2022,79 000 PLN,19 200 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Duster,2022,74 900 PLN,24 804 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Dacia,Sandero Stepway,2021,49 700 PLN,55 000 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Biały
+Dacia,Sandero,2021,54 900 PLN,18 500 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Spring,2022,24 900 PLN,8 100 km,Elektryczny,Automatyczna,Auta małe,,65 KM,5,Biały
+Dacia,Sandero,2022,64 900 PLN,27 670 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Niebieski
+Dacia,Sandero Stepway,2022,54 500 PLN,99 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Bordowy
+Dacia,Dokker,2019,46 900 PLN,58 000 km,Benzyna,Manualna,Kombi,1 598 cm3,102 KM,5,Czarny
+Dacia,Sandero Stepway,2019,2 275,28 900 km,Benzyna,Manualna,Sedan,898 cm3,90 KM,5,Granatowy
+Dacia,Jogger,2024,96 300 PLN,8 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Brązowy
+Dacia,Duster,2012,31 900 PLN,177 000 km,Benzyna,Manualna,SUV,1 598 cm3,105 KM,5,Inny kolor
+Dacia,Duster,2015,38 900 PLN,75 220 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Czarny
+Dacia,Sandero Stepway,2013,23 900 PLN,100 000 km,Benzyna,Manualna,SUV,1 598 cm3,85 KM,5,Brązowy
+Dacia,Duster,2022,63 000 PLN,15 873 km,Diesel,Manualna,SUV,1 461 cm3,114 KM,5,Biały
+Dacia,Duster,2023,73 500 PLN,8 900 km,Benzyna,Manualna,SUV,999 cm3,101 KM,5,Biały
+Dacia,Sandero,2023,17 900 PLN,25 000 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Dacia,Duster,2015,19 900 PLN,247 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czarny
+Dacia,Sandero,2019,21 000 PLN,42 457 km,Benzyna,Manualna,Kompakt,999 cm3,73 KM,5,Biały
+Dacia,Duster,2023,83 900 PLN,5 483 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Zielony
+Dacia,Jogger,2023,88 900 PLN,27 531 km,Benzyna+LPG,Manualna,Kombi,999 cm3,100 KM,5,Zielony
+Dacia,Sandero,2024,76 500 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Beżowy
+Dacia,Inny,2022,83 850 PLN,10 835 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Brązowy
+Dacia,Jogger,2023,82 800 PLN,21 863 km,Benzyna+LPG,Manualna,Kombi,999 cm3,110 KM,5,Inny kolor
+Dacia,Dokker,2015,24 800 PLN,197 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Szary
+Dacia,Lodgy,2016,26 999 PLN,226 900 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Biały
+Dacia,Duster,2021,64 900 PLN,59 317 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Inny kolor
+Dacia,Duster,2024,99 999 PLN,1 km,Benzyna+LPG,Manualna,SUV,999 cm3,90 KM,5,Beżowy
+Dacia,Sandero Stepway,2024,86 500 PLN,10 km,Benzyna,Automatyczna,Kompakt,999 cm3,90 KM,5,Beżowy
+Dacia,Duster,2024,113 900 PLN,1 717 km,Benzyna,Manualna,SUV,1 199 cm3,130 KM,5,Szary
+Dacia,Sandero,2021,66 499 PLN,45 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Pomarańczowy
+Dacia,Jogger,2024,117 500 PLN,1 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Szary
+Dacia,Dokker,2017,39 900 PLN,128 800 km,Diesel,Manualna,Kombi,1 500 cm3,90 KM,5,Biały
+Dacia,Logan,2018,23 900 PLN,158 715 km,Benzyna,Manualna,Sedan,998 cm3,73 KM,4,Biały
+Dacia,Jogger,2024,113 300 PLN,1 km,Hybryda,Automatyczna,Kombi,1 598 cm3,140 KM,5,Zielony
+Dacia,Duster,2015,25 000 PLN,199 956 km,Benzyna,Manualna,SUV,1 598 cm3,114 KM,5,Niebieski
+Dacia,Duster,2016,34 999 PLN,205 000 km,Benzyna,Manualna,SUV,1 197 cm3,125 KM,5,Szary

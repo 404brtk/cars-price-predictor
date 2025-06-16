@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Volvo,XC 40,2020,128 900 PLN,58 364 km,Hybryda,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 60,2015,82 000 PLN,167 500 km,Benzyna+LPG,Automatyczna,SUV,2 497 cm3,254 KM,5,Srebrny
+Volvo,S90,2018,95 000 PLN,229 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,S80,2016,49 900 PLN,270 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Granatowy
+Volvo,XC 60,2009,38 500 PLN,305 646 km,Diesel,Manualna,SUV,2 400 cm3,175 KM,5,Czarny
+Volvo,XC 60,2015,77 000 PLN,168 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Granatowy
+Volvo,S80,2008,24 900 PLN,410 000 km,Diesel,Automatyczna,Sedan,2 400 cm3,185 KM,4,Srebrny
+Volvo,XC 90,2021,205 000 PLN,53 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Granatowy
+Volvo,XC 60,2022,199 000 PLN,41 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,XC 90,2021,199 000 PLN,54 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Złoty
+Volvo,XC 90,2016,135 000 PLN,193 500 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Granatowy
+Volvo,XC 90,2017,72 600 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 60,2015,46 900 PLN,288 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Brązowy
+Volvo,XC 70,2016,56 000 PLN,373 989 km,Diesel,Automatyczna,SUV,2 400 cm3,181 KM,5,Czarny
+Volvo,S60,2011,28 000 PLN,341 722 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Szary
+Volvo,XC 60,2021,204 900 PLN,75 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,V90 Cross Country,2019,70 000 PLN,99 500 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,XC 60,2021,194 900 PLN,44 750 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czerwony
+Volvo,V60,2020,107 900 PLN,151 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Inny kolor
+Volvo,S60,2015,46 000 PLN,249 500 km,Diesel,Manualna,Sedan,1 969 cm3,150 KM,4,Czarny
+Volvo,XC 60,2017,82 300 PLN,219 000 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Niebieski
+Volvo,V40,2015,28 000 PLN,308 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Szary
+Volvo,XC 90,2007,22 500 PLN,300 000 km,Diesel,Automatyczna,SUV,2 400 cm3,185 KM,5,Szary
+Volvo,V40,2012,32 500 PLN,276 616 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,V40,2017,56 900 PLN,99 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,V40 Cross Country,2013,39 800 PLN,243 413 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Czarny
+Volvo,XC 70,2003,19 900 PLN,370 000 km,Benzyna,Automatyczna,Kombi,2 521 cm3,210 KM,5,Granatowy
+Volvo,XC 60,2021,189 000 PLN,54 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 60,2015,73 000 PLN,196 168 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Czarny
+Volvo,XC 60,2016,82 500 PLN,120 000 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Czarny
+Volvo,XC 70,2003,13 500 PLN,322 000 km,Benzyna,Automatyczna,Kombi,2 521 cm3,210 KM,5,Srebrny
+Volvo,XC 90,2022,225 000 PLN,2 450 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Srebrny
+Volvo,XC 40,2022,164 999,47 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2010,35 000 PLN,332 000 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Srebrny
+Volvo,V90,2018,89 000 PLN,159 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,XC 90,2021,214 900 PLN,98 388 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,V40,2014,40 000 PLN,199 149 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Biały
+Volvo,XC 40,2019,111 000 PLN,72 900 km,Benzyna,Automatyczna,SUV,1 969 cm3,247 KM,5,Czarny
+Volvo,XC 60,2021,167 500 PLN,69 600 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,EX30,2024,175 298 PLN,5 km,Elektryczny,Automatyczna,Kompakt,,272 KM,5,Szary
+Volvo,V60 Cross Country,2022,174 899,60 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,S40,2006,19 500 PLN,229 000 km,Diesel,Manualna,Sedan,1 998 cm3,136 KM,4,Czarny
+Volvo,V60,2019,77 900 PLN,195 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Granatowy
+Volvo,V60,2019,82 313 PLN,163 116 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Beżowy
+Volvo,XC 90,2019,199 900 PLN,84 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,303 KM,5,Niebieski
+Volvo,XC 40,2023,199 900 PLN,8 100 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Zielony
+Volvo,V60,2023,209 900 PLN,20 913 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czerwony
+Volvo,XC 40,2023,189 900 PLN,15 980 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 90,2023,349 900 PLN,1 473 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,XC 40,2023,199 900 PLN,2 619 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 40,2023,199 900 PLN,5 340 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 40,2023,174 900 PLN,21 950 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Beżowy
+Volvo,XC 40,2023,164 900 PLN,5 900 km,Elektryczny,Automatyczna,SUV,,252 KM,5,Srebrny
+Volvo,XC 60,2023,244 900 PLN,31 332 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,XC 60,2021,149 900 PLN,34 317 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Srebrny
+Volvo,XC 40,2023,199 900 PLN,8 894 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Szary
+Volvo,XC 60,2023,234 900 PLN,19 010 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czerwony
+Volvo,XC 40,2023,189 900 PLN,7 838 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Biały
+Volvo,XC 40,2023,189 900 PLN,9 177 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Czarny
+Volvo,XC 40,2023,169 900 PLN,11 062 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Srebrny
+Volvo,XC 40,2023,154 900 PLN,3 442 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Czarny
+Volvo,V60 Cross Country,2018,99 900 PLN,117 500 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Brązowy
+Volvo,C40,2023,209 900 PLN,2 233 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Szary
+Volvo,XC 40,2019,129 900 PLN,136 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 40,2019,129 900 PLN,136 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V60,2021,134 900 PLN,65 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,197 KM,5,Srebrny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Volvo,EX30,2024,184 900 PLN,12 400 km,Elektryczny,Automatyczna,SUV,,272 KM,5,Żółty
+Volvo,XC 40,2023,194 900 PLN,16 712 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Beżowy
+Volvo,V60,2023,189 900 PLN,28 308 km,Benzyna,Automatyczna,Kombi,1 969 cm3,197 KM,5,Szary
+Volvo,XC 60,2023,249 900 PLN,7 200 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2023,244 900 PLN,9 088 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Beżowy
+Volvo,XC 60,2023,244 900 PLN,29 964 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 60,2021,149 900 PLN,117 524 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Szary
+Volvo,V60 Cross Country,2023,249 900 PLN,13 601 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 40,2023,209 900 PLN,13 095 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Beżowy
+Volvo,XC 40,2023,174 900 PLN,8 710 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Zielony
+Volvo,XC 60,2023,314 900 PLN,30 432 km,Hybryda,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,XC 60,2023,224 900 PLN,19 275 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 60,2023,234 900 PLN,32 150 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 60,2019,149 900 PLN,118 500 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czerwony
+Volvo,XC 40,2021,124 900 PLN,65 410 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Niebieski
+Volvo,XC 60,2018,129 900 PLN,100 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 60,2023,224 900 PLN,29 226 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czerwony
+Volvo,XC 60,2023,234 900 PLN,39 367 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,S90,2023,269 900 PLN,22 437 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,310 KM,4,Biały
+Volvo,XC 40,2023,169 900 PLN,11 357 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2023,219 900 PLN,15 444 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,V60 Cross Country,2023,259 900 PLN,32 853 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 90,2023,309 900 PLN,12 822 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Beżowy
+Volvo,V40,2018,84 900 PLN,131 342 km,Benzyna,Automatyczna,Kombi,1 969 cm3,190 KM,5,Brązowy
+Volvo,EX30,2023,179 900 PLN,4 652 km,Elektryczny,Automatyczna,SUV,,272 KM,5,Szary
+Volvo,XC 40,2023,164 900 PLN,8 511 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Biały
+Volvo,XC 40,2023,194 900 PLN,7 451 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Czarny
+Volvo,XC 40,2023,169 900 PLN,9 787 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Czarny
+Volvo,XC 60,2023,229 900 PLN,18 493 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,XC 60,2023,229 900 PLN,18 493 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,XC 60,2023,249 900 PLN,13 925 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Beżowy
+Volvo,XC 60,2023,219 900 PLN,19 672 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,S60,2019,129 900 PLN,100 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,190 KM,4,Biały
+Volvo,S90,2020,159 900 PLN,47 500 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Biały
+Volvo,XC 40,2023,194 900 PLN,27 550 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Srebrny
+Volvo,XC 60,2022,239 900 PLN,38 970 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Szary
+Volvo,XC 40,2023,184 900 PLN,12 782 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Zielony
+Volvo,XC 40,2023,189 900 PLN,13 669 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Zielony
+Volvo,S90,2016,115 000 PLN,162 800 km,Benzyna,Automatyczna,Sedan,1 969 cm3,320 KM,4,Biały
+Volvo,V60,2018,123 000 PLN,64 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,310 KM,5,Biały
+Volvo,XC 40,2023,144 500 PLN,4 850 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,V60,2016,54 990 PLN,226 580 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2017,97 900 PLN,197 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Bordowy
+Volvo,C30,2009,21 500 PLN,190 444 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,3,Czarny
+Volvo,S90,2019,117 000 PLN,102 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,150 KM,4,Niebieski
+Volvo,XC 60,2016,59 900 PLN,269 000 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Czarny
+Volvo,V60,2019,117 900 PLN,97 500 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2020,147 900 PLN,117 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 60,2016,60 000 PLN,230 191 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Brązowy
+Volvo,S60,2015,52 400 PLN,157 900 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Beżowy
+Volvo,XC 60,2013,49 999 PLN,236 500 km,Benzyna,Automatyczna,SUV,2 953 cm3,304 KM,5,Szary
+Volvo,XC 90,2018,147 477 PLN,198 540 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,XC 60,2021,191 900 PLN,48 300 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2023,219 900 PLN,22 285 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,S80,2008,33 000 PLN,220 000 km,Benzyna+LPG,Manualna,Sedan,2 521 cm3,200 KM,4,Biały
+Volvo,S40,2002,4 650 PLN,337 257 km,Diesel,Manualna,Sedan,1 870 cm3,102 KM,4,Granatowy
+Volvo,S80,2005,22 500 PLN,181 490 km,Diesel,Manualna,Sedan,2 401 cm3,163 KM,4,Granatowy
+Volvo,V60,2012,29 000 PLN,272 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2019,109 900 PLN,150 880 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Szary
+Volvo,S90,2018,85 300 PLN,167 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,190 KM,4,Niebieski
+Volvo,V60,2024,213 500 PLN,5 km,Benzyna,Automatyczna,Kombi,1 969 cm3,197 KM,5,Szary
+Volvo,XC 60,2016,71 300 PLN,202 000 km,Benzyna+LPG,Automatyczna,SUV,2 497 cm3,254 KM,5,Biały
+Volvo,XC 60,2015,69 500 PLN,120 811 km,Diesel,Manualna,SUV,1 984 cm3,136 KM,5,Srebrny
+Volvo,XC 90,2003,21 000 PLN,309 500 km,Diesel,Automatyczna,SUV,2 401 cm3,163 KM,5,Srebrny
+Volvo,XC 90,2018,144 900 PLN,180 200 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,S90,2021,143 000 PLN,131 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,190 KM,4,Srebrny
+Volvo,XC 60,2018,113 160 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,V50,2009,13 500 PLN,225 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Szary
+Volvo,S90,2017,117 900 PLN,104 247 km,Benzyna,Automatyczna,Sedan,1 969 cm3,320 KM,4,Szary
+Volvo,XC 60,2023,223 900 PLN,12 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Srebrny
+Volvo,XC 60,2022,199 900 PLN,52 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 90,2023,334 900 PLN,31 900 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,XC 40,2023,165 900 PLN,17 400 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Szary
+Volvo,S60,2022,178 900 PLN,47 402 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czerwony
+Volvo,XC 40,2023,209 900 PLN,14 200 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Czarny
+Volvo,XC 40,2020,108 900 PLN,70 500 km,Benzyna,Manualna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,XC 90,2024,389 900 PLN,15 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,V60,2015,60 900 PLN,248 000 km,Diesel,Automatyczna,Kombi,2 400 cm3,215 KM,5,Czarny
+Volvo,XC 90,2024,349 900 PLN,7 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,C40,2023,279 900 PLN,24 675 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Czerwony
+Volvo,C40,2023,198 900 PLN,13 460 km,Elektryczny,Automatyczna,Kompakt,,408 KM,5,Czarny
+Volvo,XC 60,2019,199 900 PLN,31 400 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,303 KM,5,Srebrny
+Volvo,XC 40,2021,149 900 PLN,91 000 km,Hybryda Plug-in,Automatyczna,SUV,1 477 cm3,180 KM,5,Srebrny
+Volvo,S90,2020,189 900 PLN,75 000 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,303 KM,4,Srebrny
+Volvo,XC 60,2024,314 900 PLN,15 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,455 KM,5,Biały
+Volvo,XC 60,2022,203 900 PLN,34 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,S60,2023,189 900 PLN,19 826 km,Benzyna,Automatyczna,Sedan,1 969 cm3,197 KM,4,Szary
+Volvo,XC 40,2024,194 900 PLN,12 800 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Czarny
+Volvo,XC 40,2023,159 900 PLN,16 750 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Czarny
+Volvo,XC 60,2020,179 900 PLN,24 700 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,XC 60,2016,87 500 PLN,143 000 km,Diesel,Automatyczna,SUV,2 400 cm3,220 KM,5,Beżowy
+Volvo,V50,2006,11 900 PLN,300 000 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Srebrny
+Volvo,V60,2016,43 900 PLN,207 300 km,Diesel,Automatyczna,Kombi,1 969 cm3,120 KM,5,Czarny
+Volvo,S60,2010,34 000 PLN,302 000 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Czarny
+Volvo,V50,2007,13 900 PLN,255 300 km,Benzyna,Manualna,Kombi,1 798 cm3,125 KM,5,Czarny
+Volvo,S60,2023,189 900 PLN,7 700 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Szary
+Volvo,XC 90,2020,172 500 PLN,28 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,303 KM,5,Szary
+Volvo,V60,2017,64 000 PLN,190 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,S60,2015,45 000 PLN,259 014 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Srebrny
+Volvo,EX30,2024,247 600 PLN,5 km,Elektryczny,Automatyczna,SUV,,428 KM,5,Biały
+Volvo,XC 40,2022,93 600 PLN,34 000 km,Elektryczny,Automatyczna,SUV,,231 KM,5,Inny kolor
+Volvo,XC 60,2020,154 500 PLN,26 700 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,V60,2019,89 900 PLN,145 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2009,33 000 PLN,321 567 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Srebrny
+Volvo,V60,2013,41 800 PLN,191 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,XC 60,2014,68 900 PLN,140 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Brązowy
+Volvo,XC 60,2016,67 900 PLN,166 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Biały
+Volvo,XC 60,2017,89 000 PLN,27 982 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Szary
+Volvo,XC 40,2024,176 960 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Czarny
+Volvo,XC 60,2022,140 000 PLN,152 300 km,Hybryda,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,S60,2011,39 500 PLN,313 000 km,Diesel,Automatyczna,Sedan,2 400 cm3,215 KM,4,Złoty
+Volvo,945,1993,16 000 PLN,618 250 km,Benzyna+LPG,Manualna,Kombi,1 986 cm3,111 KM,5,Zielony
+Volvo,S60,2003,22 900 PLN,89 000 km,Benzyna,Manualna,Sedan,2 435 cm3,140 KM,4,Srebrny
+Volvo,S60,2007,24 900 PLN,228 000 km,Diesel,Manualna,Sedan,2 401 cm3,163 KM,4,Inny kolor
+Volvo,S40,2006,12 500 PLN,410 550 km,Benzyna+LPG,Manualna,Sedan,1 798 cm3,125 KM,4,Błękitny
+Volvo,XC 60,2010,41 500 PLN,306 000 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Srebrny
+Volvo,V60,2024,257 440 PLN,5 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,253 KM,5,Szary
+Volvo,XC 90,2008,67 900 PLN,82 200 km,Benzyna,Automatyczna,SUV,3 192 cm3,238 KM,5,Złoty
+Volvo,V60,2011,30 600 PLN,275 000 km,Diesel,Automatyczna,Kombi,1 984 cm3,163 KM,5,Czarny
+Volvo,XC 40,2020,93 900 PLN,97 000 km,Benzyna,Manualna,SUV,1 477 cm3,129 KM,5,Srebrny
+Volvo,XC 60,2024,236 086 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,V60,2020,60 000 PLN,213 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,EX30,2024,191 800 PLN,7 km,Elektryczny,Automatyczna,Kompakt,,272 KM,5,Szary
+Volvo,V60,2018,115 000 PLN,118 400 km,Benzyna,Automatyczna,Kombi,1 969 cm3,310 KM,5,Srebrny
+Volvo,V60,2018,64 900 PLN,126 000 km,Benzyna,Manualna,Kombi,1 969 cm3,190 KM,5,Błękitny
+Volvo,V60,2024,315 790 PLN,5 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,310 KM,5,Czarny
+Volvo,XC 60,2016,89 900 PLN,161 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,245 KM,5,Inny kolor
+Volvo,S60,2015,40 995 PLN,284 400 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Granatowy
+Volvo,XC 60,2021,151 400 PLN,56 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2015,78 900 PLN,165 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,S90,2017,90 000 PLN,198 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,V40,2016,54 900 PLN,170 500 km,Diesel,Automatyczna,Kompakt,1 969 cm3,150 KM,5,Srebrny
+Volvo,XC 60,2011,55 000 PLN,298 000 km,Diesel,Automatyczna,SUV,2 400 cm3,205 KM,5,Biały
+Volvo,XC 90,2019,143 900 PLN,165 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Inny kolor
+Volvo,V40,2015,57 500 PLN,100 000 km,Benzyna,Manualna,Kompakt,1 969 cm3,152 KM,5,Biały
+Volvo,XC 40,2020,129 000 PLN,24 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2017,79 190 PLN,223 880 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Brązowy
+Volvo,V40,2016,45 900 PLN,169 931 km,Diesel,Manualna,Kompakt,1 969 cm3,150 KM,5,Srebrny
+Volvo,V40,2015,39 900 PLN,250 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Biały
+Volvo,XC 60,2024,236 086 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Beżowy
+Volvo,S80,2008,24 900 PLN,288 000 km,Diesel,Manualna,Sedan,1 997 cm3,136 KM,4,Granatowy
+Volvo,XC 90,2017,120 000 PLN,48 570 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,XC 40,2024,174 215 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Czarny
+Volvo,XC 40,2023,169 999 PLN,6 700 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Złoty
+Volvo,V40,2012,49 900 PLN,120 000 km,Diesel,Automatyczna,Kompakt,1 984 cm3,150 KM,5,Biały
+Volvo,S60,2021,122 000 PLN,66 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czerwony
+Volvo,S60,2017,59 900 PLN,145 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Szary
+Volvo,S80,2014,52 900 PLN,200 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Czarny
+Volvo,XC 60,2024,274 900 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,253 KM,5,Czarny
+Volvo,S60,2005,17 999 PLN,290 000 km,Benzyna,Manualna,Sedan,2 435 cm3,170 KM,4,Niebieski
+Volvo,V40,2014,39 499 PLN,190 066 km,Diesel,Automatyczna,Kompakt,1 984 cm3,150 KM,5,Szary
+Volvo,XC 60,2024,329 120 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,V90,2016,109 900 PLN,97 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,V90,2018,84 600 PLN,170 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,XC 90,2017,104 900 PLN,127 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Szary
+Volvo,V40,2014,31 500 PLN,237 382 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Biały
+Volvo,V60,2019,82 700 PLN,168 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Inny kolor
+Volvo,V60,2019,82 700 PLN,168 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Inny kolor
+Volvo,V60,2019,100 000 PLN,133 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Niebieski
+Volvo,V50,2005,8 000 PLN,290 465 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Srebrny
+Volvo,V40,2015,47 900 PLN,156 200 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Beżowy
+Volvo,XC 60,2024,259 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,V90 Cross Country,2021,146 370 PLN,102 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,V60,2016,65 000 PLN,204 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,S60,2009,25 000 PLN,222 700 km,Benzyna+LPG,Manualna,Sedan,2 435 cm3,140 KM,4,Czarny
+Volvo,V60,2019,119 900 PLN,104 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,254 KM,5,Szary
+Volvo,S40,2009,15 000 PLN,242 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Czarny
+Volvo,XC 90,2016,105 000 PLN,185 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Brązowy
+Volvo,XC 40,2020,119 000 PLN,49 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,247 KM,5,Czarny
+Volvo,S90,2024,324 700 PLN,1 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,310 KM,4,Granatowy
+Volvo,XC 60,2024,244 760 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 60,2020,132 900 PLN,138 790 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 90,2022,199 000 PLN,45 000 km,Hybryda,Automatyczna,SUV,1 969 cm3,264 KM,5,Czarny
+Volvo,S40,2008,17 500 PLN,213 800 km,Benzyna+LPG,Manualna,Sedan,1 596 cm3,100 KM,4,Granatowy
+Volvo,XC 40,2019,85 900 PLN,178 300 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Czarny
+Volvo,XC 90,2016,105 000 PLN,195 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Granatowy
+Volvo,V90 Cross Country,2019,99 630 PLN,191 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Złoty
+Volvo,V40,2013,22 500 PLN,226 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Granatowy
+Volvo,XC 70,2014,66 900 PLN,219 000 km,Benzyna+LPG,Automatyczna,Kombi,3 192 cm3,238 KM,5,Niebieski
+Volvo,V40,2016,44 999 PLN,186 937 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Biały
+Volvo,XC 60,2016,69 999 PLN,227 290 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2019,176 900 PLN,79 500 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,XC 40,2020,141 000 PLN,84 000 km,Hybryda Plug-in,Automatyczna,SUV,1 477 cm3,180 KM,5,Granatowy
+Volvo,XC 60,2009,40 900 PLN,224 000 km,Diesel,Manualna,SUV,2 400 cm3,175 KM,5,Czarny
+Volvo,XC 40,2019,105 900 PLN,93 300 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Biały
+Volvo,V40,2014,44 900 PLN,289 000 km,Diesel,Manualna,Kompakt,1 969 cm3,190 KM,5,Biały
+Volvo,V50,2006,9 700 PLN,325 000 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Srebrny
+Volvo,XC 60,2019,110 000 PLN,169 600 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,C70,2007,29 900 PLN,214 000 km,Benzyna,Manualna,Kabriolet,2 521 cm3,220 KM,2,Granatowy
+Volvo,XC 90,2023,260 000 PLN,19 300 km,Benzyna,Automatyczna,SUV,1 969 cm3,300 KM,5,Biały
+Volvo,XC 60,2018,108 800 PLN,181 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 40,2021,124 990 PLN,114 000 km,Hybryda Plug-in,Automatyczna,SUV,1 477 cm3,129 KM,5,Biały
+Volvo,S60,2024,316 693 PLN,1 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,311 KM,4,Czarny
+Volvo,XC 60,2024,238 436 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,S60,2024,215 510 PLN,1 km,Benzyna,Automatyczna,Sedan,1 969 cm3,197 KM,4,Czarny
+Volvo,S80,2015,47 900 PLN,260 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Biały
+Volvo,XC 60,2010,35 500 PLN,363 515 km,Diesel,Automatyczna,SUV,2 400 cm3,205 KM,5,Niebieski
+Volvo,XC 40,2020,106 900 PLN,134 430 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,V60,2017,49 900 PLN,168 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Biały
+Volvo,V40,2013,11 900 PLN,268 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Szary
+Volvo,XC 60,2024,256 936 PLN,1 km,Hybryda,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,EX30,2024,168 286 PLN,1 km,Elektryczny,Automatyczna,Kompakt,,272 KM,5,Szary
+Volvo,XC 90,2024,403 540 PLN,1 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,EX30,2024,204 915 PLN,1 km,Elektryczny,Automatyczna,Kompakt,,272 KM,5,Biały
+Volvo,XC 40,2024,186 652 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Szary
+Volvo,V50,2011,20 000 PLN,283 469 km,Diesel,Manualna,Kombi,1 984 cm3,177 KM,5,Srebrny
+Volvo,V50,2008,14 200 PLN,2 005 364 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Czarny
+Volvo,S80,2008,34 900 PLN,120 000 km,Benzyna,Automatyczna,Sedan,2 521 cm3,200 KM,4,Czarny
+Volvo,XC 60,2019,158 900 PLN,114 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Błękitny
+Volvo,V60,2017,46 900 PLN,183 126 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V90,2018,103 900 PLN,160 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,V90,2019,106 900 PLN,140 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Błękitny
+Volvo,V70,2014,37 500 PLN,290 000 km,Diesel,Manualna,Kombi,1 969 cm3,181 KM,5,Brązowy
+Volvo,S90,2019,109 900 PLN,129 000 km,Diesel,Manualna,Sedan,1 969 cm3,190 KM,4,Inny kolor
+Volvo,V40,2016,49 900 PLN,119 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Biały
+Volvo,XC 60,2017,89 999 PLN,176 000 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Biały
+Volvo,C40,2022,71 900 PLN,36 000 km,Elektryczny,Automatyczna,SUV,,408 KM,5,Niebieski
+Volvo,V60,2014,34 900 PLN,265 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,181 KM,5,Biały
+Volvo,XC 60,2015,60 900 PLN,325 000 km,Diesel,Automatyczna,SUV,2 400 cm3,220 KM,5,Czarny
+Volvo,S80,2006,32 500 PLN,279 000 km,Diesel,Automatyczna,Sedan,2 400 cm3,185 KM,4,Złoty
+Volvo,S60,2016,59 900 PLN,90 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Złoty
+Volvo,850,1995,23 760 PLN,336 796 km,Benzyna,Automatyczna,Kombi,2 435 cm3,170 KM,5,Granatowy
+Volvo,XC 90,2018,139 500 PLN,114 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,XC 40,2020,128 800 PLN,100 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Inny kolor
+Volvo,S60,2002,30 000 PLN,320 000 km,Benzyna,Manualna,Sedan,2 319 cm3,250 KM,4,Inny kolor
+Volvo,XC 60,2020,138 900 PLN,85 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,V60,2017,119 187 PLN,80 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,367 KM,5,Srebrny
+Volvo,XC 60,2020,139 900 PLN,76 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,V60 Cross Country,2018,48 990 PLN,345 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Srebrny
+Volvo,XC 60,2022,194 900 PLN,39 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 90,2004,13 600 PLN,297 123 km,Benzyna,Automatyczna,SUV,2 922 cm3,272 KM,5,Granatowy
+Volvo,V60,2015,43 900 PLN,285 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,V40,2013,31 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 70,2011,42 000 PLN,224 000 km,Benzyna,Automatyczna,SUV,3 192 cm3,238 KM,5,Czerwony
+Volvo,XC 60,2021,160 000 PLN,103 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,S90,2017,95 777 PLN,199 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Srebrny
+Volvo,S90,2018,108 900 PLN,160 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Niebieski
+Volvo,XC 60,2017,128 000 PLN,180 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,V70,2008,13 000 PLN,470 000 km,Diesel,Automatyczna,Kombi,2 400 cm3,175 KM,5,Brązowy
+Volvo,XC 90,2016,113 000 PLN,185 000 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Beżowy
+Volvo,V70,2007,24 900 PLN,226 000 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,145 KM,5,Czarny
+Volvo,S40,2005,14 900 PLN,188 000 km,Diesel,Manualna,Sedan,1 998 cm3,136 KM,4,Bordowy
+Volvo,S60,2020,125 500 PLN,33 500 km,Benzyna,Automatyczna,Sedan,1 969 cm3,310 KM,4,Inny kolor
+Volvo,XC 60,2017,129 750 PLN,165 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,V40,2013,41 900 PLN,169 000 km,Diesel,Automatyczna,Auta małe,1 984 cm3,150 KM,5,Srebrny
+Volvo,XC 60,2015,67 000 PLN,174 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,245 KM,5,Czarny
+Volvo,XC 90,2013,65 000 PLN,312 000 km,Diesel,Automatyczna,SUV,2 400 cm3,200 KM,5,Czarny
+Volvo,S80,2011,35 000 PLN,293 000 km,Diesel,Automatyczna,Sedan,1 984 cm3,163 KM,4,Czarny
+Volvo,XC 90,2016,137 000 PLN,212 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,320 KM,5,Niebieski
+Volvo,V50,2009,16 900 PLN,198 000 km,Benzyna,Manualna,Kombi,1 798 cm3,125 KM,5,Srebrny
+Volvo,XC 60,2023,182 000 PLN,9 600 km,Benzyna,Automatyczna,SUV,1 969 cm3,254 KM,5,Srebrny
+Volvo,S60,2015,76 500 PLN,249 898 km,Benzyna,Automatyczna,Sedan,1 969 cm3,367 KM,4,Inny kolor
+Volvo,C30,2012,29 900 PLN,145 200 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,3,Czarny
+Volvo,V60,2016,47 500 PLN,195 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Szary
+Volvo,XC 60,2016,58 950 PLN,229 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,245 KM,5,Srebrny
+Volvo,V60,2012,28 900 PLN,270 455 km,Diesel,Manualna,Kombi,1 984 cm3,136 KM,5,Beżowy
+Volvo,XC 60,2021,189 900,56 744 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2020,138 900 PLN,90 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,S80,2006,24 500 PLN,336 000 km,Benzyna+LPG,Automatyczna,Sedan,3 192 cm3,238 KM,4,Czarny
+Volvo,V40,2013,34 000 PLN,252 975 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 70,2003,12 000 PLN,396 000 km,Diesel,Automatyczna,Kombi,2 401 cm3,163 KM,5,Czarny
+Volvo,XC 90,2010,39 500 PLN,336 000 km,Diesel,Automatyczna,SUV,2 401 cm3,185 KM,5,Czarny
+Volvo,V40,2014,41 500 PLN,215 000 km,Diesel,Manualna,Kompakt,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2018,125 500 PLN,190 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 90,2021,169 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,XC 90,2012,49 999 PLN,296 000 km,Benzyna+LPG,Automatyczna,SUV,3 192 cm3,243 KM,5,Srebrny
+Volvo,V50,2010,16 900 PLN,236 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Szary
+Volvo,V60,2019,85 000 PLN,207 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,C30,2012,25 700 PLN,215 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,3,Czarny
+Volvo,XC 60,2018,123 000 PLN,202 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,XC 60,2017,134 000 PLN,117 047 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Inny kolor
+Volvo,S60,2020,87 000 PLN,122 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czerwony
+Volvo,XC 60,2011,54 900 PLN,104 000 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Czarny
+Volvo,V60,2016,33 900 PLN,267 270 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Srebrny
+Volvo,V50,2006,14 900 PLN,230 454 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,5,Czarny
+Volvo,S60,2020,139 900 PLN,59 900 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czarny
+Volvo,XC 40,2021,84 990 PLN,233 000 km,Benzyna,Automatyczna,SUV,1 477 cm3,129 KM,5,Biały
+Volvo,V60 Cross Country,2021,142 900 PLN,107 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Niebieski
+Volvo,V50,2009,16 500 PLN,251 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Szary
+Volvo,S60,2006,23 700 PLN,225 000 km,Benzyna,Manualna,Sedan,1 984 cm3,180 KM,4,Srebrny
+Volvo,XC 90,2018,173 000 PLN,109 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,408 KM,5,Biały
+Volvo,V40,2014,37 999 PLN,153 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Inny kolor
+Volvo,XC 60,2018,140 900 PLN,126 200 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,C70,1998,19 000 PLN,384 125 km,Benzyna,Automatyczna,Coupe,2 319 cm3,240 KM,2,Srebrny
+Volvo,V90,2019,139 900 PLN,182 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Biały
+Volvo,XC 60,2013,55 000 PLN,193 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Beżowy
+Volvo,S60,2013,40 900 PLN,165 000 km,Benzyna,Automatyczna,Sedan,1 596 cm3,150 KM,4,Biały
+Volvo,V60,2018,54 900 PLN,168 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,120 KM,5,Biały
+Volvo,XC 40,2019,83 900 PLN,169 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2020,249 097,54 991 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,V90,2016,84 900 PLN,245 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Granatowy
+Volvo,V40,2017,64 500 PLN,127 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Szary
+Volvo,XC 60,2019,129 000 PLN,54 300 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 60,2016,78 500 PLN,148 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,306 KM,5,Szary
+Volvo,S60,2015,50 000 PLN,221 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,V90 Cross Country,2019,123 900 PLN,172 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2020,159 900 PLN,93 006 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 60,2017,128 900 PLN,111 900 km,Diesel,Automatyczna,SUV,2 000 cm3,190 KM,5,Złoty
+Volvo,V40,2015,48 900 PLN,114 321 km,Diesel,Manualna,Kompakt,1 969 cm3,150 KM,5,Biały
+Volvo,S40,2008,13 800 PLN,334 000 km,Diesel,Manualna,Sedan,1 998 cm3,136 KM,4,Czarny
+Volvo,XC 60,2021,155 900 PLN,33 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Niebieski
+Volvo,XC 60,2018,152 100 PLN,126 218 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,,
+Volvo,S60,2011,30 900 PLN,186 123 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,4,Niebieski
+Volvo,XC 60,2020,179 900 PLN,58 455 km,Benzyna,Automatyczna,SUV,1 969 cm3,300 KM,5,Niebieski
+Volvo,XC 60,2010,54 900 PLN,144 742 km,Diesel,Automatyczna,SUV,2 400 cm3,205 KM,5,Czarny
+Volvo,XC 40,2019,115 000 PLN,93 000 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Bordowy
+Volvo,V90,2018,128 000 PLN,101 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Czarny
+Volvo,V70,2006,27 500 PLN,248 755 km,Diesel,Automatyczna,Kombi,2 400 cm3,185 KM,5,Niebieski
+Volvo,S90,2018,95 600 PLN,131 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,S40,2008,14 500 PLN,197 000 km,Diesel,Manualna,Sedan,1 998 cm3,136 KM,4,Srebrny
+Volvo,V60,2016,39 900 PLN,244 500 km,Diesel,Manualna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,S40,2005,12 000 PLN,352 132 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Szary
+Volvo,S60,2017,51 900 PLN,178 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Biały
+Volvo,XC 60,2019,123 500 PLN,145 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2020,159 500 PLN,51 976 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2013,52 000 PLN,288 254 km,Benzyna,Automatyczna,SUV,3 192 cm3,243 KM,5,Biały
+Volvo,V50,2009,33 000 PLN,227 000 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Biały
+Volvo,V90,2021,161 130 PLN,140 054 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Granatowy
+Volvo,V40,2016,63 900 PLN,88 986 km,Benzyna,Manualna,Kompakt,1 969 cm3,152 KM,5,Granatowy
+Volvo,V50,2008,26 700 PLN,163 000 km,Benzyna,Automatyczna,Kombi,2 435 cm3,140 KM,5,Szary
+Volvo,S90,2018,71 900 PLN,99 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,254 KM,4,Błękitny
+Volvo,XC 60,2022,168 800 PLN,40 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,XC 60,2019,144 999,81 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,XC 90,2017,139 000 PLN,172 200 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,V90 Cross Country,2021,159 000 PLN,23 548 km,Benzyna,Automatyczna,Kombi,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 40,2019,44 900 PLN,51 000 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,V90 Cross Country,2017,96 900 PLN,178 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,V60,2019,93 000 PLN,196 872 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,V60,2020,130 000 PLN,51 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,310 KM,5,Niebieski
+Volvo,XC 90,2015,122 000 PLN,170 000 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Brązowy
+Volvo,V40 Cross Country,2015,47 900 PLN,199 600 km,Diesel,Automatyczna,Kombi,1 984 cm3,150 KM,5,Granatowy
+Volvo,XC 60,2021,136 500 PLN,33 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Srebrny
+Volvo,XC 60,2022,169 900 PLN,80 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,V60,2016,43 900 PLN,201 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,120 KM,5,Czarny
+Volvo,V60,2019,89 900 PLN,149 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,S40,2010,16 400 PLN,206 000 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Szary
+Volvo,XC 60,2019,132 900 PLN,118 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V40 Cross Country,2014,45 000 PLN,226 500 km,Diesel,Automatyczna,Kompakt,1 984 cm3,150 KM,5,Czarny
+Volvo,XC 40,2021,135 900 PLN,15 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,247 KM,5,Czerwony
+Volvo,XC 60,2019,119 899,133 732 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 90,2018,155 000 PLN,169 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Złoty
+Volvo,C30,2007,12 500 PLN,206 000 km,Diesel,Manualna,Kompakt,1 997 cm3,136 KM,3,Srebrny
+Volvo,XC 60,2016,73 499 PLN,147 500 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,S60,2011,34 900 PLN,223 621 km,Benzyna,Manualna,Sedan,1 595 cm3,180 KM,4,Granatowy
+Volvo,XC 60,2019,113 500 PLN,184 500 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,303 KM,5,Granatowy
+Volvo,S90,2018,118 000 PLN,128 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Szary
+Volvo,XC 60,2020,103 900 PLN,111 260 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Szary
+Volvo,XC 60,2018,115 000 PLN,124 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 90,2019,169 900 PLN,107 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Szary
+Volvo,XC 40,2019,105 900 PLN,80 500 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,V40 Cross Country,2013,39 900 PLN,151 610 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Czarny
+Volvo,V40 Cross Country,2019,79 900 PLN,138 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Czarny
+Volvo,V40 Cross Country,2014,39 900 PLN,180 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,V90,2023,60 000 PLN,6 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czarny
+Volvo,S90,2019,139 900 PLN,77 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,150 KM,4,Czarny
+Volvo,XC 60,2024,284 900 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,253 KM,5,Czarny
+Volvo,XC 40,2020,120 000 PLN,63 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Granatowy
+Volvo,XC 60,2019,99 900 PLN,190 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Biały
+Volvo,XC 60,2017,110 000 PLN,152 900 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,V90 Cross Country,2020,213 000 PLN,54 200 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Biały
+Volvo,V40,2017,62 900 PLN,158 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,XC 60,2023,222 900 PLN,21 545 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,V60,2019,69 900 PLN,169 999 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V40,2014,58 900 PLN,143 000 km,Benzyna,Automatyczna,Kompakt,1 596 cm3,180 KM,5,Granatowy
+Volvo,XC 40,2023,105 000 PLN,6 450 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Zielony
+Volvo,S60,2024,209 600 PLN,5 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 90,2006,39 000 PLN,265 000 km,Diesel,Automatyczna,SUV,2 400 cm3,185 KM,5,Szary
+Volvo,XC 40,2020,81 900 PLN,200 407 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,V40,2013,33 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 560 cm3,114 KM,5,Czarny
+Volvo,XC 60,2022,164 900 PLN,89 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,S60,2010,33 000 PLN,228 000 km,Benzyna,Manualna,Coupe,1 999 cm3,203 KM,4,Inny kolor
+Volvo,XC 60,2018,56 900 PLN,260 400 km,Diesel,Manualna,SUV,1 969 cm3,149 KM,5,Czarny
+Volvo,S90,2019,102 889,130 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Szary
+Volvo,S90,2018,69 900 PLN,112 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,320 KM,4,Złoty
+Volvo,V60,2012,33 333 PLN,277 777 km,Benzyna,Automatyczna,Kombi,1 596 cm3,150 KM,5,Inny kolor
+Volvo,S90,2016,88 499 PLN,142 350 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,XC 60,2014,59 800 PLN,296 000 km,Diesel,Automatyczna,SUV,2 400 cm3,181 KM,5,Brązowy
+Volvo,S60,2008,19 900 PLN,270 000 km,Diesel,Automatyczna,Sedan,2 400 cm3,163 KM,4,Granatowy
+Volvo,V60,2014,36 900 PLN,265 000 km,Diesel,Manualna,Kombi,1 984 cm3,136 KM,5,Szary
+Volvo,V50,2006,10 400 PLN,204 710 km,Diesel,Manualna,Auta miejskie,1 998 cm3,136 KM,5,Czarny
+Volvo,XC 60,2021,179 900 PLN,97 850 km,Hybryda,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,V70,2008,11 900 PLN,380 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Czarny
+Volvo,XC 60,2011,49 900 PLN,181 000 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Czarny
+Volvo,S60,2022,150 000 PLN,33 200 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czarny
+Volvo,S40,2005,15 900 PLN,246 000 km,Benzyna,Manualna,Sedan,1 798 cm3,125 KM,4,Inny kolor
+Volvo,XC 90,2022,246 900 PLN,49 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,S90,2016,87 000 PLN,250 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,V40,2012,39 900 PLN,108 800 km,Diesel,Automatyczna,Kompakt,1 984 cm3,150 KM,5,Granatowy
+Volvo,V40,2018,62 999 PLN,110 000 km,Benzyna,Manualna,Kompakt,1 969 cm3,122 KM,5,Czarny
+Volvo,XC 60,2015,68 800 PLN,250 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Czarny
+Volvo,V70,2010,22 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Czarny
+Volvo,XC 60,2019,121 900 PLN,168 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2018,112 900 PLN,145 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 60,2024,385 000 PLN,5 km,Hybryda,Automatyczna,SUV,1 969 cm3,455 KM,5,Czarny
+Volvo,XC 60,2014,72 800 PLN,169 000 km,Diesel,Automatyczna,SUV,2 400 cm3,181 KM,5,Czarny
+Volvo,V60,2020,72 791,245 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,XC 40,2019,103 900 PLN,94 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2021,234 900 PLN,83 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,XC 60,2009,41 000 PLN,180 000 km,Diesel,Manualna,SUV,2 400 cm3,163 KM,5,Szary
+Volvo,XC 90,2017,129 150 PLN,196 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Srebrny
+Volvo,XC 60,2018,127 000 PLN,198 342 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Inny kolor
+Volvo,S60,2016,73 999 PLN,88 280 km,Benzyna,Automatyczna,Sedan,2 497 cm3,254 KM,5,Szary
+Volvo,XC 90,2023,269 900 PLN,29 265 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,XC 60,2015,67 000 PLN,203 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 90,2008,46 000 PLN,326 540 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Brązowy
+Volvo,C70,2011,29 900 PLN,202 000 km,Benzyna,Automatyczna,Kabriolet,2 521 cm3,230 KM,2,Biały
+Volvo,XC 90,2019,185 000 PLN,83 400 km,Hybryda,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,XC 40,2021,67 900 PLN,21 200 km,Benzyna,Manualna,SUV,1 477 cm3,129 KM,5,Czarny
+Volvo,V60,2015,34 700 PLN,212 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2021,174 000 PLN,82 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Brązowy
+Volvo,V40,2014,34 900 PLN,250 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Bordowy
+Volvo,V40,2013,47 000 PLN,63 000 km,Benzyna,Manualna,Kompakt,1 596 cm3,120 KM,5,Biały
+Volvo,XC 60,2015,47 400 PLN,190 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V40,2016,48 900 PLN,157 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,S60,2016,57 900 PLN,111 900 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Czarny
+Volvo,V50,2007,18 900 PLN,156 000 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Czarny
+Volvo,XC 60,2022,148 900 PLN,127 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2020,136 900 PLN,110 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2012,47 500 PLN,240 000 km,Diesel,Manualna,SUV,1 984 cm3,136 KM,5,Czarny
+Volvo,C30,2010,21 900 PLN,273 500 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,3,Szary
+Volvo,V50,2008,11 900 PLN,278 000 km,Benzyna,Manualna,Kombi,1 596 cm3,100 KM,5,Czarny
+Volvo,V60,2013,38 900 PLN,169 000 km,Diesel,Manualna,Kombi,1 984 cm3,136 KM,5,Czarny
+Volvo,V50,2008,18 900 PLN,238 000 km,Diesel,Automatyczna,Kombi,1 998 cm3,136 KM,5,Błękitny
+Volvo,XC 60,2020,135 900 PLN,120 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2012,52 000 PLN,178 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Czarny
+Volvo,S80,2000,19 000 PLN,158 700 km,Benzyna,Automatyczna,Sedan,2 783 cm3,272 KM,4,Czarny
+Volvo,XC 90,2015,109 000 PLN,217 179 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Biały
+Volvo,XC 60,2019,115 900 PLN,162 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Inny kolor
+Volvo,XC 60,2010,49 900 PLN,215 219 km,Diesel,Automatyczna,SUV,2 400 cm3,205 KM,5,Czarny
+Volvo,S90,2017,119 000 PLN,131 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,310 KM,4,Szary
+Volvo,XC 60,2018,102 900 PLN,194 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Srebrny
+Volvo,V50,2010,23 700 PLN,280 000 km,Diesel,Manualna,Kombi,1 984 cm3,150 KM,5,Czarny
+Volvo,S60,2023,139 900 PLN,18 300 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Czerwony
+Volvo,V60,2020,67 999 PLN,205 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2016,74 900 PLN,135 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Granatowy
+Volvo,XC 60,2014,72 000 PLN,193 000 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Biały
+Volvo,V60,2013,39 800 PLN,179 000 km,Diesel,Automatyczna,Kombi,1 984 cm3,163 KM,5,Czarny
+Volvo,S90,2017,111 900 PLN,96 440 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Biały
+Volvo,V60,2020,102 900 PLN,154 355 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V60,2019,76 900 PLN,239 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,V60,2021,82 900 PLN,161 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,163 KM,5,Inny kolor
+Volvo,V90,2017,80 000 PLN,234 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Błękitny
+Volvo,S90,2020,149 900 PLN,97 000 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,303 KM,4,Czarny
+Volvo,V70,2013,54 999 PLN,288 200 km,Diesel,Automatyczna,Kombi,2 400 cm3,215 KM,5,Czarny
+Volvo,V90,2018,87 900 PLN,183 793 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V50,2008,17 900 PLN,222 000 km,Benzyna,Manualna,Kombi,1 798 cm3,125 KM,5,Czarny
+Volvo,V60 Cross Country,2020,125 900 PLN,179 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,254 KM,5,Czarny
+Volvo,S60,2012,38 500 PLN,245 000 km,Benzyna,Automatyczna,Sedan,2 497 cm3,254 KM,4,Czarny
+Volvo,XC 90,2022,230 000 PLN,33 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Srebrny
+Volvo,S90,2018,105 000 PLN,103 500 km,Benzyna,Automatyczna,Sedan,1 969 cm3,254 KM,4,Biały
+Volvo,XC 60,2019,127 900 PLN,163 263 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Niebieski
+Volvo,C30,2007,15 000 PLN,259 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,125 KM,3,Beżowy
+Volvo,XC 60,2014,54 900 PLN,245 000 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Biały
+Volvo,XC 40,2019,99 900 PLN,102 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Szary
+Volvo,XC 40,2019,99 500 PLN,147 000 km,Benzyna,Manualna,SUV,1 477 cm3,156 KM,5,Brązowy
+Volvo,XC 60,2019,94 000 PLN,160 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2020,182 900 PLN,160 578 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,V40,2015,43 900 PLN,100 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,S90,2017,114 000 PLN,60 298 km,Benzyna,Automatyczna,Sedan,1 969 cm3,320 KM,4,Czarny
+Volvo,V60,2012,31 600 PLN,251 000 km,Diesel,Manualna,Kombi,1 984 cm3,163 KM,5,Szary
+Volvo,XC 40,2019,93 600 PLN,151 000 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Szary
+Volvo,XC 90,2019,166 900 PLN,157 043 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Brązowy
+Volvo,XC 90,2020,209 000 PLN,79 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Niebieski
+Volvo,XC 60,2016,60 500 PLN,220 300 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Inny kolor
+Volvo,V60,2021,119 555 PLN,58 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,163 KM,5,Czarny
+Volvo,V60,2013,38 000 PLN,114 441 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 40,2018,139 900 PLN,59 180 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czerwony
+Volvo,V50,2007,12 200 PLN,244 000 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Szary
+Volvo,V90 Cross Country,2022,229 900 PLN,83 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Szary
+Volvo,V40,2019,74 500 PLN,81 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Czerwony
+Volvo,XC 60,2016,72 900 PLN,134 000 km,Diesel,Manualna,SUV,1 969 cm3,149 KM,5,Czarny
+Volvo,V60,2019,105 200 PLN,96 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Biały
+Volvo,V90,2017,94 500 PLN,174 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V50,2011,21 900 PLN,191 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2013,67 500 PLN,166 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Czarny
+Volvo,S60,2008,18 999 PLN,280 000 km,Diesel,Manualna,Sedan,2 400 cm3,163 KM,4,Czarny
+Volvo,C30,2007,13 400 PLN,236 820 km,Benzyna,Manualna,Kompakt,1 596 cm3,101 KM,3,Czarny
+Volvo,C30,2010,13 800 PLN,260 821 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,3,Złoty
+Volvo,XC 60,2022,119 000 PLN,23 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,300 KM,5,Biały
+Volvo,XC 40,2019,94 900 PLN,154 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,V60 Cross Country,2020,124 900 PLN,131 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 40,2019,105 000 PLN,89 900 km,Benzyna,Automatyczna,SUV,1 969 cm3,247 KM,5,Błękitny
+Volvo,XC 60,2016,75 900 PLN,201 830 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Złoty
+Volvo,S90,2018,118 500 PLN,117 500 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,XC 70,2012,29 900 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 984 cm3,163 KM,5,Szary
+Volvo,V40,2014,41 900 PLN,118 510 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2021,169 900 PLN,26 100 km,Hybryda,Automatyczna,SUV,1 969 cm3,197 KM,5,Biały
+Volvo,V40,2019,87 000 PLN,75 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Czarny
+Volvo,V70,2010,24 900 PLN,317 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Czarny
+Volvo,V40,2019,79 900 PLN,57 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,XC 60,2014,49 999 PLN,395 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Czarny
+Volvo,S60,2011,33 900 PLN,222 000 km,Diesel,Automatyczna,Sedan,1 984 cm3,163 KM,4,Szary
+Volvo,V40,2012,33 900 PLN,237 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Biały
+Volvo,V60,2020,79 900 PLN,188 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2017,115 000 PLN,165 400 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,XC 40,2019,90 900 PLN,163 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Biały
+Volvo,V70,2008,65 000 PLN,162 000 km,Benzyna,Automatyczna,Kombi,2 953 cm3,285 KM,5,Inny kolor
+Volvo,XC 60,2015,55 900 PLN,278 800 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Granatowy
+Volvo,V60,2015,59 900 PLN,99 000 km,Benzyna,Automatyczna,Kombi,1 999 cm3,240 KM,5,Granatowy
+Volvo,S60,2000,6 800 PLN,240 000 km,Benzyna,Manualna,Sedan,2 435 cm3,140 KM,4,Szary
+Volvo,XC 60,2012,55 000 PLN,200 000 km,Diesel,Manualna,SUV,2 400 cm3,215 KM,5,Granatowy
+Volvo,XC 60,2022,169 800 PLN,56 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2014,66 500 PLN,236 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Czarny
+Volvo,S60,2015,44 900 PLN,192 400 km,Diesel,Manualna,Sedan,1 984 cm3,136 KM,4,Szary
+Volvo,XC 90,2018,125 000 PLN,131 100 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,V40,2012,29 900 PLN,246 000 km,Diesel,Manualna,Auta miejskie,1 560 cm3,115 KM,5,Niebieski
+Volvo,XC 90,2024,428 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czerwony
+Volvo,XC 60,2009,42 900 PLN,145 093 km,Diesel,Manualna,SUV,2 400 cm3,175 KM,5,Czarny
+Volvo,XC 60,2015,75 000 PLN,115 816 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Granatowy
+Volvo,XC 90,2015,115 000 PLN,117 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,V60,2019,94 900 PLN,70 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 40,2021,134 900 PLN,44 568 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Biały
+Volvo,XC 40,2019,119 000 PLN,54 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,247 KM,5,Czarny
+Volvo,V90,2021,149 900 PLN,154 000 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,253 KM,5,Szary
+Volvo,V60,2012,24 400 PLN,250 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2023,219 900 PLN,25 740 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2014,63 500 PLN,221 194 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Czarny
+Volvo,V60,2015,44 900 PLN,249 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Błękitny
+Volvo,V40,2015,47 500 PLN,204 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,120 KM,5,Biały
+Volvo,V90 Cross Country,2021,204 999 PLN,75 000 km,Hybryda,Automatyczna,Kombi,1 969 cm3,235 KM,5,Beżowy
+Volvo,V40,2017,57 999 PLN,125 000 km,Diesel,Automatyczna,Kompakt,1 969 cm3,150 KM,5,Czarny
+Volvo,V40,2016,48 900 PLN,199 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Srebrny
+Volvo,XC 60,2019,135 900 PLN,144 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Szary
+Volvo,XC 60,2020,159 800 PLN,56 700 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,V40,2018,79 900 PLN,116 744 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Granatowy
+Volvo,V60,2021,128 900 PLN,99 000 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,253 KM,5,Czarny
+Volvo,V60,2013,35 900 PLN,320 000 km,Hybryda Plug-in,Automatyczna,Kombi,2 400 cm3,215 KM,5,Szary
+Volvo,XC 90,2024,358 600 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Szary
+Volvo,XC 90,2024,439 800 PLN,5 km,Hybryda,Automatyczna,SUV,1 969 cm3,455 KM,5,Beżowy
+Volvo,V40,2014,31 900 PLN,232 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,S60,2018,85 500 PLN,49 739 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Inny kolor
+Volvo,V40,2016,53 000 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 969 cm3,152 KM,5,Niebieski
+Volvo,S80,2015,52 000 PLN,208 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Szary
+Volvo,C30,2009,12 900 PLN,230 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,3,Srebrny
+Volvo,V40,2013,31 900 PLN,249 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2015,75 000 PLN,265 000 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Czarny
+Volvo,V60,2011,29 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Niebieski
+Volvo,XC 60,2019,101 900 PLN,149 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Niebieski
+Volvo,XC 60,2018,46 500 PLN,30 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Srebrny
+Volvo,C70,2007,24 500 PLN,264 809 km,Diesel,Automatyczna,Kabriolet,2 400 cm3,180 KM,2,Czarny
+Volvo,V50,2006,11 500 PLN,202 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Niebieski
+Volvo,V50,2006,11 500 PLN,202 000 km,Diesel,Manualna,Kombi,1 560 cm3,109 KM,5,Niebieski
+Volvo,XC 60,2023,195 900 PLN,19 500 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2009,45 450 PLN,289 000 km,Diesel,Automatyczna,SUV,2 400 cm3,185 KM,5,Niebieski
+Volvo,V40,2017,48 800 PLN,149 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,120 KM,5,Biały
+Volvo,XC 90,2012,61 500 PLN,292 000 km,Diesel,Automatyczna,SUV,2 400 cm3,200 KM,5,Granatowy
+Volvo,XC 60,2023,177 500 PLN,26 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,300 KM,5,Biały
+Volvo,V50,2006,17 900 PLN,272 385 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Czarny
+Volvo,S80,2008,16 500 PLN,250 000 km,Diesel,Automatyczna,Sedan,2 400 cm3,185 KM,4,Inny kolor
+Volvo,V40,2015,41 900 PLN,115 708 km,Benzyna,Manualna,Kompakt,1 596 cm3,120 KM,5,Szary
+Volvo,XC 90,2016,94 000 PLN,301 215 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Biały
+Volvo,XC 40,2019,105 900 PLN,77 794 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,V60,2016,46 900 PLN,229 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Czarny
+Volvo,V50,2011,19 500 PLN,248 938 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2015,79 900 PLN,215 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,V90,2017,105 000 PLN,227 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,254 KM,5,Zielony
+Volvo,XC 60,2011,49 500 PLN,252 000 km,Diesel,Automatyczna,SUV,2 400 cm3,205 KM,5,Błękitny
+Volvo,V60,2011,36 900 PLN,284 333 km,Diesel,Manualna,Kombi,1 984 cm3,163 KM,5,Czerwony
+Volvo,XC 60,2021,145 000 PLN,89 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 90,2019,155 000 PLN,37 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Biały
+Volvo,XC 60,2014,74 900 PLN,160 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Szary
+Volvo,S60,2016,72 900 PLN,160 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Czarny
+Volvo,S80,2009,33 900 PLN,210 000 km,Diesel,Manualna,Sedan,2 400 cm3,163 KM,4,Szary
+Volvo,XC 60,2020,169 740 PLN,134 760 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,253 KM,5,Brązowy
+Volvo,XC 70,2009,39 000 PLN,308 864 km,Benzyna,Automatyczna,Kombi,2 953 cm3,285 KM,5,Czarny
+Volvo,V40,2014,39 900 PLN,242 000 km,Diesel,Manualna,Kompakt,1 969 cm3,190 KM,5,Inny kolor
+Volvo,S60,2010,33 999 PLN,206 500 km,Diesel,Automatyczna,Sedan,1 984 cm3,163 KM,4,Szary
+Volvo,V40,2013,29 700 PLN,213 500 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2017,146 000 PLN,110 344 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,S90,2023,198 500 PLN,6 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,300 KM,4,Czarny
+Volvo,S90,2017,91 900 PLN,146 000 km,Diesel,Manualna,Sedan,1 969 cm3,150 KM,4,Srebrny
+Volvo,V50,2012,33 300 PLN,123 000 km,Diesel,Manualna,Kombi,1 984 cm3,150 KM,5,Czarny
+Volvo,S60,2015,48 999 PLN,199 999 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Czarny
+Volvo,V90,2016,110 000 PLN,237 200 km,Benzyna,Automatyczna,Kombi,1 969 cm3,320 KM,5,Szary
+Volvo,V60,2017,56 900 PLN,208 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Czarny
+Volvo,S60,2010,37 900 PLN,148 000 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Czarny
+Volvo,S60,2015,75 900 PLN,201 000 km,Benzyna,Automatyczna,Sedan,2 953 cm3,354 KM,4,Czarny
+Volvo,V90 Cross Country,2017,107 500 PLN,227 192 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Srebrny
+Volvo,XC 60,2015,74 900 PLN,177 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Volvo,S90,2024,334 700 PLN,5 km,Hybryda,Automatyczna,Sedan,1 969 cm3,455 KM,5,Beżowy
+Volvo,V90,2020,132 900 PLN,126 352 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Srebrny
+Volvo,XC 90,2024,399 900 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,310 KM,5,Czarny
+Volvo,XC 90,2022,249 000 PLN,30 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Szary
+Volvo,XC 60,2012,59 900 PLN,224 000 km,Diesel,Manualna,SUV,1 984 cm3,136 KM,5,Biały
+Volvo,S80,2004,17 900 PLN,398 696 km,Benzyna,Automatyczna,Sedan,2 521 cm3,210 KM,4,Beżowy
+Volvo,XC 60,2009,34 900 PLN,320 000 km,Diesel,Manualna,SUV,2 400 cm3,175 KM,5,Czarny
+Volvo,V50,2004,13 000 PLN,323 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Czarny
+Volvo,XC 90,2007,34 500 PLN,331 000 km,Diesel,Automatyczna,SUV,2 400 cm3,200 KM,5,Czarny
+Volvo,XC 90,2022,269 500 PLN,42 500 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,V60,2013,34 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 984 cm3,136 KM,5,Czarny
+Volvo,XC 60,2020,137 760 PLN,101 092 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2019,104 660 PLN,111 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Zielony
+Volvo,V40,2017,49 300 PLN,141 800 km,Benzyna,Manualna,Kompakt,1 969 cm3,122 KM,5,Czarny
+Volvo,XC 60,2020,144 800 PLN,71 480 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,XC 40,2019,109 900 PLN,159 000 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Szary
+Volvo,XC 90,2019,129 900 PLN,106 800 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Niebieski
+Volvo,XC 60,2019,143 000 PLN,62 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Biały
+Volvo,XC 90,2015,122 000 PLN,212 700 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Biały
+Volvo,XC 40,2019,89 900 PLN,134 685 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V60,2012,34 900 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 984 cm3,163 KM,5,Srebrny
+Volvo,XC 60,2021,155 000 PLN,32 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,S60,2017,59 900 PLN,131 900 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Srebrny
+Volvo,V60,2022,155 930 PLN,31 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,163 KM,5,Srebrny
+Volvo,S40,2009,24 000 PLN,142 500 km,Benzyna,Manualna,Sedan,1 596 cm3,100 KM,4,Szary
+Volvo,V40,2015,37 800 PLN,209 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,XC 90,2016,121 000 PLN,105 433 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Złoty
+Volvo,S60,2011,35 900 PLN,175 234 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Czarny
+Volvo,V60,2015,38 000 PLN,190 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 60,2009,44 900 PLN,320 000 km,Diesel,Automatyczna,SUV,2 400 cm3,185 KM,5,Brązowy
+Volvo,XC 90,2017,128 000 PLN,195 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,S90,2019,129 900 PLN,156 355 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,303 KM,4,Czarny
+Volvo,V60 Cross Country,2017,63 900 PLN,225 677 km,Diesel,Manualna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,XC 40,2018,85 900 PLN,176 958 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Szary
+Volvo,V60,2019,105 900 PLN,120 836 km,Benzyna,Automatyczna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,XC 70,2012,61 900 PLN,312 000 km,Benzyna,Automatyczna,Kombi,2 953 cm3,304 KM,5,Czarny
+Volvo,C30,2010,17 999 PLN,260 000 km,Diesel,Manualna,Kompakt,1 560 cm3,109 KM,3,Beżowy
+Volvo,XC 60,2014,65 900 PLN,290 000 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Czarny
+Volvo,XC 60,2018,125 500 PLN,202 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,V50,2008,15 500 PLN,299 200 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Zielony
+Volvo,XC 90,2008,26 800 PLN,203 360 km,Diesel,Automatyczna,SUV,2 401 cm3,185 KM,5,Srebrny
+Volvo,XC 60,2022,168 900 PLN,55 500 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,V40,2019,69 800 PLN,47 300 km,Benzyna,Manualna,Kompakt,1 969 cm3,122 KM,5,Czarny
+Volvo,XC 60,2014,67 500 PLN,213 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Biały
+Volvo,V60,2016,46 900 PLN,195 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Błękitny
+Volvo,V60,2015,46 900 PLN,218 000 km,Diesel,Manualna,Kombi,1 969 cm3,150 KM,5,Srebrny
+Volvo,S60,2019,146 800 PLN,61 898 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,4,Szary
+Volvo,XC 40,2019,87 900 PLN,187 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 40,2018,88 700 PLN,164 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Szary
+Volvo,V40,2015,44 900 PLN,267 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,V40,2015,42 900 PLN,211 600 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Czarny
+Volvo,V60,2022,157 500 PLN,41 000 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,253 KM,5,Bordowy
+Volvo,C70,2012,50 800 PLN,137 414 km,Diesel,Manualna,Kabriolet,1 984 cm3,150 KM,2,Biały
+Volvo,XC 60,2014,76 700 PLN,127 000 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Czarny
+Volvo,V60,2019,88 900 PLN,167 453 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2014,78 000 PLN,166 000 km,Benzyna,Automatyczna,SUV,2 953 cm3,304 KM,5,Biały
+Volvo,XC 60,2020,165 000 PLN,35 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Inny kolor
+Volvo,XC 60,2017,115 000 PLN,145 000 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Biały
+Volvo,V40,2014,34 000 PLN,233 500 km,Diesel,Manualna,Kompakt,1 969 cm3,190 KM,5,Granatowy
+Volvo,XC 60,2017,142 000 PLN,123 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,254 KM,5,Biały
+Volvo,S60,2013,37 000 PLN,236 084 km,Diesel,Manualna,Sedan,1 984 cm3,136 KM,4,Beżowy
+Volvo,XC 60,2019,104 900 PLN,230 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V60,2015,76 900 PLN,119 800 km,Diesel,Automatyczna,Kombi,2 400 cm3,190 KM,5,Szary
+Volvo,V40,2017,62 800 PLN,120 656 km,Diesel,Automatyczna,Kompakt,1 969 cm3,150 KM,5,Szary
+Volvo,V40,2013,32 500 PLN,222 256 km,Diesel,Manualna,Auta małe,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2016,142 000 PLN,140 886 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,XC 60,2016,58 900 PLN,234 500 km,Diesel,Manualna,SUV,2 400 cm3,190 KM,5,Czarny
+Volvo,V60,2017,59 900 PLN,211 708 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,S80,2005,17 900 PLN,364 000 km,Benzyna,Automatyczna,Sedan,2 521 cm3,210 KM,4,Czarny
+Volvo,XC 90,2016,132 000 PLN,103 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Biały
+Volvo,V50,2005,11 000 PLN,377 700 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Błękitny
+Volvo,C30,2007,16 800 PLN,199 892 km,Diesel,Manualna,Kompakt,1 998 cm3,136 KM,3,Niebieski
+Volvo,XC 60,2014,51 500 PLN,220 230 km,Diesel,Manualna,SUV,1 984 cm3,163 KM,5,Szary
+Volvo,V40,2012,34 800 PLN,145 053 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Inny kolor
+Volvo,XC 70,2009,22 000 PLN,292 000 km,Diesel,Manualna,SUV,2 400 cm3,205 KM,5,Czarny
+Volvo,XC 60,2018,87 800 PLN,279 990 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,S60,2016,56 500 PLN,172 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Biały
+Volvo,V60,2015,39 900 PLN,289 000 km,Diesel,Manualna,Kombi,1 969 cm3,181 KM,5,Czarny
+Volvo,S90,2018,88 900 PLN,121 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,150 KM,4,Czarny
+Volvo,V40 Cross Country,2016,56 900 PLN,200 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Czarny
+Volvo,XC 40,2024,261 200 PLN,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Niebieski
+Volvo,XC 90,2024,373 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Niebieski
+Volvo,V60 Cross Country,2019,96 990 PLN,163 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Srebrny
+Volvo,V60,2015,39 990 PLN,267 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Niebieski
+Volvo,XC 40,2024,188 525 PLN,1 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Czarny
+Volvo,V40,2019,66 900 PLN,138 421 km,Diesel,Manualna,Kompakt,1 969 cm3,150 KM,5,Biały
+Volvo,XC 60,2022,169 900 PLN,121 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Czarny
+Volvo,V40,2018,64 990 PLN,144 250 km,Diesel,Manualna,Sedan,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2018,151 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Biały
+Volvo,V60,2016,49 900 PLN,150 221 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V60,2016,49 900 PLN,150 221 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,V60,2014,60 000 PLN,164 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,254 KM,5,Biały
+Volvo,XC 90,2015,105 900 PLN,270 384 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Szary
+Volvo,XC 90,2020,243 000 PLN,113 408 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,S90,2016,111 900 PLN,187 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Czarny
+Volvo,XC 60,2015,79 000 PLN,235 471 km,Diesel,Automatyczna,SUV,2 400 cm3,220 KM,5,Czarny
+Volvo,V60,2020,98 500 PLN,78 900 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 40,2019,97 900 PLN,140 507 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,V90 Cross Country,2023,269 900 PLN,18 685 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Biały
+Volvo,V60,2019,88 900 PLN,162 800 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,S80,2013,35 000 PLN,287 339 km,Diesel,Manualna,Sedan,1 984 cm3,136 KM,4,Czarny
+Volvo,C70,2008,27 900 PLN,164 647 km,Diesel,Manualna,Kabriolet,1 997 cm3,136 KM,2,Srebrny
+Volvo,V40,2000,2 500 PLN,233 624 km,Benzyna,Manualna,Kombi,1 870 cm3,200 KM,5,Czerwony
+Volvo,XC 90,2007,37 700 PLN,290 000 km,Diesel,Automatyczna,SUV,2 400 cm3,185 KM,5,Szary
+Volvo,XC 60,2016,83 900 PLN,156 809 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,C30,2010,19 678,179 500 km,Diesel,Manualna,Auta małe,1 560 cm3,109 KM,3,Szary
+Volvo,V50,2005,10 900 PLN,237 898 km,Diesel,Manualna,Kombi,1 560 cm3,110 KM,5,Granatowy
+Volvo,V60,2017,63 900 PLN,144 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,XC 60,2015,84 000 PLN,104 000 km,Benzyna,Automatyczna,SUV,2 953 cm3,304 KM,5,Szary
+Volvo,XC 60,2019,139 800 PLN,59 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Srebrny
+Volvo,XC 70,2013,66 800 PLN,262 000 km,Benzyna+LPG,Automatyczna,Kombi,3 192 cm3,238 KM,5,Brązowy
+Volvo,XC 70,2012,36 900 PLN,385 000 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Beżowy
+Volvo,V70,2014,53 900 PLN,134 021 km,Benzyna,Automatyczna,Kombi,1 969 cm3,245 KM,5,Czarny
+Volvo,S80,2015,49 990 PLN,259 601 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Czerwony
+Volvo,XC 60,2014,70 000 PLN,218 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Biały
+Volvo,XC 60,2017,88 000 PLN,168 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,245 KM,5,Biały
+Volvo,V60,2019,110 000 PLN,94 500 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Szary
+Volvo,V60,2012,27 900 PLN,254 500 km,Diesel,Manualna,Kombi,1 984 cm3,163 KM,5,Biały
+Volvo,XC 60,2017,84 700 PLN,129 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,V90,2019,90 000 PLN,91 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,S90,2020,173 835,103 800 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Czarny
+Volvo,XC 60,2016,54 900 PLN,300 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2018,140 000 PLN,124 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,V60,2020,126 690 PLN,98 750 km,Benzyna,Automatyczna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2017,99 900 PLN,209 058 km,Benzyna,Automatyczna,SUV,1 969 cm3,254 KM,5,Szary
+Volvo,XC 90,2004,14 600 PLN,249 580 km,Benzyna+LPG,Automatyczna,SUV,2 521 cm3,210 KM,5,Srebrny
+Volvo,V90 Cross Country,2018,124 900 PLN,129 452 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,V40,2016,53 000 PLN,204 000 km,Diesel,Manualna,Kompakt,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2018,109 000 PLN,173 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Błękitny
+Volvo,S60,2006,65 000 PLN,101 000 km,Benzyna,Automatyczna,Sedan,2 521 cm3,300 KM,4,Czarny
+Volvo,V90,2017,85 900 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,XC 90,2022,163 000 PLN,29 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,320 KM,5,Szary
+Volvo,XC 60,2019,95 000 PLN,199 712 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,XC 60,2012,59 900 PLN,262 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Czarny
+Volvo,XC 90,2016,124 900 PLN,132 188 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Złoty
+Volvo,XC 60,2023,142 200 PLN,25 050 km,Hybryda,Automatyczna,SUV,1 969 cm3,235 KM,5,Szary
+Volvo,S60,2015,55 000 PLN,142 650 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Czarny
+Volvo,V40 Cross Country,2013,47 990 PLN,177 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Czarny
+Volvo,V40,2013,31 900 PLN,249 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2019,154 900 PLN,124 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Biały
+Volvo,S40,2006,13 000 PLN,275 500 km,Diesel,Manualna,Sedan,1 998 cm3,136 KM,4,Srebrny
+Volvo,XC 40,2020,98 900 PLN,170 000 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Czarny
+Volvo,XC 90,2016,116 900 PLN,200 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 90,2004,24 390,220 000 km,Benzyna,Automatyczna,SUV,2 922 cm3,272 KM,5,Czarny
+Volvo,V40,2012,29 900 PLN,239 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,EX30,2023,189 900 PLN,9 000 km,Elektryczny,Automatyczna,Kompakt,,272 KM,5,Czarny
+Volvo,XC 90,2020,239 900 PLN,68 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Czarny
+Volvo,V40,2016,46 900 PLN,199 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Granatowy
+Volvo,XC 60,2019,134 000 PLN,114 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Biały
+Volvo,V90,2016,109 900 PLN,120 482 km,Benzyna,Automatyczna,Kombi,1 969 cm3,254 KM,5,Inny kolor
+Volvo,XC 60,2016,71 900 PLN,129 000 km,Diesel,Manualna,SUV,1 969 cm3,149 KM,5,Niebieski
+Volvo,XC 40,2018,114 900 PLN,182 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,V40,2014,32 900 PLN,239 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Srebrny
+Volvo,C40,2023,229 900 PLN,5 182 km,Elektryczny,Automatyczna,Kompakt,,408 KM,5,Biały
+Volvo,S60,2006,18 000 PLN,226 500 km,Benzyna+LPG,Manualna,Sedan,2 435 cm3,140 KM,4,Srebrny
+Volvo,V40,2016,42 999 PLN,159 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Szary
+Volvo,XC 60,2018,141 700 PLN,88 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Srebrny
+Volvo,XC 60,2015,76 900 PLN,145 050 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Czarny
+Volvo,S60,2014,48 900 PLN,249 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Szary
+Volvo,XC 60,2015,55 000 PLN,205 498 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Volvo,S60,2024,223 400 PLN,5 km,Benzyna,Automatyczna,Sedan,1 969 cm3,250 KM,5,Biały
+Volvo,XC 90,2020,235 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Inny kolor
+Volvo,XC 90,2016,119 900 PLN,228 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Biały
+Volvo,XC 60,2021,133 900 PLN,181 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Inny kolor
+Volvo,XC 40,2020,88 900 PLN,144 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 60,2016,72 800 PLN,197 800 km,Benzyna,Automatyczna,SUV,1 969 cm3,306 KM,5,Szary
+Volvo,S90,2017,85 500 PLN,264 225 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Srebrny
+Volvo,XC 90,2019,135 000 PLN,106 500 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Biały
+Volvo,XC 60,2015,71 000 PLN,212 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Granatowy
+Volvo,XC 60,2020,133 900 PLN,168 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,V70,2006,18 500 PLN,295 500 km,Benzyna,Manualna,Kombi,2 521 cm3,210 KM,5,Niebieski
+Volvo,V60,2019,71 999 PLN,196 846 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Inny kolor
+Volvo,XC 60,2021,139 700 PLN,100 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,C30,2011,22 900 PLN,174 000 km,Diesel,Manualna,Coupe,1 560 cm3,115 KM,3,Czarny
+Volvo,V40,2013,29 900 PLN,198 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Inny kolor
+Volvo,V70,2008,20 999 PLN,231 900 km,Benzyna,Manualna,Kombi,1 999 cm3,145 KM,5,Złoty
+Volvo,S60,2012,33 900 PLN,180 000 km,Benzyna,Automatyczna,Sedan,2 497 cm3,254 KM,,
+Volvo,V60,2016,52 900 PLN,114 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,V40,2014,31 900 PLN,216 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Inny kolor
+Volvo,XC 60,2018,101 900 PLN,201 730 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,S90,2019,135 900 PLN,125 605 km,Hybryda Plug-in,Automatyczna,Sedan,1 969 cm3,303 KM,4,Błękitny
+Volvo,C30,2011,23 600 PLN,250 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,3,Czarny
+Volvo,XC 60,2017,85 000 PLN,252 500 km,Diesel,Automatyczna,SUV,2 400 cm3,190 KM,5,Brązowy
+Volvo,XC 60,2019,126 900 PLN,91 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Inny kolor
+Volvo,V40 Cross Country,2019,76 900 PLN,198 294 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Szary
+Volvo,XC 60,2023,147 500 PLN,18 800 km,Benzyna,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 60,2014,67 000 PLN,272 000 km,Diesel,Manualna,SUV,1 984 cm3,136 KM,5,Czarny
+Volvo,V70,2008,31 999 PLN,311 000 km,Diesel,Automatyczna,Kombi,2 400 cm3,185 KM,5,Czarny
+Volvo,XC 60,2012,45 900 PLN,202 000 km,Benzyna,Automatyczna,SUV,3 192 cm3,243 KM,5,Biały
+Volvo,V70,2003,6 500 PLN,435 977 km,Diesel,Manualna,Kombi,2 401 cm3,163 KM,5,Czarny
+Volvo,V60,2017,57 500 PLN,140 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Szary
+Volvo,XC 60,2014,53 900 PLN,250 000 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Czarny
+Volvo,XC 60,2024,203 700 PLN,9 878 km,Benzyna,Automatyczna,SUV,1 969 cm3,197 KM,5,Inny kolor
+Volvo,V40,2019,75 000 PLN,64 700 km,Diesel,Automatyczna,Kompakt,1 969 cm3,150 KM,5,Biały
+Volvo,V60,2015,34 700 PLN,202 000 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2019,149 899,199 999 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Srebrny
+Volvo,V60,2017,56 900 PLN,174 231 km,Diesel,Automatyczna,Kombi,1 969 cm3,150 KM,5,Srebrny
+Volvo,XC 60,2018,142 900 PLN,167 600 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,XC 60,2018,127 900 PLN,167 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Pomarańczowy
+Volvo,V50,2005,8 900 PLN,390 700 km,Diesel,Manualna,Kombi,1 998 cm3,136 KM,5,Szary
+Volvo,V40,2013,35 900 PLN,201 000 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,5,Niebieski
+Volvo,S60,2013,54 000 PLN,102 000 km,Benzyna,Automatyczna,Sedan,2 953 cm3,304 KM,4,Biały
+Volvo,V60,2019,104 900 PLN,176 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,250 KM,5,Szary
+Volvo,V60 Cross Country,2022,155 900 PLN,87 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czarny
+Volvo,XC 60,2023,178 000 PLN,11 800 km,Hybryda,Automatyczna,SUV,1 969 cm3,250 KM,5,Niebieski
+Volvo,XC 40,2020,120 000 PLN,62 000 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Szary
+Volvo,XC 60,2019,124 000 PLN,130 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Niebieski
+Volvo,XC 90,2007,37 900 PLN,379 000 km,Diesel,Automatyczna,SUV,2 401 cm3,185 KM,5,Brązowy
+Volvo,XC 60,2016,83 000 PLN,169 100 km,Diesel,Automatyczna,SUV,1 969 cm3,149 KM,5,Biały
+Volvo,S90,2018,102 900 PLN,143 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Złoty
+Volvo,XC 40,2019,99 500 PLN,150 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,S60,2015,52 900 PLN,120 000 km,Benzyna,Automatyczna,Sedan,1 999 cm3,240 KM,4,Biały
+Volvo,V40,2013,52 900 PLN,183 500 km,Benzyna,Automatyczna,Kompakt,1 596 cm3,180 KM,5,Niebieski
+Volvo,S60,2008,27 750 PLN,197 200 km,Benzyna,Manualna,Sedan,2 435 cm3,140 KM,4,Czarny
+Volvo,XC 60,2010,37 600 PLN,248 123 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Czarny
+Volvo,V60 Cross Country,2016,59 900 PLN,188 900 km,Diesel,Manualna,Kombi,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 40,2020,85 999 PLN,198 000 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Inny kolor
+Volvo,XC 90,2018,109 000 PLN,198 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Srebrny
+Volvo,V60,2020,89 800 PLN,140 000 km,Benzyna,Automatyczna,Kombi,1 969 cm3,190 KM,5,Inny kolor
+Volvo,V50,2009,16 500 PLN,266 516 km,Diesel,Automatyczna,Kombi,1 998 cm3,136 KM,5,Czarny
+Volvo,S60,2011,22 500 PLN,302 500 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Szary
+Volvo,V40,2017,51 500 PLN,99 500 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Srebrny
+Volvo,V40,2017,49 900 PLN,108 600 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Srebrny
+Volvo,XC 60,2017,89 500 PLN,128 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Granatowy
+Volvo,XC 90,2018,140 000 PLN,189 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Brązowy
+Volvo,XC 60,2022,175 900 PLN,24 050 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 40,2022,120 900 PLN,60 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,XC 60,2019,150 900 PLN,64 350 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,303 KM,5,Szary
+Volvo,S90,2016,108 000 PLN,151 900 km,Diesel,Automatyczna,Sedan,1 969 cm3,235 KM,4,Szary
+Volvo,V60,2018,68 900 PLN,214 661 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Beżowy
+Volvo,V60,2019,114 882 PLN,158 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Biały
+Volvo,XC 60,2024,226 400 PLN,1 km,Hybryda,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 40,2020,79 000 PLN,215 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Czarny
+Volvo,XC 90,2016,125 000 PLN,246 500 km,Diesel,Automatyczna,SUV,1 969 cm3,225 KM,5,Szary
+Volvo,XC 60,2021,159 800 PLN,99 900 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,,
+Volvo,S40,2007,14 900 PLN,216 500 km,Diesel,Manualna,Sedan,1 560 cm3,109 KM,4,Czarny
+Volvo,XC 90,2014,67 900 PLN,180 000 km,Benzyna,Automatyczna,SUV,3 192 cm3,243 KM,5,Srebrny
+Volvo,XC 40,2020,110 000,137 000 km,Hybryda Plug-in,Automatyczna,SUV,1 477 cm3,180 KM,5,Czarny
+Volvo,V60,2021,89 899,219 935 km,Hybryda,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czarny
+Volvo,S60,2012,35 900 PLN,232 814 km,Diesel,Manualna,Sedan,1 984 cm3,163 KM,4,Biały
+Volvo,XC 70,2008,36 500 PLN,246 253 km,Diesel,Automatyczna,Kombi,2 400 cm3,175 KM,5,Złoty
+Volvo,V90,2018,67 900 PLN,135 000 km,Hybryda Plug-in,Automatyczna,Kombi,1 969 cm3,320 KM,5,Srebrny
+Volvo,XC 60,2021,167 000 PLN,78 520 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 40,2019,120 900 PLN,45 017 km,Benzyna,Automatyczna,SUV,1 477 cm3,163 KM,5,Niebieski
+Volvo,V70,2009,15 500 PLN,240 000 km,Diesel,Manualna,Kombi,1 997 cm3,136 KM,5,Szary
+Volvo,XC 60,2021,209 000 PLN,89 000 km,Hybryda,Automatyczna,SUV,1 969 cm3,250 KM,5,Czarny
+Volvo,XC 90,2016,128 000 PLN,109 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 60,2012,49 900 PLN,285 000 km,Diesel,Manualna,SUV,1 984 cm3,163 KM,5,Inny kolor
+Volvo,V90,2017,103 900 PLN,160 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2017,99 900 PLN,52 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Niebieski
+Volvo,XC 60,2017,99 900 PLN,52 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Niebieski
+Volvo,V60,2024,216 500 PLN,5 km,Benzyna,Automatyczna,Kombi,1 969 cm3,197 KM,5,Szary
+Volvo,V40 Cross Country,2015,58 500 PLN,133 206 km,Diesel,Automatyczna,Kompakt,1 984 cm3,150 KM,5,Beżowy
+Volvo,XC 60,2022,194 500 PLN,37 000 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,S60,2020,137 900 PLN,54 100 km,Hybryda,Automatyczna,Sedan,1 969 cm3,197 KM,4,Szary
+Volvo,S90,2019,107 900 PLN,153 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,XC 60,2014,66 900 PLN,268 000 km,Diesel,Manualna,SUV,1 969 cm3,181 KM,5,Biały
+Volvo,XC 60,2017,127 800 PLN,103 700 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Szary
+Volvo,XC 60,2013,59 900 PLN,92 000 km,Diesel,Automatyczna,SUV,2 400 cm3,215 KM,5,Czarny
+Volvo,S60,2020,87 900 PLN,53 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,310 KM,4,Niebieski
+Volvo,S60,2013,44 900 PLN,130 000 km,Diesel,Manualna,Sedan,1 560 cm3,115 KM,4,Czarny
+Volvo,V90 Cross Country,2019,167 990 PLN,60 470 km,Benzyna,Automatyczna,Kombi,1 969 cm3,250 KM,5,Szary
+Volvo,V40,2014,36 000 PLN,331 000 km,Diesel,Automatyczna,Kompakt,1 560 cm3,115 KM,5,Czarny
+Volvo,XC 90,2019,183 000 PLN,130 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Granatowy
+Volvo,XC 90,2003,18 500 PLN,400 000 km,Diesel,Automatyczna,SUV,2 401 cm3,163 KM,5,Srebrny
+Volvo,XC 90,2019,189 051 PLN,109 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,V60,2016,59 000 PLN,167 955 km,Benzyna,Automatyczna,Kombi,1 969 cm3,245 KM,5,Czarny
+Volvo,XC 90,2020,209 900 PLN,96 200 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Biały
+Volvo,V90,2018,89 900 PLN,261 356 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Szary
+Volvo,XC 40,2024,167 900,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Inny kolor
+Volvo,V60,2012,35 900 PLN,237 000 km,Diesel,Automatyczna,Kombi,2 400 cm3,215 KM,5,Czarny
+Volvo,V60,2012,37 900 PLN,210 000 km,Diesel,Automatyczna,Kombi,1 984 cm3,136 KM,5,Beżowy
+Volvo,XC 90,2021,292 740 PLN,60 000 km,Diesel,Automatyczna,SUV,1 969 cm3,235 KM,5,Inny kolor
+Volvo,V60,2018,59 990 PLN,197 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Granatowy
+Volvo,V90,2018,101 900 PLN,169 000 km,Diesel,Automatyczna,Kombi,1 969 cm3,190 KM,5,Szary
+Volvo,XC 90,2020,180 000 PLN,51 000 km,Benzyna,Automatyczna,SUV,1 969 cm3,310 KM,5,Inny kolor
+Volvo,XC 60,2023,304 149,22 900 km,Benzyna,Automatyczna,SUV,1 969 cm3,321 KM,5,Biały
+Volvo,XC 40,2024,167 900,5 km,Benzyna,Automatyczna,SUV,1 969 cm3,163 KM,5,Inny kolor
+Volvo,XC 60,2018,109 500 PLN,153 900 km,Diesel,Automatyczna,SUV,1 969 cm3,190 KM,5,Inny kolor
+Volvo,S80,2007,35 900 PLN,218 000 km,Benzyna,Automatyczna,Sedan,2 521 cm3,200 KM,4,Szary
+Volvo,S60,2006,17 900 PLN,242 000 km,Benzyna+CNG,Manualna,Sedan,2 435 cm3,140 KM,4,Srebrny
+Volvo,V40,2017,59 900 PLN,62 000 km,Benzyna,Manualna,Kompakt,1 969 cm3,122 KM,5,Inny kolor
+Volvo,XC 90,2021,216 660 PLN,62 000 km,Diesel,Automatyczna,SUV,1 969 cm3,249 KM,5,Szary
+Volvo,XC 60,2013,58 000 PLN,256 000 km,Diesel,Automatyczna,SUV,2 400 cm3,163 KM,5,Czarny
+Volvo,XC 60,2014,57 900 PLN,234 000 km,Diesel,Automatyczna,SUV,1 984 cm3,136 KM,5,Szary
+Volvo,C30,2012,29 800 PLN,179 315 km,Diesel,Manualna,Kompakt,1 560 cm3,115 KM,3,Czarny
+Volvo,XC 40,2019,109 900 PLN,72 000 km,Diesel,Automatyczna,SUV,1 969 cm3,150 KM,5,Błękitny
+Volvo,XC 60,2018,96 900 PLN,215 000 km,Diesel,Manualna,SUV,1 969 cm3,190 KM,5,Czarny
+Volvo,S80,2015,28 000 PLN,375 300 km,Diesel,Automatyczna,Sedan,1 969 cm3,181 KM,4,Inny kolor
+Volvo,XC 60,2014,57 900 PLN,277 000 km,Diesel,Automatyczna,SUV,1 984 cm3,163 KM,5,Biały
+Volvo,V40 Cross Country,2018,86 999 PLN,56 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,152 KM,5,Czarny
+Volvo,S80,1999,7 000 PLN,227 000 km,Benzyna,Automatyczna,Sedan,2 783 cm3,272 KM,4,Srebrny
+Volvo,C30,2009,9 800 PLN,323 800 km,Benzyna,Manualna,Coupe,1 596 cm3,100 KM,3,Biały
+Volvo,S90,2018,96 000 PLN,165 000 km,Benzyna,Automatyczna,Sedan,1 969 cm3,190 KM,4,Szary
+Volvo,V40,2013,44 500 PLN,107 000 km,Diesel,Manualna,Kompakt,1 984 cm3,150 KM,5,Biały
+Volvo,S60,2016,52 000 PLN,248 445 km,Diesel,Manualna,Sedan,1 969 cm3,150 KM,4,Czarny
+Volvo,V90,2017,102 000 PLN,173 806 km,Diesel,Automatyczna,Kombi,1 969 cm3,235 KM,5,Inny kolor
+Volvo,V90,2021,119 000 PLN,194 705 km,Diesel,Automatyczna,Kombi,1 969 cm3,197 KM,5,Czarny
+Volvo,V60,2019,108 900 PLN,160 056 km,Benzyna,Automatyczna,Kombi,1 969 cm3,250 KM,5,Szary
+Volvo,V70,2008,20 000 PLN,260 000 km,Benzyna+LPG,Manualna,Kombi,1 999 cm3,145 KM,5,Biały
+Volvo,XC 40,2019,108 900 PLN,111 521 km,Diesel,Manualna,SUV,1 969 cm3,150 KM,5,Brązowy
+Volvo,XC 60,2023,199 000 PLN,8 000 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Szary
+Volvo,XC 60,2021,159 000 PLN,59 600 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Niebieski
+Volvo,XC 60,2010,43 600 PLN,161 000 km,Diesel,Manualna,SUV,1 984 cm3,163 KM,5,Błękitny
+Volvo,XC 60,2020,124 900 PLN,79 900 km,Benzyna,Automatyczna,SUV,1 969 cm3,190 KM,5,Biały
+Volvo,S60,2018,66 000 PLN,57 200 km,Benzyna,Automatyczna,Sedan,1 969 cm3,245 KM,4,Czarny
+Volvo,V90,2019,112 900 PLN,163 518 km,Benzyna,Automatyczna,Kombi,1 969 cm3,250 KM,5,Inny kolor
+Volvo,XC 60,2022,156 900 PLN,127 106 km,Diesel,Automatyczna,SUV,1 969 cm3,197 KM,5,Inny kolor
+Volvo,V50,2011,22 700 PLN,199 800 km,Diesel,Manualna,Kombi,1 560 cm3,115 KM,5,Srebrny
+Volvo,V60,2016,50 900 PLN,172 000 km,Diesel,Manualna,Kombi,1 969 cm3,120 KM,5,Srebrny
+Volvo,V40,2017,54 999 PLN,175 000 km,Diesel,Manualna,Kompakt,1 969 cm3,120 KM,5,Biały
+Volvo,S90,2016,99 000 PLN,128 000 km,Diesel,Automatyczna,Sedan,1 969 cm3,190 KM,4,Czarny
+Volvo,XC 60,2018,139 000 PLN,52 000 km,Hybryda Plug-in,Automatyczna,SUV,1 969 cm3,320 KM,5,Czarny
+Volvo,XC 60,2014,65 900 PLN,220 000 km,Diesel,Automatyczna,SUV,1 969 cm3,181 KM,5,Czarny

@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Suzuki,Baleno,2017,39 000 PLN,52 850 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Biały
+Suzuki,Vitara,2024,103 527 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Grand Vitara,2002,18 000 PLN,191 739 km,Benzyna,Manualna,SUV,1 590 cm3,94 KM,3,Czarny
+Suzuki,Swift,2013,13 900 PLN,134 309 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Beżowy
+Suzuki,Grand Vitara,2011,32 900 PLN,206 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,Splash,2009,10 250 PLN,230 945 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Czarny
+Suzuki,SX4,2008,22 900 PLN,183 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,Grand Vitara,2007,33 999 PLN,231 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Grand Vitara,2006,25 900 PLN,256 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Vitara,2018,74 900 PLN,51 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,Vitara,2024,107 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,116 KM,5,Biały
+Suzuki,SX4,2021,84 000 PLN,43 000 km,Benzyna,Automatyczna,SUV,1 373 cm3,129 KM,5,Brązowy
+Suzuki,Swift,2022,61 200 PLN,25 000 km,Benzyna,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Biały
+Suzuki,Vitara,2016,65 900 PLN,135 000 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Czarny
+Suzuki,Jimny,2000,22 000 PLN,137 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Zielony
+Suzuki,Swift,2020,59 900 PLN,19 100 km,Benzyna,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swift,2009,12 900 PLN,121 907 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,3,Inny kolor
+Suzuki,Samurai,1999,23 000 PLN,21 000 km,Benzyna,Manualna,SUV,1 298 cm3,69 KM,3,Zielony
+Suzuki,Samurai,1998,21 900 PLN,8 400 km,Benzyna,Manualna,SUV,1 298 cm3,69 KM,3,Zielony
+Suzuki,Swift,2014,33 500 PLN,119 700 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2019,71 700 PLN,72 400 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Szary
+Suzuki,Vitara,2020,69 000 PLN,39 344 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Grand Vitara,2010,30 500 PLN,270 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,Swift,2012,29 900 PLN,177 600 km,Benzyna,Manualna,Auta miejskie,1 568 cm3,136 KM,3,Czerwony
+Suzuki,Vitara,2024,106 900 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4,2011,32 900 PLN,127 468 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,120 KM,5,Czarny
+Suzuki,Grand Vitara,2007,16 000 PLN,341 800 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,Swift,2009,13 999 PLN,229 000 km,Diesel,Manualna,Kompakt,1 249 cm3,75 KM,5,Czarny
+Suzuki,SX4 S-Cross,2014,29 900 PLN,240 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Szary
+Suzuki,Swift,2012,19 999 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Niebieski
+Suzuki,Kizashi,2013,32 900 PLN,168 992 km,Benzyna+LPG,Automatyczna,Sedan,2 393 cm3,178 KM,4,Szary
+Suzuki,Vitara,2023,112 000 PLN,2 500 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Błękitny
+Suzuki,Swift,2013,27 900 PLN,80 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Biały
+Suzuki,Celerio,2016,30 000 PLN,26 800 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czerwony
+Suzuki,SX4,2013,47 800 PLN,124 943 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Swace,2024,132 400 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,140 KM,5,Biały
+Suzuki,Vitara,2024,116 900 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Vitara,2024,102 500 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Vitara,2024,115 590 PLN,1 km,Benzyna,Automatyczna,SUV,998 cm3,111 KM,5,Szary
+Suzuki,SX4 S-Cross,2024,104 900 PLN,1 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4,2009,14 900 PLN,210 200 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swift,2009,11 900 PLN,198 000 km,Benzyna+LPG,Manualna,Kompakt,1 328 cm3,92 KM,3,Niebieski
+Suzuki,Swift,2018,55 000 PLN,35 500 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Biały
+Suzuki,SX4 S-Cross,2021,85 900 PLN,40 571 km,Benzyna,Automatyczna,Kompakt,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2024,106 590 PLN,1 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Swace,2022,89 900 PLN,32 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,SX4,2010,20 900 PLN,169 400 km,Diesel,Manualna,Kompakt,1 956 cm3,135 KM,5,Czarny
+Suzuki,Vitara,1999,20 500 PLN,158 000 km,Benzyna,Manualna,SUV,1 995 cm3,132 KM,3,Srebrny
+Suzuki,Swift,2024,71 900 PLN,2 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Vitara,2024,116 900 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Beżowy
+Suzuki,Vitara,2023,84 900 PLN,29 917 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,SX4 S-Cross,2014,38 900 PLN,225 910 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Vitara,2023,96 800 PLN,17 200 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Vitara,2023,95 800 PLN,24 800 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Vitara,2022,95 800 PLN,14 600 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2023,96 800 PLN,20 300 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Swift,2010,21 500 PLN,161 234 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Bordowy
+Suzuki,SX4 S-Cross,2020,62 500 PLN,81 800 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Brązowy
+Suzuki,Jimny,2006,22 490 PLN,315 000 km,Diesel,Manualna,SUV,1 461 cm3,86 KM,3,Czarny
+Suzuki,SX4 S-Cross,2024,119 900 PLN,5 100 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,SX4 S-Cross,2023,124 900 PLN,9 890 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Granatowy
+Suzuki,Grand Vitara,2006,23 800 PLN,225 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,Vitara,2019,68 900 PLN,72 743 km,Benzyna,Automatyczna,SUV,998 cm3,111 KM,5,Inny kolor
+Suzuki,Vitara,2015,46 999 PLN,189 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Grand Vitara,2007,32 500 PLN,116 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Swift,2018,42 900 PLN,95 100 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Vitara,1997,15 900 PLN,239 000 km,Benzyna,Manualna,SUV,1 998 cm3,136 KM,5,Granatowy
+Suzuki,Swace,2024,137 590 PLN,1 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Ignis,2024,86 390 PLN,1 km,Hybryda,Manualna,Auta miejskie,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swift,2024,89 390 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Beżowy
+Suzuki,Swift,2024,76 390 PLN,1 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Vitara,2024,109 590 PLN,1 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2024,116 590 PLN,1 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4,2010,27 900 PLN,187 200 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Vitara,2015,51 000 PLN,138 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Grand Vitara,2005,28 800 PLN,136 000 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Zielony
+Suzuki,Grand Vitara,2006,27 900 PLN,140 000 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Srebrny
+Suzuki,Jimny,2006,24 900 PLN,195 880 km,Benzyna,Manualna,Kompakt,1 328 cm3,85 KM,3,Zielony
+Suzuki,Splash,2009,14 500 PLN,165 700 km,Benzyna,Manualna,Auta małe,1 242 cm3,86 KM,5,Biały
+Suzuki,SX4 S-Cross,2014,34 900 PLN,178 900 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,Swift,2006,14 000 PLN,94 250 km,Benzyna,Manualna,Auta małe,1 490 cm3,102 KM,5,Niebieski
+Suzuki,Swift,2012,16 900 PLN,218 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Biały
+Suzuki,Swift,2018,54 900 PLN,91 263 km,Benzyna,Automatyczna,Auta małe,998 cm3,111 KM,5,Szary
+Suzuki,Swift,2020,52 000 PLN,54 826 km,Hybryda,Manualna,Kompakt,1 242 cm3,90 KM,5,Srebrny
+Suzuki,Grand Vitara,2006,14 500 PLN,347 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Szary
+Suzuki,Grand Vitara,2003,18 000 PLN,286 083 km,Diesel,Manualna,SUV,1 997 cm3,109 KM,5,Zielony
+Suzuki,Grand Vitara,2012,34 400 PLN,177 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Srebrny
+Suzuki,SX4,2019,82 000 PLN,90 000 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Splash,2012,16 700 PLN,135 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Czerwony
+Suzuki,Splash,2009,11 900 PLN,107 000 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Czerwony
+Suzuki,Swift,2014,30 800 PLN,124 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Biały
+Suzuki,Vitara,1997,35 000 PLN,128 340 km,Benzyna,Manualna,SUV,1 998 cm3,136 KM,5,Czerwony
+Suzuki,Jimny,2008,33 900 PLN,37 432 km,Benzyna,Manualna,Auta małe,1 328 cm3,85 KM,3,Biały
+Suzuki,Grand Vitara,2014,65 500 PLN,79 985 km,Benzyna,Manualna,SUV,2 393 cm3,169 KM,5,Szary
+Suzuki,Swift,2019,58 000 PLN,24 700 km,Benzyna,Manualna,Auta małe,1 373 cm3,140 KM,5,Żółty
+Suzuki,Swift,2021,61 500 PLN,40 000 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,90 KM,5,Niebieski
+Suzuki,Swift,2008,15 500 PLN,170 172 km,Benzyna,Manualna,Coupe,1 586 cm3,125 KM,3,Niebieski
+Suzuki,Vitara,2017,57 900 PLN,115 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Suzuki,Swift,2024,80 900 PLN,5 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Vitara,2015,49 000 PLN,210 000 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Swift,2024,84 900 PLN,5 km,Hybryda,Automatyczna,Auta miejskie,1 197 cm3,83 KM,5,Beżowy
+Suzuki,Swift,2007,18 999 PLN,95 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Vitara,2016,55 900 PLN,170 800 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Vitara,2024,116 590 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Swift,2017,47 700 PLN,81 684 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Ignis,2024,89 600 PLN,5 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swift,2006,15 500 PLN,273 000 km,Benzyna,Manualna,Auta małe,1 586 cm3,125 KM,3,Czerwony
+Suzuki,Vitara,2024,105 900 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Grand Vitara,2011,15 700 PLN,320 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Niebieski
+Suzuki,SX4,2008,21 500 PLN,186 500 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swift,2022,69 900 PLN,7 285 km,Hybryda,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Vitara,2024,102 500 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Vitara,2024,96 900 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,115 000 PLN,5 100 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Splash,2009,13 900 PLN,109 500 km,Benzyna,Manualna,Auta miejskie,996 cm3,65 KM,5,Czarny
+Suzuki,Vitara,2016,56 550 PLN,176 925 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,SX4,2010,29 500 PLN,139 420 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,SX4,2014,41 900 PLN,90 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Biały
+Suzuki,SX4,2010,31 500 PLN,91 856 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Grand Vitara,2008,27 000 PLN,267 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Złoty
+Suzuki,SX4,2011,29 999 PLN,82 952 km,Benzyna,Manualna,Minivan,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2021,59 990 PLN,35 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Biały
+Suzuki,SX4,2019,13 500 PLN,37 501 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,SX4,2007,19 999 PLN,145 938 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,SX4 S-Cross,2019,59 500 PLN,66 519 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Szary
+Suzuki,SX4 S-Cross,2014,49 900 PLN,123 096 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Vitara,2015,59 900 PLN,115 888 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Swift,2008,6 990 PLN,200 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Brązowy
+Suzuki,Vitara,2020,71 900 PLN,81 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Grand Vitara,2009,18 400 PLN,183 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,3,Czarny
+Suzuki,Vitara,2017,64 900 PLN,123 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2015,33 900 PLN,118 400 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Fioletowy
+Suzuki,Vitara,2022,89 900 PLN,17 650 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Vitara,2022,89 900 PLN,21 700 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Jimny,2010,29 900 PLN,150 000 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Szary
+Suzuki,Grand Vitara,2011,31 900 PLN,215 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,Swift,2018,46 900 PLN,90 000 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,90 KM,5,Bordowy
+Suzuki,Swift,2009,13 500 PLN,170 160 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,3,Czarny
+Suzuki,Grand Vitara,2011,24 500 PLN,160 990 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Inny kolor
+Suzuki,Swift,2019,60 499 PLN,62 682 km,Benzyna,Manualna,Auta małe,1 373 cm3,140 KM,5,Szary
+Suzuki,Swift,2015,31 599 PLN,147 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Biały
+Suzuki,SX4,2011,20 000 PLN,270 000 km,Diesel,Manualna,Kompakt,1 956 cm3,135 KM,5,Bordowy
+Suzuki,Swift,2013,28 900 PLN,104 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Biały
+Suzuki,Swift,2014,30 900 PLN,103 000 km,Benzyna,Manualna,Auta miejskie,1 568 cm3,136 KM,3,Złoty
+Suzuki,SX4 S-Cross,2015,53 999 PLN,69 636 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Swift,2010,15 999 PLN,78 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Czerwony
+Suzuki,Swift,2010,22 900 PLN,147 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Inny kolor
+Suzuki,Swift,2013,26 900 PLN,138 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Czerwony
+Suzuki,Jimny,2006,24 500 PLN,135 900 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Srebrny
+Suzuki,Vitara,2017,69 900 PLN,113 956 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Niebieski
+Suzuki,SX4,2008,19 700 PLN,150 000 km,Benzyna,Manualna,Auta małe,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Ignis,2007,13 300 PLN,125 680 km,Benzyna,Manualna,SUV,1 328 cm3,93 KM,5,Niebieski
+Suzuki,Swift,2019,39 900 PLN,69 200 km,Benzyna,Manualna,Auta miejskie,1 373 cm3,140 KM,5,Żółty
+Suzuki,Swift,1994,34 900 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 298 cm3,101 KM,3,Inny kolor
+Suzuki,Swift,2006,13 000 PLN,218 797 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Czarny
+Suzuki,Vitara,1995,24 900 PLN,247 400 km,Benzyna,Manualna,Auta małe,1 589 cm3,97 KM,3,Czarny
+Suzuki,Grand Vitara,2010,38 700 PLN,92 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,SX4,2007,18 300 PLN,178 000 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Szary
+Suzuki,Vitara,2017,64 900 PLN,53 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Niebieski
+Suzuki,Vitara,2016,58 800 PLN,36 939 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,SX4,2008,14 500 PLN,199 876 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,107 KM,5,Szary
+Suzuki,SX4,2010,34 900 PLN,79 500 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Ignis,2024,83 900 PLN,5 km,Hybryda,Manualna,Auta małe,1 197 cm3,83 KM,5,Pomarańczowy
+Suzuki,Vitara,2024,105 900 PLN,4 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,Vitara,2023,88 900 PLN,15 644 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2023,107 900 PLN,25 445 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Niebieski
+Suzuki,Grand Vitara,2008,27 000 PLN,174 675 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Złoty
+Suzuki,Vitara,2024,105 900 PLN,4 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Beżowy
+Suzuki,Vitara,2024,105 900 PLN,4 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Niebieski
+Suzuki,Vitara,2024,105 900 PLN,4 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Złoty
+Suzuki,SX4 S-Cross,2024,117 900 PLN,150 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Srebrny
+Suzuki,SX4,2009,21 900 PLN,145 360 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Jimny,2008,49 900 PLN,34 800 km,Benzyna,Automatyczna,SUV,1 328 cm3,85 KM,3,Złoty
+Suzuki,SX4,2008,19 900 PLN,216 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Pomarańczowy
+Suzuki,SX4 S-Cross,2014,41 500 PLN,158 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Jimny,2008,29 900 PLN,89 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Srebrny
+Suzuki,Vitara,2022,76 800 PLN,13 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,Swift,2008,8 000 PLN,222 978 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,5,Srebrny
+Suzuki,SX4,2010,20 900 PLN,148 500 km,Benzyna,Manualna,Auta małe,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Vitara,2022,89 900 PLN,18 103 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Inny kolor
+Suzuki,SX4,2009,22 900 PLN,118 530 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Szary
+Suzuki,Swift,2024,73 400 PLN,5 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Granatowy
+Suzuki,SX4 S-Cross,2023,99 900 PLN,14 851 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Vitara,2023,88 900 PLN,4 320 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Szary
+Suzuki,Jimny,2011,44 900 PLN,105 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,85 KM,3,Zielony
+Suzuki,Jimny,2016,23 900 PLN,93 162 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Zielony
+Suzuki,Jimny,2008,15 900 PLN,208 215 km,Diesel,Manualna,SUV,1 461 cm3,86 KM,3,Złoty
+Suzuki,Grand Vitara,2007,32 900 PLN,190 000 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Srebrny
+Suzuki,SX4 S-Cross,2014,36 500 PLN,214 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Szary
+Suzuki,Swace,2022,105 000 PLN,13 840 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Splash,2014,21 500 PLN,222 063 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Srebrny
+Suzuki,Swift,2010,21 900 PLN,174 685 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Czarny
+Suzuki,SX4,2010,31 450 PLN,147 256 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Biały
+Suzuki,Swift,2011,25 700 PLN,152 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Biały
+Suzuki,Splash,2012,21 500 PLN,115 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 200 cm3,94 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2017,53 900 PLN,113 784 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Biały
+Suzuki,Vitara,2018,73 000 PLN,59 965 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,Celerio,2017,26 900 PLN,67 843 km,Benzyna,Manualna,Auta miejskie,998 cm3,68 KM,5,Niebieski
+Suzuki,Swift,2009,14 500 PLN,155 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Czarny
+Suzuki,SX4 S-Cross,2021,85 000 PLN,72 000 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Vitara,2023,99 490 PLN,3 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Złoty
+Suzuki,Vitara,2021,38 500 PLN,80 838 km,Hybryda,Automatyczna,SUV,1 373 cm3,129 KM,5,Błękitny
+Suzuki,SX4,2014,56 900 PLN,96 924 km,Benzyna,Automatyczna,Auta miejskie,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Jimny,2013,43 500 PLN,134 000 km,Benzyna+LPG,Manualna,Auta małe,1 328 cm3,85 KM,3,Bordowy
+Suzuki,SX4,2009,15 900 PLN,230 671 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Niebieski
+Suzuki,Splash,2008,12 900 PLN,111 254 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Zielony
+Suzuki,Vitara,2021,77 800 PLN,23 800 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Grand Vitara,2006,27 900 PLN,170 000 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,SX4,2017,61 000 PLN,61 630 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,4,Granatowy
+Suzuki,Swift,2007,20 450 PLN,133 500 km,Benzyna+LPG,Manualna,Auta małe,1 586 cm3,125 KM,3,Czerwony
+Suzuki,Swace,2023,106 900 PLN,33 555 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Czarny
+Suzuki,Swift,2021,53 500 PLN,88 000 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Srebrny
+Suzuki,SX4,2006,9 900 PLN,320 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Niebieski
+Suzuki,Vitara,2016,59 900 PLN,78 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Kizashi,2011,38 900 PLN,144 000 km,Benzyna,Automatyczna,Sedan,2 393 cm3,178 KM,4,Biały
+Suzuki,Vitara,2018,59 500 PLN,43 810 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Niebieski
+Suzuki,Samurai,1991,12 500 PLN,52 000 km,Benzyna,Manualna,Kabriolet,1 298 cm3,69 KM,2,Czarny
+Suzuki,Vitara,2024,107 590 PLN,9 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Granatowy
+Suzuki,Jimny,2003,25 900 PLN,158 612 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Czarny
+Suzuki,Vitara,2024,129 590 PLN,7 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Złoty
+Suzuki,Swift,2012,22 500 PLN,207 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Srebrny
+Suzuki,Grand Vitara,2009,15 900 PLN,256 500 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Inny kolor
+Suzuki,Vitara,2023,87 500 PLN,20 960 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Kizashi,2010,30 500 PLN,320 000 km,Benzyna+LPG,Automatyczna,Sedan,2 393 cm3,178 KM,4,Czarny
+Suzuki,SX4 S-Cross,2014,33 999 PLN,261 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Suzuki,SX4 S-Cross,2017,66 800 PLN,128 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,Vitara,2019,71 500 PLN,110 100 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Srebrny
+Suzuki,Jimny,2006,21 500 PLN,204 000 km,Benzyna,Automatyczna,Auta małe,1 328 cm3,85 KM,3,Czarny
+Suzuki,Vitara,2016,57 900 PLN,99 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Vitara,2016,59 900 PLN,96 415 km,Benzyna,Manualna,Kombi,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Vitara,2024,104 900 PLN,10 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2024,112 900 PLN,10 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4,2008,20 500 PLN,74 300 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,Vitara,2018,66 900 PLN,60 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Swift,2015,23 900 PLN,208 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Biały
+Suzuki,Vitara,2024,104 900 PLN,2 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Beżowy
+Suzuki,Grand Vitara,2002,9 999 PLN,327 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,128 KM,5,Srebrny
+Suzuki,Swace,2024,120 900 PLN,1 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2016,54 990 PLN,180 900 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Grand Vitara,2007,19 500 PLN,265 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Szary
+Suzuki,Grand Vitara,2007,26 000 PLN,246 295 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Srebrny
+Suzuki,SX4,2008,25 900 PLN,154 319 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2013,28 800 PLN,238 524 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Splash,2009,9 500 PLN,116 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,86 KM,5,Zielony
+Suzuki,Grand Vitara,2006,22 500 PLN,320 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Szary
+Suzuki,Liana,2007,6 300 PLN,172 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,106 KM,5,Srebrny
+Suzuki,Grand Vitara,2007,24 500 PLN,251 080 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Biały
+Suzuki,Swift,2015,34 500 PLN,85 337 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Szary
+Suzuki,Grand Vitara,2006,7 900 PLN,222 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,Vitara,2017,61 900 PLN,122 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4,2012,32 900 PLN,133 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,120 KM,5,Biały
+Suzuki,Swace,2024,118 900 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,140 KM,5,Biały
+Suzuki,Swift,2024,79 900 PLN,5 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Beżowy
+Suzuki,Jimny,2006,25 999 PLN,160 000 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Szary
+Suzuki,SX4,2011,16 900 PLN,167 400 km,Diesel,Manualna,Kompakt,1 560 cm3,90 KM,5,Szary
+Suzuki,Grand Vitara,2006,24 500 PLN,196 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Srebrny
+Suzuki,Swift,2014,29 900 PLN,75 300 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Czarny
+Suzuki,Grand Vitara,2002,19 999 PLN,252 000 km,Benzyna,Automatyczna,SUV,2 736 cm3,173 KM,5,Srebrny
+Suzuki,Vitara,2023,97 900 PLN,10 510 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2024,89 900 PLN,6 752 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Jimny,2012,27 900 PLN,246 323 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Srebrny
+Suzuki,Grand Vitara,2006,29 600 PLN,156 644 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Srebrny
+Suzuki,Grand Vitara,2004,20 500 PLN,173 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,128 KM,5,Biały
+Suzuki,Swift,2008,11 900 PLN,180 000 km,Benzyna+LPG,Manualna,Kompakt,1 328 cm3,92 KM,3,Niebieski
+Suzuki,SX4,2018,64 900 PLN,130 393 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,SX4,2008,14 500 PLN,282 661 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Srebrny
+Suzuki,Vitara,2016,49 900 PLN,200 549 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,Swift,2007,11 950 PLN,124 081 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,3,Szary
+Suzuki,Grand Vitara,2005,25 900 PLN,283 300 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,SX4,2006,12 500 PLN,248 000 km,Benzyna+LPG,Manualna,Auta małe,1 586 cm3,107 KM,5,Błękitny
+Suzuki,Vitara,2021,46 000 PLN,30 000 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2016,49 900 PLN,104 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Niebieski
+Suzuki,Vitara,2021,89 000 PLN,32 704 km,Hybryda,Automatyczna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Ignis,2003,8 888 PLN,212 387 km,Benzyna,Manualna,SUV,1 328 cm3,83 KM,5,Niebieski
+Suzuki,Samurai,1994,14 000 PLN,45 000 km,Benzyna,Manualna,SUV,1 298 cm3,69 KM,2,Zielony
+Suzuki,Swift,2012,24 700 PLN,140 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Biały
+Suzuki,Vitara,2015,34 900 PLN,149 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Suzuki,Celerio,2016,28 900 PLN,66 921 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Błękitny
+Suzuki,SX4 S-Cross,2013,41 900 PLN,167 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Fioletowy
+Suzuki,SX4,2010,17 900 PLN,221 325 km,Diesel,Manualna,Kompakt,1 956 cm3,135 KM,5,Inny kolor
+Suzuki,Grand Vitara,2003,24 700 PLN,273 880 km,Benzyna+LPG,Automatyczna,SUV,1 995 cm3,128 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2019,66 900 PLN,77 000 km,Benzyna,Manualna,Kompakt,1 373 cm3,140 KM,5,Czarny
+Suzuki,SX4,2011,28 900 PLN,126 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Czarny
+Suzuki,Vitara,2002,14 000 PLN,183 500 km,Diesel,Manualna,SUV,1 998 cm3,87 KM,5,Niebieski
+Suzuki,Ignis,2017,48 900 PLN,92 796 km,Benzyna,Manualna,SUV,1 242 cm3,90 KM,5,Pomarańczowy
+Suzuki,Baleno,2017,36 499 PLN,114 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,90 KM,5,Granatowy
+Suzuki,SX4 S-Cross,2023,99 900 PLN,9 943 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Brązowy
+Suzuki,Vitara,2023,96 800 PLN,25 629 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Vitara,2023,95 800 PLN,25 735 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2023,92 900 PLN,2 660 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2022,106 210 PLN,2 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Srebrny
+Suzuki,Vitara,2023,96 800 PLN,27 726 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2023,95 800 PLN,30 746 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2023,106 900 PLN,8 355 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,109 800 PLN,10 949 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Vitara,2020,77 900 PLN,79 200 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Alto,2011,16 900 PLN,71 802 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Czerwony
+Suzuki,Swift,2013,32 900 PLN,208 500 km,Benzyna,Manualna,Sedan,1 586 cm3,136 KM,3,Biały
+Suzuki,Vitara,2023,96 800 PLN,32 900 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2023,99 900 PLN,13 424 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,SX4,2017,59 500 PLN,107 300 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2018,59 500 PLN,101 545 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Srebrny
+Suzuki,Vitara,2020,72 000 PLN,63 200 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Grand Vitara,2012,43 900 PLN,168 540 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,Splash,2009,16 990 PLN,99 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,86 KM,5,Czerwony
+Suzuki,Grand Vitara,2008,23 900 PLN,190 000 km,Benzyna+LPG,Automatyczna,SUV,2 393 cm3,169 KM,5,Srebrny
+Suzuki,SX4,2011,28 900 PLN,209 000 km,Benzyna,Automatyczna,Kompakt,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swace,2023,121 900 PLN,7 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Czarny
+Suzuki,Vitara,2023,105 900 PLN,1 078 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Vitara,2023,88 900 PLN,13 587 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Grand Vitara,2006,31 000 PLN,245 000 km,Benzyna+LPG,Automatyczna,SUV,1 995 cm3,140 KM,5,Szary
+Suzuki,Ignis,2024,83 900 PLN,1 km,Hybryda,Manualna,Auta małe,1 197 cm3,83 KM,5,Zielony
+Suzuki,Jimny,2018,116 000 PLN,29 800 km,Benzyna,Manualna,SUV,1 462 cm3,102 KM,3,Zielony
+Suzuki,SX4 S-Cross,2013,58 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Vitara,2016,66 000 PLN,39 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2014,35 900 PLN,168 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Suzuki,SX4 S-Cross,2014,47 300 PLN,167 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Grand Vitara,2004,24 900 PLN,357 352 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,128 KM,5,Szary
+Suzuki,Swift,2013,29 900 PLN,109 600 km,Benzyna+LPG,Manualna,Auta małe,1 586 cm3,136 KM,5,Biały
+Suzuki,SX4,2011,25 999 PLN,218 197 km,Diesel,Manualna,Kompakt,1 956 cm3,135 KM,5,Srebrny
+Suzuki,Swift,2007,11 900 PLN,216 529 km,Benzyna+LPG,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Czerwony
+Suzuki,Swift,2008,12 900 PLN,191 000 km,Benzyna+LPG,Manualna,Kompakt,1 328 cm3,92 KM,5,Pomarańczowy
+Suzuki,SX4 S-Cross,2014,57 750 PLN,100 000 km,Benzyna,Automatyczna,Auta miejskie,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Grand Vitara,2008,27 800 PLN,219 250 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Złoty
+Suzuki,Swace,2024,109 600 PLN,1 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Grand Vitara,2005,17 500 PLN,206 584 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Szary
+Suzuki,SX4,2012,35 999 PLN,164 300 km,Benzyna,Automatyczna,Kompakt,1 586 cm3,120 KM,5,Pomarańczowy
+Suzuki,SX4 S-Cross,2013,43 500 PLN,167 200 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Grand Vitara,2001,16 200 PLN,178 000 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,3,Czarny
+Suzuki,SX4,2009,21 900 PLN,185 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,99 KM,5,Pomarańczowy
+Suzuki,SX4,2011,38 900 PLN,63 900 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Grand Vitara,2008,24 000 PLN,220 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Niebieski
+Suzuki,Swift,2008,14 800 PLN,176 123 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,3,Niebieski
+Suzuki,Alto,2009,8 400 PLN,240 703 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Zielony
+Suzuki,Celerio,2017,24 900 PLN,55 730 km,Benzyna,Manualna,Auta miejskie,998 cm3,68 KM,5,Biały
+Suzuki,SX4,2010,22 900 PLN,122 457 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Czerwony
+Suzuki,SX4,2011,28 000 PLN,91 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Szary
+Suzuki,Celerio,2015,22 999 PLN,109 100 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Niebieski
+Suzuki,SX4,2008,21 900 PLN,164 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Szary
+Suzuki,SX4,2008,16 000 PLN,269 921 km,Benzyna,Manualna,Kompakt,1 490 cm3,99 KM,5,Srebrny
+Suzuki,Grand Vitara,2013,49 700 PLN,149 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Brązowy
+Suzuki,Baleno,2018,39 999 PLN,100 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Czarny
+Suzuki,Ignis,2017,52 900 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Ignis,2017,55 700 PLN,90 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Swift,2007,13 500 PLN,202 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Szary
+Suzuki,SX4,2008,17 900 PLN,340 000 km,Benzyna+LPG,Manualna,Kompakt,1 586 cm3,107 KM,5,Szary
+Suzuki,SX4,2009,23 800 PLN,154 000 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swift,2011,24 900 PLN,167 600 km,Benzyna+LPG,Manualna,Auta małe,1 242 cm3,94 KM,5,Czarny
+Suzuki,Grand Vitara,2011,36 500 PLN,60 288 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,106 KM,3,Inny kolor
+Suzuki,SX4,2009,22 500 PLN,136 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2017,41 900 PLN,126 100 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Szary
+Suzuki,Swift,2008,9 300 PLN,211 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Inny kolor
+Suzuki,Liana,2002,1 230 PLN,206 783 km,Benzyna+LPG,Manualna,Sedan,1 586 cm3,103 KM,4,Srebrny
+Suzuki,SX4 S-Cross,2015,49 400 PLN,138 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Alto,2009,9 900 PLN,154 000 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Srebrny
+Suzuki,Swift,2024,88 390 PLN,3 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Zielony
+Suzuki,Grand Vitara,2008,20 900 PLN,231 322 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Beżowy
+Suzuki,Alto,2009,7 900 PLN,212 000 km,Benzyna,Manualna,Auta małe,1 000 cm3,68 KM,5,Czerwony
+Suzuki,Swift,2011,21 700 PLN,126 000 km,Benzyna,Manualna,Coupe,1 242 cm3,94 KM,3,Biały
+Suzuki,Celerio,2017,30 900 PLN,91 000 km,Benzyna,Automatyczna,Auta małe,998 cm3,68 KM,5,Szary
+Suzuki,Vitara,2024,113 900 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Jimny,2017,63 000 PLN,50 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,85 KM,3,Inny kolor
+Suzuki,SX4 S-Cross,2014,36 500 PLN,190 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2021,84 900 PLN,9 700 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Granatowy
+Suzuki,Jimny,2011,53 000 PLN,52 748 km,Benzyna,Automatyczna,Auta małe,1 328 cm3,85 KM,3,Inny kolor
+Suzuki,Vitara,2018,55 500 PLN,116 800 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Vitara,2016,63 900 PLN,126 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Pomarańczowy
+Suzuki,Vitara,2019,69 900 PLN,43 900 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Złoty
+Suzuki,SX4 S-Cross,2017,59 900 PLN,111 000 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Bordowy
+Suzuki,SX4 S-Cross,2014,35 900 PLN,190 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Niebieski
+Suzuki,Vitara,2018,68 000 PLN,106 600 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Baleno,2017,45 900 PLN,90 000 km,Benzyna,Manualna,Kompakt,998 cm3,111 KM,5,Biały
+Suzuki,Grand Vitara,2007,28 000 PLN,147 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,3,Zielony
+Suzuki,Swift,2014,26 500 PLN,98 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Biały
+Suzuki,Swift,2011,23 900 PLN,135 456 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Czarny
+Suzuki,Swift,2024,79 900 PLN,5 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Zielony
+Suzuki,Swift,2005,12 700 PLN,166 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Pomarańczowy
+Suzuki,Grand Vitara,2010,29 800 PLN,245 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Złoty
+Suzuki,Ignis,2016,52 400 PLN,54 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Biały
+Suzuki,SX4 S-Cross,2013,39 800 PLN,154 987 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2016,36 999 PLN,141 482 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Czarny
+Suzuki,Kizashi,2010,24 500 PLN,172 666 km,Benzyna,Manualna,Sedan,2 393 cm3,178 KM,4,Czarny
+Suzuki,Grand Vitara,2006,20 000 PLN,230 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Srebrny
+Suzuki,Jimny,2007,34 777 PLN,114 669 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,5,Srebrny
+Suzuki,Jimny,2007,34 777 PLN,114 669 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,5,Srebrny
+Suzuki,Grand Vitara,2007,28 600 PLN,227 000 km,Benzyna+LPG,Automatyczna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Vitara,2022,89 000 PLN,19 200 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Swift,2007,10 900 PLN,182 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,125 KM,3,Srebrny
+Suzuki,Swace,2021,84 900 PLN,90 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2021,76 990 PLN,68 000 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,114 500 PLN,2 700 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Brązowy
+Suzuki,Ignis,2005,6 900 PLN,300 000 km,Benzyna,Manualna,SUV,1 328 cm3,94 KM,5,Szary
+Suzuki,Vitara,2024,98 900 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Swace,2021,63 700 PLN,92 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Niebieski
+Suzuki,Grand Vitara,2006,21 500 PLN,195 363 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Inny kolor
+Suzuki,Vitara,2018,33 900 PLN,69 996 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Swift,2023,69 750 PLN,7 985 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Srebrny
+Suzuki,Swift,2007,12 500 PLN,178 580 km,Benzyna+LPG,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Czarny
+Suzuki,SX4 S-Cross,2016,49 900 PLN,184 500 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Szary
+Suzuki,Jimny,2015,45 900 PLN,156 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Srebrny
+Suzuki,Vitara,2024,119 590 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Błękitny
+Suzuki,SX4 S-Cross,2018,36 999 PLN,190 000 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Biały
+Suzuki,SX4 S-Cross,2018,57 999 PLN,118 000 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Niebieski
+Suzuki,Grand Vitara,2004,20 000 PLN,224 000 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Szary
+Suzuki,Vitara,2024,125 590 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Szary
+Suzuki,Vitara,2023,89 900 PLN,6 500 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2023,45 900 PLN,23 100 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Grand Vitara,1990,13 999 PLN,300 000 km,Diesel,Manualna,Minivan,1 900 cm3,128 KM,5,Szary
+Suzuki,Swace,2024,117 899,1 km,Benzyna,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2024,101 590 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Vitara,2024,113 590 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Szary
+Suzuki,Swift,2024,87 390 PLN,1 km,Hybryda,Automatyczna,Auta miejskie,1 197 cm3,83 KM,5,Beżowy
+Suzuki,SX4 S-Cross,2024,124 590 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Bordowy
+Suzuki,Ignis,2024,90 390 PLN,5 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swift,2009,15 500 PLN,202 666 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Kizashi,2012,39 500 PLN,118 544 km,Benzyna,Manualna,Sedan,2 393 cm3,178 KM,4,Czarny
+Suzuki,Grand Vitara,2011,44 000 PLN,175 715 km,Benzyna+LPG,Manualna,SUV,2 393 cm3,169 KM,5,Czarny
+Suzuki,Vitara,2016,46 300 PLN,138 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4,2009,16 900 PLN,215 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,99 KM,5,Czarny
+Suzuki,Vitara,2023,92 500 PLN,6 280 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Baleno,2019,38 900 PLN,116 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Szary
+Suzuki,SX4,2014,36 800 PLN,266 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Zielony
+Suzuki,SX4 S-Cross,2023,99 900 PLN,8 819 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Splash,2009,13 900 PLN,167 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,86 KM,5,Srebrny
+Suzuki,Jimny,2003,21 900 PLN,190 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Srebrny
+Suzuki,Swace,2024,123 500 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,SX4,2009,20 999 PLN,169 000 km,Benzyna+LPG,Manualna,Kompakt,1 490 cm3,99 KM,5,Czarny
+Suzuki,Swift,2008,14 800 PLN,140 986 km,Benzyna,Manualna,Kompakt,1 586 cm3,125 KM,3,Bordowy
+Suzuki,Swift,2007,11 500 PLN,223 970 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Vitara,2024,106 500 PLN,10 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Jimny,2004,23 900 PLN,152 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Złoty
+Suzuki,Vitara,2023,91 900 PLN,15 432 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2014,43 900 PLN,151 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Grand Vitara,2010,31 300 PLN,185 000 km,Benzyna+LPG,Manualna,SUV,2 393 cm3,169 KM,5,Inny kolor
+Suzuki,Swift,2008,13 000 PLN,165 139 km,Benzyna,Manualna,Kompakt,1 328 cm3,91 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2015,39 000 PLN,112 605 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Vitara,2015,52 900 PLN,231 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,Swace,2024,120 900 PLN,1 km,Benzyna,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2023,107 850 PLN,20 177 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,SX4,2006,16 000 PLN,205 254 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Vitara,2017,64 000 PLN,73 114 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,129 900 PLN,700 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Swift,2024,81 390 PLN,1 km,Hybryda,Manualna,Auta małe,1 197 cm3,83 KM,5,Biały
+Suzuki,Swift,2024,80 390 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swace,2024,137 590 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Beżowy
+Suzuki,SX4,2010,22 900 PLN,152 583 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Biały
+Suzuki,Grand Vitara,2006,16 900 PLN,303 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,SX4,2011,29 500 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2010,11 999 PLN,170 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,3,Srebrny
+Suzuki,Grand Vitara,2010,42 900 PLN,186 000 km,Benzyna,Manualna,SUV,2 393 cm3,169 KM,5,Srebrny
+Suzuki,Vitara,2024,98 900 PLN,10 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4,2013,9 900 PLN,44 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,112 KM,5,Szary
+Suzuki,SX4 S-Cross,2024,133 399,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Grand Vitara,2008,19 500 PLN,241 000 km,Benzyna,Automatyczna,SUV,2 736 cm3,185 KM,5,Srebrny
+Suzuki,Vitara,2023,89 900 PLN,15 408 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2013,39 400 PLN,126 400 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Grand Vitara,2005,25 500 PLN,235 000 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Bordowy
+Suzuki,SX4 S-Cross,2024,106 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2024,121 399,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Vitara,2024,119 590 PLN,10 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Beżowy
+Suzuki,SX4,2008,15 500 PLN,163 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,SX4 S-Cross,2013,43 900 PLN,154 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Zielony
+Suzuki,Grand Vitara,2006,29 900 PLN,185 350 km,Benzyna,Manualna,SUV,1 600 cm3,107 KM,3,Czarny
+Suzuki,Vitara,2024,121 100 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Żółty
+Suzuki,Vitara,2024,103 590 PLN,8 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2024,123 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2023,110 900 PLN,5 300 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Swift,2005,13 900 PLN,198 630 km,Benzyna,Manualna,Auta miejskie,1 490 cm3,102 KM,5,Czarny
+Suzuki,Swift,2017,39 850 PLN,86 613 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Szary
+Suzuki,Grand Vitara,2006,23 000 PLN,232 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Złoty
+Suzuki,Swift,2012,23 999 PLN,115 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,3,Czarny
+Suzuki,SX4,2022,92 900 PLN,31 164 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Bordowy
+Suzuki,Grand Vitara,2006,7 500 PLN,139 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,SX4 S-Cross,2014,52 900 PLN,138 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Fioletowy
+Suzuki,Vitara,2024,101 590,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Splash,2011,21 900 PLN,107 000 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Pomarańczowy
+Suzuki,Jimny,2023,104 900 PLN,6 150 km,Benzyna,Manualna,SUV,1 500 cm3,102 KM,3,Srebrny
+Suzuki,Vitara,2015,55 500 PLN,145 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Ignis,2024,87 900 PLN,2 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Zielony
+Suzuki,Swift,2009,11 700 PLN,200 000 km,Diesel,Manualna,Auta miejskie,1 248 cm3,75 KM,5,Czarny
+Suzuki,Vitara,2024,98 900 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Ignis,2021,59 900 PLN,19 000 km,Hybryda,Manualna,Auta miejskie,1 199 cm3,83 KM,5,Niebieski
+Suzuki,Alto,2011,13 900 PLN,130 000 km,Benzyna,Manualna,Kompakt,996 cm3,68 KM,5,Czerwony
+Suzuki,Grand Vitara,2004,22 500 PLN,96 930 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Srebrny
+Suzuki,Vitara,2024,92 900 PLN,5 800 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Swift,2011,24 900 PLN,126 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Inny kolor
+Suzuki,Swift,2012,27 900 PLN,129 474 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,136 KM,3,Czarny
+Suzuki,Ignis,2005,8 500 PLN,126 000 km,Diesel,Manualna,SUV,1 248 cm3,70 KM,5,Szary
+Suzuki,Vitara,2015,54 900 PLN,179 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,Grand Vitara,2010,15 000 PLN,185 000 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,Vitara,2022,102 000 PLN,10 700 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,Grand Vitara,2006,26 800 PLN,200 450 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Szary
+Suzuki,Celerio,2014,18 900 PLN,85 451 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Czerwony
+Suzuki,Inny,2023,111 900 PLN,9 797 km,Benzyna,Manualna,SUV,,,5,Srebrny
+Suzuki,SX4 S-Cross,2015,57 900 PLN,120 525 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Vitara,2024,115 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 373 cm3,116 KM,5,Czerwony
+Suzuki,Vitara,2023,102 000 PLN,10 700 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Vitara,2023,91 000 PLN,25 498 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2023,110 000 PLN,36 500 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Vitara,2022,101 000 PLN,8 500 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,Vitara,2017,62 850 PLN,41 822 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Inny,2024,127 590 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 497 cm3,116 KM,,Srebrny
+Suzuki,Ignis,2006,10 500 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,93 KM,5,Szary
+Suzuki,SX4,2016,49 100 PLN,134 028 km,Benzyna,Manualna,SUV,998 cm3,110 KM,5,Niebieski
+Suzuki,Vitara,2016,45 900 PLN,172 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,Baleno,2017,34 700 PLN,125 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Szary
+Suzuki,Vitara,2017,76 900 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,SX4 S-Cross,2024,111 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4,2007,21 900 PLN,145 830 km,Diesel,Manualna,SUV,1 910 cm3,120 KM,5,Pomarańczowy
+Suzuki,Grand Vitara,2006,28 900 PLN,229 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Szary
+Suzuki,SX4,2010,21 900 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Pomarańczowy
+Suzuki,Jimny,2003,26 900 PLN,257 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Brązowy
+Suzuki,Jimny,2003,26 900 PLN,257 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Brązowy
+Suzuki,SX4,2008,26 700 PLN,216 300 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swift,2024,81 290 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Biały
+Suzuki,Swift,2024,84 290 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Swace,2024,118 900,1 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Ignis,2018,42 999 PLN,46 200 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Swift,2009,15 000 PLN,223 016 km,Benzyna,Manualna,Kompakt,1 586 cm3,125 KM,3,Czarny
+Suzuki,Ignis,2024,90 390,1 km,Hybryda,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Szary
+Suzuki,Vitara,1997,15 900 PLN,178 000 km,Benzyna,Manualna,SUV,1 995 cm3,132 KM,3,Srebrny
+Suzuki,Vitara,2015,49 500 PLN,134 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Pomarańczowy
+Suzuki,SX4 S-Cross,2024,121 589,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Jimny,2008,27 000 PLN,185 476 km,Diesel,Manualna,SUV,1 461 cm3,86 KM,3,Granatowy
+Suzuki,Across,2021,179 900 PLN,13 700 km,Hybryda,Automatyczna,SUV,2 487 cm3,306 KM,5,Inny kolor
+Suzuki,Across,2022,192 900 PLN,44 420 km,Hybryda,Automatyczna,Kombi,2 487 cm3,306 KM,5,Niebieski
+Suzuki,Vitara,2017,67 900 PLN,62 700 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,SX4 S-Cross,2024,125 590 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,Vitara,2016,49 500 PLN,208 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4 S-Cross,2014,39 900 PLN,208 049 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2008,22 900 PLN,106 323 km,Benzyna,Manualna,Auta miejskie,1 300 cm3,92 KM,5,Czarny
+Suzuki,SX4,2008,25 900 PLN,175 212 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,120 KM,5,Szary
+Suzuki,Splash,2008,3 300 PLN,300 000 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2024,135 590 PLN,10 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,Vitara,2016,62 800 PLN,120 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Jimny,2014,36 900 PLN,150 000 km,Benzyna+LPG,Manualna,SUV,1 328 cm3,85 KM,3,Biały
+Suzuki,Vitara,2024,109 399,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Swift,2024,77 900 PLN,2 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Swift,2007,8 000 PLN,182 800 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,125 KM,3,Czerwony
+Suzuki,Kizashi,2010,18 500 PLN,326 000 km,Benzyna+LPG,Automatyczna,Sedan,2 393 cm3,178 KM,4,Czerwony
+Suzuki,Swift,2021,59 899,38 900 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Złoty
+Suzuki,Vitara,2024,123 589,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Srebrny
+Suzuki,Vitara,2024,116 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Swift,2010,15 800 PLN,142 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,102 KM,5,Czarny
+Suzuki,Swift,2010,15 800 PLN,142 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,102 KM,5,Czarny
+Suzuki,Vitara,2006,20 500 PLN,289 000 km,Diesel,Manualna,SUV,1 995 cm3,136 KM,5,Zielony
+Suzuki,Jimny,2024,181 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,3,Czarny
+Suzuki,Vitara,2018,63 900 PLN,161 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Vitara,2023,87 900 PLN,7 000 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Swace,2024,117 890 PLN,8 km,Benzyna,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Jimny,2023,135 900 PLN,1 km,Benzyna,Manualna,SUV,1 462 cm3,102 KM,3,Szary
+Suzuki,Swace,2021,86 900 PLN,32 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Inny kolor
+Suzuki,Swift,2020,64 900 PLN,32 000 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,90 KM,5,Czerwony
+Suzuki,SX4,2009,20 800 PLN,161 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,99 KM,5,Czarny
+Suzuki,Vitara,2024,114 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Grand Vitara,2004,29 500 PLN,185 000 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,5,Granatowy
+Suzuki,Vitara,2024,99 900 PLN,2 270 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Vitara,2024,114 590 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Błękitny
+Suzuki,SX4 S-Cross,2024,99 900 PLN,4 670 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Grand Vitara,2006,26 000 PLN,179 615 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Szary
+Suzuki,Swift,2021,51 900 PLN,67 373 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Srebrny
+Suzuki,Baleno,2019,42 500 PLN,51 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Biały
+Suzuki,Swift,2010,13 900 PLN,269 274 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,94 KM,3,Inny kolor
+Suzuki,Vitara,2021,94 850 PLN,17 912 km,Hybryda,Automatyczna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2024,97 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2021,89 900 PLN,25 384 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Beżowy
+Suzuki,Swift,2021,50 850 PLN,90 479 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,83 KM,5,Inny kolor
+Suzuki,Swift,2021,50 850 PLN,90 479 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,83 KM,5,Inny kolor
+Suzuki,Swace,2024,134 589,5 km,Benzyna,Automatyczna,SUV,1 798 cm3,98 KM,5,Biały
+Suzuki,Grand Vitara,2007,20 000 PLN,267 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Srebrny
+Suzuki,Swift,2019,51 500 PLN,44 970 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Czarny
+Suzuki,Vitara,2024,92 900 PLN,4 168 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Baleno,2017,30 500 PLN,180 000 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,90 KM,5,Czarny
+Suzuki,Baleno,2016,20 600 PLN,297 000 km,Benzyna+LPG,Manualna,Kompakt,1 242 cm3,90 KM,5,Niebieski
+Suzuki,SX4,2009,21 000 PLN,201 949 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Biały
+Suzuki,Vitara,2024,102 399,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2024,107 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Swift,2024,91 390 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2024,115 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Swift,2024,86 900 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Inny kolor
+Suzuki,Samurai,1985,21 000 PLN,60 000 km,Benzyna+LPG,Manualna,SUV,1 600 cm3,80 KM,2,Czarny
+Suzuki,Splash,2011,23 900 PLN,165 000 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,94 KM,5,Pomarańczowy
+Suzuki,Vitara,2015,49 000 PLN,150 726 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Swift,2024,91 390 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Szary
+Suzuki,Swift,2024,88 390 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Inny kolor
+Suzuki,Swace,2021,73 850 PLN,128 118 km,Hybryda,Automatyczna,Kombi,1 789 cm3,122 KM,5,Biały
+Suzuki,SX4,2007,15 000 PLN,250 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Pomarańczowy
+Suzuki,Swift,2021,50 400 PLN,68 959 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Czarny
+Suzuki,Vitara,2023,98 000 PLN,7 000 km,Benzyna+LPG,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2024,106 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,,Biały
+Suzuki,Swift,2024,84 390 PLN,5 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Szary
+Suzuki,SX4 S-Cross,2023,111 900 PLN,15 000 km,Hybryda,Automatyczna,SUV,1 497 cm3,116 KM,5,Brązowy
+Suzuki,Swace,2021,97 900 PLN,52 341 km,Hybryda,Automatyczna,Kombi,1 798 cm3,122 KM,,Inny kolor
+Suzuki,Ignis,2024,91 390 PLN,5 km,Hybryda,Automatyczna,Auta miejskie,1 242 cm3,83 KM,,Biały
+Suzuki,Vitara,2024,115 590 PLN,5 km,Benzyna,Manualna,SUV,1 378 cm3,129 KM,5,Biały
+Suzuki,Baleno,2017,40 000 PLN,80 496 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Niebieski
+Suzuki,Vitara,2015,73 900 PLN,80 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,SX4,2008,16 400 PLN,141 591 km,Benzyna,Manualna,Sedan,1 586 cm3,107 KM,4,Srebrny
+Suzuki,Vitara,2019,62 000 PLN,92 047 km,Benzyna,Manualna,SUV,998 cm3,112 KM,5,Biały
+Suzuki,Swift,2007,10 500 PLN,165 811 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Szary
+Suzuki,Baleno,2019,42 000 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Inny kolor
+Suzuki,SX4 S-Cross,2014,53 900 PLN,43 000 km,Benzyna,Automatyczna,Auta miejskie,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Swace,2023,122 590 PLN,10 km,Benzyna,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,SX4,2007,17 700 PLN,196 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,107 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2014,43 500 PLN,116 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4 S-Cross,2024,132 590 PLN,5 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,Samurai,2001,11 500 PLN,165 000 km,Benzyna,Manualna,SUV,1 298 cm3,69 KM,3,Zielony
+Suzuki,Grand Vitara,2008,26 900 PLN,211 000 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,Vitara,2016,61 800 PLN,162 000 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Czarny
+Suzuki,Vitara,2021,86 150 PLN,48 600 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Swace,2024,123 590 PLN,5 km,Benzyna,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2015,67 900 PLN,75 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Jimny,2006,26 900 PLN,114 200 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Zielony
+Suzuki,Swace,2024,137 590 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Biały
+Suzuki,Vitara,2022,97 900 PLN,15 500 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2024,108 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Brązowy
+Suzuki,Jimny,2024,129 000 PLN,7 200 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,3,Biały
+Suzuki,SX4 S-Cross,2021,73 900 PLN,52 074 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Jimny,2002,18 900 PLN,183 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Czarny
+Suzuki,Vitara,2023,85 555,31 000 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Jimny,2008,33 300 PLN,96 689 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Biały
+Suzuki,Grand Vitara,2013,39 900 PLN,201 000 km,Benzyna,Manualna,SUV,2 393 cm3,169 KM,5,Szary
+Suzuki,SX4,2010,21 999 PLN,185 500 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2010,16 800 PLN,159 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Czerwony
+Suzuki,Jimny,2011,36 500 PLN,100 000 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Szary
+Suzuki,Celerio,2015,11 900 PLN,134 472 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Szary
+Suzuki,Swace,2024,120 900 PLN,1 km,Hybryda,Automatyczna,Kombi,1 800 cm3,140 KM,5,Biały
+Suzuki,Baleno,2016,30 000 PLN,105 900 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Srebrny
+Suzuki,Vitara,2024,103 900 PLN,1 km,Benzyna,Manualna,SUV,1 400 cm3,129 KM,5,Biały
+Suzuki,Swift,2024,71 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Inny kolor
+Suzuki,Grand Vitara,2007,16 900 PLN,226 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,3,Biały
+Suzuki,Swift,2016,34 850 PLN,95 151 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Srebrny
+Suzuki,Grand Vitara,2008,42 700 PLN,190 000 km,Benzyna,Automatyczna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Swift,2024,84 390 PLN,8 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2021,75 900 PLN,24 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Bordowy
+Suzuki,SX4 S-Cross,2024,115 590 PLN,1 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Jimny,2003,38 700 PLN,150 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Niebieski
+Suzuki,Jimny,2006,41 700 PLN,50 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Inny kolor
+Suzuki,Vitara,2024,107 500 PLN,10 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Beżowy
+Suzuki,Wagon R+,2002,8 500 PLN,124 000 km,Benzyna,Manualna,Auta małe,1 298 cm3,76 KM,5,Niebieski
+Suzuki,Wagon R+,2002,8 500 PLN,124 000 km,Benzyna,Manualna,Auta małe,1 298 cm3,76 KM,5,Niebieski
+Suzuki,SX4,2011,21 890 PLN,131 000 km,Benzyna,Manualna,SUV,1 490 cm3,112 KM,5,Czarny
+Suzuki,SX4,2011,35 900 PLN,184 853 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4 S-Cross,2018,39 900 PLN,101 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Czarny
+Suzuki,SX4,2012,32 000 PLN,146 300 km,Diesel,Manualna,SUV,1 956 cm3,135 KM,5,Szary
+Suzuki,Ignis,2022,44 900 PLN,56 000 km,Hybryda,Automatyczna,SUV,1 197 cm3,83 KM,5,Czarny
+Suzuki,SX4,2017,45 900 PLN,149 000 km,Benzyna,Manualna,Kompakt,998 cm3,111 KM,5,Inny kolor
+Suzuki,Swift,2019,44 999 PLN,85 592 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czarny
+Suzuki,Splash,2009,7 011 PLN,93 555 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Biały
+Suzuki,Vitara,2023,95 900 PLN,8 950 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czerwony
+Suzuki,Ignis,2024,91 390 PLN,5 km,Hybryda,Automatyczna,Auta miejskie,1 242 cm3,83 KM,,Inny kolor
+Suzuki,SX4,2012,24 900 PLN,153 000 km,Benzyna,Manualna,SUV,1 490 cm3,112 KM,5,Srebrny
+Suzuki,Vitara,2017,31 700 PLN,121 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Splash,2009,8 000 PLN,126 000 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2023,99 900 PLN,12 500 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Vitara,2023,116 900 PLN,3 500 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Srebrny
+Suzuki,Swift,2018,48 900 PLN,48 350 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Szary
+Suzuki,Jimny,2014,44 500 PLN,135 313 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Biały
+Suzuki,Grand Vitara,1999,14 800 PLN,269 618 km,Diesel,Manualna,SUV,1 998 cm3,87 KM,5,Niebieski
+Suzuki,Splash,2012,32 700 PLN,89 000 km,Benzyna,Automatyczna,Auta małe,1 242 cm3,94 KM,5,Szary
+Suzuki,Splash,2008,13 800 PLN,111 000 km,Benzyna,Manualna,Auta małe,996 cm3,65 KM,5,Zielony
+Suzuki,SX4,2011,26 900 PLN,185 000 km,Benzyna,Manualna,Minivan,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Vitara,2020,67 000,123 435 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Liana,2005,6 900 PLN,179 900 km,Benzyna,Manualna,Kombi,1 328 cm3,90 KM,5,Srebrny
+Suzuki,Swift,2019,55 000 PLN,51 741 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Czerwony
+Suzuki,Vitara,2018,70 000 PLN,71 682 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,Jimny,2010,33 000 PLN,164 669 km,Benzyna+LPG,Manualna,SUV,1 328 cm3,84 KM,5,Srebrny
+Suzuki,Ignis,2017,44 000 PLN,98 398 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Szary
+Suzuki,Jimny,2009,26 900 PLN,133 000 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Zielony
+Suzuki,SX4,2009,21 000 PLN,200 318 km,Benzyna,Manualna,Kompakt,1 490 cm3,99 KM,5,Inny kolor
+Suzuki,Vitara,2018,70 000 PLN,83 762 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,Vitara,2022,82 000 PLN,43 728 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Vitara,2021,80 000 PLN,40 049 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Jimny,2015,59 000 PLN,69 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Srebrny
+Suzuki,SX4 S-Cross,2020,78 000 PLN,22 731 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Vitara,2018,60 000 PLN,82 361 km,Benzyna,Manualna,SUV,998 cm3,112 KM,5,Czerwony
+Suzuki,Vitara,2019,59 900 PLN,79 995 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Czarny
+Suzuki,Swift,2006,12 900 PLN,149 280 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Niebieski
+Suzuki,Vitara,2018,69 000 PLN,101 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,SX4 S-Cross,2013,40 900 PLN,141 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2015,28 000 PLN,152 117 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Czarny
+Suzuki,Grand Vitara,2006,23 000 PLN,296 174 km,Benzyna+LPG,Automatyczna,SUV,2 736 cm3,183 KM,5,Srebrny
+Suzuki,Swift,2009,11 900 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Bordowy
+Suzuki,Vitara,2024,107 590 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Inny kolor
+Suzuki,Vitara,2017,63 900 PLN,119 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2009,13 000 PLN,199 900 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,5,Czerwony
+Suzuki,Swift,2020,47 900 PLN,55 000 km,Hybryda,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czerwony
+Suzuki,SX4,2015,46 000 PLN,78 500 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Srebrny
+Suzuki,SX4,2008,7 900 PLN,285 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,SX4 S-Cross,2014,38 900 PLN,236 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Suzuki,Vitara,2019,59 900 PLN,151 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,Vitara,2016,62 000 PLN,160 000 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Czarny
+Suzuki,Jimny,2005,23 000 PLN,143 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Zielony
+Suzuki,Jimny,2004,25 000 PLN,120 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Czerwony
+Suzuki,Grand Vitara,1999,26 000 PLN,144 600 km,Benzyna,Manualna,SUV,1 995 cm3,128 KM,3,Zielony
+Suzuki,Grand Vitara,2008,25 500 PLN,188 500 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Srebrny
+Suzuki,Swift,2014,31 500 PLN,129 233 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Czarny
+Suzuki,Jimny,2012,41 500 PLN,165 500 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Zielony
+Suzuki,Grand Vitara,2007,25 900 PLN,198 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Czarny
+Suzuki,SX4 S-Cross,2021,77 700 PLN,92 000 km,Benzyna,Manualna,Minivan,1 373 cm3,129 KM,5,Czarny
+Suzuki,SX4 S-Cross,2019,71 999 PLN,121 000 km,Benzyna,Manualna,Minivan,1 373 cm3,140 KM,5,Granatowy
+Suzuki,SX4,2020,81 900 PLN,39 000 km,Hybryda,Manualna,Kompakt,1 373 cm3,129 KM,5,Brązowy
+Suzuki,Vitara,2017,49 970 PLN,185 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,5,Szary
+Suzuki,Celerio,2015,16 900 PLN,90 000 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2021,81 899 PLN,91 956 km,Benzyna,Automatyczna,Kompakt,1 373 cm3,129 KM,5,Czarny
+Suzuki,Jimny,2004,13 900 PLN,120 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Srebrny
+Suzuki,SX4,2010,25 600 PLN,136 000 km,Diesel,Manualna,SUV,1 956 cm3,135 KM,5,Srebrny
+Suzuki,Jimny,2005,20 900 PLN,216 000 km,Diesel,Manualna,SUV,1 461 cm3,86 KM,3,Zielony
+Suzuki,Swift,2009,14 900 PLN,179 000 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,3,Pomarańczowy
+Suzuki,Ignis,2018,39 900 PLN,118 268 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,90 KM,5,Czarny
+Suzuki,SX4,2010,22 800 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 490 cm3,112 KM,5,Biały
+Suzuki,Liana,2005,5 800 PLN,154 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,106 KM,5,Srebrny
+Suzuki,SX4,2008,17 500 PLN,197 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Błękitny
+Suzuki,SX4 S-Cross,2013,44 900 PLN,160 000 km,Benzyna,Automatyczna,Kompakt,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Vitara,2016,53 900 PLN,103 600 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Swift,2011,18 999 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,3,Czerwony
+Suzuki,SX4,2009,32 700 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2007,9 800 PLN,215 360 km,Benzyna,Manualna,Auta małe,1 490 cm3,102 KM,5,Czarny
+Suzuki,Grand Vitara,2010,38 900 PLN,219 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,Swift,1998,3 800 PLN,114 000 km,Benzyna,Manualna,Auta miejskie,993 cm3,53 KM,5,Fioletowy
+Suzuki,Grand Vitara,2002,25 900 PLN,220 000 km,Benzyna+LPG,Manualna,SUV,2 736 cm3,173 KM,5,Srebrny
+Suzuki,Jimny,2008,42 700 PLN,146 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Zielony
+Suzuki,SX4,2007,16 800 PLN,222 000 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Czarny
+Suzuki,Vitara,2015,65 500 PLN,137 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Jimny,2011,48 400 PLN,115 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Szary
+Suzuki,Vitara,2017,67 900 PLN,89 300 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Swift,2012,21 900 PLN,125 056 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,3,Biały
+Suzuki,Jimny,2021,97 900 PLN,20 700 km,Benzyna,Manualna,SUV,1 462 cm3,102 KM,3,Srebrny
+Suzuki,SX4 S-Cross,2013,39 900 PLN,123 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Suzuki,SX4,2009,14 000 PLN,217 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Szary
+Suzuki,Swift,2009,12 900 PLN,182 700 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Biały
+Suzuki,SX4,2008,14 999 PLN,223 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,107 KM,4,Granatowy
+Suzuki,Grand Vitara,2006,15 500 PLN,395 000 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,Grand Vitara,2006,20 900 PLN,166 823 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Srebrny
+Suzuki,SX4,2006,8 800 PLN,278 000 km,Diesel,Manualna,Kompakt,1 910 cm3,120 KM,5,Srebrny
+Suzuki,Grand Vitara,2008,28 800 PLN,230 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Grand Vitara,2008,28 800 PLN,230 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Liana,2007,5 500 PLN,203 285 km,Benzyna,Manualna,Auta małe,1 586 cm3,106 KM,4,Szary
+Suzuki,Swift,2012,20 999 PLN,160 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Czarny
+Suzuki,Grand Vitara,2004,24 900 PLN,195 000 km,Diesel,Manualna,SUV,1 997 cm3,109 KM,5,Szary
+Suzuki,Swift,2012,26 800 PLN,133 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Czarny
+Suzuki,Swift,2021,57 000,45 694 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Vitara,2015,46 000 PLN,189 000 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Splash,2011,13 000 PLN,128 692 km,Diesel,Manualna,Auta małe,1 248 cm3,75 KM,5,Biały
+Suzuki,Vitara,2020,69 000 PLN,49 800 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Grand Vitara,2007,26 500 PLN,133 221 km,Benzyna,Automatyczna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,SX4,2012,29 900 PLN,187 000 km,Benzyna,Manualna,Auta miejskie,1 586 cm3,120 KM,5,Srebrny
+Suzuki,SX4,2011,23 800 PLN,264 702 km,Benzyna,Manualna,Kompakt,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Swift,2010,10 500 PLN,151 000 km,Benzyna,Manualna,Auta małe,1 586 cm3,125 KM,3,Czarny
+Suzuki,Vitara,2020,75 500 PLN,21 000 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,SX4,2007,18 900 PLN,217 500 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Szary
+Suzuki,SX4 S-Cross,2018,70 700 PLN,35 000 km,Benzyna,Manualna,Kompakt,998 cm3,111 KM,5,Czarny
+Suzuki,SX4,2010,22 900 PLN,186 500 km,Diesel,Manualna,Kompakt,1 956 cm3,135 KM,5,Szary
+Suzuki,Swift,2007,15 500 PLN,180 328 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Vitara,2018,43 900 PLN,72 100 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Vitara,2015,54 000 PLN,191 640 km,Benzyna+LPG,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Vitara,2018,70 900 PLN,62 150 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Swift,2007,18 999 PLN,95 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Alto,2013,17 900 PLN,80 000 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Srebrny
+Suzuki,Vitara,2022,86 900 PLN,11 000 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,SX4 S-Cross,2015,38 900 PLN,150 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Biały
+Suzuki,Vitara,2018,53 900 PLN,132 400 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Srebrny
+Suzuki,Swift,2024,71 900 PLN,3 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2014,36 500 PLN,240 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Suzuki,Swift,2018,55 500 PLN,95 000 km,Benzyna,Automatyczna,Auta małe,998 cm3,111 KM,5,Niebieski
+Suzuki,Vitara,2017,67 950 PLN,57 578 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Inny kolor
+Suzuki,Vitara,2023,111 900 PLN,2 000 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Złoty
+Suzuki,Ignis,2024,87 390 PLN,10 km,Benzyna,Manualna,Auta małe,1 197 cm3,83 KM,5,Biały
+Suzuki,Vitara,2023,111 900 PLN,2 000 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Złoty
+Suzuki,Ignis,2024,87 390 PLN,10 km,Benzyna,Manualna,Auta małe,1 197 cm3,83 KM,5,Biały
+Suzuki,Swift,2013,26 900 PLN,127 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Biały
+Suzuki,Jimny,1998,18 400 PLN,129 000 km,Benzyna,Manualna,SUV,1 298 cm3,80 KM,3,Niebieski
+Suzuki,SX4 S-Cross,2014,35 900 PLN,263 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,Vitara,2015,66 900 PLN,168 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Szary
+Suzuki,Swift,2024,75 390 PLN,3 km,Hybryda,Manualna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,SX4 S-Cross,2013,32 999 PLN,230 389 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Szary
+Suzuki,Vitara,2016,62 900 PLN,148 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Grand Vitara,2012,55 500 PLN,124 000 km,Benzyna,Manualna,SUV,2 393 cm3,166 KM,3,Szary
+Suzuki,Swift,2024,87 990 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Celerio,2017,25 900 PLN,97 000 km,Benzyna,Manualna,Auta małe,998 cm3,68 KM,5,Szary
+Suzuki,Ignis,2024,86 900 PLN,1 km,Benzyna,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Pomarańczowy
+Suzuki,Grand Vitara,2009,27 900 PLN,237 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,SX4,2015,37 500 PLN,142 500 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Niebieski
+Suzuki,Swift,2024,90 900 PLN,1 km,Hybryda,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Biały
+Suzuki,Swift,2013,37 900 PLN,170 137 km,Benzyna,Manualna,Sedan,1 586 cm3,136 KM,3,Biały
+Suzuki,SX4,2012,31 500 PLN,196 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Grand Vitara,2006,14 900 PLN,340 000 km,Benzyna+LPG,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Swift,2024,75 390 PLN,3 km,Hybryda,Manualna,Auta małe,1 197 cm3,83 KM,5,Zielony
+Suzuki,Swift,2014,25 500 PLN,190 881 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Czerwony
+Suzuki,Jimny,2010,43 050 PLN,27 500 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Biały
+Suzuki,SX4,2006,15 700 PLN,239 000 km,Benzyna+LPG,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,Swace,2023,139 999 PLN,71 000 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Żółty
+Suzuki,Swift,2024,81 390 PLN,3 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Żółty
+Suzuki,Across,2023,254 900 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,2 487 cm3,185 KM,5,Biały
+Suzuki,SX4 S-Cross,2013,40 900 PLN,108 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,Swift,2024,91 700 PLN,5 km,Hybryda,Automatyczna,Kompakt,1 197 cm3,83 KM,5,Czerwony
+Suzuki,Grand Vitara,2008,20 500 PLN,201 200 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,3,Szary
+Suzuki,Jimny,2012,39 975 PLN,160 000 km,Benzyna,Manualna,SUV,1 328 cm3,85 KM,3,Złoty
+Suzuki,Ignis,2024,90 389,5 km,Benzyna,Automatyczna,Auta małe,1 197 cm3,83 KM,5,Zielony
+Suzuki,Vitara,2024,110 900 PLN,5 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Biały
+Suzuki,Swift,2021,53 700 PLN,8 600 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,83 KM,5,Szary
+Suzuki,Vitara,2021,72 900 PLN,53 000 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2017,54 900 PLN,103 020 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Biały
+Suzuki,Swift,2020,57 000 PLN,54 898 km,Benzyna,Automatyczna,Kompakt,1 242 cm3,90 KM,5,Czarny
+Suzuki,Vitara,2021,74 850 PLN,58 880 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Niebieski
+Suzuki,Swace,2024,112 300 PLN,5 km,Hybryda,Automatyczna,Kombi,1 798 cm3,140 KM,5,Biały
+Suzuki,Vitara,2021,86 900 PLN,90 825 km,Benzyna,Automatyczna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Jimny,2007,29 900 PLN,136 084 km,Benzyna,Automatyczna,SUV,1 328 cm3,85 KM,3,Złoty
+Suzuki,Vitara,2022,105 900 PLN,6 290 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Szary
+Suzuki,SX4,2017,63 200 PLN,71 200 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,SX4,2008,17 900 PLN,208 000 km,Benzyna,Manualna,Sedan,1 586 cm3,107 KM,5,Srebrny
+Suzuki,Swift,2008,14 800 PLN,160 000 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,5,Czarny
+Suzuki,SX4 S-Cross,2013,42 800 PLN,108 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Zielony
+Suzuki,Vitara,2023,94 900 PLN,25 919 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Ignis,2024,86 390 PLN,5 km,Benzyna,Manualna,Auta małe,1 197 cm3,83 KM,5,Beżowy
+Suzuki,SX4 S-Cross,2014,50 999 PLN,137 703 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Brązowy
+Suzuki,Vitara,2016,54 990 PLN,200 000 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Szary
+Suzuki,Vitara,2023,95 900 PLN,15 996 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Złoty
+Suzuki,Vitara,2023,80 000 PLN,42 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Czerwony
+Suzuki,Vitara,1996,33 000 PLN,217 500 km,Benzyna,Manualna,SUV,1 589 cm3,97 KM,3,Pomarańczowy
+Suzuki,SX4 S-Cross,2015,50 900 PLN,107 900 km,Benzyna,Manualna,SUV,1 586 cm3,120 KM,5,Biały
+Suzuki,SX4,2007,17 900 PLN,216 331 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Błękitny
+Suzuki,SX4,2018,57 900 PLN,81 600 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Biały
+Suzuki,Grand Vitara,2011,36 500 PLN,203 500 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Złoty
+Suzuki,SX4 S-Cross,2024,127 590 PLN,5 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Bordowy
+Suzuki,Grand Vitara,2008,39 900 PLN,89 000 km,Benzyna,Automatyczna,SUV,2 400 cm3,169 KM,5,Szary
+Suzuki,Swift,2009,12 900 PLN,199 000 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Szary
+Suzuki,Swift,2007,17 300 PLN,125 400 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Szary
+Suzuki,Swift,2009,15 900 PLN,199 300 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Niebieski
+Suzuki,Swift,2014,34 900 PLN,207 846 km,Benzyna,Manualna,Kompakt,1 586 cm3,136 KM,5,Czarny
+Suzuki,Grand Vitara,2008,31 700 PLN,180 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Grand Vitara,2009,30 900 PLN,242 000 km,Benzyna+LPG,Manualna,SUV,2 393 cm3,166 KM,3,Szary
+Suzuki,SX4 S-Cross,2018,29 900 PLN,96 744 km,Benzyna,Automatyczna,SUV,998 cm3,111 KM,5,Srebrny
+Suzuki,Grand Vitara,2003,8 900 PLN,180 000 km,Benzyna+LPG,Automatyczna,SUV,1 995 cm3,128 KM,5,Srebrny
+Suzuki,Swift,2011,22 900 PLN,149 800 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,3,Brązowy
+Suzuki,Swift,2015,23 000 PLN,122 061 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,3,Złoty
+Suzuki,Grand Vitara,2006,14 000 PLN,147 000 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Złoty
+Suzuki,Vitara,2018,71 000 PLN,64 000 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Beżowy
+Suzuki,Swift,2011,13 500 PLN,163 860 km,Benzyna,Manualna,Auta małe,1 242 cm3,94 KM,5,Czerwony
+Suzuki,Swift,2010,16 900 PLN,149 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Czarny
+Suzuki,Jimny,2003,28 000 PLN,60 000 km,Benzyna,Manualna,SUV,1 328 cm3,82 KM,3,Srebrny
+Suzuki,Grand Vitara,2008,23 900 PLN,286 654 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,3,Szary
+Suzuki,Kizashi,2010,31 000 PLN,160 374 km,Benzyna+LPG,Automatyczna,Sedan,2 393 cm3,178 KM,4,Biały
+Suzuki,Baleno,2018,29 999 PLN,161 487 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Błękitny
+Suzuki,Baleno,2018,27 000 PLN,212 987 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Błękitny
+Suzuki,SX4 S-Cross,2024,104 900 PLN,10 250 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,SX4,2009,17 800 PLN,250 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,Swift,2008,25 950 PLN,109 000 km,Benzyna,Automatyczna,Auta miejskie,1 328 cm3,92 KM,5,Srebrny
+Suzuki,Grand Vitara,2011,33 999 PLN,150 315 km,Benzyna,Manualna,SUV,1 586 cm3,106 KM,3,Czarny
+Suzuki,Jimny,2005,26 500 PLN,151 000 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Czerwony
+Suzuki,SX4,2008,20 999 PLN,180 000 km,Benzyna,Manualna,SUV,1 586 cm3,107 KM,5,Bordowy
+Suzuki,SX4 S-Cross,2019,64 800 PLN,62 000 km,Benzyna,Automatyczna,SUV,998 cm3,111 KM,5,Brązowy
+Suzuki,Samurai,1985,24 999 PLN,51 000 km,Benzyna,Manualna,SUV,1 324 cm3,64 KM,3,Zielony
+Suzuki,Vitara,2023,92 900 PLN,12 575 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Swace,2024,128 900 PLN,450 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Srebrny
+Suzuki,SX4 S-Cross,2023,108 000 PLN,19 700 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,94 500 PLN,26 230 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,SX4,2019,64 900 PLN,60 785 km,Benzyna,Manualna,Kompakt,998 cm3,111 KM,5,Szary
+Suzuki,Swace,2023,114 700 PLN,37 218 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2024,108 590 PLN,5 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Swift,2024,94 400 PLN,1 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,83 KM,5,Biały
+Suzuki,Jimny,2007,19 500 PLN,245 577 km,Benzyna,Automatyczna,SUV,1 328 cm3,85 KM,3,Zielony
+Suzuki,Swace,2021,79 900 PLN,72 797 km,Hybryda,Automatyczna,Kombi,1 798 cm3,98 KM,5,Czarny
+Suzuki,Swift,2007,16 900 PLN,152 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,5,Niebieski
+Suzuki,SX4 S-Cross,2021,79 800 PLN,25 500 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Biały
+Suzuki,Alto,2011,15 600 PLN,75 900 km,Benzyna,Manualna,Auta małe,996 cm3,68 KM,5,Srebrny
+Suzuki,Grand Vitara,2012,45 900 PLN,171 500 km,Benzyna,Automatyczna,SUV,2 393 cm3,169 KM,3,Czarny
+Suzuki,Vitara,2024,103 400 PLN,9 466 km,Benzyna,Manualna,SUV,1 373 cm3,140 KM,5,Inny kolor
+Suzuki,Swift,2015,32 000 PLN,186 002 km,Benzyna,Manualna,Kompakt,1 242 cm3,94 KM,5,Srebrny
+Suzuki,Swift,2012,29 500 PLN,201 000 km,Benzyna,Manualna,Sedan,1 586 cm3,136 KM,3,Czarny
+Suzuki,Vitara,2023,99 400 PLN,37 200 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Srebrny
+Suzuki,Swift,2024,89 390 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Swift,2008,12 800 PLN,215 000 km,Benzyna+LPG,Manualna,Kompakt,1 328 cm3,92 KM,3,Czarny
+Suzuki,Samurai,1991,15 900 PLN,99 000 km,Benzyna,Manualna,SUV,1 324 cm3,64 KM,3,Czarny
+Suzuki,Swift,2009,12 400 PLN,160 929 km,Benzyna,Manualna,Auta miejskie,1 328 cm3,92 KM,3,Czarny
+Suzuki,SX4,2007,19 500 PLN,176 062 km,Benzyna,Manualna,Auta małe,1 586 cm3,107 KM,5,Szary
+Suzuki,Vitara,2019,60 900 PLN,88 529 km,Benzyna,Manualna,SUV,998 cm3,111 KM,5,Inny kolor
+Suzuki,Jimny,2009,27 500 PLN,151 292 km,Benzyna,Manualna,SUV,1 328 cm3,86 KM,3,Zielony
+Suzuki,Baleno,2017,39 999 PLN,125 000 km,Benzyna,Manualna,Kompakt,1 242 cm3,90 KM,5,Niebieski
+Suzuki,Swift,2024,79 900 PLN,1 km,Benzyna,Manualna,Kompakt,1 197 cm3,83 KM,5,Niebieski
+Suzuki,Ignis,2002,6 700 PLN,185 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,83 KM,5,Czarny
+Suzuki,SX4 S-Cross,2013,32 900 PLN,213 000 km,Diesel,Manualna,SUV,1 598 cm3,120 KM,5,Biały
+Suzuki,SX4 S-Cross,2023,143 200 PLN,205 km,Benzyna,Automatyczna,SUV,1 462 cm3,102 KM,5,Srebrny
+Suzuki,Swift,2005,12 600 PLN,159 000 km,Benzyna,Manualna,Kompakt,1 328 cm3,92 KM,3,Srebrny
+Suzuki,Swift,2014,26 900 PLN,98 000 km,Benzyna,Manualna,Auta miejskie,1 242 cm3,94 KM,5,Biały
+Suzuki,Grand Vitara,2009,18 450 PLN,285 000 km,Benzyna,Manualna,SUV,1 995 cm3,140 KM,5,Czarny
+Suzuki,Vitara,2019,69 990 PLN,101 833 km,Benzyna,Automatyczna,SUV,1 373 cm3,140 KM,5,Biały
+Suzuki,Vitara,2016,54 900 PLN,137 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Niebieski
+Suzuki,Swift,2009,13 200 PLN,194 000 km,Benzyna,Manualna,Auta małe,1 328 cm3,92 KM,3,Czarny
+Suzuki,SX4 S-Cross,2022,115 900 PLN,10 000 km,Hybryda,Automatyczna,SUV,1 462 cm3,102 KM,5,Granatowy
+Suzuki,Grand Vitara,2011,33 000 PLN,190 000 km,Diesel,Manualna,SUV,1 870 cm3,129 KM,5,Szary
+Suzuki,Vitara,2018,63 900 PLN,109 000 km,Benzyna,Automatyczna,SUV,1 586 cm3,120 KM,5,Czarny
+Suzuki,SX4,2007,17 200 PLN,195 000 km,Benzyna,Manualna,Kompakt,1 586 cm3,107 KM,5,Czarny
+Suzuki,SX4 S-Cross,2020,85 000 PLN,21 069 km,Benzyna,Manualna,SUV,1 373 cm3,129 KM,5,Szary
+Suzuki,Vitara,2023,86 900 PLN,16 400 km,Hybryda,Manualna,SUV,1 373 cm3,129 KM,5,Czarny
+Suzuki,Vitara,1998,14 500 PLN,80 000 km,Benzyna+LPG,Automatyczna,SUV,1 589 cm3,97 KM,3,Inny kolor

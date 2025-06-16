@@ -1,0 +1,961 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Land,Rover Range Rover Evoque,2019,124 000 PLN,53 700 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Freelander,2001,16 900 PLN,170 000 km,Benzyna,Automatyczna,SUV,2 497 cm3,177 KM,5,Czarny
+Land,Rover Range Rover Sport,2006,29 000 PLN,285 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2023,465 000 PLN,17 095 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Discovery Sport,2017,46 900 PLN,144 566 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Evoque,2016,74 500 PLN,100 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2019,142 000 PLN,82 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Czarny
+Land,Rover Discovery Sport,2017,93 900 PLN,91 654 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2018,89 500 PLN,65 500 km,Diesel,Automatyczna,Kombi,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2015,66 000 PLN,122 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover,2014,137 000 PLN,152 953 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover,2013,129 900 PLN,260 587 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Discovery,2006,22 000 PLN,322 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Range Rover Sport,2013,59 500 PLN,221 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Czarny
+Land,Rover Range Rover Evoque,2018,111 500 PLN,133 100 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Sport,2018,149 000 PLN,133 638 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2017,79 900 PLN,140 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Evoque,2020,137 990 PLN,51 000 km,Diesel,Automatyczna,SUV,1 999 cm3,149 KM,5,Czarny
+Land,Rover Discovery,2018,139 000 PLN,116 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Velar,2020,215 990 PLN,77 000 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Sport,2022,339 000 PLN,30 298 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Brązowy
+Land,Rover Discovery,2019,176 900 PLN,50 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,99 900 PLN,91 255 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Discovery,2017,144 900 PLN,153 520 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+Land,Rover Defender,2022,369 000 PLN,54 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Brązowy
+Land,Rover Range Rover Velar,2021,226 000 PLN,63 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Szary
+Land,Rover Freelander,2000,10 999 PLN,175 250 km,Benzyna,Manualna,SUV,1 796 cm3,120 KM,3,Szary
+Land,Rover Range Rover Evoque,2019,134 900 PLN,48 800 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czerwony
+Land,Rover Range Rover Velar,2022,229 900 PLN,50 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Velar,2022,239 900 PLN,31 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Szary
+Land,Rover Range Rover Sport,2013,185 000 PLN,85 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Czarny
+Land,Rover Freelander,2008,7 500 PLN,219 600 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Czerwony
+Land,Rover Freelander,2008,7 500 PLN,219 600 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Czerwony
+Land,Rover Range Rover Sport,2014,156 000 PLN,42 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Brązowy
+Land,Rover Range Rover Sport,2018,320 000 PLN,91 250 km,Benzyna,Automatyczna,SUV,4 999 cm3,525 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2012,68 900 PLN,123 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Brązowy
+Land,Rover Range Rover Sport,2010,64 900 PLN,218 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Biały
+Land,Rover Range Rover Velar,2018,165 000 PLN,115 850 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2013,69 000 PLN,90 470 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2016,199 000 PLN,182 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Czerwony
+Land,Rover Defender,1988,35 000 PLN,270 842 km,Diesel,Manualna,SUV,2 495 cm3,86 KM,3,Czarny
+Land,Rover Discovery Sport,2018,85 900 PLN,178 820 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover,2014,115 000 PLN,188 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover,2014,129 000 PLN,325 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Range Rover Sport,2017,123 000 PLN,116 500 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Discovery,2019,179 900 PLN,96 100 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Freelander,2014,51 900 PLN,169 000 km,Diesel,Automatyczna,SUV,2 179 cm3,190 KM,5,Biały
+Land,Rover Range Rover Evoque,2017,79 900 PLN,135 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Discovery,2002,31 000 PLN,232 855 km,Diesel,Manualna,SUV,2 495 cm3,138 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2019,79 950 PLN,98 075 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,85 000 PLN,95 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Defender,2023,376 000 PLN,8 500 km,Diesel,Automatyczna,SUV,2 998 cm3,200 KM,5,Zielony
+Land,Rover Freelander,2004,15 900 PLN,320 000 km,Diesel,Manualna,SUV,1 950 cm3,112 KM,5,Srebrny
+Land,Rover Range Rover Sport,2021,290 000 PLN,6 945 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2012,43 990 PLN,279 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,76 000 PLN,210 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2018,101 900 PLN,73 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Granatowy
+Land,Rover Discovery Sport,2015,63 900 PLN,193 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Granatowy
+Land,Rover Discovery Sport,2016,82 900 PLN,101 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Granatowy
+Land,Rover Range Rover Sport,2014,99 900 PLN,173 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Biały
+Land,Rover Freelander,2000,7 700 PLN,146 000 km,Benzyna,Manualna,SUV,1 796 cm3,120 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2023,225 000 PLN,13 866 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Sport,2015,229 000 PLN,82 500 km,Benzyna,Automatyczna,SUV,4 999 cm3,550 KM,5,Czerwony
+Land,Rover Range Rover Sport,2021,339 000 PLN,88 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,179 900 PLN,95 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Beżowy
+Land,Rover Discovery,2017,157 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Szary
+Land,Rover Discovery Sport,2021,115 000 PLN,99 000 km,Diesel,Automatyczna,Kompakt,1 999 cm3,180 KM,5,Czerwony
+Land,Rover Range Rover Evoque,2015,90 000 PLN,195 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Freelander,2009,36 500 PLN,169 700 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Granatowy
+Land,Rover Range Rover Velar,2020,171 900 PLN,85 500 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Szary
+Land,Rover Discovery,2011,62 000 PLN,272 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2019,137 760 PLN,43 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,249 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,89 900 PLN,100 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Złoty
+Land,Rover Range Rover Velar,2019,186 666 PLN,33 593 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Czarny
+Land,Rover Discovery,2017,137 760 PLN,106 350 km,Diesel,Automatyczna,Minivan,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Sport,2015,65 900 PLN,164 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,79 900 PLN,139 999 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Brązowy
+Land,Rover Discovery,2023,311 000 PLN,40 000 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Biały
+Land,Rover Range Rover Sport,2018,189 900 PLN,91 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2014,75 000 PLN,184 000 km,Benzyna+LPG,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Discovery Sport,2019,93 500 PLN,117 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,249 KM,5,Czerwony
+Land,Rover Range Rover Evoque,2017,62 000 PLN,214 500 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Bordowy
+Land,Rover Discovery,2004,47 000 PLN,249 000 km,Diesel,Manualna,SUV,2 495 cm3,138 KM,5,Zielony
+Land,Rover Range Rover Sport,2014,98 900 PLN,188 600 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Sport,2011,58 900 PLN,229 800 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Biały
+Land,Rover Range Rover,2023,784 900 PLN,19 000 km,Diesel,Automatyczna,SUV,2 998 cm3,350 KM,5,Czarny
+Land,Rover Range Rover,2021,319 000 PLN,35 000 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Range Rover Sport,2020,87 430 EUR,77 300 km,Benzyna,Automatyczna,SUV,5 000 cm3,575 KM,5,Zielony
+Land,Rover Range Rover Velar,2018,162 000 PLN,127 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,250 KM,5,Szary
+Land,Rover Range Rover Evoque,2016,86 999 PLN,169 500 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Velar,2023,349 999 PLN,26 500 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Srebrny
+Land,Rover Range Rover,2015,149 000 PLN,194 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Szary
+Land,Rover Range Rover Evoque,2017,74 900 PLN,136 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery,2002,43 000 PLN,308 000 km,Diesel,Automatyczna,SUV,2 495 cm3,138 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2017,68 990 PLN,180 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,74 000 PLN,190 900 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2021,210 000 PLN,37 800 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Sport,2017,155 000 PLN,148 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Brązowy
+Land,Rover Range Rover Sport,2016,149 000 PLN,104 040 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Czarny
+Land,Rover Discovery,2010,72 000 PLN,260 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,74 990 PLN,198 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2017,79 000 PLN,109 703 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Freelander,2009,22 900 PLN,204 225 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Szary
+Land,Rover Range Rover,2016,220 000 PLN,167 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Niebieski
+Land,Rover Range Rover Sport,2015,128 999 PLN,218 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2011,58 000 PLN,209 000 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Range Rover Velar,2019,139 900 PLN,109 850 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Discovery,2012,64 500 PLN,219 500 km,Diesel,Automatyczna,SUV,2 993 cm3,210 KM,5,Biały
+Land,Rover Range Rover,2014,151 999 PLN,192 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+Land,Rover Discovery Sport,2022,189 000 PLN,17 355 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Sport,2013,67 400 PLN,200 500 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Biały
+Land,Rover Discovery,2019,239 000 PLN,83 400 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Sport,2023,434 900 PLN,11 186 km,Diesel,Automatyczna,Kombi,2 997 cm3,249 KM,5,Zielony
+Land,Rover Range Rover Velar,2023,278 000 PLN,19 897 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Niebieski
+Land,Rover Discovery Sport,2023,269 000 PLN,26 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Brązowy
+Land,Rover Discovery,2014,114 900 PLN,139 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czerwony
+Land,Rover Discovery,2018,170 000 PLN,75 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover Sport,2021,495 000 PLN,41 800 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2015,79 999 PLN,170 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2013,88 000 PLN,156 500 km,Benzyna+LPG,Automatyczna,Coupe,1 999 cm3,240 KM,3,Biały
+Land,Rover Range Rover Evoque,2017,83 600 PLN,83 670 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Sport,2016,151 111 PLN,172 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Szary
+Land,Rover Range Rover Sport,2017,137 800 PLN,136 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2016,71 000 PLN,175 690 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Discovery,2016,116 000 PLN,275 360 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Granatowy
+Land,Rover Freelander,2011,42 900 PLN,163 600 km,Diesel,Automatyczna,SUV,2 179 cm3,149 KM,5,Inny kolor
+Land,Rover Discovery Sport,2023,229 000 PLN,18 165 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2017,82 000 PLN,136 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2017,82 000 PLN,136 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery,2023,335 000 PLN,36 221 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Czarny
+Land,Rover Range Rover,2007,43 000 PLN,300 000 km,Diesel,Automatyczna,SUV,3 630 cm3,272 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,169 990 PLN,66 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Discovery,2016,132 000 PLN,205 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Czarny
+Land,Rover Freelander,2007,37 500 PLN,167 000 km,Benzyna,Automatyczna,SUV,3 192 cm3,233 KM,5,Czarny
+Land,Rover Discovery Sport,2019,67 900 PLN,115 020 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover,2009,60 000 PLN,239 720 km,Diesel,Automatyczna,SUV,3 630 cm3,272 KM,5,Czarny
+Land,Rover Range Rover Evoque,2018,94 900 PLN,78 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover,2010,110 000 PLN,211 746 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Czarny
+Land,Rover Range Rover Sport,2016,155 000 PLN,118 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover,2014,185 000 PLN,132 500 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2015,75 000 PLN,152 314 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Sport,2013,137 000 PLN,132 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Discovery,2017,159 000 PLN,107 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover,2016,198 000 PLN,242 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Srebrny
+Land,Rover Discovery,2015,83 900 PLN,134 431 km,Benzyna,Automatyczna,SUV,1 999 cm3,300 KM,5,Czerwony
+Land,Rover Discovery,2017,79 900 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,98 500 PLN,110 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Range Rover,2014,149 000 PLN,185 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Szary
+Land,Rover Discovery,2008,32 000 PLN,333 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Zielony
+Land,Rover Discovery,2011,71 340 PLN,185 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Inny kolor
+Land,Rover Range Rover,2018,246 000 PLN,241 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Granatowy
+Land,Rover Range Rover,2012,89 700 PLN,290 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Biały
+Land,Rover Discovery Sport,2022,168 000 PLN,19 900 km,Benzyna,Automatyczna,SUV,1 998 cm3,249 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2017,88 500 PLN,97 600 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Freelander,2003,16 499 PLN,330 000 km,Diesel,Manualna,SUV,1 950 cm3,112 KM,5,Granatowy
+Land,Rover Range Rover Velar,2019,150 000 PLN,92 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2021,169 900 PLN,75 007 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Szary
+Land,Rover Discovery Sport,2018,67 999 PLN,149 900 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Evoque,2015,79 900 PLN,211 000 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Czarny
+Land,Rover Range Rover,2016,490 000 PLN,78 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Sport,2019,399 000 PLN,97 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Niebieski
+Land,Rover Discovery,2018,89 900 PLN,89 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,241 KM,5,Biały
+Land,Rover Defender,2023,449 000 PLN,16 000 km,Diesel,Automatyczna,SUV,2 996 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Sport,2018,235 000 PLN,126 500 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Szary
+Land,Rover Discovery Sport,2021,139 900 PLN,66 085 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery,2008,29 800 PLN,358 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Discovery,2023,269 000 PLN,15 800 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Discovery,2022,289 000 PLN,69 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,360 KM,5,Biały
+Land,Rover Range Rover Sport,2005,20 000 PLN,95 018 km,Benzyna,Automatyczna,SUV,4 197 cm3,390 KM,5,Czarny
+Land,Rover Range Rover Evoque,2015,86 900 PLN,85 041 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Sport,2019,259 900 PLN,69 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Velar,2023,278 900 PLN,17 158 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Srebrny
+Land,Rover Range Rover Sport,2012,95 000 PLN,141 400 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Czarny
+Land,Rover Discovery,2005,25 000 PLN,332 636 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Range Rover Evoque,2019,129 000 PLN,56 300 km,Benzyna,Automatyczna,SUV,1 998 cm3,200 KM,5,Czarny
+Land,Rover Discovery,2007,43 000 PLN,223 000 km,Diesel,Manualna,SUV,2 720 cm3,190 KM,5,Inny kolor
+Land,Rover Range Rover Velar,2018,126 000 PLN,309 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover,2015,197 000 PLN,246 700 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Range Rover,2018,309 900 PLN,120 506 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Złoty
+Land,Rover Discovery Sport,2016,74 500 PLN,207 150 km,Benzyna,Automatyczna,SUV,1 998 cm3,290 KM,5,Beżowy
+Land,Rover Range Rover Sport,2006,33 900 PLN,168 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Discovery Sport,2015,81 000 PLN,116 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,82 900 PLN,181 200 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,74 000 PLN,137 579 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Evoque,2017,99 900 PLN,84 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2012,62 000 PLN,277 988 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Brązowy
+Land,Rover Range Rover Sport,2015,73 000 PLN,190 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Inny kolor
+Land,Rover Discovery,2018,165 900 PLN,132 600 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover Velar,2018,167 000 PLN,117 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover,2017,250 000 PLN,140 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Czarny
+Land,Rover Range Rover,2013,53 999 PLN,165 000 km,Diesel,Automatyczna,SUV,4 398 cm3,313 KM,4,Złoty
+Land,Rover Defender,2022,319 900 PLN,38 000 km,Hybryda,Automatyczna,SUV,2 996 cm3,249 KM,5,Srebrny
+Land,Rover Defender,2023,480 000 PLN,22 000 km,Hybryda,Automatyczna,SUV,2 996 cm3,300 KM,5,Zielony
+Land,Rover Range Rover Evoque,2016,110 000 PLN,45 600 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2017,89 790 PLN,124 500 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover,2020,429 000 PLN,49 000 km,Hybryda,Automatyczna,SUV,2 996 cm3,400 KM,5,Złoty
+Land,Rover Freelander,2002,11 500 PLN,169 600 km,Benzyna+LPG,Manualna,SUV,1 796 cm3,117 KM,5,Srebrny
+Land,Rover Range Rover Sport,2014,119 000 PLN,108 400 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,219 900 PLN,41 869 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Biały
+Land,Rover Range Rover Evoque,2022,229 150,30 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Czarny
+Land,Rover Range Rover Sport,2014,109 899,213 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,74 950 PLN,75 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,3,Czarny
+Land,Rover Discovery,2012,75 000 PLN,212 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2018,111 000 PLN,113 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2016,87 000 PLN,64 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Sport,2019,438 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Biały
+Land,Rover Range Rover Sport,2013,67 900 PLN,196 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Czarny
+Land,Rover Discovery,2005,33 600 PLN,257 136 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Szary
+Land,Rover Discovery Sport,2016,73 900 PLN,145 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Beżowy
+Land,Rover Discovery Sport,2017,75 000 PLN,98 164 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2011,65 000 PLN,159 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Brązowy
+Land,Rover Discovery Sport,2016,69 999 PLN,169 852 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,140 000 PLN,102 400 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Sport,2014,109 000 PLN,172 000 km,Diesel,Automatyczna,SUV,2 993 cm3,249 KM,5,Czarny
+Land,Rover Range Rover Sport,2016,129 150 PLN,195 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,78 900 PLN,79 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Discovery,2015,121 770 PLN,135 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Bordowy
+Land,Rover Range Rover Evoque,2018,99 000 PLN,73 833 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czerwony
+Land,Rover Discovery,2001,26 000 PLN,356 200 km,Diesel,Manualna,SUV,2 495 cm3,137 KM,5,Srebrny
+Land,Rover Discovery Sport,2016,67 700 PLN,165 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,69 900 PLN,133 758 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Szary
+Land,Rover Range Rover,2023,869 900 PLN,13 375 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+Land,Rover Range Rover Evoque,2019,164 999 PLN,93 500 km,Hybryda,Automatyczna,SUV,1 998 cm3,200 KM,5,Szary
+Land,Rover Discovery,2012,77 500 PLN,250 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Srebrny
+Land,Rover Discovery,2012,77 500 PLN,250 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Srebrny
+Land,Rover Discovery Sport,2017,74 500 PLN,165 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Żółty
+Land,Rover Discovery Sport,2018,103 900 PLN,91 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Szary
+Land,Rover Range Rover Sport,2015,159 900 PLN,155 350 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Biały
+Land,Rover Range Rover,2005,17 900 PLN,240 000 km,Benzyna,Automatyczna,SUV,4 398 cm3,306 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2016,78 900 PLN,182 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Evoque,2019,99 500 PLN,81 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Sport,2013,113 000 PLN,98 598 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czarny
+Land,Rover Range Rover Evoque,2018,99 999 PLN,159 000 km,Diesel,Manualna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2015,74 000 PLN,62 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Czerwony
+Land,Rover Range Rover Sport,2017,125 900 PLN,118 566 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Range Rover Evoque,2020,128 000 PLN,96 200 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2019,209 100 PLN,55 000 km,Benzyna,Automatyczna,SUV,2 999 cm3,380 KM,5,Biały
+Land,Rover Range Rover Evoque,2018,109 000 PLN,153 100 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Błękitny
+Land,Rover Range Rover Sport,2019,199 999 PLN,130 000 km,Hybryda,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Discovery Sport,2017,59 900 PLN,141 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Sport,2019,320 000 PLN,110 222 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Szary
+Land,Rover Range Rover Velar,2018,175 000 PLN,133 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Czarny
+Land,Rover Discovery,2011,59 040 PLN,327 000 km,Diesel,Automatyczna,Kombi,2 993 cm3,210 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,89 990 PLN,127 500 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czerwony
+Land,Rover Range Rover Velar,2018,169 000 PLN,111 607 km,Benzyna,Automatyczna,SUV,1 999 cm3,250 KM,5,Biały
+Land,Rover Defender,2014,169 900,148 900 km,Diesel,Manualna,SUV,2 179 cm3,122 KM,5,Zielony
+Land,Rover Range Rover Evoque,2024,319 900 PLN,1 591 km,Hybryda Plug-in,Automatyczna,SUV,1 498 cm3,200 KM,5,Biały
+Land,Rover Range Rover,2019,174 999 PLN,75 500 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+Land,Rover Defender,2023,439 000 PLN,20 500 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Zielony
+Land,Rover Range Rover Sport,2024,839 100 PLN,20 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,550 KM,5,Szary
+Land,Rover Range Rover Evoque,2023,228 200 PLN,13 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Evoque,2023,219 900 PLN,40 565 km,Benzyna,Automatyczna,SUV,1 999 cm3,204 KM,5,Szary
+Land,Rover Range Rover Evoque,2024,271 900 PLN,4 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Defender,2024,570 080 PLN,90 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Srebrny
+Land,Rover Discovery,2013,104 500 PLN,117 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,375 KM,5,Czarny
+Land,Rover Range Rover,2019,349 000 PLN,121 115 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Srebrny
+Land,Rover Range Rover,2024,881 580 PLN,4 000 km,Benzyna,Automatyczna,SUV,2 997 cm3,380 KM,5,Szary
+Land,Rover Discovery,2012,39 900 PLN,267 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Czarny
+Land,Rover Range Rover Velar,2024,394 900 PLN,10 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2018,174 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Biały
+Land,Rover Range Rover Evoque,2023,219 900 PLN,30 112 km,Benzyna,Automatyczna,SUV,1 999 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,559 650 PLN,20 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Discovery Sport,2015,62 800 PLN,120 933 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover,2022,699 000 PLN,58 000 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Defender,2002,99 900 PLN,171 411 km,Diesel,Manualna,SUV,2 495 cm3,122 KM,5,Zielony
+Land,Rover Range Rover Sport,2019,399 000 PLN,115 500 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2014,89 900 PLN,88 870 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Bordowy
+Land,Rover Discovery,2015,106 500 PLN,193 819 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,596 900 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,673 160 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2017,138 000 PLN,97 200 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Biały
+Land,Rover Discovery,2024,457 980 PLN,20 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Niebieski
+Land,Rover Range Rover Sport,2023,579 600 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Discovery Sport,2016,67 000 PLN,205 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Sport,2019,259 000 PLN,128 741 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Beżowy
+Land,Rover Range Rover Sport,2014,94 900 PLN,160 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Granatowy
+Land,Rover Range Rover Velar,2024,459 900 PLN,2 011 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,404 KM,5,Biały
+Land,Rover Discovery Sport,2021,179 900 PLN,31 151 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Złoty
+Land,Rover Range Rover Velar,2018,145 000 PLN,139 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+Land,Rover Defender,2024,705 320 PLN,10 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2017,116 900 PLN,77 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czerwony
+Land,Rover Defender,2004,63 000 PLN,204 193 km,Diesel,Manualna,SUV,2 495 cm3,122 KM,3,Zielony
+Land,Rover Range Rover,2015,165 000 PLN,225 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,49 900 PLN,219 682 km,Diesel,Manualna,SUV,2 179 cm3,190 KM,5,Szary
+Land,Rover Range Rover Velar,2023,288 000 PLN,17 346 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Range Rover Evoque,2023,257 000 PLN,23 261 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Szary
+Land,Rover Range Rover,2019,349 000 PLN,151 437 km,Benzyna,Automatyczna,SUV,5 000 cm3,565 KM,5,Bordowy
+Land,Rover Range Rover Velar,2020,249 900 PLN,66 900 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Velar,2020,249 900 PLN,66 900 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Evoque,2022,198 900 PLN,21 042 km,Diesel,Automatyczna,SUV,1 998 cm3,163 KM,5,Biały
+Land,Rover Defender,2024,544 070 PLN,10 km,Hybryda,Automatyczna,SUV,2 996 cm3,200 KM,5,Brązowy
+Land,Rover Range Rover Velar,2023,425 000 PLN,16 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Szary
+Land,Rover Discovery,2024,434 900 PLN,12 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,565 000 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover,2024,956 570 PLN,15 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,460 KM,5,Niebieski
+Land,Rover Defender,2023,375 000 PLN,13 500 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2023,245 000 PLN,6 600 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Sport,2018,330 000 PLN,111 207 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Czarny
+Land,Rover Range Rover,2023,1 194 900 PLN,10 km,Diesel,Automatyczna,SUV,2 998 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Sport,2022,469 000 PLN,11 000 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Szary
+Land,Rover Range Rover Sport,2024,626 000 PLN,5 000 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,460 KM,5,Szary
+Land,Rover Discovery,2023,344 500 PLN,24 970 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Discovery Sport,2023,269 900,16 902 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Sport,2011,61 900 PLN,240 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Biały
+Land,Rover Defender,2021,329 900 PLN,33 000 km,Diesel,Automatyczna,SUV,2 997 cm3,200 KM,3,Czarny
+Land,Rover Defender,2024,469 000 PLN,3 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Zielony
+Land,Rover Range Rover,2012,112 000 PLN,241 603 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Szary
+Land,Rover Discovery,2018,110 000 PLN,89 646 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Srebrny
+Land,Rover Discovery,2017,115 000 PLN,150 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Sport,2016,99 000 PLN,256 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Biały
+Land,Rover Discovery Sport,2023,290 000 PLN,12 206 km,Benzyna,Automatyczna,SUV,1 497 cm3,200 KM,5,Szary
+Land,Rover Discovery Sport,2022,245 000 PLN,33 518 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czerwony
+Land,Rover Discovery Sport,2020,134 900 PLN,45 244 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2015,79 900 PLN,188 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,109 900 PLN,63 075 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,3,Szary
+Land,Rover Range Rover,2024,949 000 PLN,5 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,259 999 PLN,173 000 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Czarny
+Land,Rover Range Rover,2014,169 000 PLN,145 450 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Discovery,2013,78 000 PLN,217 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Beżowy
+Land,Rover Range Rover Evoque,2019,164 000 PLN,89 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,2,Srebrny
+Land,Rover Range Rover Velar,2023,339 900 PLN,20 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Discovery,2017,189 000 PLN,70 578 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2022,189 900 PLN,19 879 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Biały
+Land,Rover Range Rover,2015,169 000 PLN,224 200 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Granatowy
+Land,Rover Range Rover Sport,2015,119 900 PLN,210 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,359 900 PLN,26 600 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Range Rover Evoque,2023,269 000 PLN,19 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Range Rover Sport,2024,630 000 PLN,1 000 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Szary
+Land,Rover Range Rover,2024,923 000 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Srebrny
+Land,Rover Range Rover,2024,1 459 000 PLN,5 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,615 KM,5,Niebieski
+Land,Rover Range Rover,2014,155 555 PLN,183 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Srebrny
+Land,Rover Discovery,2024,343 500 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Range Rover Sport,2020,399 000 PLN,96 680 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Szary
+Land,Rover Range Rover,2024,884 820 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Freelander,2007,4 500 PLN,243 200 km,Diesel,Automatyczna,SUV,2 179 cm3,152 KM,5,Granatowy
+Land,Rover Defender,2024,421 290 PLN,5 km,Diesel,Automatyczna,SUV,2 996 cm3,200 KM,5,Czarny
+Land,Rover Range Rover,2023,806 000 PLN,5 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,81 900 PLN,133 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2014,105 000 PLN,197 172 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Brązowy
+Land,Rover Range Rover Sport,2014,129 000 PLN,210 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,76 900 PLN,104 500 km,Diesel,Manualna,SUV,1 999 cm3,180 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2022,210 000 PLN,41 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,4,Czarny
+Land,Rover Defender,2024,464 900 PLN,10 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2007,7 900 PLN,181 000 km,Diesel,Manualna,SUV,2 720 cm3,190 KM,5,Szary
+Land,Rover Range Rover Evoque,2022,204 999 PLN,19 500 km,Diesel,Automatyczna,SUV,1 998 cm3,163 KM,5,Srebrny
+Land,Rover Discovery Sport,2019,124 900 PLN,59 540 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Srebrny
+Land,Rover Discovery,2018,138 000 PLN,125 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Inny kolor
+Land,Rover Discovery Sport,2017,49 900 PLN,142 000 km,Diesel,Manualna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,78 900 PLN,123 622 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Zielony
+Land,Rover Range Rover Evoque,2016,89 790 PLN,82 700 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Defender,2008,64 500 PLN,234 724 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Zielony
+Land,Rover Discovery Sport,2018,83 900 PLN,151 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Discovery Sport,2015,68 900 PLN,153 903 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Defender,2023,419 900 PLN,14 034 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Velar,2018,164 900 PLN,121 900 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,36 000 PLN,164 655 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,4,Srebrny
+Land,Rover Range Rover Velar,2017,195 000 PLN,165 000 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Czerwony
+Land,Rover Range Rover Velar,2019,179 000 PLN,149 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2019,144 100 PLN,150 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Sport,2006,6 500 PLN,320 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Range Rover Velar,2022,329 700 PLN,42 215 km,Hybryda Plug-in,Automatyczna,SUV,1 998 cm3,404 KM,5,Czarny
+Land,Rover Discovery,2014,109 900 PLN,170 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,294 700 PLN,9 174 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Szary
+Land,Rover Defender,2024,742 000 PLN,5 km,Benzyna,Automatyczna,SUV,4 999 cm3,525 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,830 260 PLN,15 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,400 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,429 700 PLN,8 816 km,Diesel,Automatyczna,SUV,2 998 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Sport,2011,44 900 PLN,260 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Zielony
+Land,Rover Discovery,2019,189 000 PLN,89 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Velar,2023,307 700 PLN,10 622 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Range Rover Sport,2014,89 900 PLN,214 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czarny
+Land,Rover Range Rover,2024,909 740 PLN,15 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Biały
+Land,Rover Defender,2023,399 000 PLN,12 234 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Freelander,2008,20 500 PLN,244 000 km,Diesel,Automatyczna,SUV,2 179 cm3,152 KM,5,Srebrny
+Land,Rover Range Rover Velar,2023,394 700 PLN,12 963 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Szary
+Land,Rover Range Rover Velar,2022,349 000 PLN,5 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Niebieski
+Land,Rover Discovery Sport,2022,183 700 PLN,33 962 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Niebieski
+Land,Rover Range Rover Sport,2014,104 900 PLN,173 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czarny
+Land,Rover Defender,2023,359 000 PLN,22 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,3,Zielony
+Land,Rover Discovery Sport,2016,82 000 PLN,116 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Evoque,2018,104 900 PLN,102 338 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Defender,2010,69 900 PLN,201 000 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Zielony
+Land,Rover Range Rover Evoque,2021,169 000 PLN,38 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Czarny
+Land,Rover Defender,2020,392 000 PLN,69 000 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Zielony
+Land,Rover Range Rover Velar,2023,422 000 PLN,4 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2021,195 570 PLN,103 900 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Szary
+Land,Rover Defender,2024,313 026 PLN,1 km,Diesel,Automatyczna,SUV,3 000 cm3,200 KM,5,Czarny
+Land,Rover Freelander,2005,14 900 PLN,353 500 km,Diesel,Manualna,SUV,1 950 cm3,112 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2021,163 000 PLN,134 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2022,209 900 PLN,18 440 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Szary
+Land,Rover Inny,1963,111 111 PLN,99 999 km,Diesel,Manualna,SUV,2 225 cm3,76 KM,2,Zielony
+Land,Rover Range Rover Evoque,2023,189 000 PLN,24 000 km,Benzyna,Automatyczna,SUV,1 497 cm3,160 KM,5,Brązowy
+Land,Rover Range Rover Sport,2007,25 900 PLN,170 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Inny kolor
+Land,Rover Defender,2011,175 555 PLN,375 000 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,5,Zielony
+Land,Rover Range Rover Evoque,2023,190 000 PLN,20 000 km,Benzyna,Automatyczna,SUV,1 497 cm3,160 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,293 700 PLN,22 200 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Discovery Sport,2023,224 900 PLN,19 351 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Sport,2008,29 999 PLN,398 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Range Rover Evoque,2015,74 900 PLN,221 800 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czerwony
+Land,Rover Range Rover Sport,2016,169 000 PLN,189 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Sport,2014,67 900 PLN,115 524 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,389 900 PLN,4 296 km,Diesel,Automatyczna,SUV,2 995 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,584 230 PLN,10 000 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Szary
+Land,Rover Range Rover Sport,2009,67 900 PLN,298 000 km,Benzyna+LPG,Automatyczna,SUV,4 197 cm3,390 KM,5,Czarny
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Land,Rover Range Rover Velar,2024,319 000 PLN,10 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czarny
+Land,Rover Discovery,2024,416 000 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Defender,2023,329 000 PLN,11 100 km,Diesel,Automatyczna,SUV,2 997 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Evoque,2024,252 000 PLN,4 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2024,258 000 PLN,7 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Biały
+Land,Rover Range Rover Sport,2015,119 000 PLN,245 500 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Velar,2018,165 000 PLN,65 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Defender,2023,619 900 PLN,7 997 km,Benzyna,Automatyczna,SUV,4 999 cm3,525 KM,3,Czarny
+Land,Rover Range Rover Sport,2024,1 154 320 PLN,10 km,Benzyna,Automatyczna,SUV,4 395 cm3,635 KM,5,Srebrny
+Land,Rover Range Rover,2017,299 900 PLN,142 000 km,Diesel,Automatyczna,SUV,4 367 cm3,339 KM,5,Biały
+Land,Rover Discovery,2018,199 850 PLN,91 997 km,Diesel,Automatyczna,Kombi,2 993 cm3,306 KM,5,Inny kolor
+Land,Rover Range Rover,2016,181 850 PLN,128 323 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2021,179 850 PLN,53 637 km,Benzyna,Automatyczna,SUV,1 998 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,99 999 PLN,149 871 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czerwony
+Land,Rover Range Rover,2017,191 850 PLN,107 547 km,Diesel,Automatyczna,Kombi,4 400 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2024,339 000 PLN,5 000 km,Hybryda Plug-in,Automatyczna,SUV,1 497 cm3,200 KM,5,Szary
+Land,Rover Discovery,2009,44 900 PLN,227 300 km,Diesel,Manualna,SUV,2 720 cm3,190 KM,5,Zielony
+Land,Rover Range Rover Sport,2017,139 900 PLN,135 957 km,Diesel,Automatyczna,Kombi,1 999 cm3,241 KM,5,Niebieski
+Land,Rover Range Rover Sport,2016,99 999 PLN,290 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Biały
+Land,Rover Range Rover Evoque,2024,288 500 PLN,10 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Range Rover,2015,171 900 PLN,129 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Szary
+Land,Rover Range Rover Velar,2020,159 900 PLN,103 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2014,75 900 PLN,216 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Evoque,2023,155 000 PLN,11 033 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Biały
+Land,Rover Range Rover Sport,2011,79 000 PLN,170 000 km,Benzyna+LPG,Automatyczna,SUV,4 999 cm3,510 KM,5,Szary
+Land,Rover Range Rover Evoque,2024,286 000 PLN,10 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Freelander,2001,8 500 PLN,132 500 km,Benzyna,Manualna,SUV,1 796 cm3,117 KM,3,Bordowy
+Land,Rover Discovery,2012,62 900 PLN,300 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Zielony
+Land,Rover Discovery Sport,2016,55 500 PLN,278 200 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Granatowy
+Land,Rover Range Rover Velar,2017,196 800 PLN,122 829 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Brązowy
+Land,Rover Range Rover Velar,2018,135 000 PLN,75 500 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Sport,2018,349 998,177 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,575 KM,5,Niebieski
+Land,Rover Discovery Sport,2016,79 500 PLN,177 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Discovery Sport,2020,139 000 PLN,31 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,290 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,171 999,118 921 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Discovery Sport,2015,79 900 PLN,157 000 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Szary
+Land,Rover Discovery Sport,2021,158 500 PLN,11 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Szary
+Land,Rover Range Rover Evoque,2016,75 500 PLN,228 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery,2018,154 000 PLN,143 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Evoque,2015,72 990 PLN,90 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2023,299 000 PLN,12 016 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Sport,2022,475 000 PLN,16 600 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czerwony
+Land,Rover Discovery,2010,32 900 PLN,245 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Złoty
+Land,Rover Defender,2013,285 000 PLN,118 000 km,Diesel,Manualna,SUV,2 179 cm3,122 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,67 900 PLN,155 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2016,46 800 PLN,106 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Beżowy
+Land,Rover Range Rover Sport,2016,159 654 PLN,61 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Biały
+Land,Rover Freelander,2008,39 900 PLN,243 000 km,Diesel,Automatyczna,SUV,2 179 cm3,152 KM,5,Granatowy
+Land,Rover Range Rover Velar,2018,203 000 PLN,76 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+Land,Rover Range Rover,2019,320 000 PLN,110 500 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Czarny
+Land,Rover Discovery Sport,2019,46 900 PLN,95 930 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover,2004,35 900 PLN,375 000 km,Diesel,Automatyczna,SUV,2 926 cm3,177 KM,5,Granatowy
+Land,Rover Range Rover Sport,2018,198 900 PLN,136 554 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Discovery Sport,2016,72 000 PLN,203 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Discovery Sport,2018,72 600 PLN,127 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2017,54 900 PLN,268 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2013,72 500 PLN,173 000 km,Benzyna+LPG,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Sport,2007,45 000 PLN,201 345 km,Benzyna+LPG,Automatyczna,SUV,4 197 cm3,390 KM,5,Czarny
+Land,Rover Discovery Sport,2016,59 700 PLN,211 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2016,85 000 PLN,100 850 km,Diesel,Manualna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Evoque,2019,137 900,70 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Biały
+Land,Rover Range Rover,2012,89 900 PLN,190 000 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,161 000 PLN,95 353 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Sport,2012,55 900 PLN,255 800 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Biały
+Land,Rover Range Rover,2018,169 900 PLN,76 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Czarny
+Land,Rover Discovery,2002,34 000 PLN,255 000 km,Diesel,Automatyczna,SUV,2 495 cm3,138 KM,5,Zielony
+Land,Rover Range Rover Velar,2022,239 900 PLN,26 800 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Złoty
+Land,Rover Discovery Sport,2018,83 900 PLN,132 452 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Złoty
+Land,Rover Freelander,2007,19 700 PLN,306 000 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Szary
+Land,Rover Defender,2020,269 000 PLN,120 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2009,40 000 PLN,231 000 km,Diesel,Manualna,SUV,2 720 cm3,190 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2016,39 900 PLN,85 869 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Evoque,2014,58 000 PLN,260 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,90 000 PLN,165 817 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Pomarańczowy
+Land,Rover Range Rover Evoque,2017,76 999 PLN,183 500 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czerwony
+Land,Rover Range Rover Sport,2020,339 900 PLN,30 300 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,66 000 PLN,350 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2019,115 000 PLN,104 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2013,39 800 PLN,208 800 km,Diesel,Automatyczna,SUV,2 179 cm3,190 KM,5,Biały
+Land,Rover Range Rover Sport,2016,141 450 PLN,190 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Bordowy
+Land,Rover Range Rover Evoque,2017,57 900 PLN,84 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Velar,2018,144 894 PLN,90 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Sport,2011,82 000 PLN,246 167 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Czarny
+Land,Rover Range Rover Sport,2006,45 000 PLN,156 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Szary
+Land,Rover Defender,2020,345 000 PLN,61 200 km,Benzyna,Automatyczna,SUV,2 996 cm3,400 KM,5,Biały
+Land,Rover Range Rover Evoque,2013,61 900 PLN,299 000 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Range Rover Velar,2017,127 900 PLN,124 500 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Velar,2019,166 600 PLN,161 537 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Srebrny
+Land,Rover Defender,2022,329 900 PLN,58 900 km,Diesel,Automatyczna,SUV,3 000 cm3,250 KM,5,Czarny
+Land,Rover Range Rover,2016,320 000 PLN,200 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Discovery Sport,2015,74 900 PLN,104 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Brązowy
+Land,Rover Range Rover,2023,879 000 PLN,28 500 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,269 900 PLN,31 628 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2017,145 900 PLN,115 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2021,339 000 PLN,88 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,179 900 PLN,95 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Beżowy
+Land,Rover Range Rover Sport,2013,109 000 PLN,166 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czerwony
+Land,Rover Range Rover,1998,17 000 PLN,151 000 km,Benzyna,Automatyczna,SUV,4 553 cm3,225 KM,5,Granatowy
+Land,Rover Range Rover Sport,2013,104 900 PLN,176 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Czarny
+Land,Rover Range Rover Sport,2013,79 900 PLN,190 123 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Szary
+Land,Rover Freelander,2004,16 900 PLN,194 000 km,Benzyna,Manualna,SUV,1 796 cm3,117 KM,5,Złoty
+Land,Rover Range Rover Evoque,2024,325 810 PLN,10 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Brązowy
+Land,Rover Discovery,2019,174 900 PLN,37 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Velar,2017,139 000 PLN,167 441 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Defender,2020,329 900 PLN,43 750 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Evoque,2023,186 000 PLN,20 000 km,Benzyna,Automatyczna,SUV,1 497 cm3,160 KM,5,Biały
+Land,Rover Range Rover,2024,1 112 840 PLN,10 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Biały
+Land,Rover Range Rover Evoque,2019,132 800 PLN,111 883 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Srebrny
+Land,Rover Discovery,2018,149 999 PLN,86 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2016,89 500 PLN,145 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Granatowy
+Land,Rover Discovery Sport,2023,249 000 PLN,19 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover,2024,910 260 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Sport,2021,449 000 PLN,97 256 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Inny kolor
+Land,Rover Discovery Sport,2021,169 999 PLN,58 000 km,Hybryda,Automatyczna,SUV,1 997 cm3,200 KM,5,Szary
+Land,Rover Discovery Sport,2017,69 900 PLN,106 816 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2018,114 999 PLN,63 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Sport,2020,230 000 PLN,55 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Granatowy
+Land,Rover Range Rover,2018,279 000 PLN,119 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover Sport,2013,35 000 PLN,112 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,380 KM,5,Biały
+Land,Rover Defender,2024,618 610 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Evoque,2021,179 900 PLN,40 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Biały
+Land,Rover Range Rover Sport,2018,179 777 PLN,72 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Range Rover,2024,863 236 PLN,4 000 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Złoty
+Land,Rover Range Rover Velar,2017,169 900 PLN,110 000 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Discovery Sport,2019,97 000 PLN,64 000 km,Diesel,Automatyczna,SUV,1 999 cm3,149 KM,5,Srebrny
+Land,Rover Range Rover,2023,769 000 PLN,5 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Evoque,2022,198 900 PLN,8 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Niebieski
+Land,Rover Discovery Sport,2015,69 900 PLN,162 100 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Velar,2023,389 000 PLN,4 350 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Czarny
+Land,Rover Defender,2024,500 150 PLN,15 km,Diesel,Automatyczna,SUV,2 997 cm3,250 KM,3,Szary
+Land,Rover Discovery,2005,59 000 PLN,210 000 km,Benzyna+LPG,Automatyczna,SUV,4 394 cm3,300 KM,5,Srebrny
+Land,Rover Range Rover Sport,2023,499 900 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Błękitny
+Land,Rover Range Rover Sport,2018,210 000 PLN,162 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Defender,2024,489 000 PLN,7 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Czarny
+Land,Rover Freelander,2009,32 200 PLN,324 000 km,Diesel,Automatyczna,SUV,2 179 cm3,152 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,64 900 PLN,249 123 km,Diesel,Automatyczna,SUV,2 179 cm3,190 KM,5,Szary
+Land,Rover Range Rover Sport,2018,169 000 PLN,137 800 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,367 600 PLN,20 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Inny kolor
+Land,Rover Discovery,2015,118 000 PLN,122 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czarny
+Land,Rover Defender,2020,230 000 PLN,65 000 km,Diesel,Automatyczna,SUV,1 999 cm3,200 KM,5,Biały
+Land,Rover Defender,2021,285 000 PLN,125 401 km,Diesel,Automatyczna,SUV,2 996 cm3,250 KM,5,Czarny
+Land,Rover Range Rover,2024,910 880 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Evoque,2021,159 900 PLN,11 683 km,Benzyna,Automatyczna,SUV,1 498 cm3,160 KM,5,Biały
+Land,Rover Discovery Sport,2019,70 000 PLN,87 500 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Range Rover Sport,2006,44 900 PLN,253 000 km,Benzyna+LPG,Automatyczna,SUV,4 197 cm3,390 KM,5,Czarny
+Land,Rover Discovery Sport,2024,278 000 PLN,5 km,Benzyna,Automatyczna,SUV,1 999 cm3,204 KM,5,Niebieski
+Land,Rover Range Rover Velar,2018,184 000 PLN,88 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,300 KM,5,Biały
+Land,Rover Discovery,2015,179 000 PLN,82 064 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czarny
+Land,Rover Freelander,2004,15 999 PLN,161 000 km,Benzyna+LPG,Automatyczna,SUV,2 497 cm3,177 KM,3,Zielony
+Land,Rover Discovery Sport,2015,71 900 PLN,97 180 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Zielony
+Land,Rover Discovery Sport,2020,54 900 PLN,53 103 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Szary
+Land,Rover Discovery Sport,2024,279 900 PLN,4 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Range Rover,2024,1 009 990 PLN,5 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Zielony
+Land,Rover Discovery,2018,194 900 PLN,133 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Inny kolor
+Land,Rover Discovery,2001,28 500 PLN,307 677 km,Benzyna+LPG,Automatyczna,SUV,3 950 cm3,184 KM,5,Inny kolor
+Land,Rover Discovery Sport,2019,139 900 PLN,63 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Niebieski
+Land,Rover Discovery,2014,83 888 PLN,190 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Czarny
+Land,Rover Discovery,2019,184 900 PLN,119 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2024,335 000 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,1 498 cm3,200 KM,5,Czarny
+Land,Rover Discovery Sport,2016,79 900 PLN,89 176 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,199 900 PLN,132 122 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Szary
+Land,Rover Range Rover Evoque,2016,116 850 PLN,102 064 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Pomarańczowy
+Land,Rover Range Rover Sport,2018,199 900 PLN,141 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Biały
+Land,Rover Range Rover,2008,25 500 PLN,217 000 km,Diesel,Automatyczna,SUV,3 628 cm3,272 KM,5,Czarny
+Land,Rover Discovery Sport,2016,75 500 PLN,243 300 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2016,67 800 PLN,161 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Inny kolor
+Land,Rover Discovery Sport,2017,78 300 PLN,96 815 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery,2023,349 700 PLN,14 100 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Szary
+Land,Rover Range Rover Velar,2021,189 000 PLN,38 400 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover,2017,245 000 PLN,166 720 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,79 000 PLN,216 800 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Range Rover Velar,2023,381 000 PLN,18 400 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Discovery Sport,2023,249 900 PLN,7 500 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Niebieski
+Land,Rover Discovery,2023,358 900 PLN,16 000 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Szary
+Land,Rover Range Rover Evoque,2018,109 900 PLN,65 287 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Range Rover Sport,2018,299 000 PLN,92 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover,2024,872 290 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,259 000 PLN,44 095 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Niebieski
+Land,Rover Discovery,2017,149 000 PLN,99 500 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Defender,2024,449 900 PLN,10 000 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Czarny
+Land,Rover Range Rover Sport,2023,569 000 PLN,5 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2020,159 000 PLN,54 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover,2018,349 900 PLN,135 870 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2021,172 000 PLN,63 983 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Evoque,2019,97 999 PLN,193 200 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Srebrny
+Land,Rover Range Rover,2024,1 079 170 PLN,10 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2021,269 000 PLN,33 495 km,Hybryda Plug-in,Automatyczna,SUV,1 498 cm3,200 KM,5,Czarny
+Land,Rover Discovery Sport,2022,189 900 PLN,28 500 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Szary
+Land,Rover Discovery Sport,2016,83 900 PLN,136 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,158 850 PLN,92 165 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Sport,2007,49 900 PLN,294 000 km,Benzyna+LPG,Automatyczna,SUV,4 197 cm3,390 KM,5,Czarny
+Land,Rover Discovery Sport,2019,99 900 PLN,53 600 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Range Rover Velar,2018,209 850 PLN,96 710 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Szary
+Land,Rover Defender,2011,104 999 PLN,209 000 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Zielony
+Land,Rover Range Rover,2009,49 500 PLN,250 000 km,Diesel,Automatyczna,SUV,3 628 cm3,272 KM,5,Szary
+Land,Rover Defender,2023,424 000 PLN,6 500 km,Benzyna,Automatyczna,SUV,4 999 cm3,525 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,367 600 PLN,20 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Biały
+Land,Rover Range Rover,2016,179 900 PLN,125 500 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Czarny
+Land,Rover Range Rover Velar,2024,457 000 PLN,6 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,404 KM,5,Szary
+Land,Rover Range Rover Velar,2024,381 580 PLN,10 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Defender,1974,30 000 PLN,90 000 km,Benzyna,Manualna,SUV,2 300 cm3,100 KM,3,Zielony
+Land,Rover Freelander,2000,4 300 PLN,215 000 km,Diesel,Automatyczna,SUV,1 998 cm3,97 KM,3,Zielony
+Land,Rover Defender,1999,84 900 PLN,262 500 km,Diesel,Manualna,SUV,2 495 cm3,122 KM,3,Biały
+Land,Rover Range Rover Sport,2015,74 900 PLN,113 624 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Szary
+Land,Rover Range Rover Sport,2011,69 500 PLN,261 440 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Biały
+Land,Rover Discovery,2024,379 900 PLN,5 000 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Czarny
+Land,Rover Discovery,2016,115 500 PLN,139 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Czarny
+Land,Rover Discovery Sport,2015,78 000,111 137 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Discovery Sport,2023,264 900 PLN,12 500 km,Hybryda,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Range Rover Velar,2024,440 890 PLN,15 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Sport,2011,75 000 PLN,200 800 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Biały
+Land,Rover Range Rover Sport,2022,399 900 PLN,87 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Szary
+Land,Rover Range Rover Velar,2018,164 900 PLN,82 757 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Szary
+Land,Rover Defender,2023,329 990 PLN,15 030 km,Diesel,Automatyczna,SUV,2 996 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,289 990 PLN,12 040 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Granatowy
+Land,Rover Range Rover Sport,2023,479 990 PLN,4 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Biały
+Land,Rover Discovery Sport,2023,248 356 PLN,16 861 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Czarny
+Land,Rover Discovery Sport,2023,259 990 PLN,22 900 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Czarny
+Land,Rover Discovery,2022,339 990 PLN,19 900 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Srebrny
+Land,Rover Defender,2022,439 990 PLN,21 900 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,3,Zielony
+Land,Rover Range Rover Velar,2023,358 900 PLN,20 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Błękitny
+Land,Rover Range Rover Velar,2022,289 990 PLN,15 952 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,319 990 PLN,17 040 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Czarny
+Land,Rover Discovery,2023,369 990 PLN,4 000 km,Hybryda,Automatyczna,SUV,2 995 cm3,360 KM,5,Złoty
+Land,Rover Discovery Sport,2023,229 990 PLN,15 000 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,94 000 PLN,106 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Biały
+Land,Rover Discovery,2019,199 900 PLN,81 702 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2013,64 900 PLN,255 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Zielony
+Land,Rover Range Rover,1998,31 900 PLN,123 500 km,Benzyna,Automatyczna,SUV,4 553 cm3,225 KM,5,Granatowy
+Land,Rover Discovery Sport,2023,212 000 PLN,6 200 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Czerwony
+Land,Rover Range Rover Velar,2024,429 000 PLN,6 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Niebieski
+Land,Rover Range Rover Sport,2022,549 900 PLN,19 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,575 KM,5,Niebieski
+Land,Rover Range Rover Sport,2023,679 900 PLN,79 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,344 900 PLN,20 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Discovery,2016,79 900 PLN,133 401 km,Benzyna,Automatyczna,Kombi,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Evoque,2011,73 900 PLN,142 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2023,229 000 PLN,18 900 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Defender,2023,449 000 PLN,16 418 km,Hybryda,Automatyczna,SUV,2 996 cm3,300 KM,5,Zielony
+Land,Rover Discovery Sport,2018,71 900 PLN,138 768 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czerwony
+Land,Rover Discovery,2016,79 948,237 055 km,Diesel,Automatyczna,SUV,2 993 cm3,210 KM,5,Czarny
+Land,Rover Discovery Sport,2024,299 000 PLN,6 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Szary
+Land,Rover Range Rover Evoque,2024,312 620 PLN,5 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Niebieski
+Land,Rover Range Rover Sport,2024,749 000 PLN,7 000 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,400 KM,5,Zielony
+Land,Rover Range Rover Velar,2021,210 900 PLN,57 148 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Defender,2024,529 510 PLN,5 km,Diesel,Automatyczna,SUV,2 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Sport,2021,155 000 PLN,171 000 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Biały
+Land,Rover Freelander,2007,16 990 PLN,230 000 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Szary
+Land,Rover Defender,2010,99 900 PLN,255 000 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,4,Zielony
+Land,Rover Range Rover Evoque,2019,129 990,90 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Srebrny
+Land,Rover Discovery Sport,2023,225 000 PLN,11 400 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Szary
+Land,Rover Discovery Sport,2023,235 000 PLN,9 500 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czerwony
+Land,Rover Range Rover Sport,2018,399 999 PLN,84 190 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Szary
+Land,Rover Defender,2022,469 999 PLN,52 693 km,Benzyna,Automatyczna,SUV,2 996 cm3,399 KM,5,Szary
+Land,Rover Range Rover Sport,2011,48 000 PLN,325 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Biały
+Land,Rover Discovery Sport,2017,77 700 PLN,147 500 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Srebrny
+Land,Rover Range Rover,2015,194 900 PLN,141 000 km,Diesel,Automatyczna,SUV,2 993 cm3,340 KM,5,Złoty
+Land,Rover Defender,2010,79 000 PLN,222 556 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Zielony
+Land,Rover Range Rover Evoque,2013,60 000 PLN,137 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2014,75 000 PLN,111 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Velar,2020,144 444 PLN,164 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Szary
+Land,Rover Discovery,2024,399 000 PLN,50 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Czarny
+Land,Rover Defender,2024,446 258 PLN,7 500 km,Diesel,Automatyczna,SUV,2 997 cm3,250 KM,5,Szary
+Land,Rover Range Rover Velar,2023,309 990 PLN,17 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Range Rover Velar,2022,339 990 PLN,24 000 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Niebieski
+Land,Rover Range Rover Velar,2023,399 990 PLN,9 900 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Brązowy
+Land,Rover Range Rover,2013,164 000 PLN,300 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover,2024,769 000 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,2 996 cm3,400 KM,5,Zielony
+Land,Rover Range Rover Sport,2024,648 590 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,648 590 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Range Rover,2024,769 000 PLN,10 km,Hybryda Plug-in,Automatyczna,SUV,2 996 cm3,400 KM,5,Zielony
+Land,Rover Discovery,2018,159 900 PLN,103 827 km,Diesel,Automatyczna,SUV,1 997 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Sport,2015,119 000 PLN,157 075 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Evoque,2015,75 500 PLN,166 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2020,109 800 PLN,97 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Evoque,2013,69 700 PLN,200 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2016,56 000 PLN,213 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Złoty
+Land,Rover Discovery,2008,37 900 PLN,240 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Zielony
+Land,Rover Range Rover,2014,68 500 PLN,158 130 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Discovery,1999,14 400 PLN,194 000 km,Diesel,Automatyczna,SUV,2 495 cm3,137 KM,5,Czarny
+Land,Rover Range Rover Sport,2015,99 000 PLN,198 700 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Brązowy
+Land,Rover Defender,2010,119 000 PLN,75 432 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Zielony
+Land,Rover Range Rover Sport,2009,39 000 PLN,275 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Srebrny
+Land,Rover Discovery Sport,2017,74 900 PLN,171 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Freelander,1999,12 900 PLN,135 000 km,Benzyna,Manualna,SUV,1 796 cm3,117 KM,3,Inny kolor
+Land,Rover Range Rover Sport,2020,249 000 PLN,132 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,69 999 PLN,100 310 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Sport,2020,299 999 PLN,29 000 km,Hybryda,Automatyczna,SUV,2 996 cm3,400 KM,5,Biały
+Land,Rover Discovery Sport,2019,98 900 PLN,46 900 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Freelander,2010,21 000 PLN,290 000 km,Diesel,Automatyczna,SUV,2 179 cm3,152 KM,5,Szary
+Land,Rover Range Rover Velar,2018,168 000 PLN,83 672 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Velar,2020,229 000 PLN,38 730 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Szary
+Land,Rover Range Rover Sport,2017,99 000 PLN,273 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Srebrny
+Land,Rover Freelander,2006,21 300 PLN,225 000 km,Diesel,Manualna,SUV,1 950 cm3,112 KM,5,Szary
+Land,Rover Range Rover Velar,2019,119 000 PLN,57 485 km,Benzyna,Automatyczna,SUV,1 999 cm3,250 KM,4,Czerwony
+Land,Rover Range Rover Sport,2015,88 560 PLN,375 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Discovery,2014,64 900 PLN,305 000 km,Diesel,Automatyczna,Kompakt,2 997 cm3,249 KM,5,Biały
+Land,Rover Range Rover Sport,2012,90 000 PLN,133 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Czarny
+Land,Rover Range Rover Velar,2018,165 000 PLN,140 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Czarny
+Land,Rover Defender,1974,68 000 PLN,17 500 km,Benzyna+LPG,Manualna,SUV,2 250 cm3,74 KM,3,Zielony
+Land,Rover Discovery Sport,2016,74 500 PLN,199 800 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover,2007,53 000 PLN,188 900 km,Benzyna,Automatyczna,SUV,4 394 cm3,306 KM,5,Biały
+Land,Rover Discovery Sport,2020,139 898,92 452 km,Hybryda,Automatyczna,SUV,1 997 cm3,200 KM,5,Szary
+Land,Rover Range Rover,2005,34 750 PLN,295 000 km,Diesel,Automatyczna,SUV,2 926 cm3,177 KM,5,Srebrny
+Land,Rover Range Rover,2019,410 000 PLN,90 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Niebieski
+Land,Rover Discovery,2012,69 900 PLN,451 045 km,Diesel,Automatyczna,SUV,2 993 cm3,210 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,82 000 PLN,92 100 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Sport,2020,239 999 PLN,143 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Sport,2014,148 000 PLN,125 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Biały
+Land,Rover Range Rover Evoque,2012,56 800 PLN,288 500 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,3,Czarny
+Land,Rover Range Rover,2018,320 000 PLN,149 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Sport,2018,290 000 PLN,87 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Szary
+Land,Rover Range Rover Evoque,2018,104 900 PLN,89 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Biały
+Land,Rover Range Rover Sport,2016,300 000 PLN,250 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,550 KM,5,Niebieski
+Land,Rover Discovery Sport,2019,109 900 PLN,24 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,290 KM,5,Biały
+Land,Rover Range Rover Velar,2019,146 900 PLN,131 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2020,165 000 PLN,29 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,290 KM,5,Szary
+Land,Rover Defender,2012,109 000 PLN,38 000 km,Diesel,Manualna,SUV,2 198 cm3,122 KM,2,Biały
+Land,Rover Discovery,2016,139 000 PLN,182 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Szary
+Land,Rover Range Rover Evoque,2020,170 000 PLN,29 900 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2019,98 888 PLN,63 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Sport,2010,19 999 PLN,153 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,510 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2017,59 900 PLN,78 900 km,Benzyna,Automatyczna,Coupe,1 999 cm3,240 KM,3,Biały
+Land,Rover Range Rover,1996,27 000 PLN,381 000 km,Benzyna+LPG,Automatyczna,SUV,3 947 cm3,190 KM,5,Inny kolor
+Land,Rover Range Rover,2019,385 000 PLN,16 831 km,Hybryda,Automatyczna,SUV,2 996 cm3,400 KM,5,Czarny
+Land,Rover Freelander,2008,29 900 PLN,220 000 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Czarny
+Land,Rover Range Rover,2002,26 000 PLN,298 000 km,Benzyna+LPG,Automatyczna,SUV,4 398 cm3,286 KM,5,Czarny
+Land,Rover Discovery,2016,85 000 PLN,264 974 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Inny kolor
+Land,Rover Discovery,2007,53 500 PLN,259 000 km,Benzyna+LPG,Automatyczna,SUV,4 394 cm3,300 KM,5,Czarny
+Land,Rover Discovery Sport,2016,69 800 PLN,168 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Inny kolor
+Land,Rover Range Rover,2007,19 900 PLN,243 662 km,Diesel,Automatyczna,SUV,3 630 cm3,272 KM,5,Granatowy
+Land,Rover Discovery,2024,185 000 PLN,3 265 km,Benzyna,Automatyczna,SUV,1 999 cm3,300 KM,5,Biały
+Land,Rover Discovery Sport,2018,75 999 PLN,229 999 km,Diesel,Automatyczna,SUV,2 000 cm3,180 KM,5,Szary
+Land,Rover Range Rover Velar,2020,169 990 PLN,75 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Discovery Sport,2017,72 900 PLN,189 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Bordowy
+Land,Rover Discovery Sport,2016,79 000 PLN,110 500 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Discovery Sport,2017,66 800 PLN,198 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Velar,2021,289 900 PLN,79 289 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2014,56 900 PLN,161 400 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Czarny
+Land,Rover Discovery Sport,2023,199 900 PLN,13 631 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Srebrny
+Land,Rover Range Rover,2018,309 900 PLN,81 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover,2018,349 500 PLN,102 500 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Czarny
+Land,Rover Range Rover Evoque,2012,67 000 PLN,216 800 km,Diesel,Automatyczna,SUV,2 179 cm3,190 KM,5,Beżowy
+Land,Rover Range Rover Velar,2018,199 900 PLN,50 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Czarny
+Land,Rover Range Rover,2014,159 998,109 937 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Range Rover,2017,165 000 PLN,74 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Szary
+Land,Rover Range Rover,2023,895 000 PLN,9 000 km,Hybryda Plug-in,Automatyczna,SUV,2 996 cm3,400 KM,5,Srebrny
+Land,Rover Defender,2011,85 900 PLN,232 000 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,2,Biały
+Land,Rover Defender,2007,110 000 PLN,222 743 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Szary
+Land,Rover Range Rover,2024,930 110 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,,Czarny
+Land,Rover Range Rover,2012,85 900 PLN,275 000 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Czarny
+Land,Rover Range Rover Evoque,2022,209 900 PLN,30 022 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Czerwony
+Land,Rover Range Rover Evoque,2013,63 900 PLN,160 000 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Discovery Sport,2020,116 999 PLN,141 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2024,289 000 PLN,5 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Niebieski
+Land,Rover Discovery Sport,2022,204 000 PLN,55 275 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Szary
+Land,Rover Freelander,2010,35 000 PLN,204 000 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Czarny
+Land,Rover Range Rover Sport,2018,159 000 PLN,99 552 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover,2018,259 900 PLN,118 900 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Defender,2008,299 900 PLN,130 252 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,3,Szary
+Land,Rover Range Rover Sport,2022,570 000 PLN,26 050 km,Hybryda,Automatyczna,SUV,2 996 cm3,400 KM,5,Szary
+Land,Rover Discovery Sport,2018,86 900 PLN,189 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2019,159 900 PLN,54 600 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Szary
+Land,Rover Range Rover Sport,2011,50 000 PLN,180 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Czarny
+Land,Rover Range Rover Sport,2015,154 900 PLN,194 600 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Biały
+Land,Rover Range Rover Sport,2015,154 900 PLN,194 600 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Biały
+Land,Rover Discovery Sport,2019,135 900 PLN,66 813 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,39 900 PLN,141 500 km,Diesel,Manualna,SUV,2 179 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Velar,2024,412 700 PLN,4 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Szary
+Land,Rover Range Rover Velar,2024,390 900 PLN,4 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Sport,2024,669 900 PLN,4 000 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Discovery Sport,2020,119 900 PLN,68 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Evoque,2024,301 900 PLN,4 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Defender,2024,587 000 PLN,4 000 km,Diesel,Automatyczna,SUV,2 996 cm3,300 KM,5,Czarny
+Land,Rover Range Rover Sport,2011,80 000 PLN,270 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Szary
+Land,Rover Range Rover Evoque,2024,292 000 PLN,1 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Czarny
+Land,Rover Range Rover,2015,180 000 PLN,183 000 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Szary
+Land,Rover Range Rover,2012,83 900 PLN,176 000 km,Diesel,Automatyczna,SUV,4 367 cm3,312 KM,5,Beżowy
+Land,Rover Discovery,2016,149 000 PLN,149 000 km,Diesel,Automatyczna,SUV,2 993 cm3,255 KM,5,Biały
+Land,Rover Discovery,2018,159 900 PLN,104 073 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,239 900 PLN,30 027 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Srebrny
+Land,Rover Discovery Sport,2020,129 000 PLN,87 000 km,Hybryda,Automatyczna,SUV,1 999 cm3,163 KM,5,Czarny
+Land,Rover Range Rover Sport,2023,565 000 PLN,14 264 km,Diesel,Automatyczna,SUV,2 997 cm3,351 KM,5,Czarny
+Land,Rover Defender,2008,179 900 PLN,91 000 km,Diesel,Manualna,SUV,2 179 cm3,122 KM,5,Zielony
+Land,Rover Discovery Sport,2016,99 000 PLN,115 830 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Defender,2023,329 900 PLN,11 659 km,Diesel,Automatyczna,SUV,2 998 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,44 000 PLN,158 099 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,4,Srebrny
+Land,Rover Discovery Sport,2019,115 900 PLN,90 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Range Rover Evoque,2012,62 000 PLN,187 000 km,Benzyna,Automatyczna,Kombi,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover Sport,2016,14 400 PLN,207 352 km,Benzyna+LPG,Automatyczna,SUV,4 394 cm3,299 KM,5,Czarny
+Land,Rover Range Rover Sport,2023,529 000 PLN,9 500 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Sport,2023,515 000 PLN,13 000 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2012,49 900 PLN,108 704 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,3,Biały
+Land,Rover Range Rover Velar,2021,225 000 PLN,68 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Discovery,2023,299 900 PLN,13 080 km,Diesel,Automatyczna,SUV,2 997 cm3,249 KM,5,Szary
+Land,Rover Range Rover,2011,86 900 PLN,260 000 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Czarny
+Land,Rover Range Rover Sport,2018,219 900 PLN,66 439 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Discovery,2020,179 000 PLN,98 500 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover Sport,2020,159 900 PLN,31 869 km,Benzyna,Automatyczna,SUV,5 000 cm3,525 KM,5,Czarny
+Land,Rover Discovery,2017,149 900 PLN,77 669 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Discovery,2016,145 000 PLN,143 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Srebrny
+Land,Rover Defender,2024,349 000 PLN,5 000 km,Diesel,Automatyczna,SUV,2 996 cm3,200 KM,5,Czarny
+Land,Rover Defender,1999,99 900 PLN,300 000 km,Diesel,Manualna,SUV,2 495 cm3,111 KM,5,Zielony
+Land,Rover Range Rover Velar,2018,164 900 PLN,65 462 km,Benzyna,Automatyczna,SUV,1 999 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,89 900 PLN,95 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czerwony
+Land,Rover Range Rover Velar,2023,382 880 PLN,5 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Range Rover,2024,802 540 PLN,9 km,Hybryda,Automatyczna,SUV,2 997 cm3,400 KM,5,Czarny
+Land,Rover Range Rover Evoque,2016,57 900 PLN,197 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Sport,2016,146 900 PLN,139 510 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,105 000 PLN,67 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Velar,2022,310 000 PLN,5 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Inny kolor
+Land,Rover Freelander,2010,30 900 PLN,220 000 km,Diesel,Manualna,SUV,2 179 cm3,152 KM,5,Szary
+Land,Rover Range Rover Evoque,2023,235 000 PLN,18 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Czarny
+Land,Rover Discovery Sport,2016,59 900 PLN,155 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Czarny
+Land,Rover Range Rover Velar,2022,269 900 PLN,27 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Brązowy
+Land,Rover Discovery Sport,2020,145 000 PLN,125 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2024,324 900 PLN,6 000 km,Hybryda Plug-in,Automatyczna,SUV,1 498 cm3,160 KM,5,Szary
+Land,Rover Discovery Sport,2016,63 600 PLN,210 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Niebieski
+Land,Rover Range Rover Velar,2018,174 900 PLN,159 426 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Range Rover,2011,54 999 PLN,299 000 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Granatowy
+Land,Rover Range Rover Evoque,2024,269 000 PLN,10 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,200 KM,5,Niebieski
+Land,Rover Range Rover Velar,2018,105 900 PLN,76 800 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Szary
+Land,Rover Range Rover Sport,2018,179 900 PLN,125 324 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Szary
+Land,Rover Defender,2007,139 900 PLN,212 023 km,Diesel,Manualna,SUV,2 402 cm3,122 KM,5,Czarny
+Land,Rover Range Rover Evoque,2019,149 900 PLN,27 943 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2012,67 999 PLN,211 520 km,Diesel,Manualna,SUV,2 179 cm3,190 KM,3,Biały
+Land,Rover Freelander,2012,36 000 PLN,200 200 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Discovery,2012,76 900 PLN,280 000 km,Diesel,Automatyczna,SUV,2 993 cm3,210 KM,5,Czarny
+Land,Rover Freelander,2003,9 900 PLN,150 000 km,Benzyna+LPG,Manualna,SUV,1 796 cm3,117 KM,5,Srebrny
+Land,Rover Range Rover Evoque,2016,92 400 PLN,212 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover Evoque,2018,89 900 PLN,131 000 km,Diesel,Manualna,SUV,1 999 cm3,149 KM,5,Biały
+Land,Rover Range Rover Evoque,2024,298 900 PLN,1 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Biały
+Land,Rover Discovery,2017,129 800 PLN,121 598 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Czarny
+Land,Rover Freelander,1998,12 900 PLN,203 000 km,Benzyna,Manualna,SUV,1 796 cm3,120 KM,3,Niebieski
+Land,Rover Range Rover Sport,2024,719 000 PLN,5 km,Hybryda Plug-in,Automatyczna,SUV,2 997 cm3,400 KM,5,Czerwony
+Land,Rover Range Rover Evoque,2012,64 900 PLN,185 000 km,Diesel,Automatyczna,SUV,2 179 cm3,150 KM,5,Biały
+Land,Rover Range Rover,1988,43 000 PLN,180 000 km,Benzyna+LPG,Manualna,SUV,3 947 cm3,182 KM,5,Inny kolor
+Land,Rover Range Rover Velar,2018,139 900 PLN,93 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Brązowy
+Land,Rover Defender,2023,379 000 PLN,21 524 km,Diesel,Automatyczna,SUV,2 998 cm3,250 KM,5,Czarny
+Land,Rover Discovery Sport,2023,234 900 PLN,19 106 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Biały
+Land,Rover Discovery Sport,2020,142 500 PLN,65 051 km,Benzyna,Automatyczna,SUV,1 997 cm3,249 KM,5,Biały
+Land,Rover Discovery,2007,31 900 PLN,228 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Czarny
+Land,Rover Range Rover Sport,2019,199 900 PLN,110 138 km,Benzyna,Automatyczna,Kombi,1 997 cm3,300 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2017,109 900 PLN,114 484 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Pomarańczowy
+Land,Rover Defender,2021,319 900 PLN,48 864 km,Diesel,Automatyczna,SUV,2 996 cm3,200 KM,3,Szary
+Land,Rover Range Rover,2023,707 000 PLN,10 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Biały
+Land,Rover Discovery Sport,2015,44 900 PLN,135 871 km,Benzyna,Automatyczna,SUV,1 998 cm3,290 KM,5,Biały
+Land,Rover Discovery,2017,139 950 PLN,82 901 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Velar,2023,299 990 PLN,17 380 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Szary
+Land,Rover Range Rover Evoque,2024,279 000 PLN,4 900 km,Benzyna,Automatyczna,SUV,1 998 cm3,249 KM,5,Szary
+Land,Rover Discovery Sport,2017,89 900 PLN,72 164 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Szary
+Land,Rover Range Rover Velar,2018,123 000 PLN,137 800 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2016,164 900 PLN,133 256 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Discovery Sport,2018,83 900 PLN,148 319 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Defender,2024,379 000 PLN,10 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Czarny
+Land,Rover Freelander,2004,20 999 PLN,206 418 km,Benzyna,Automatyczna,SUV,2 497 cm3,177 KM,5,Złoty
+Land,Rover Discovery Sport,2022,199 000 PLN,18 200 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Czarny
+Land,Rover Range Rover,2024,850 000 PLN,100 km,Hybryda,Automatyczna,SUV,2 997 cm3,350 KM,5,Czarny
+Land,Rover Range Rover Evoque,2018,109 900 PLN,157 610 km,Benzyna,Automatyczna,SUV,1 997 cm3,240 KM,5,Biały
+Land,Rover Discovery,1999,33 210 PLN,370 000 km,Diesel,Manualna,SUV,2 495 cm3,137 KM,5,Granatowy
+,,Unknown,nowe i używane samochody i motocykle oraz części samochodowe. Ogłoszenia motoryzacyjne.,,,,,,,,
+Land,Rover Range Rover,2012,19 900 PLN,236 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Range Rover,2024,1 099 000 PLN,5 km,Benzyna,Automatyczna,SUV,2 997 cm3,550 KM,5,Inny kolor
+Land,Rover Range Rover Sport,2014,102 888,118 000 km,Diesel,Automatyczna,SUV,2 993 cm3,292 KM,5,Biały
+Land,Rover Discovery Sport,2023,209 700 PLN,5 408 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+Land,Rover Defender,2004,46 900 PLN,325 000 km,Diesel,Manualna,SUV,2 495 cm3,122 KM,5,Zielony
+Land,Rover Range Rover Sport,2023,743 700 PLN,13 500 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Czarny
+Land,Rover Range Rover Evoque,2024,249 000 PLN,10 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Niebieski
+Land,Rover Range Rover Velar,2018,179 000 PLN,62 580 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Evoque,2012,53 900 PLN,261 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Czerwony
+Land,Rover Range Rover Sport,2006,22 500 PLN,334 795 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Biały
+Land,Rover Discovery,2024,363 000 PLN,13 000 km,Diesel,Automatyczna,SUV,2 998 cm3,250 KM,5,Czarny
+Land,Rover Discovery Sport,2016,74 900 PLN,153 588 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,92 900 PLN,133 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Beżowy
+Land,Rover Range Rover,2018,219 000 PLN,110 000 km,Benzyna,Automatyczna,SUV,4 999 cm3,525 KM,5,Czarny
+Land,Rover Range Rover Velar,2021,195 000 PLN,113 800 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,94 999 PLN,76 000 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover,2015,134 900 PLN,162 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Srebrny
+Land,Rover Range Rover Sport,2007,44 000 PLN,280 000 km,Benzyna+LPG,Automatyczna,Kompakt,4 197 cm3,390 KM,5,Czarny
+Land,Rover Range Rover Velar,2019,171 900 PLN,100 500 km,Benzyna,Automatyczna,SUV,1 999 cm3,250 KM,5,Biały
+Land,Rover Range Rover,2023,1 200 000 PLN,21 000 km,Benzyna,Automatyczna,SUV,4 395 cm3,530 KM,5,Brązowy
+Land,Rover Discovery,2009,45 000 PLN,300 500 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Brązowy
+Land,Rover Range Rover Evoque,2017,95 900 PLN,123 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Szary
+Land,Rover Range Rover Sport,2011,89 790 PLN,165 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Szary
+Land,Rover Discovery Sport,2022,210 830 PLN,72 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Brązowy
+Land,Rover Range Rover Sport,2013,59 999 PLN,215 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,380 KM,5,Błękitny
+Land,Rover Discovery,2016,179 000 PLN,55 538 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Biały
+Land,Rover Range Rover Sport,2024,121 770 PLN,900 km,Diesel,Automatyczna,SUV,2 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Evoque,2020,159 999 PLN,11 200 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Szary
+Land,Rover Range Rover Sport,2017,128 800 PLN,71 000 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Szary
+Land,Rover Discovery,2011,76 000 PLN,227 000 km,Diesel,Automatyczna,SUV,2 993 cm3,245 KM,5,Czarny
+Land,Rover Range Rover Evoque,2017,69 900 PLN,142 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Sport,2012,67 500 PLN,269 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Biały
+Land,Rover Range Rover Sport,2012,67 500 PLN,269 000 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Biały
+Land,Rover Range Rover Velar,2022,339 900 PLN,17 452 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Szary
+Land,Rover Discovery Sport,2016,71 000 PLN,183 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Bordowy
+Land,Rover Range Rover Velar,2019,195 000 PLN,79 000 km,Benzyna,Automatyczna,SUV,1 998 cm3,300 KM,5,Biały
+Land,Rover Range Rover Sport,2010,62 000 PLN,178 500 km,Diesel,Automatyczna,SUV,3 628 cm3,272 KM,5,Inny kolor
+Land,Rover Range Rover Evoque,2022,65 900 PLN,72 346 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Beżowy
+Land,Rover Range Rover Evoque,2024,287 000 PLN,5 000 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Czarny
+Land,Rover Range Rover,2013,164 900 PLN,85 800 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Szary
+Land,Rover Discovery Sport,2016,83 000 PLN,154 000 km,Diesel,Manualna,SUV,1 999 cm3,150 KM,5,Srebrny
+Land,Rover Discovery Sport,2018,85 000 PLN,47 877 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Biały
+Land,Rover Freelander,2002,6 800 PLN,430 000 km,Diesel,Manualna,SUV,1 950 cm3,112 KM,5,Zielony
+Land,Rover Defender,1999,279 000 PLN,156 972 km,Diesel,Manualna,SUV,2 495 cm3,111 KM,3,Zielony
+Land,Rover Range Rover Velar,2023,278 900 PLN,15 500 km,Diesel,Automatyczna,SUV,1 998 cm3,202 KM,5,Szary
+Land,Rover Range Rover Velar,2019,164 900 PLN,130 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover Velar,2019,159 900 PLN,134 091 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,4,Srebrny
+Land,Rover Range Rover Sport,2015,129 900 PLN,118 830 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Biały
+Land,Rover Freelander,2001,10 500 PLN,181 000 km,Benzyna,Automatyczna,SUV,2 497 cm3,177 KM,3,Inny kolor
+Land,Rover Range Rover Sport,2022,419 900 PLN,17 311 km,Benzyna,Automatyczna,SUV,5 000 cm3,575 KM,5,Czarny
+Land,Rover Range Rover Sport,2015,92 500 PLN,322 000 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Bordowy
+Land,Rover Range Rover Evoque,2022,179 900 PLN,23 719 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,4,Czarny
+Land,Rover Range Rover Sport,2020,249 900 PLN,59 175 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Beżowy
+Land,Rover Discovery Sport,2022,189 900 PLN,29 857 km,Diesel,Automatyczna,SUV,1 999 cm3,204 KM,5,Szary
+Land,Rover Defender,2023,339 999 PLN,21 421 km,Diesel,Automatyczna,SUV,2 996 cm3,249 KM,5,Niebieski
+Land,Rover Range Rover Sport,2014,158 000 PLN,183 024 km,Benzyna,Automatyczna,SUV,5 000 cm3,510 KM,5,Biały
+Land,Rover Range Rover Velar,2023,291 000 PLN,16 419 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Srebrny
+Land,Rover Discovery,2022,279 900 PLN,5 613 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover Velar,2023,288 000 PLN,20 509 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,279 500 PLN,14 395 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,294 000 PLN,13 566 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+Land,Rover Range Rover Velar,2022,329 000 PLN,19 070 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Szary
+Land,Rover Range Rover Velar,2023,291 000 PLN,17 804 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Biały
+Land,Rover Discovery Sport,2024,289 900 PLN,5 000 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+Land,Rover Discovery Sport,2024,289 900 PLN,5 000 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+Land,Rover Discovery Sport,2023,271 500 PLN,13 357 km,Benzyna,Automatyczna,SUV,1 997 cm3,200 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,439 000 PLN,5 000 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Szary
+Land,Rover Range Rover Velar,2023,344 000 PLN,18 024 km,Benzyna,Automatyczna,SUV,1 998 cm3,250 KM,5,Szary
+Land,Rover Discovery,2023,359 900 PLN,12 952 km,Diesel,Automatyczna,Kombi,2 996 cm3,249 KM,5,Beżowy
+Land,Rover Range Rover Evoque,2018,116 900 PLN,73 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Biały
+Land,Rover Range Rover,2011,89 900 PLN,220 416 km,Diesel,Automatyczna,SUV,4 367 cm3,313 KM,5,Czarny
+Land,Rover Range Rover Sport,2009,42 600 PLN,186 000 km,Diesel,Automatyczna,SUV,2 720 cm3,190 KM,5,Szary
+Land,Rover Range Rover Sport,2010,49 900 PLN,294 000 km,Diesel,Automatyczna,SUV,3 628 cm3,272 KM,5,Czarny
+Land,Rover Range Rover,2022,619 000 PLN,59 745 km,Diesel,Automatyczna,SUV,2 997 cm3,350 KM,5,Złoty
+Land,Rover Discovery Sport,2023,250 000 PLN,18 410 km,Diesel,Automatyczna,SUV,1 998 cm3,204 KM,5,Biały
+Land,Rover Range Rover Evoque,2015,75 000 PLN,150 650 km,Benzyna,Automatyczna,SUV,1 999 cm3,240 KM,5,Biały
+Land,Rover Range Rover Sport,2015,108 700 PLN,156 000 km,Diesel,Automatyczna,SUV,2 993 cm3,306 KM,5,Szary
+Land,Rover Range Rover Evoque,2023,236 000 PLN,17 000 km,Diesel,Automatyczna,SUV,1 997 cm3,163 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,308 000 PLN,14 453 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Biały
+Land,Rover Discovery,2017,132 000 PLN,160 195 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Defender,2024,349 000 PLN,4 000 km,Diesel,Automatyczna,SUV,1 999 cm3,200 KM,3,Szary
+Land,Rover Range Rover Sport,2017,139 900 PLN,184 571 km,Diesel,Automatyczna,SUV,1 999 cm3,241 KM,5,Czarny
+Land,Rover Range Rover Velar,2023,299 900 PLN,10 000 km,Diesel,Automatyczna,SUV,1 997 cm3,204 KM,5,Czarny
+Land,Rover Range Rover Evoque,2015,69 900 PLN,115 000 km,Diesel,Automatyczna,SUV,1 999 cm3,150 KM,5,Niebieski
+Land,Rover Range Rover Evoque,2020,142 500 PLN,89 000 km,Diesel,Automatyczna,SUV,1 999 cm3,179 KM,5,Złoty
+Land,Rover Range Rover Velar,2021,213 165,61 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,250 KM,5,Czarny
+Land,Rover Discovery,2016,109 990 PLN,123 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Srebrny
+Land,Rover Discovery,2015,69 900 PLN,203 000 km,Benzyna,Automatyczna,SUV,2 995 cm3,340 KM,5,Szary
+Land,Rover Range Rover Sport,2016,139 998,124 615 km,Diesel,Automatyczna,SUV,2 993 cm3,258 KM,5,Biały
+Land,Rover Range Rover Velar,2018,179 900 PLN,127 470 km,Diesel,Automatyczna,SUV,1 999 cm3,240 KM,5,Szary
+Land,Rover Range Rover Evoque,2020,99 000 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 997 cm3,300 KM,5,Szary
+Land,Rover Range Rover Velar,2017,202 950 PLN,110 000 km,Diesel,Automatyczna,SUV,2 993 cm3,300 KM,5,Brązowy
+Land,Rover Discovery Sport,2018,69 000 PLN,145 000 km,Diesel,Automatyczna,SUV,1 999 cm3,180 KM,5,Czarny
+Land,Rover Range Rover,2016,229 900 PLN,149 536 km,Diesel,Automatyczna,SUV,4 367 cm3,340 KM,5,Biały
+Land,Rover Range Rover Sport,2019,139 000 PLN,24 000 km,Hybryda Plug-in,Automatyczna,SUV,1 997 cm3,300 KM,5,Biały
+Land,Rover Range Rover,2005,39 500 PLN,230 000 km,Benzyna+LPG,Automatyczna,SUV,4 394 cm3,306 KM,5,Czarny

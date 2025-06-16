@@ -1,0 +1,897 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Renault,Talisman,2017,55 900 PLN,153 000 km,Diesel,Automatyczna,Sedan,1 598 cm3,160 KM,5,Srebrny
+Renault,Trafic,2019,43 500 PLN,173 500 km,Diesel,Manualna,SUV,1 598 cm3,125 KM,4,Biały
+Renault,Megane,2011,21 600 PLN,118 300 km,Diesel,Manualna,Kombi,1 870 cm3,130 KM,5,Brązowy
+Renault,Trafic,2013,45 000 PLN,176 800 km,Diesel,Automatyczna,Minivan,1 995 cm3,114 KM,4,Czarny
+Renault,Koleos,2008,18 900 PLN,224 000 km,Benzyna,Manualna,SUV,2 488 cm3,170 KM,5,Szary
+Renault,Kangoo,2024,118 900 PLN,10 km,Diesel,Manualna,Minivan,1 461 cm3,115 KM,5,Brązowy
+Renault,Kadjar,2017,59 400 PLN,131 200 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Renault,Grand Espace,2005,11 900 PLN,360 188 km,Diesel,Automatyczna,Minivan,2 188 cm3,150 KM,5,Beżowy
+Renault,Trafic,2024,180 808,1 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,4,Szary
+Renault,Espace,2009,12 300 PLN,278 000 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,136 KM,5,Czarny
+Renault,Megane,2015,39 000 PLN,139 900 km,Benzyna,Automatyczna,Kombi,1 197 cm3,130 KM,5,Biały
+Renault,Kangoo,2024,132 717 PLN,5 km,Benzyna,Manualna,Kombi,1 333 cm3,130 KM,5,Srebrny
+Renault,Clio,2018,32 000 PLN,162 800 km,Benzyna,Manualna,Kombi,1 149 cm3,73 KM,5,Biały
+Renault,Megane,2016,46 500 PLN,144 450 km,Diesel,Automatyczna,Kompakt,1 461 cm3,110 KM,4,Szary
+Renault,Twingo,2020,29 500 PLN,24 350 km,Benzyna,Manualna,Auta małe,998 cm3,73 KM,5,Biały
+Renault,Clio,2015,37 777 PLN,89 563 km,Diesel,Automatyczna,Auta małe,1 461 cm3,90 KM,5,Srebrny
+Renault,Megane,2017,47 900 PLN,115 000 km,Benzyna,Manualna,Sedan,1 598 cm3,115 KM,4,Biały
+Renault,Kangoo,2024,135 177 PLN,5 km,Benzyna,Manualna,Kombi,1 333 cm3,130 KM,5,Niebieski
+Renault,Trafic,2003,19 600 PLN,276 258 km,Diesel,Manualna,Minivan,1 870 cm3,100 KM,4,Biały
+Renault,Zoe,2021,79 900 PLN,33 000 km,Elektryczny,Automatyczna,Kompakt,,135 KM,5,Biały
+Renault,Scenic,2017,59 900 PLN,195 376 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Srebrny
+Renault,Talisman,2018,62 800 PLN,174 500 km,Benzyna,Automatyczna,Kombi,1 618 cm3,150 KM,5,Czarny
+Renault,Megane,2016,46 900 PLN,112 000 km,Benzyna,Manualna,Kombi,1 197 cm3,100 KM,5,Niebieski
+Renault,Scenic,2010,26 400 PLN,184 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Szary
+Renault,Clio,2023,84 900 PLN,316 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,90 KM,5,Czerwony
+Renault,Kadjar,2016,54 200 PLN,178 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Renault,Talisman,2016,67 900 PLN,96 000 km,Diesel,Automatyczna,Sedan,1 598 cm3,160 KM,5,Czarny
+Renault,Grand Scenic,2014,30 900 PLN,161 000 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Megane,2011,15 500 PLN,165 878 km,Benzyna,Manualna,Kompakt,1 598 cm3,100 KM,5,Granatowy
+Renault,Laguna,2008,14 900 PLN,256 558 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Renault,Koleos,2019,86 800 PLN,113 856 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Biały
+Renault,Grand Scenic,2017,29 999 PLN,127 400 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Brązowy
+Renault,Grand Scenic,2017,29 999 PLN,127 400 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Brązowy
+Renault,Kadjar,2018,69 900 PLN,75 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Czarny
+Renault,Megane,2018,37 000 PLN,201 800 km,Diesel,Manualna,Kombi,1 461 cm3,115 KM,5,Granatowy
+Renault,Megane,2014,33 900 PLN,134 846 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,5,Inny kolor
+Renault,Koleos,2008,16 000 PLN,277 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Srebrny
+Renault,Megane,2020,73 900 PLN,21 456 km,Benzyna,Manualna,Sedan,1 332 cm3,140 KM,4,Czarny
+Renault,Arkana,2024,132 450 PLN,1 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Clio,2014,24 900 PLN,156 000 km,Diesel,Manualna,Auta małe,1 461 cm3,90 KM,5,Inny kolor
+Renault,Megane,2014,38 900 PLN,73 657 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Czarny
+Renault,Clio,2020,36 500 PLN,96 816 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Renault,Clio,2020,41 800 PLN,142 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Kangoo,2004,5 500 PLN,252 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,95 KM,5,Zielony
+Renault,Twingo,2021,33 600 PLN,33 930 km,Benzyna,Manualna,Auta małe,998 cm3,65 KM,5,Biały
+Renault,Clio,2018,38 000 PLN,36 455 km,Benzyna,Manualna,Auta małe,1 149 cm3,73 KM,5,Biały
+Renault,Clio,2016,26 200 PLN,112 700 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Szary
+Renault,Scenic,2013,32 900 PLN,99 999 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,115 KM,5,Brązowy
+Renault,Scenic,2013,34 900 PLN,152 000 km,Benzyna,Manualna,Minivan,1 598 cm3,110 KM,5,Inny kolor
+Renault,Scenic,2009,19 900 PLN,187 523 km,Benzyna,Manualna,Minivan,1 598 cm3,113 KM,5,Czarny
+Renault,Kangoo,2009,17 900 PLN,199 900 km,Benzyna+LPG,Automatyczna,Minivan,1 598 cm3,106 KM,5,Czerwony
+Renault,Megane,2020,57 500 PLN,105 000 km,Benzyna,Manualna,Sedan,1 332 cm3,140 KM,4,Czarny
+Renault,Captur,2015,43 999 PLN,157 250 km,Benzyna,Manualna,SUV,1 197 cm3,120 KM,5,Pomarańczowy
+Renault,Scenic,2013,27 700 PLN,97 898 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Brązowy
+Renault,Laguna,2008,14 900 PLN,220 000 km,Benzyna,Manualna,Sedan,1 598 cm3,110 KM,5,Srebrny
+Renault,Austral,2024,139 500 PLN,1 km,Hybryda,Automatyczna,SUV,1 332 cm3,158 KM,5,Szary
+Renault,Clio,2024,74 600 PLN,1 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Pomarańczowy
+Renault,Grand Scenic,2010,17 900 PLN,244 504 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Granatowy
+Renault,Scenic,2005,8 200 PLN,240 000 km,Benzyna,Manualna,Minivan,1 598 cm3,113 KM,5,Szary
+Renault,Trafic,2011,44 700 PLN,200 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Inny kolor
+Renault,Captur,2019,57 999 PLN,25 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Szary
+Renault,Talisman,2021,95 900 PLN,106 106 km,Diesel,Automatyczna,Sedan,1 997 cm3,160 KM,5,Biały
+Renault,Scenic,2007,10 900 PLN,252 000 km,Diesel,Manualna,Minivan,1 870 cm3,115 KM,5,Srebrny
+Renault,Talisman,2016,53 900 PLN,181 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,4,Granatowy
+Renault,Megane,1999,5 200 PLN,182 000 km,Benzyna+LPG,Manualna,Sedan,1 390 cm3,95 KM,4,Niebieski
+Renault,Megane,2018,68 990 PLN,133 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,160 KM,5,Biały
+Renault,Megane,2011,18 999 PLN,197 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,100 KM,5,Czarny
+Renault,Clio,2020,37 800 PLN,183 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Srebrny
+Renault,Laguna,2013,29 900 PLN,175 000 km,Benzyna,Manualna,Sedan,1 997 cm3,140 KM,5,Czarny
+Renault,Trafic,2020,102 900 PLN,189 000 km,Diesel,Automatyczna,SUV,1 997 cm3,145 KM,5,Srebrny
+Renault,Kangoo,2014,14 900 PLN,270 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Biały
+Renault,Grand Scenic,2018,56 900 PLN,127 200 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Szary
+Renault,Kadjar,2017,49 900 PLN,120 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Biały
+Renault,Megane,2011,33 990 PLN,178 000 km,Benzyna,Manualna,Kombi,1 998 cm3,180 KM,5,Biały
+Renault,Megane,2015,22 900 PLN,211 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,110 KM,5,Biały
+Renault,Megane,2010,26 900 PLN,141 850 km,Benzyna,Manualna,Coupe,1 998 cm3,180 KM,3,Niebieski
+Renault,Megane,2016,46 900 PLN,175 000 km,Benzyna,Manualna,Kombi,1 197 cm3,130 KM,5,Brązowy
+Renault,Megane,2013,34 000 PLN,142 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,110 KM,5,Bordowy
+Renault,Clio,2020,52 000 PLN,48 259 km,Diesel,Manualna,Auta miejskie,1 461 cm3,115 KM,5,Czarny
+Renault,Kadjar,2016,54 900 PLN,141 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Niebieski
+Renault,Clio,2011,8 900 PLN,260 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Srebrny
+Renault,Megane,2011,28 900 PLN,176 000 km,Benzyna,Manualna,Kompakt,1 397 cm3,130 KM,5,Biały
+Renault,Clio,2020,37 900 PLN,84 500 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Czarny
+Renault,Clio,2015,20 900 PLN,69 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Srebrny
+Renault,Twingo,2016,25 200 PLN,22 300 km,Benzyna,Manualna,Auta miejskie,999 cm3,69 KM,5,Czerwony
+Renault,Espace,2006,11 900 PLN,235 000 km,Benzyna,Automatyczna,Minivan,1 998 cm3,170 KM,5,Czarny
+Renault,Captur,2016,54 000 PLN,79 600 km,Benzyna,Automatyczna,SUV,1 197 cm3,118 KM,5,Inny kolor
+Renault,Megane,2012,15 800 PLN,189 374 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Brązowy
+Renault,Megane,2016,46 900 PLN,140 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Srebrny
+Renault,Captur,2016,39 900 PLN,190 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Renault,Clio,2020,52 900 PLN,98 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Szary
+Renault,Captur,2014,38 000 PLN,155 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Inny kolor
+Renault,Scenic,2013,26 800 PLN,128 000 km,Benzyna,Manualna,Minivan,1 197 cm3,132 KM,5,Czarny
+Renault,Talisman,2017,57 500 PLN,181 215 km,Diesel,Automatyczna,Kombi,1 598 cm3,130 KM,5,Szary
+Renault,Megane,2017,31 800 PLN,41 500 km,Benzyna,Manualna,Auta małe,1 197 cm3,100 KM,5,Srebrny
+Renault,Megane,2018,57 900 PLN,46 000 km,Benzyna,Manualna,Kombi,1 332 cm3,115 KM,5,Czarny
+Renault,Scenic,2007,8 000 PLN,198 880 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Złoty
+Renault,Megane,2008,5 500 PLN,269 100 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,110 KM,5,Czerwony
+Renault,Clio,2020,38 899,169 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Megane,2019,68 700 PLN,50 000 km,Benzyna,Automatyczna,Kombi,1 332 cm3,140 KM,5,Srebrny
+Renault,Modus,2005,8 999 PLN,93 423 km,Benzyna,Manualna,Minivan,1 149 cm3,75 KM,5,Fioletowy
+Renault,Clio,2011,13 900 PLN,167 500 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,75 KM,5,Szary
+Renault,Laguna,2004,6 500 PLN,292 000 km,Benzyna,Manualna,Sedan,1 983 cm3,165 KM,5,Czarny
+Renault,Laguna,2010,20 800 PLN,295 300 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Biały
+Renault,Megane,2010,27 000 PLN,130 800 km,Benzyna,Manualna,Coupe,1 998 cm3,180 KM,3,Czarny
+Renault,Captur,2013,35 000 PLN,159 300 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Pomarańczowy
+Renault,Kadjar,2017,53 900 PLN,154 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Granatowy
+Renault,Megane,2009,16 500 PLN,242 000 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Renault,Megane,2017,40 000 PLN,108 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Srebrny
+Renault,Kangoo,2020,45 500 PLN,70 000 km,Diesel,Manualna,Minivan,1 461 cm3,95 KM,5,Biały
+Renault,Scenic,2007,13 999 PLN,237 000 km,Benzyna,Manualna,Minivan,1 998 cm3,135 KM,5,Szary
+Renault,Scenic,2005,3 499 PLN,180 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,110 KM,5,Brązowy
+Renault,Megane,2005,7 500 PLN,234 000 km,Diesel,Manualna,Sedan,1 461 cm3,105 KM,4,Szary
+Renault,Clio,2008,13 500 PLN,248 000 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,5,Czarny
+Renault,Laguna,2014,38 000 PLN,131 777 km,Diesel,Automatyczna,Kombi,1 995 cm3,173 KM,5,Granatowy
+Renault,Espace,2015,58 000 PLN,133 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,160 KM,5,Szary
+Renault,Megane,2016,37 654 PLN,140 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,100 KM,5,Biały
+Renault,Espace,2016,69 800 PLN,151 250 km,Benzyna,Automatyczna,Minivan,1 618 cm3,200 KM,5,Biały
+Renault,Scenic,2015,28 000 PLN,87 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Srebrny
+Renault,Trafic,2004,14 900 PLN,382 000 km,Diesel,Manualna,Minivan,1 870 cm3,82 KM,4,Biały
+Renault,Grand Scenic,2015,34 777 PLN,137 500 km,Benzyna,Manualna,Minivan,1 197 cm3,132 KM,5,Srebrny
+Renault,Laguna,2007,22 500 PLN,187 903 km,Diesel,Automatyczna,Sedan,1 995 cm3,150 KM,5,Czarny
+Renault,Twingo,2015,23 900 PLN,59 100 km,Benzyna,Manualna,Auta miejskie,999 cm3,69 KM,5,Niebieski
+Renault,Laguna,2011,17 900 PLN,298 000 km,Diesel,Manualna,Kombi,1 995 cm3,130 KM,5,Czarny
+Renault,Trafic,2019,89 800 PLN,187 064 km,Diesel,Manualna,Kombi,1 598 cm3,125 KM,4,Niebieski
+Renault,Trafic,2024,199 000 PLN,320 km,Diesel,Automatyczna,SUV,1 997 cm3,170 KM,4,Czarny
+Renault,Clio,2020,41 700 PLN,144 818 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Megane,2009,21 500 PLN,230 000 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,110 KM,5,Bordowy
+Renault,Scenic,2005,6 900 PLN,194 000 km,Benzyna,Manualna,Minivan,1 598 cm3,113 KM,5,Granatowy
+Renault,Zoe,2019,57 500 PLN,82 500 km,Elektryczny,Automatyczna,Auta małe,,135 KM,5,Czerwony
+Renault,Megane,2018,53 900 PLN,99 800 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Czarny
+Renault,Laguna,2011,19 500 PLN,271 000 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+Renault,Trafic,2012,35 900 PLN,295 000 km,Diesel,Manualna,Minivan,1 598 cm3,120 KM,4,Czarny
+Renault,Scenic,2009,13 200 PLN,214 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Beżowy
+Renault,Megane,2005,9 400 PLN,210 000 km,Benzyna+LPG,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Renault,Megane,2014,24 900 PLN,159 600 km,Benzyna,Manualna,Kompakt,1 197 cm3,130 KM,5,Czarny
+Renault,Koleos,2018,81 900 PLN,107 600 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Fioletowy
+Renault,Laguna,2015,38 900 PLN,93 000 km,Diesel,Manualna,Sedan,1 995 cm3,173 KM,5,Beżowy
+Renault,Scenic,2007,10 500 PLN,235 000 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,135 KM,5,Szary
+Renault,Megane,2011,33 900 PLN,178 000 km,Benzyna,Manualna,Kombi,1 998 cm3,180 KM,5,Szary
+Renault,Talisman,2017,69 900 PLN,69 000 km,Benzyna,Automatyczna,Kombi,1 618 cm3,200 KM,5,Inny kolor
+Renault,Clio,2014,30 900 PLN,29 299 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Brązowy
+Renault,Clio,2008,7 000 PLN,147 000 km,Diesel,Manualna,Auta małe,1 461 cm3,85 KM,5,Złoty
+Renault,Clio,2020,56 900 PLN,39 688 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Pomarańczowy
+Renault,Clio,2006,5 400 PLN,408 500 km,Benzyna+LPG,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Granatowy
+Renault,Captur,2020,69 900 PLN,154 973 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Biały
+Renault,Clio,2017,34 000 PLN,102 760 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Biały
+Renault,Megane,2013,22 900 PLN,168 000 km,Benzyna,Manualna,Kombi,1 197 cm3,132 KM,5,Czarny
+Renault,Koleos,2018,104 000 PLN,96 000 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Czarny
+Renault,Espace,2017,43 800 PLN,168 741 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Trafic,2018,81 900 PLN,174 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Szary
+Renault,Scenic,2014,32 000 PLN,132 000 km,Benzyna,Manualna,Minivan,1 197 cm3,130 KM,5,Czarny
+Renault,Grand Scenic,2018,61 990 PLN,55 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,110 KM,5,Bordowy
+Renault,Laguna,2010,19 500 PLN,113 467 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Renault,Kangoo,2017,25 800 PLN,140 000 km,Diesel,Manualna,Minivan,1 461 cm3,75 KM,5,Biały
+Renault,Laguna,2011,31 000 PLN,229 900 km,Diesel,Manualna,Kombi,1 995 cm3,178 KM,5,Szary
+Renault,Fluence,2015,24 700 PLN,162 700 km,Benzyna+LPG,Manualna,Sedan,1 598 cm3,110 KM,4,Granatowy
+Renault,Clio,2018,46 900 PLN,47 800 km,Benzyna,Automatyczna,Kombi,1 197 cm3,118 KM,5,Czerwony
+Renault,Clio,2007,15 500 PLN,180 000 km,Benzyna,Manualna,Auta małe,1 998 cm3,139 KM,3,Szary
+Renault,Megane,2006,9 900 PLN,289 800 km,Diesel,Manualna,Kombi,1 870 cm3,130 KM,5,Szary
+Renault,Clio,2007,15 500 PLN,180 000 km,Benzyna,Manualna,Auta małe,1 998 cm3,139 KM,3,Szary
+Renault,Megane,2006,9 900 PLN,289 800 km,Diesel,Manualna,Kombi,1 870 cm3,130 KM,5,Szary
+Renault,Laguna,2007,16 500 PLN,164 300 km,Benzyna,Manualna,Kompakt,1 997 cm3,140 KM,5,Beżowy
+Renault,Megane,2011,14 900 PLN,211 512 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Captur,2017,43 900 PLN,151 500 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Renault,Megane,2017,44 499 PLN,210 544 km,Diesel,Manualna,Kompakt,1 598 cm3,130 KM,5,Szary
+Renault,Laguna,2011,29 900 PLN,82 000 km,Benzyna,Manualna,Sedan,1 997 cm3,140 KM,5,Szary
+Renault,Megane,2014,26 900 PLN,259 600 km,Benzyna+LPG,Manualna,Coupe,1 598 cm3,110 KM,5,Biały
+Renault,Twingo,2019,20 700 PLN,124 620 km,Benzyna,Manualna,Auta małe,999 cm3,73 KM,5,Żółty
+Renault,Koleos,2020,109 999 PLN,26 850 km,Diesel,Automatyczna,SUV,1 995 cm3,190 KM,5,Niebieski
+Renault,Scenic,2007,9 600 PLN,175 572 km,Benzyna,Manualna,SUV,1 598 cm3,112 KM,5,Beżowy
+Renault,Fluence,2011,19 900 PLN,264 000 km,Diesel,Manualna,Sedan,1 461 cm3,110 KM,4,Czarny
+Renault,Grand Scenic,2013,29 800 PLN,193 000 km,Benzyna,Manualna,Minivan,1 598 cm3,110 KM,5,Szary
+Renault,Kadjar,2016,29 900 PLN,152 194 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Biały
+Renault,Megane,2016,43 000 PLN,135 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,130 KM,5,Granatowy
+Renault,Megane,2009,23 500 PLN,208 652 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Beżowy
+Renault,5,2021,27 000 PLN,14 000 km,Benzyna,Manualna,Coupe,999 cm3,100 KM,5,Biały
+Renault,Megane,2016,50 000 PLN,131 456 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Czarny
+Renault,Twingo,2010,8 999 PLN,173 211 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,3,Czerwony
+Renault,Laguna,2009,36 900 PLN,107 000 km,Benzyna,Manualna,Sedan,1 998 cm3,205 KM,5,Srebrny
+Renault,Talisman,2019,63 900 PLN,78 000 km,Diesel,Manualna,Kombi,1 749 cm3,149 KM,5,Brązowy
+Renault,Trafic,2013,62 700 PLN,227 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Srebrny
+Renault,Megane,2007,13 500 PLN,217 000 km,Diesel,Manualna,Kabriolet,1 870 cm3,130 KM,2,Szary
+Renault,Scenic,2015,29 900 PLN,157 500 km,Benzyna,Manualna,Minivan,1 197 cm3,132 KM,5,Czarny
+Renault,Kadjar,2016,58 000 PLN,79 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,130 KM,5,Granatowy
+Renault,Trafic,2013,35 900 PLN,254 300 km,Diesel,Manualna,Minivan,1 598 cm3,115 KM,4,Czarny
+Renault,Clio,2017,34 990 PLN,50 010 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Biały
+Renault,Espace,2003,11 000 PLN,223 373 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,163 KM,5,Beżowy
+Renault,Megane,2019,124 900 PLN,63 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,300 KM,5,Szary
+Renault,Clio,2014,26 500 PLN,215 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Czerwony
+Renault,Scenic,2014,28 999 PLN,112 324 km,Benzyna,Manualna,Minivan,1 197 cm3,132 KM,5,Czarny
+Renault,Thalia,2003,4 900 PLN,103 000 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,4,Niebieski
+Renault,Thalia,2003,4 900 PLN,103 000 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,4,Niebieski
+Renault,Megane,2016,35 800 PLN,162 622 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Biały
+Renault,Koleos,2019,89 900 PLN,118 199 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Czarny
+Renault,Trafic,2009,39 900 PLN,272 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Niebieski
+Renault,Captur,2014,37 500 PLN,109 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Czarny
+Renault,Megane,2013,11 900 PLN,275 000 km,Benzyna+LPG,Manualna,Kombi,1 397 cm3,130 KM,5,Srebrny
+Renault,Grand Scenic,2016,51 900 PLN,144 700 km,Benzyna,Manualna,Minivan,1 197 cm3,130 KM,5,Brązowy
+Renault,Kadjar,2016,43 900 PLN,146 200 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Szary
+Renault,Fluence,2013,17 900 PLN,266 000 km,Diesel,Manualna,Sedan,1 461 cm3,90 KM,4,Srebrny
+Renault,Arkana,2023,114 900 PLN,15 760 km,Benzyna,Automatyczna,Kompakt,1 332 cm3,158 KM,5,Czarny
+Renault,Clio,2021,60 000 PLN,46 000 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Czarny
+Renault,Megane,2013,22 900 PLN,204 217 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Szary
+Renault,Scenic,2011,25 300 PLN,207 000 km,Benzyna,Manualna,SUV,1 598 cm3,110 KM,5,Brązowy
+Renault,Grand Scenic,2017,31 990 PLN,160 000 km,Benzyna,Manualna,Minivan,1 197 cm3,130 KM,5,Czarny
+Renault,Megane,2016,69 000 PLN,110 521 km,Benzyna,Manualna,Coupe,1 998 cm3,273 KM,3,Srebrny
+Renault,Twingo,2020,59 900 PLN,5 500 km,Elektryczny,Automatyczna,Auta małe,,82 KM,5,Biały
+Renault,Trafic,2008,37 500 PLN,304 000 km,Diesel,Manualna,Minivan,1 995 cm3,115 KM,5,Złoty
+Renault,Trafic,2018,61 500 PLN,222 218 km,Diesel,Manualna,SUV,1 598 cm3,125 KM,4,Biały
+Renault,Laguna,1999,9 999 PLN,98 000 km,Benzyna,Manualna,Sedan,1 598 cm3,107 KM,5,Błękitny
+Renault,Clio,2008,17 900 PLN,74 982 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Czerwony
+Renault,Kangoo,2004,8 999 PLN,145 000 km,Benzyna,Manualna,Minivan,1 149 cm3,75 KM,5,Niebieski
+Renault,Clio,2014,24 900 PLN,195 560 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Inny kolor
+Renault,Captur,2020,51 900 PLN,147 390 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Inny kolor
+Renault,Megane,2021,83 000 PLN,27 000 km,Benzyna,Automatyczna,Kompakt,1 332 cm3,140 KM,4,Czerwony
+Renault,Kadjar,2017,55 000 PLN,251 000 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Czerwony
+Renault,Captur,2019,12 200 EUR,46 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Biały
+Renault,Arkana,2022,119 900 PLN,14 667 km,Hybryda,Automatyczna,SUV,1 599 cm3,140 KM,5,Czerwony
+Renault,Megane,2011,24 999 PLN,125 250 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Czarny
+Renault,Captur,2021,64 900 PLN,47 000 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Czarny
+Renault,Kadjar,2016,53 900 PLN,193 000 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Szary
+Renault,Trafic,2020,91 900 PLN,188 785 km,Diesel,Manualna,Minivan,1 997 cm3,145 KM,5,Srebrny
+Renault,Scenic,2011,10 800 PLN,241 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Renault,Clio,2015,26 700 PLN,241 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Srebrny
+Renault,Laguna,2008,17 800 PLN,280 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Srebrny
+Renault,Captur,2019,52 800 PLN,67 597 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Niebieski
+Renault,Koleos,2019,89 900 PLN,63 000 km,Diesel,Manualna,SUV,1 995 cm3,177 KM,5,Biały
+Renault,Clio,2024,72 500 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Pomarańczowy
+Renault,Espace,2008,15 900 PLN,189 341 km,Benzyna,Manualna,Minivan,1 998 cm3,170 KM,5,Bordowy
+Renault,Clio,2019,38 900 PLN,98 600 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Biały
+Renault,Megane,2014,22 500 PLN,206 774 km,Diesel,Manualna,Kompakt,1 461 cm3,95 KM,5,Biały
+Renault,Captur,2013,35 900 PLN,99 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,118 KM,5,Pomarańczowy
+Renault,Kadjar,2015,47 500 PLN,146 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Brązowy
+Renault,Megane,2015,32 900 PLN,193 084 km,Diesel,Manualna,Coupe,1 598 cm3,130 KM,3,Szary
+Renault,Megane,2016,38 130 PLN,189 000 km,Diesel,Manualna,Sedan,1 461 cm3,110 KM,4,Czarny
+Renault,Clio,2007,8 900 PLN,176 786 km,Benzyna+LPG,Manualna,Kompakt,1 149 cm3,60 KM,5,Srebrny
+Renault,Clio,2011,12 500 PLN,130 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Biały
+Renault,Captur,2020,68 200 PLN,22 200 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Biały
+Renault,Scenic,2001,3 200 PLN,338 000 km,Diesel,Manualna,SUV,1 870 cm3,98 KM,5,Inny kolor
+Renault,Grand Scenic,2016,27 900 PLN,166 700 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Złoty
+Renault,Megane,2009,9 500 PLN,163 000 km,Diesel,Manualna,Kompakt,1 461 cm3,86 KM,5,Szary
+Renault,Scenic,2012,22 900 PLN,127 200 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Renault,Grand Scenic,2015,39 900 PLN,126 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Bordowy
+Renault,Megane,2023,48 700 PLN,21 487 km,Hybryda Plug-in,Automatyczna,Kombi,1 598 cm3,91 KM,5,Szary
+Renault,Master,2015,13 500 PLN,330 000 km,Diesel,Manualna,Minivan,2 299 cm3,125 KM,4,Biały
+Renault,Captur,2013,39 800 PLN,79 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Pomarańczowy
+Renault,Espace,2013,31 900 PLN,58 612 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Srebrny
+Renault,Kadjar,2019,70 900 PLN,54 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Zielony
+Renault,Clio,2006,6 500 PLN,113 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,65 KM,3,Inny kolor
+Renault,Captur,2015,44 900 PLN,107 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Inny kolor
+Renault,Captur,2024,85 900 PLN,10 km,Benzyna+LPG,Manualna,SUV,999 cm3,100 KM,5,Czerwony
+Renault,Clio,2010,15 500 PLN,136 500 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Niebieski
+Renault,Grand Scenic,2018,69 900 PLN,88 600 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Espace,2013,23 900 PLN,241 000 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Czarny
+Renault,Megane,2011,19 999 PLN,217 000 km,Benzyna,Manualna,Kombi,1 397 cm3,130 KM,5,Czerwony
+Renault,Kadjar,2018,67 000 PLN,45 986 km,Benzyna,Automatyczna,SUV,1 197 cm3,130 KM,5,Czerwony
+Renault,Kangoo,2010,26 000 PLN,227 145 km,Diesel,Manualna,Minivan,1 461 cm3,85 KM,5,Błękitny
+Renault,Espace,2024,199 850 PLN,5 km,Hybryda,Automatyczna,Kombi,1 199 cm3,130 KM,5,Czarny
+Renault,Clio,2013,38 900 PLN,156 161 km,Benzyna,Automatyczna,Kombi,1 197 cm3,120 KM,5,Czarny
+Renault,Clio,2023,34 900 PLN,10 374 km,Diesel,Manualna,Auta miejskie,1 461 cm3,100 KM,5,Biały
+Renault,Scenic,2016,44 900 PLN,155 000 km,Diesel,Automatyczna,Coupe,1 461 cm3,110 KM,5,Granatowy
+Renault,Espace,2007,11 000 PLN,260 000 km,Diesel,Automatyczna,Minivan,2 958 cm3,181 KM,5,Czarny
+Renault,Captur,2023,89 900 PLN,13 768 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Renault,Austral,2023,124 900 PLN,24 673 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Clio,2013,17 900 PLN,222 754 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Czarny
+Renault,Scenic,2004,4 700 PLN,244 000 km,Diesel,Manualna,Minivan,1 461 cm3,80 KM,5,Błękitny
+Renault,Captur,2016,44 700 PLN,87 200 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,118 KM,5,Inny kolor
+Renault,Arkana,2023,104 900 PLN,13 050 km,Benzyna,Automatyczna,Kompakt,1 598 cm3,94 KM,5,Czarny
+Renault,Clio,2022,59 999 PLN,51 000 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Renault,Laguna,2009,10 800 PLN,236 410 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Czarny
+Renault,Clio,1998,3 600 PLN,251 356 km,Benzyna+LPG,Manualna,Kompakt,1 149 cm3,60 KM,3,Zielony
+Renault,Laguna,2007,13 000 PLN,238 000 km,Benzyna,Manualna,Kompakt,1 997 cm3,140 KM,5,Czarny
+Renault,Clio,2015,72 000 PLN,72 000 km,Benzyna,Automatyczna,Kompakt,1 618 cm3,220 KM,5,Żółty
+Renault,Megane,2013,13 800 PLN,204 200 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Srebrny
+Renault,Grand Scenic,2013,21 000 PLN,321 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Czarny
+Renault,Megane,2003,8 000 PLN,180 000 km,Benzyna,Automatyczna,Kompakt,1 998 cm3,135 KM,5,Granatowy
+Renault,Latitude,2011,25 900 PLN,346 000 km,Diesel,Automatyczna,Sedan,2 998 cm3,240 KM,4,Granatowy
+Renault,Modus,2006,8 999 PLN,152 113 km,Benzyna,Manualna,Minivan,1 149 cm3,78 KM,5,Niebieski
+Renault,Captur,2014,34 900 PLN,149 900 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czerwony
+Renault,Fluence,2010,15 999 PLN,235 141 km,Benzyna,Manualna,Sedan,1 598 cm3,110 KM,4,Srebrny
+Renault,Kadjar,2020,94 500 PLN,53 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Laguna,2007,11 900 PLN,260 000 km,Diesel,Automatyczna,Kombi,1 870 cm3,130 KM,5,Błękitny
+Renault,Arkana,2024,111 900 PLN,10 km,Hybryda,Automatyczna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Arkana,2021,99 900 PLN,54 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Pomarańczowy
+Renault,Scenic,2014,38 999 PLN,163 200 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Clio,2015,20 800 PLN,243 000 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Srebrny
+Renault,Scenic,2004,12 900 PLN,176 000 km,Diesel,Manualna,SUV,1 461 cm3,100 KM,5,Niebieski
+Renault,Koleos,2012,31 000 PLN,240 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Biały
+Renault,Megane,2007,13 500 PLN,187 000 km,Diesel,Manualna,Kompakt,1 995 cm3,149 KM,3,Czarny
+Renault,Megane,2013,33 900 PLN,127 500 km,Diesel,Manualna,Kompakt,1 995 cm3,165 KM,5,Niebieski
+Renault,Espace,2002,5 000 PLN,206 000 km,Benzyna,Manualna,Minivan,1 998 cm3,165 KM,5,Beżowy
+Renault,Koleos,2012,37 500 PLN,219 000 km,Benzyna,Manualna,SUV,2 488 cm3,171 KM,5,Czarny
+Renault,Clio,2017,30 000 PLN,130 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,73 KM,5,Czerwony
+Renault,Kadjar,2016,59 900 PLN,100 000 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Biały
+Renault,Arkana,2022,65 900 PLN,19 557 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Megane,2015,27 900 PLN,120 000 km,Benzyna,Manualna,Kombi,1 197 cm3,115 KM,5,Biały
+Renault,Kadjar,2017,45 900 PLN,154 000 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Szary
+Renault,Clio,2015,27 000 PLN,152 000 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Czarny
+Renault,Kadjar,2020,92 900 PLN,43 400 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Biały
+Renault,Kadjar,2018,62 500 PLN,82 500 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Biały
+Renault,Clio,2016,29 900 PLN,70 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Czerwony
+Renault,Trafic,2024,183 268,1 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,4,Czerwony
+Renault,Megane,2010,19 200 PLN,230 000 km,Diesel,Manualna,Kompakt,1 870 cm3,130 KM,5,Bordowy
+Renault,Megane,2010,18 999 PLN,288 000 km,Diesel,Manualna,Coupe,1 461 cm3,110 KM,3,Biały
+Renault,Espace,2007,14 000 PLN,236 000 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,170 KM,5,Srebrny
+Renault,Captur,2014,38 900 PLN,129 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Czerwony
+Renault,Megane,2022,108 000 PLN,41 000 km,Benzyna,Automatyczna,Kombi,1 332 cm3,159 KM,5,Niebieski
+Renault,Trafic,2019,83 500 PLN,266 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Szary
+Renault,Trafic,2021,69 900 PLN,160 000 km,Diesel,Manualna,Minivan,1 997 cm3,120 KM,6,Biały
+Renault,Captur,2015,35 900 PLN,142 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Inny kolor
+Renault,Laguna,2007,16 900 PLN,156 800 km,Benzyna,Manualna,Sedan,1 997 cm3,140 KM,5,Granatowy
+Renault,Scenic,2013,28 400 PLN,157 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Brązowy
+Renault,Megane,2011,18 900 PLN,120 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,100 KM,5,Czarny
+Renault,Clio,2021,51 500 PLN,42 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Szary
+Renault,Captur,2017,49 900 PLN,45 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Biały
+Renault,Megane,2022,41 500 PLN,45 000 km,Elektryczny,Automatyczna,Kompakt,,218 KM,5,Biały
+Renault,Scenic,2011,22 400 PLN,194 044 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,110 KM,5,Szary
+Renault,Megane,2003,2 700 PLN,180 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,98 KM,5,Srebrny
+Renault,Trafic,2024,196 798,1 km,Diesel,Automatyczna,Kombi,1 997 cm3,170 KM,4,Szary
+Renault,Trafic,2024,198 028,1 km,Diesel,Automatyczna,Kombi,1 997 cm3,170 KM,4,Czerwony
+Renault,Trafic,2024,209 098,1 km,Diesel,Automatyczna,Kombi,1 997 cm3,170 KM,4,Szary
+Renault,Megane,2014,32 500 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,116 KM,5,Brązowy
+Renault,Laguna,2006,6 900 PLN,215 000 km,Benzyna,Manualna,Kombi,1 998 cm3,135 KM,5,Szary
+Renault,Captur,2016,49 700 PLN,86 000 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Bordowy
+Renault,Megane,2011,25 000 PLN,154 000 km,Benzyna,Manualna,Kompakt,1 397 cm3,130 KM,5,Złoty
+Renault,Koleos,2018,81 999 PLN,119 200 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Biały
+Renault,Megane,2017,42 999 PLN,44 840 km,Benzyna,Manualna,Auta małe,1 197 cm3,100 KM,5,Szary
+Renault,Zoe,2018,40 400 PLN,77 600 km,Elektryczny,Automatyczna,Auta małe,,88 KM,5,Biały
+Renault,Scenic,2007,12 000 PLN,240 535 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,112 KM,5,Inny kolor
+Renault,Clio,2017,33 900 PLN,160 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Pomarańczowy
+Renault,Trafic,2016,55 104 PLN,402 500 km,Diesel,Manualna,Minivan,1 600 cm3,125 KM,4,Srebrny
+Renault,Talisman,2021,104 900 PLN,65 400 km,Diesel,Automatyczna,Sedan,1 997 cm3,200 KM,5,Inny kolor
+Renault,Grand Scenic,2021,74 900 PLN,76 000 km,Benzyna,Automatyczna,Kombi,1 332 cm3,140 KM,5,Srebrny
+Renault,Twingo,2015,23 990 PLN,145 500 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Bordowy
+Renault,Megane,2014,19 900 PLN,203 145 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Biały
+Renault,Megane,2009,22 500 PLN,163 967 km,Benzyna+LPG,Manualna,Coupe,1 397 cm3,130 KM,3,Biały
+Renault,Captur,2017,46 900 PLN,65 000 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Czerwony
+Renault,Megane,2020,54 500 PLN,76 651 km,Benzyna,Manualna,Kompakt,1 332 cm3,140 KM,5,Biały
+Renault,Clio,2012,23 000 PLN,48 500 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Beżowy
+Renault,Megane,2018,48 900 PLN,74 000 km,Benzyna,Manualna,Kombi,1 197 cm3,130 KM,5,Niebieski
+Renault,Clio,2014,29 500 PLN,101 000 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Biały
+Renault,Captur,2015,38 500 PLN,115 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Renault,Laguna,2001,7 900 PLN,139 000 km,Benzyna,Manualna,Auta miejskie,1 783 cm3,120 KM,5,Srebrny
+Renault,Clio,2018,36 900 PLN,68 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,73 KM,5,Srebrny
+Renault,Clio,2014,29 900 PLN,89 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,73 KM,5,Czarny
+Renault,Clio,2019,55 499 PLN,54 400 km,Benzyna,Manualna,Kompakt,999 cm3,100 KM,5,Niebieski
+Renault,Trafic,2017,70 900 PLN,159 900 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Czarny
+Renault,Captur,2014,36 300 PLN,118 900 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Pomarańczowy
+Renault,Laguna,2008,11 900 PLN,249 086 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Czarny
+Renault,Trafic,2018,75 000 PLN,98 000 km,Diesel,Manualna,Kombi,1 598 cm3,121 KM,4,Czarny
+Renault,Arkana,2021,99 900 PLN,45 000 km,Benzyna,Automatyczna,SUV,1 598 cm3,90 KM,5,Pomarańczowy
+Renault,Clio,2008,7 700 PLN,251 000 km,Diesel,Manualna,Kombi,1 461 cm3,85 KM,5,Srebrny
+Renault,Clio,2014,30 000 PLN,98 850 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Czarny
+Renault,Captur,2014,36 900 PLN,87 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Pomarańczowy
+Renault,Captur,2017,40 900 PLN,126 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Inny kolor
+Renault,Megane,2013,16 500 PLN,249 000 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Srebrny
+Renault,Koleos,2018,89 700 PLN,71 588 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Czarny
+Renault,Scenic,2003,5 900 PLN,251 000 km,Diesel,Manualna,Minivan,1 870 cm3,105 KM,5,Granatowy
+Renault,Modus,2007,7 100 PLN,140 000 km,Benzyna,Manualna,Minivan,1 149 cm3,75 KM,5,Srebrny
+Renault,Scenic,2011,8 000 PLN,197 000 km,Benzyna,Manualna,SUV,1 397 cm3,130 KM,5,Srebrny
+Renault,Megane,2013,21 500 PLN,191 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,115 KM,5,Szary
+Renault,Scenic,2012,22 000 PLN,193 500 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Granatowy
+Renault,Grand Scenic,2019,67 700 PLN,95 000 km,Diesel,Manualna,Minivan,1 749 cm3,120 KM,5,Niebieski
+Renault,Laguna,2010,18 900 PLN,285 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Czarny
+Renault,Talisman,2016,46 900 PLN,122 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,5,Szary
+Renault,Grand Espace,2011,29 900 PLN,254 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,173 KM,5,Czarny
+Renault,Trafic,2009,23 900 PLN,236 441 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Złoty
+Renault,Clio,2009,13 000 PLN,211 000 km,Benzyna,Manualna,Kombi,1 149 cm3,101 KM,5,Inny kolor
+Renault,Scenic,2006,11 800 PLN,159 864 km,Benzyna,Manualna,Minivan,1 998 cm3,136 KM,5,Srebrny
+Renault,Scenic,2010,20 500 PLN,143 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Brązowy
+Renault,Grand Scenic,2010,24 900 PLN,258 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Czerwony
+Renault,Megane,2017,39 000 PLN,207 000 km,Benzyna+LPG,Manualna,Sedan,1 598 cm3,115 KM,5,Biały
+Renault,Laguna,2006,7 600 PLN,281 000 km,Benzyna,Manualna,Kompakt,1 998 cm3,135 KM,5,Szary
+Renault,Kadjar,2020,74 900 PLN,72 500 km,Benzyna,Manualna,SUV,1 332 cm3,160 KM,5,Czarny
+Renault,Koleos,2019,35 000 PLN,54 000 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Inny kolor
+Renault,Scenic,2019,73 000 PLN,63 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Bordowy
+Renault,Megane,2009,17 200 PLN,170 000 km,Diesel,Manualna,Kompakt,1 461 cm3,105 KM,5,Inny kolor
+Renault,Clio,2002,26 000 PLN,186 000 km,Benzyna,Manualna,Auta małe,1 998 cm3,172 KM,3,Srebrny
+Renault,Clio,2022,55 999 PLN,22 000 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Biały
+Renault,Megane,2013,27 999 PLN,143 000 km,Diesel,Manualna,Kompakt,1 598 cm3,130 KM,5,Czarny
+Renault,Kadjar,2019,75 500 PLN,81 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Granatowy
+Renault,Clio,2020,56 900 PLN,89 500 km,Benzyna,Manualna,Auta małe,999 cm3,100 KM,5,Srebrny
+Renault,Megane,2017,52 999 PLN,111 000 km,Benzyna,Manualna,Kombi,1 197 cm3,130 KM,5,Inny kolor
+Renault,Megane,2016,33 000 PLN,178 000 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Srebrny
+Renault,Megane,2010,8 300 PLN,231 609 km,Diesel,Manualna,Auta miejskie,1 461 cm3,86 KM,5,Czarny
+Renault,Laguna,2012,37 900 PLN,244 000 km,Diesel,Manualna,Coupe,1 995 cm3,150 KM,2,Biały
+Renault,Koleos,2014,39 900 PLN,151 020 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Szary
+Renault,Megane,2013,20 500 PLN,173 140 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Srebrny
+Renault,Clio,2016,19 900 PLN,116 000 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,120 KM,5,Biały
+Renault,Kadjar,2018,67 000 PLN,82 800 km,Benzyna,Automatyczna,SUV,1 197 cm3,130 KM,5,Czerwony
+Renault,Espace,2016,84 500 PLN,200 000 km,Benzyna,Automatyczna,Minivan,1 618 cm3,200 KM,5,Biały
+Renault,Trafic,2018,88 900 PLN,130 000 km,Diesel,Manualna,Minivan,1 598 cm3,145 KM,4,Biały
+Renault,Laguna,2010,13 500 PLN,233 700 km,Diesel,Automatyczna,Kombi,1 995 cm3,173 KM,5,Błękitny
+Renault,Clio,2009,16 500 PLN,154 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Czerwony
+Renault,Scenic,2018,29 900 PLN,138 000 km,Diesel,Automatyczna,Minivan,1 461 cm3,110 KM,5,Szary
+Renault,Laguna,2010,18 500 PLN,136 440 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Espace,2023,189 900 PLN,330 km,Hybryda,Automatyczna,SUV,1 199 cm3,130 KM,5,Biały
+Renault,Clio,2009,10 090 PLN,153 000 km,Diesel,Manualna,Kombi,1 461 cm3,85 KM,5,Błękitny
+Renault,Kangoo,2015,23 247 PLN,290 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Biały
+Renault,Scenic,2010,22 000 PLN,175 495 km,Benzyna,Manualna,Minivan,1 397 cm3,130 KM,5,Szary
+Renault,Clio,2017,36 900 PLN,46 695 km,Benzyna,Manualna,Kompakt,898 cm3,90 KM,5,Czerwony
+Renault,Laguna,2010,17 900 PLN,389 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Czarny
+Renault,Trafic,2022,155 999 PLN,36 000 km,Diesel,Manualna,Kombi,1 997 cm3,150 KM,5,Szary
+Renault,Scenic,2019,53 900 PLN,195 000 km,Diesel,Automatyczna,Minivan,1 749 cm3,120 KM,5,Srebrny
+Renault,Megane,2010,17 400 PLN,190 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,100 KM,5,Szary
+Renault,Kangoo,2017,29 500 PLN,145 562 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,4,Biały
+Renault,Laguna,2008,15 000 PLN,333 000 km,Diesel,Manualna,Kombi,1 995 cm3,178 KM,5,Czarny
+Renault,Clio,2016,33 400 PLN,61 000 km,Diesel,Manualna,Kompakt,1 461 cm3,90 KM,5,Srebrny
+Renault,Captur,2014,39 200 PLN,65 730 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Beżowy
+Renault,Grand Scenic,2012,37 900 PLN,157 700 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Captur,2016,37 900 PLN,148 162 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Szary
+Renault,Kadjar,2015,47 900 PLN,179 800 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Czarny
+Renault,Captur,2020,84 900 PLN,21 000 km,Hybryda Plug-in,Automatyczna,SUV,1 598 cm3,92 KM,5,Czarny
+Renault,Scenic,2003,4 200 PLN,242 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 998 cm3,134 KM,5,Czarny
+Renault,Espace,2004,11 999 PLN,421 000 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,163 KM,5,Srebrny
+Renault,Megane,2018,59 900 PLN,62 000 km,Benzyna,Manualna,Kombi,1 332 cm3,140 KM,5,Niebieski
+Renault,Clio,2018,34 800 PLN,102 710 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Inny kolor
+Renault,Scenic,2018,53 700 PLN,144 900 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Beżowy
+Renault,Espace,2013,28 900 PLN,216 000 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Szary
+Renault,Grand Scenic,2018,69 999 PLN,91 060 km,Diesel,Automatyczna,Minivan,1 598 cm3,160 KM,5,Fioletowy
+Renault,Clio,2020,48 500 PLN,80 200 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Laguna,2014,33 700 PLN,235 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,173 KM,5,Czarny
+Renault,Megane,2016,41 900 PLN,161 733 km,Benzyna,Manualna,Kompakt,1 197 cm3,100 KM,5,Srebrny
+Renault,Megane,2016,74 900 PLN,62 000 km,Benzyna,Automatyczna,Kompakt,1 618 cm3,205 KM,5,Niebieski
+Renault,Austral,2024,149 000 PLN,10 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Czerwony
+Renault,Megane,2009,20 990 PLN,150 000 km,Benzyna,Manualna,Coupe,1 598 cm3,110 KM,3,Czarny
+Renault,Clio,2008,8 900 PLN,216 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Czerwony
+Renault,Arkana,2023,139 900 PLN,11 425 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Renault,Captur,2024,81 700 PLN,10 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Czerwony
+Renault,Clio,2023,82 500 PLN,19 947 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Niebieski
+Renault,Clio,2007,9 500 PLN,165 000 km,Diesel,Manualna,Auta małe,1 461 cm3,86 KM,5,Srebrny
+Renault,Arkana,2022,117 000 PLN,12 376 km,Hybryda,Automatyczna,SUV,1 598 cm3,145 KM,5,Czarny
+Renault,Arkana,2022,117 000 PLN,24 767 km,Benzyna,Automatyczna,SUV,1 598 cm3,145 KM,5,Biały
+Renault,Megane,2019,59 900 PLN,53 500 km,Benzyna,Manualna,Kombi,1 332 cm3,115 KM,5,Beżowy
+Renault,Grand Scenic,2007,12 500 PLN,166 000 km,Benzyna,Manualna,Minivan,1 998 cm3,134 KM,5,Granatowy
+Renault,Megane,2019,64 999 PLN,93 000 km,Diesel,Automatyczna,Kombi,1 749 cm3,149 KM,5,Granatowy
+Renault,Arkana,2023,118 000 PLN,12 803 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Czarny
+Renault,Clio,2015,26 700 PLN,153 245 km,Benzyna+CNG,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Renault,Clio,2011,22 599 PLN,139 000 km,Benzyna,Manualna,Kombi,1 149 cm3,103 KM,5,Czarny
+Renault,Arkana,2022,119 000 PLN,7 300 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Szary
+Renault,Trafic,2017,69 900 PLN,187 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Czarny
+Renault,Grand Scenic,2011,22 000 PLN,226 422 km,Benzyna+LPG,Automatyczna,Minivan,1 997 cm3,140 KM,5,Szary
+Renault,Trafic,2011,36 600 PLN,340 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czarny
+Renault,Clio,2014,22 950 PLN,179 950 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Niebieski
+Renault,Scenic,2005,10 900 PLN,256 845 km,Benzyna,Manualna,Minivan,1 998 cm3,135 KM,5,Szary
+Renault,Laguna,2008,19 900 PLN,168 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Granatowy
+Renault,Scenic,2013,18 600 PLN,340 200 km,Benzyna,Manualna,Minivan,1 197 cm3,130 KM,5,Srebrny
+Renault,Talisman,2018,47 900 PLN,109 000 km,Diesel,Manualna,Sedan,1 461 cm3,110 KM,4,Biały
+Renault,Kadjar,2019,69 500 PLN,76 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czerwony
+Renault,Captur,2023,94 900 PLN,713 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Szary
+Renault,Trafic,2018,53 000 PLN,205 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Biały
+Renault,Trafic,2024,197 500 PLN,280 km,Diesel,Automatyczna,Minivan,1 997 cm3,170 KM,4,Szary
+Renault,Scenic,2004,3 700 PLN,320 322 km,Diesel,Manualna,SUV,1 461 cm3,80 KM,5,Srebrny
+Renault,Scenic,2013,26 000 PLN,126 000 km,Diesel,Manualna,Auta małe,1 461 cm3,110 KM,5,Złoty
+Renault,Kadjar,2018,59 900 PLN,134 278 km,Diesel,Manualna,SUV,1 598 cm3,130 KM,5,Szary
+Renault,Austral,2024,169 900 PLN,5 181 km,Benzyna,Automatyczna,SUV,1 332 cm3,160 KM,5,Niebieski
+Renault,Captur,2014,39 999 PLN,123 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Beżowy
+Renault,Captur,2014,35 900 PLN,199 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Renault,Trafic,2013,37 400 PLN,257 856 km,Diesel,Manualna,Kombi,1 995 cm3,114 KM,4,Biały
+Renault,Captur,2017,54 900 PLN,78 500 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Czarny
+Renault,Captur,2016,46 900 PLN,52 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Srebrny
+Renault,Megane,2015,19 900 PLN,210 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Biały
+Renault,Clio,2008,14 900 PLN,119 000 km,Benzyna+LPG,Manualna,Kombi,1 149 cm3,100 KM,5,Beżowy
+Renault,Clio,2014,25 500 PLN,147 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Brązowy
+Renault,Kadjar,2022,94 500 PLN,36 700 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Trafic,2015,56 789 PLN,175 000 km,Diesel,Manualna,Kombi,1 598 cm3,116 KM,4,Beżowy
+Renault,Trafic,2006,24 300 PLN,430 000 km,Diesel,Manualna,Minivan,1 870 cm3,101 KM,4,Niebieski
+Renault,Megane,2009,14 900 PLN,253 000 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,5,Granatowy
+Renault,Kangoo,2017,44 999 PLN,84 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Srebrny
+Renault,Clio,2020,49 900 PLN,116 167 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Srebrny
+Renault,Megane,2019,54 999 PLN,86 000 km,Benzyna,Manualna,Sedan,1 332 cm3,140 KM,5,Biały
+Renault,Clio,2023,79 900 PLN,15 508 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Szary
+Renault,Captur,2015,38 800 PLN,201 500 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czarny
+Renault,Kadjar,2019,70 000 PLN,50 000 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Inny kolor
+Renault,Megane,2019,22 900 PLN,29 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,140 KM,5,Czarny
+Renault,Megane,2009,11 300 PLN,190 211 km,Benzyna,Manualna,Sedan,1 598 cm3,110 KM,5,Srebrny
+Renault,Captur,2017,48 900 PLN,62 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Żółty
+Renault,Megane,2011,19 500 PLN,176 582 km,Diesel,Manualna,Auta miejskie,1 870 cm3,130 KM,5,Czarny
+Renault,Megane,2010,19 500 PLN,188 000 km,Benzyna,Manualna,Kombi,1 397 cm3,130 KM,5,Czarny
+Renault,Kadjar,2017,50 900 PLN,107 100 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Czerwony
+Renault,Twingo,2016,25 600 PLN,78 680 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Szary
+Renault,Megane,2012,19 900 PLN,246 000 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,100 KM,5,Inny kolor
+Renault,Megane,2009,10 500 PLN,287 503 km,Diesel,Manualna,Kompakt,1 461 cm3,105 KM,5,Srebrny
+Renault,Megane,2013,19 500 PLN,164 200 km,Diesel,Manualna,Sedan,1 461 cm3,110 KM,5,Brązowy
+Renault,Kadjar,2017,55 500 PLN,165 700 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Czerwony
+Renault,Trafic,2005,68 500 PLN,250 000 km,Diesel,Manualna,Minivan,2 463 cm3,135 KM,4,Niebieski
+Renault,Trafic,2024,196 800 PLN,1 500 km,Diesel,Automatyczna,Minivan,1 997 cm3,149 KM,6,Inny kolor
+Renault,Megane,2017,62 000 PLN,117 000 km,Diesel,Automatyczna,Kompakt,1 598 cm3,163 KM,5,Niebieski
+Renault,Kadjar,2018,64 900 PLN,134 000 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Granatowy
+Renault,Grand Scenic,2012,25 900 PLN,125 000 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Srebrny
+Renault,Zoe,2016,33 210 PLN,41 094 km,Elektryczny,Automatyczna,Auta miejskie,,88 KM,5,Biały
+Renault,Scenic,2013,20 000 PLN,205 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Czarny
+Renault,Koleos,2020,99 900 PLN,37 300 km,Diesel,Automatyczna,SUV,1 749 cm3,150 KM,5,Niebieski
+Renault,Kadjar,2017,52 800 PLN,203 000 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Szary
+Renault,Scenic,2011,26 500 PLN,169 000 km,Benzyna,Manualna,Minivan,1 397 cm3,130 KM,5,Biały
+Renault,Clio,2017,27 900 PLN,241 600 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Renault,Clio,2021,44 900 PLN,32 850 km,Hybryda,Automatyczna,Sedan,1 598 cm3,91 KM,5,Pomarańczowy
+Renault,Talisman,2016,65 500 PLN,97 500 km,Benzyna,Automatyczna,Sedan,1 618 cm3,200 KM,5,Brązowy
+Renault,Scenic,2005,6 900 PLN,153 278 km,Benzyna,Manualna,Minivan,1 598 cm3,113 KM,5,Czerwony
+Renault,Scenic,2012,21 900 PLN,189 000 km,Diesel,Automatyczna,Minivan,1 870 cm3,130 KM,5,Biały
+Renault,Kadjar,2017,49 999 PLN,186 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Srebrny
+Renault,Scenic,2011,19 500 PLN,206 192 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Szary
+Renault,Kangoo,2019,44 444 PLN,90 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Niebieski
+Renault,Megane,2021,57 900 PLN,13 900 km,Benzyna,Manualna,Sedan,1 332 cm3,115 KM,5,Szary
+Renault,Kadjar,2020,80 000 PLN,50 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Megane,2013,24 900 PLN,191 000 km,Benzyna,Manualna,Kombi,1 397 cm3,130 KM,5,Czarny
+Renault,Kangoo,2011,19 800 PLN,181 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Srebrny
+Renault,Captur,2014,26 800 PLN,168 000 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Czarny
+Renault,Thalia,2004,9 900 PLN,57 121 km,Benzyna,Manualna,Sedan,1 390 cm3,75 KM,4,Fioletowy
+Renault,Modus,2005,13 900 PLN,188 521 km,Benzyna,Manualna,Kompakt,1 598 cm3,112 KM,5,Czarny
+Renault,Talisman,2016,49 000 PLN,196 000 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Granatowy
+Renault,Talisman,2020,69 900 PLN,92 400 km,Diesel,Automatyczna,Kombi,1 997 cm3,160 KM,5,Srebrny
+Renault,Megane,2012,21 900 PLN,223 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,100 KM,5,Szary
+Renault,Clio,2014,30 500 PLN,63 500 km,Benzyna+LPG,Manualna,Kompakt,1 149 cm3,73 KM,5,Czarny
+Renault,Kangoo,2006,13 900 PLN,177 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,95 KM,5,Szary
+Renault,Captur,2018,54 899,118 000 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,120 KM,5,Inny kolor
+Renault,Trafic,2020,149 900 PLN,95 033 km,Diesel,Automatyczna,Minivan,1 997 cm3,170 KM,5,Czarny
+Renault,Captur,2018,65 899,56 162 km,Benzyna,Automatyczna,SUV,1 197 cm3,118 KM,5,Brązowy
+Renault,Megane,2019,56 000 PLN,62 941 km,Benzyna,Manualna,Kombi,1 332 cm3,115 KM,5,Szary
+Renault,Master,2007,20 900 PLN,236 000 km,Diesel,Manualna,Kombi,2 464 cm3,101 KM,4,Biały
+Renault,Clio,2009,12 700 PLN,185 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,3,Zielony
+Renault,Megane,2012,10 800 PLN,138 504 km,Benzyna,Manualna,Kombi,1 197 cm3,116 KM,5,Bordowy
+Renault,Megane,2023,183 209 PLN,4 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,300 KM,5,Biały
+Renault,Megane,2016,24 500 PLN,167 000 km,Benzyna,Manualna,Kombi,1 197 cm3,116 KM,5,Biały
+Renault,Laguna,2008,16 999 PLN,264 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Czarny
+Renault,Captur,2014,32 900 PLN,225 838 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Szary
+Renault,Captur,2019,58 700 PLN,1 205 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Szary
+Renault,Laguna,2007,9 900 PLN,266 000 km,Benzyna+LPG,Manualna,Kompakt,1 997 cm3,140 KM,5,Srebrny
+Renault,Megane,2011,37 900 PLN,211 000 km,Benzyna,Manualna,Kombi,1 998 cm3,180 KM,5,Szary
+Renault,Kadjar,2015,41 900 PLN,130 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Srebrny
+Renault,Trafic,2024,176 000 PLN,822 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,4,Szary
+Renault,Fluence,2012,29 900 PLN,51 989 km,Elektryczny,Automatyczna,Sedan,,68 KM,4,Błękitny
+Renault,Scenic,2006,10 987 PLN,106 378 km,Benzyna,Automatyczna,Minivan,1 998 cm3,135 KM,5,Zielony
+Renault,Laguna,2008,26 000 PLN,251 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,150 KM,2,Srebrny
+Renault,Kadjar,2019,64 900 PLN,134 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Niebieski
+Renault,Laguna,2008,21 900 PLN,213 250 km,Benzyna,Automatyczna,Kombi,1 997 cm3,170 KM,5,Szary
+Renault,Espace,2003,7 900 PLN,364 000 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,163 KM,5,Srebrny
+Renault,Scenic,2015,33 900 PLN,115 000 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Megane,2015,22 900 PLN,198 000 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Renault,Megane,2014,24 969 PLN,189 940 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Inny kolor
+Renault,Grand Espace,2012,24 900 PLN,259 000 km,Benzyna,Manualna,Minivan,1 998 cm3,170 KM,5,Inny kolor
+Renault,Grand Scenic,2012,13 900 PLN,180 000 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Czarny
+Renault,Megane,2015,19 900 PLN,296 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Szary
+Renault,Clio,2019,28 799,175 500 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Renault,Clio,2019,36 200 PLN,84 000 km,Benzyna,Manualna,Kompakt,898 cm3,76 KM,5,Czarny
+Renault,Scenic,2005,7 300 PLN,259 000 km,Benzyna,Manualna,Minivan,1 598 cm3,113 KM,5,Niebieski
+Renault,Grand Scenic,2012,16 900 PLN,245 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Renault,Laguna,2012,24 999 PLN,330 200 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Srebrny
+Renault,Megane,2019,48 499,162 200 km,Benzyna,Automatyczna,Kombi,1 332 cm3,140 KM,5,Granatowy
+Renault,Kadjar,2020,79 800 PLN,62 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Scenic,2016,14 999 PLN,227 796 km,Benzyna,Manualna,Minivan,1 197 cm3,130 KM,5,Szary
+Renault,Master,2002,19 900 PLN,119 691 km,Diesel,Manualna,Minivan,2 464 cm3,120 KM,4,Biały
+Renault,Megane,2010,21 900 PLN,206 000 km,Benzyna,Manualna,Kabriolet,1 598 cm3,110 KM,2,Biały
+Renault,Scenic,2013,18 700 PLN,223 000 km,Benzyna,Manualna,Kombi,1 197 cm3,130 KM,5,Biały
+Renault,Clio,2008,12 600 PLN,172 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,101 KM,5,Srebrny
+Renault,Kadjar,2017,47 800 PLN,158 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Srebrny
+Renault,Megane,2010,19 900 PLN,170 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Biały
+Renault,Clio,2013,23 999 PLN,168 521 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Biały
+Renault,Twingo,2015,26 900 PLN,89 000 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Błękitny
+Renault,Koleos,2020,97 000 PLN,78 000 km,Diesel,Automatyczna,SUV,1 749 cm3,150 KM,5,Czarny
+Renault,Scenic,2013,26 300 PLN,286 300 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Czarny
+Renault,Kadjar,2019,69 900 PLN,130 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Espace,2010,18 500 PLN,310 000 km,Diesel,Manualna,Minivan,1 995 cm3,173 KM,5,Srebrny
+Renault,Megane,2005,7 500 PLN,235 000 km,Benzyna,Manualna,Kombi,1 598 cm3,113 KM,5,Niebieski
+Renault,Espace,2018,74 900 PLN,160 000 km,Diesel,Automatyczna,Minivan,1 598 cm3,160 KM,5,Szary
+Renault,Scenic,2010,18 900 PLN,282 000 km,Benzyna,Manualna,Minivan,1 598 cm3,110 KM,5,Czarny
+Renault,Talisman,2021,119 900 PLN,49 637 km,Diesel,Automatyczna,Sedan,1 997 cm3,189 KM,4,Czarny
+Renault,Talisman,2017,49 999 PLN,189 580 km,Diesel,Automatyczna,Kombi,1 598 cm3,130 KM,5,Szary
+Renault,Twingo,2011,9 999 PLN,152 700 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,3,Biały
+Renault,Arkana,2022,102 000 PLN,49 100 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Megane,2017,49 900 PLN,90 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,115 KM,5,Niebieski
+Renault,Captur,2017,26 500 PLN,91 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Czarny
+Renault,Grand Scenic,2009,19 900 PLN,208 800 km,Benzyna,Automatyczna,Minivan,1 997 cm3,140 KM,5,Beżowy
+Renault,Kadjar,2020,70 500 PLN,43 139 km,Benzyna,Manualna,SUV,1 333 cm3,140 KM,5,Biały
+Renault,Megane,2019,47 900 PLN,34 000 km,Benzyna,Manualna,Kombi,1 332 cm3,102 KM,5,Szary
+Renault,Laguna,2012,32 500 PLN,211 700 km,Diesel,Manualna,Kombi,1 995 cm3,178 KM,5,Błękitny
+Renault,Megane,2011,22 500 PLN,119 567 km,Benzyna,Manualna,Kompakt,1 598 cm3,101 KM,5,Granatowy
+Renault,Megane,2017,57 400 PLN,96 000 km,Benzyna,Manualna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Renault,Clio,2022,49 900 PLN,25 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Czarny
+Renault,Grand Scenic,2018,47 990 PLN,167 310 km,Diesel,Manualna,Minivan,1 750 cm3,120 KM,5,Srebrny
+Renault,Clio,2021,61 800 PLN,62 721 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Szary
+Renault,Megane,2020,29 900 PLN,104 019 km,Diesel,Manualna,Kombi,1 461 cm3,115 KM,5,Niebieski
+Renault,Master,2017,109 000 PLN,105 141 km,Diesel,Manualna,Auta miejskie,2 299 cm3,170 KM,2,Biały
+Renault,Zoe,2021,57 999 PLN,56 604 km,Elektryczny,Automatyczna,Kompakt,,108 KM,5,Biały
+Renault,Laguna,2010,18 500 PLN,268 919 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Czarny
+Renault,Scenic,2008,17 999 PLN,160 000 km,Benzyna,Manualna,Minivan,1 598 cm3,112 KM,5,Szary
+Renault,4,2019,45 000 PLN,110 000 km,Diesel,Manualna,Auta małe,1 500 cm3,115 KM,5,Szary
+Renault,Clio,2008,13 900 PLN,188 000 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Czarny
+Renault,Captur,2017,49 500 PLN,53 400 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Biały
+Renault,Espace,2015,49 900 PLN,113 000 km,Benzyna,Automatyczna,Minivan,1 618 cm3,200 KM,5,Srebrny
+Renault,Clio,2022,75 000 PLN,12 100 km,Benzyna,Manualna,Kompakt,1 332 cm3,140 KM,5,Pomarańczowy
+Renault,Scenic,2010,14 900 PLN,256 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Biały
+Renault,Talisman,2016,43 600 PLN,225 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Brązowy
+Renault,Modus,2005,2 900 PLN,110 145 km,Diesel,Manualna,Minivan,1 461 cm3,80 KM,5,Złoty
+Renault,Scenic,2009,19 900 PLN,169 000 km,Benzyna,Manualna,Minivan,1 598 cm3,110 KM,5,Szary
+Renault,Scenic RX4,2003,12 900 PLN,149 000 km,Benzyna,Manualna,SUV,1 998 cm3,140 KM,5,Zielony
+Renault,Megane,2014,24 900 PLN,177 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Szary
+Renault,Megane,2016,35 500 PLN,114 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,100 KM,5,Srebrny
+Renault,Clio,2012,12 000 PLN,162 000 km,Diesel,Manualna,Auta małe,1 461 cm3,75 KM,3,Biały
+Renault,Kadjar,2017,44 900 PLN,129 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Bordowy
+Renault,Grand Scenic,2019,37 900 PLN,100 000 km,Diesel,Automatyczna,Minivan,1 750 cm3,120 KM,5,Szary
+Renault,Megane,2016,50 900 PLN,88 700 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Szary
+Renault,Kadjar,2020,79 899 PLN,106 487 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Laguna,2011,17 999 PLN,188 500 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Szary
+Renault,Megane,2017,49 500 PLN,158 500 km,Diesel,Automatyczna,Kompakt,1 461 cm3,110 KM,5,Biały
+Renault,Captur,2019,69 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Biały
+Renault,Megane,2010,22 900 PLN,185 367 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Captur,2019,69 900 PLN,62 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,100 KM,5,Biały
+Renault,Megane,2010,22 900 PLN,185 367 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Trafic,2010,59 900 PLN,229 116 km,Diesel,Manualna,Minivan,2 464 cm3,146 KM,4,Srebrny
+Renault,Megane,2015,34 000 PLN,205 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Scenic,2003,9 000 PLN,136 746 km,Benzyna,Manualna,Minivan,1 998 cm3,140 KM,5,Czarny
+Renault,Clio,2005,8 900 PLN,255 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Szary
+Renault,Megane,2015,20 799 PLN,261 500 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Inny kolor
+Renault,Megane,2009,17 800 PLN,163 000 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,4,Szary
+Renault,Kangoo,2004,3 650 PLN,176 936 km,Diesel,Manualna,Minivan,1 461 cm3,80 KM,5,Inny kolor
+Renault,Clio,2006,5 490 PLN,162 000 km,Diesel,Manualna,Auta małe,1 461 cm3,68 KM,3,Inny kolor
+Renault,Scenic,2019,74 000 PLN,44 125 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Błękitny
+Renault,Megane,2011,9 999 PLN,144 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Biały
+Renault,Clio,2021,42 500 PLN,172 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Szary
+Renault,Megane,2018,52 000 PLN,135 429 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Niebieski
+Renault,Megane,2016,14 900 PLN,180 000 km,Diesel,Automatyczna,Kompakt,1 461 cm3,115 KM,5,Niebieski
+Renault,Clio,2019,35 499,132 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Granatowy
+Renault,Megane,2020,75 800 PLN,45 000 km,Diesel,Automatyczna,Auta małe,1 461 cm3,115 KM,5,Czarny
+Renault,Trafic,2010,44 800 PLN,194 263 km,Diesel,Manualna,Kombi,1 995 cm3,114 KM,4,Niebieski
+Renault,Scenic,2011,23 900 PLN,169 000 km,Benzyna,Manualna,Minivan,1 397 cm3,130 KM,5,Niebieski
+Renault,Kadjar,2017,28 600 PLN,52 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,130 KM,5,Biały
+Renault,Clio,2023,74 900 PLN,7 470 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Renault,Clio,2015,29 500 PLN,198 500 km,Benzyna+LPG,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Czerwony
+Renault,Captur,2016,47 500 PLN,159 099 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Inny kolor
+Renault,Kadjar,2019,69 900 PLN,84 100 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Captur,2021,79 900 PLN,28 800 km,Benzyna,Manualna,Auta miejskie,1 332 cm3,130 KM,5,Czerwony
+Renault,Arkana,2021,104 900 PLN,42 700 km,Hybryda,Automatyczna,SUV,1 598 cm3,145 KM,5,Czerwony
+Renault,Laguna,2008,9 000 PLN,268 000 km,Diesel,Manualna,Kombi,1 995 cm3,150 KM,5,Czarny
+Renault,Kadjar,2020,69 800 PLN,74 562 km,Diesel,Automatyczna,SUV,1 461 cm3,115 KM,5,Inny kolor
+Renault,Megane,2009,17 900 PLN,219 000 km,Diesel,Manualna,Kombi,1 995 cm3,160 KM,5,Niebieski
+Renault,Clio,2014,32 900 PLN,104 700 km,Benzyna,Automatyczna,Auta małe,1 618 cm3,200 KM,5,Bordowy
+Renault,Megane,2014,27 900 PLN,164 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,110 KM,5,Czerwony
+Renault,Megane,2024,86 500 PLN,10 km,Benzyna,Manualna,Sedan,1 332 cm3,140 KM,5,Niebieski
+Renault,Captur,2018,49 900 PLN,86 000 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Inny kolor
+Renault,Captur,2023,88 900 PLN,12 898 km,Benzyna,Manualna,SUV,999 cm3,90 KM,5,Szary
+Renault,Arkana,2023,119 900 PLN,9 792 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Pomarańczowy
+Renault,Clio,2024,72 499 PLN,10 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,100 KM,5,Pomarańczowy
+Renault,Koleos,2019,98 000 PLN,93 900 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Czarny
+Renault,Clio,2015,33 900 PLN,155 060 km,Diesel,Automatyczna,Auta miejskie,1 461 cm3,90 KM,5,Bordowy
+Renault,Kangoo,2007,3 990 PLN,167 301 km,Diesel,Manualna,Minivan,1 461 cm3,70 KM,4,Zielony
+Renault,Clio,2019,35 900 PLN,135 976 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Biały
+Renault,Laguna,2011,25 900 PLN,288 000 km,Diesel,Automatyczna,Coupe,1 995 cm3,173 KM,2,Szary
+Renault,Megane,2011,17 999 PLN,176 258 km,Benzyna,Manualna,Kompakt,1 397 cm3,130 KM,5,Czarny
+Renault,Scenic,2016,34 900 PLN,122 100 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Niebieski
+Renault,Megane,2022,54 000 PLN,11 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,114 KM,5,Srebrny
+Renault,Captur,2019,68 900 PLN,68 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,130 KM,5,Niebieski
+Renault,Megane,2020,58 900 PLN,92 965 km,Benzyna,Manualna,Sedan,1 332 cm3,140 KM,4,Czarny
+Renault,Trafic,2010,31 900 PLN,372 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,5,Srebrny
+Renault,Clio,2016,29 800 PLN,162 600 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Szary
+Renault,Scenic,2013,28 400 PLN,161 000 km,Benzyna+LPG,Manualna,Minivan,1 598 cm3,110 KM,5,Biały
+Renault,Kadjar,2015,51 500 PLN,110 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Srebrny
+Renault,Clio,2007,9 900 PLN,284 000 km,Benzyna+LPG,Manualna,Coupe,1 598 cm3,110 KM,3,Granatowy
+Renault,Grand Scenic,2019,53 900 PLN,169 000 km,Diesel,Manualna,Minivan,1 750 cm3,120 KM,5,Czarny
+Renault,Clio,2023,79 900 PLN,19 700 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,90 KM,5,Pomarańczowy
+Renault,Clio,2006,14 900 PLN,240 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,110 KM,5,Czarny
+Renault,Kadjar,2018,59 900 PLN,100 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Niebieski
+Renault,Trafic,2010,32 000 PLN,532 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,5,Srebrny
+Renault,Talisman,2019,100 000 PLN,95 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,225 KM,5,Biały
+Renault,Megane,2010,11 000 PLN,214 489 km,Diesel,Manualna,Auta małe,1 461 cm3,86 KM,5,Inny kolor
+Renault,Clio,2018,29 900 PLN,187 000 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Renault,Talisman,2016,47 500 PLN,156 000 km,Benzyna,Automatyczna,Sedan,1 618 cm3,150 KM,4,Brązowy
+Renault,Megane,2019,46 500 PLN,53 000 km,Diesel,Automatyczna,Kompakt,1 461 cm3,115 KM,5,Szary
+Renault,Grand Scenic,2010,10 900 PLN,320 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Błękitny
+Renault,Megane,2021,93 900 PLN,79 114 km,Hybryda Plug-in,Automatyczna,Kombi,1 598 cm3,91 KM,5,Czarny
+Renault,Trafic,2024,154 900 PLN,12 600 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Szary
+Renault,Trafic,2024,154 900 PLN,12 600 km,Diesel,Manualna,Minivan,1 997 cm3,150 KM,5,Szary
+Renault,Clio,2020,28 900 PLN,125 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,85 KM,5,Biały
+Renault,Captur,2015,39 900 PLN,100 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Srebrny
+Renault,Captur,2020,73 500 PLN,33 000 km,Benzyna,Manualna,SUV,999 cm3,100 KM,5,Czarny
+Renault,Clio,2019,44 900 PLN,79 900 km,Diesel,Manualna,Kompakt,1 461 cm3,85 KM,5,Srebrny
+Renault,Grand Scenic,2015,33 900 PLN,81 260 km,Benzyna,Manualna,Minivan,1 197 cm3,132 KM,5,Błękitny
+Renault,Arkana,2021,99 999 PLN,28 000 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Biały
+Renault,Kangoo,2022,119 999 PLN,42 000 km,Diesel,Automatyczna,Minivan,1 461 cm3,115 KM,5,Brązowy
+Renault,Trafic,2005,17 900 PLN,335 000 km,Diesel,Manualna,Minivan,1 870 cm3,82 KM,4,Żółty
+Renault,Laguna,2009,13 900 PLN,115 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Renault,Espace,2006,20 500 PLN,280 000 km,Diesel,Manualna,Minivan,1 995 cm3,150 KM,5,Srebrny
+Renault,Megane,2010,12 800 PLN,199 150 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Czarny
+Renault,Espace,2019,94 000 PLN,195 000 km,Diesel,Automatyczna,Minivan,1 997 cm3,200 KM,5,Fioletowy
+Renault,Captur,2014,42 900 PLN,141 263 km,Diesel,Automatyczna,SUV,1 461 cm3,90 KM,5,Inny kolor
+Renault,Clio,2014,44 500 PLN,144 800 km,Benzyna,Automatyczna,Auta małe,1 618 cm3,200 KM,5,Biały
+Renault,Koleos,2017,69 600 PLN,192 000 km,Diesel,Manualna,SUV,1 995 cm3,177 KM,5,Biały
+Renault,Captur,2014,35 900 PLN,188 250 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Srebrny
+Renault,Espace,2016,65 500 PLN,135 000 km,Benzyna,Automatyczna,Minivan,1 618 cm3,200 KM,5,Fioletowy
+Renault,Austral,2023,139 999 PLN,28 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,158 KM,5,Biały
+Renault,Megane,2017,41 999 PLN,126 000 km,Benzyna,Manualna,Kombi,1 197 cm3,100 KM,5,Biały
+Renault,Koleos,2013,23 900 PLN,350 000 km,Diesel,Manualna,SUV,1 995 cm3,150 KM,5,Czarny
+Renault,Zoe,2019,47 900 PLN,17 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Srebrny
+Renault,Espace,2024,230 199,5 km,Hybryda,Automatyczna,SUV,1 199 cm3,199 KM,5,Inny kolor
+Renault,Espace,2024,230 199,5 km,Hybryda,Automatyczna,SUV,1 199 cm3,199 KM,5,Czarny
+Renault,Clio,2024,70 430 PLN,5 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Inny kolor
+Renault,Grand Scenic,2010,16 500 PLN,150 195 km,Benzyna,Manualna,Minivan,1 397 cm3,130 KM,5,Czarny
+Renault,Laguna,2009,23 500 PLN,205 000 km,Diesel,Manualna,Kombi,1 995 cm3,178 KM,5,Srebrny
+Renault,Clio,2020,27 900 PLN,52 693 km,Hybryda,Automatyczna,Auta miejskie,1 598 cm3,94 KM,5,Niebieski
+Renault,Megane,2010,17 900 PLN,212 000 km,Diesel,Manualna,Coupe,1 461 cm3,110 KM,3,Brązowy
+Renault,Scenic,2011,17 000 PLN,265 536 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Srebrny
+Renault,Scenic,2014,32 900 PLN,156 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Srebrny
+Renault,Megane,2016,18 800 PLN,180 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Biały
+Renault,Scenic,2014,32 900 PLN,156 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Srebrny
+Renault,Megane,2016,18 800 PLN,180 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,5,Biały
+Renault,Espace,2008,15 600 PLN,189 652 km,Benzyna,Manualna,Minivan,1 998 cm3,136 KM,5,Bordowy
+Renault,Scenic,2012,16 999 PLN,221 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Szary
+Renault,Modus,2004,9 999 PLN,167 000 km,Benzyna,Manualna,Kompakt,1 149 cm3,75 KM,5,Srebrny
+Renault,Laguna,2011,22 000 PLN,144 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Clio,2018,32 900 PLN,168 004 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,73 KM,5,Czerwony
+Renault,Laguna,2011,20 900 PLN,191 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Renault,Trafic,2020,66 420 PLN,537 000 km,Diesel,Manualna,Minivan,1 997 cm3,145 KM,5,Beżowy
+Renault,Espace,2008,12 500 PLN,289 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,173 KM,5,Czarny
+Renault,Grand Scenic,2016,30 000 PLN,127 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Biały
+Renault,Megane,2020,35 700 PLN,66 542 km,Diesel,Manualna,Kompakt,1 461 cm3,115 KM,5,Biały
+Renault,Megane,2018,41 800 PLN,98 000 km,Diesel,Manualna,Kombi,1 461 cm3,90 KM,5,Biały
+Renault,Clio,2020,44 500 PLN,141 477 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Megane,2016,44 900 PLN,78 900 km,Benzyna,Manualna,Kompakt,1 197 cm3,100 KM,5,Czerwony
+Renault,Laguna,2009,12 990 PLN,360 000 km,Diesel,Automatyczna,Kombi,1 995 cm3,150 KM,5,Szary
+Renault,Clio,2019,29 900 PLN,174 400 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Biały
+Renault,Master,2019,74 900 PLN,110 000 km,Diesel,Manualna,Minivan,2 299 cm3,150 KM,5,Biały
+Renault,Scenic,2019,59 000 PLN,128 000 km,Diesel,Manualna,Minivan,1 749 cm3,120 KM,5,Srebrny
+Renault,Megane,2021,62 000 PLN,34 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,140 KM,5,Biały
+Renault,Megane,2018,58 500 PLN,90 700 km,Diesel,Automatyczna,Kombi,1 598 cm3,163 KM,5,Niebieski
+Renault,Clio,2019,40 900 PLN,57 000 km,Benzyna,Manualna,Auta małe,898 cm3,90 KM,5,Czerwony
+Renault,Trafic,2015,55 350 PLN,230 800 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Srebrny
+Renault,Clio,2020,46 500 PLN,90 770 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Biały
+Renault,Clio,2016,31 000 PLN,165 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,73 KM,5,Czerwony
+Renault,Trafic,2013,32 900 PLN,430 000 km,Diesel,Manualna,Minivan,1 598 cm3,125 KM,4,Biały
+Renault,Kadjar,2019,64 900 PLN,31 400 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Megane,2018,100 500 PLN,130 000 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,280 KM,5,Biały
+Renault,Megane,2009,20 500 PLN,197 478 km,Benzyna+LPG,Automatyczna,Auta małe,1 997 cm3,140 KM,5,Beżowy
+Renault,Captur,2015,39 900 PLN,86 817 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Czarny
+Renault,Megane,2018,48 900 PLN,104 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,114 KM,4,Biały
+Renault,Clio,2002,9 900 PLN,105 226 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Srebrny
+Renault,Megane,2010,17 700 PLN,182 000 km,Diesel,Manualna,Kompakt,1 461 cm3,110 KM,3,Czarny
+Renault,Trafic,2004,26 000 PLN,184 504 km,Diesel,Manualna,Minivan,2 463 cm3,135 KM,4,Zielony
+Renault,Scenic,2021,69 500 PLN,40 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Kangoo,2015,33 900 PLN,186 600 km,Benzyna,Manualna,Minivan,1 197 cm3,115 KM,5,Szary
+Renault,Megane,2007,7 500 PLN,189 000 km,Benzyna,Manualna,Kombi,1 390 cm3,98 KM,5,Szary
+Renault,Megane,2011,28 500 PLN,93 827 km,Benzyna,Manualna,Coupe,1 397 cm3,130 KM,3,Szary
+Renault,Clio,2016,35 900 PLN,102 697 km,Benzyna,Manualna,Kompakt,1 149 cm3,73 KM,5,Szary
+Renault,Talisman,2016,59 900 PLN,110 217 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,5,Czarny
+Renault,Clio,2014,24 500 PLN,91 990 km,Benzyna,Manualna,Auta miejskie,898 cm3,90 KM,5,Szary
+Renault,Captur,2017,53 500 PLN,103 000 km,Benzyna,Manualna,SUV,1 197 cm3,118 KM,5,Pomarańczowy
+Renault,Trafic,2017,57 000 PLN,376 000 km,Diesel,Manualna,SUV,1 598 cm3,145 KM,4,Beżowy
+Renault,Kadjar,2018,53 900 PLN,134 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Czerwony
+Renault,Kangoo,2011,19 500 PLN,289 000 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Srebrny
+Renault,Laguna,2011,19 900 PLN,226 000 km,Diesel,Manualna,Kompakt,1 995 cm3,130 KM,5,Czarny
+Renault,Kangoo,2016,38 700 PLN,104 613 km,Diesel,Manualna,Minivan,1 461 cm3,90 KM,5,Srebrny
+Renault,Koleos,2017,79 900 PLN,103 000 km,Diesel,Automatyczna,SUV,1 995 cm3,177 KM,5,Fioletowy
+Renault,Scenic,2006,8 500 PLN,200 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Czarny
+Renault,Captur,2019,49 900 PLN,66 209 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Złoty
+Renault,Captur,2016,39 000 PLN,200 500 km,Benzyna,Automatyczna,SUV,1 197 cm3,118 KM,5,Czarny
+Renault,Trafic,2007,34 500 PLN,264 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,4,Czarny
+Renault,Megane,2000,6 400 PLN,203 722 km,Benzyna,Manualna,Coupe,1 598 cm3,107 KM,2,Czerwony
+Renault,Kadjar,2016,49 900 PLN,171 900 km,Diesel,Automatyczna,SUV,1 461 cm3,110 KM,5,Czarny
+Renault,Arkana,2022,94 900 PLN,24 170 km,Hybryda,Automatyczna,SUV,1 598 cm3,94 KM,5,Czarny
+Renault,Modus,2007,8 900 PLN,136 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,88 KM,5,Inny kolor
+Renault,Trafic,2006,30 000 PLN,289 036 km,Diesel,Manualna,Minivan,2 463 cm3,135 KM,4,Niebieski
+Renault,Clio,2007,10 700 PLN,150 000 km,Benzyna,Manualna,Auta miejskie,1 149 cm3,75 KM,5,Inny kolor
+Renault,Captur,2020,23 900 PLN,89 000 km,Benzyna,Automatyczna,SUV,1 332 cm3,130 KM,5,Pomarańczowy
+Renault,Espace,2007,9 500 PLN,309 000 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Niebieski
+Renault,Trafic,2008,51 000 PLN,199 000 km,Diesel,Manualna,Kombi,1 995 cm3,114 KM,4,Czarny
+Renault,Talisman,2018,66 900 PLN,65 561 km,Benzyna,Automatyczna,Kombi,1 618 cm3,150 KM,5,Brązowy
+Renault,Talisman,2017,66 900 PLN,152 000 km,Benzyna,Automatyczna,Kombi,1 618 cm3,200 KM,5,Granatowy
+Renault,Scenic,2012,26 900 PLN,137 000 km,Benzyna,Manualna,Minivan,1 197 cm3,116 KM,5,Szary
+Renault,Clio,2021,49 500 PLN,30 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,100 KM,5,Srebrny
+Renault,Arkana,2021,79 900 PLN,120 442 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Biały
+Renault,Captur,2017,36 400 PLN,150 700 km,Diesel,Manualna,SUV,1 461 cm3,90 KM,5,Srebrny
+Renault,Talisman,2017,57 900 PLN,143 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,130 KM,5,Szary
+Renault,Modus,2005,9 900 PLN,83 434 km,Benzyna,Manualna,Minivan,1 390 cm3,98 KM,5,Srebrny
+Renault,Arkana,2021,100 000 PLN,51 000 km,Benzyna,Automatyczna,Kompakt,1 332 cm3,140 KM,5,Czerwony
+Renault,Megane,2022,29 999 PLN,29 722 km,Diesel,Manualna,Kompakt,1 461 cm3,115 KM,5,Biały
+Renault,Master,2011,49 500 PLN,274 426 km,Diesel,Manualna,Kombi,2 299 cm3,145 KM,4,Niebieski
+Renault,Kadjar,2015,38 500 PLN,125 955 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Niebieski
+Renault,Megane,2016,43 900 PLN,40 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,100 KM,5,Czarny
+Renault,Clio,2006,4 500 PLN,198 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,98 KM,5,Granatowy
+Renault,Talisman,2018,74 800 PLN,91 000 km,Diesel,Manualna,Sedan,1 598 cm3,130 KM,5,Czarny
+Renault,Clio,2022,19 999 PLN,30 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,90 KM,5,Biały
+Renault,Clio,2001,3 100 PLN,143 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,60 KM,3,Srebrny
+Renault,Grand Espace,2011,22 999 PLN,199 999 km,Diesel,Manualna,Minivan,1 995 cm3,175 KM,5,Złoty
+Renault,Megane,2012,22 500 PLN,211 000 km,Benzyna,Manualna,Kombi,1 197 cm3,116 KM,5,Czarny
+Renault,Clio,2015,27 900 PLN,169 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,90 KM,5,Srebrny
+Renault,Megane,2009,19 990 PLN,162 116 km,Benzyna,Manualna,Coupe,1 598 cm3,110 KM,3,Pomarańczowy
+Renault,Kadjar,2015,48 700 PLN,55 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Czerwony
+Renault,Grand Scenic,2009,14 000 PLN,260 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Brązowy
+Renault,Scenic,2015,30 500 PLN,145 000 km,Diesel,Manualna,Minivan,1 598 cm3,130 KM,5,Niebieski
+Renault,Laguna,2008,13 600 PLN,261 000 km,Benzyna+LPG,Automatyczna,Sedan,1 998 cm3,170 KM,5,Czarny
+Renault,Megane,2011,17 999 PLN,169 213 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,100 KM,5,Czarny
+Renault,Megane,2011,15 700 PLN,321 440 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Beżowy
+Renault,Laguna,2009,17 900 PLN,178 700 km,Diesel,Manualna,Coupe,1 995 cm3,150 KM,2,Czarny
+Renault,Megane,2017,49 900 PLN,86 000 km,Benzyna,Manualna,Kombi,1 197 cm3,130 KM,4,Biały
+Renault,Talisman,2018,82 500 PLN,141 656 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,5,Czarny
+Renault,Master,2019,55 000 PLN,318 000 km,Diesel,Manualna,Auta miejskie,2 299 cm3,170 KM,2,Czerwony
+Renault,Megane,2015,24 500 PLN,166 574 km,Diesel,Manualna,Kombi,1 461 cm3,95 KM,5,Biały
+Renault,Clio,2020,49 000 PLN,81 900 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,90 KM,5,Srebrny
+Renault,Laguna,2008,22 900 PLN,215 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Renault,Megane,2011,17 500 PLN,221 224 km,Diesel,Manualna,Kompakt,1 870 cm3,130 KM,5,Srebrny
+Renault,Laguna,2008,22 900 PLN,215 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Inny kolor
+Renault,Megane,2011,17 500 PLN,221 224 km,Diesel,Manualna,Kompakt,1 870 cm3,130 KM,5,Srebrny
+Renault,Scenic,2004,6 900 PLN,287 000 km,Diesel,Manualna,Minivan,1 870 cm3,120 KM,5,Niebieski
+Renault,Megane,2009,18 900 PLN,168 500 km,Benzyna,Manualna,Kombi,1 397 cm3,130 KM,5,Srebrny
+Renault,Espace,2012,23 900 PLN,225 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,173 KM,5,Czarny
+Renault,Laguna,2008,13 900 PLN,298 000 km,Diesel,Manualna,Sedan,1 995 cm3,173 KM,5,Beżowy
+Renault,Megane,2009,22 999 PLN,188 000 km,Benzyna,Manualna,Coupe,1 598 cm3,110 KM,3,Czarny
+Renault,Clio,2011,17 900 PLN,84 500 km,Benzyna,Manualna,Kombi,1 149 cm3,75 KM,5,Złoty
+Renault,Megane,2018,58 500 PLN,90 800 km,Benzyna,Manualna,Sedan,1 332 cm3,115 KM,4,Czarny
+Renault,Talisman,2017,46 000 PLN,179 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Błękitny
+Renault,Trafic,2020,115 000 PLN,62 000 km,Diesel,Manualna,Minivan,1 997 cm3,145 KM,5,Beżowy
+Renault,Captur,2018,45 200 PLN,57 000 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Brązowy
+Renault,Megane,2009,22 999 PLN,138 000 km,Benzyna,Manualna,Coupe,1 598 cm3,110 KM,3,Czarny
+Renault,Espace,2015,67 900 PLN,152 000 km,Benzyna,Automatyczna,Minivan,1 618 cm3,200 KM,5,Fioletowy
+Renault,Clio,2023,78 970 PLN,5 820 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Szary
+Renault,Scenic,2011,16 800 PLN,238 500 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Brązowy
+Renault,Clio,2019,27 900 PLN,140 467 km,Diesel,Manualna,Kombi,1 461 cm3,75 KM,5,Biały
+Renault,Talisman,2016,56 900 PLN,129 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,5,Niebieski
+Renault,Clio,2020,44 900 PLN,149 727 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,100 KM,5,Szary
+Renault,Captur,2013,34 900 PLN,174 908 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Pomarańczowy
+Renault,Trafic,2008,36 900 PLN,293 000 km,Diesel,Automatyczna,Minivan,2 464 cm3,145 KM,4,Srebrny
+Renault,Megane,2005,7 700 PLN,340 000 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,113 KM,5,Bordowy
+Renault,Master,2019,85 000 PLN,98 000 km,Diesel,Manualna,Auta miejskie,2 299 cm3,136 KM,2,Inny kolor
+Renault,Laguna,2011,25 999 PLN,224 000 km,Benzyna,Manualna,Kombi,1 997 cm3,140 KM,5,Czarny
+Renault,Captur,2019,63 900 PLN,56 874 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Szary
+Renault,Clio,2019,24 999 PLN,199 999 km,Benzyna,Manualna,Kombi,898 cm3,90 KM,5,Biały
+Renault,Megane,2009,17 500 PLN,225 014 km,Benzyna,Manualna,Auta miejskie,1 598 cm3,100 KM,5,Inny kolor
+Renault,Kadjar,2019,70 600 PLN,68 907 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Szary
+Renault,Scenic,2014,27 800 PLN,149 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Inny kolor
+Renault,Trafic,2010,43 900 PLN,322 664 km,Benzyna+LPG,Manualna,Minivan,1 998 cm3,117 KM,4,Czarny
+Renault,Captur,2017,64 900 PLN,26 090 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,118 KM,5,Inny kolor
+Renault,Megane,2008,15 500 PLN,251 979 km,Benzyna+LPG,Manualna,Kompakt,1 598 cm3,110 KM,5,Biały
+Renault,Talisman,2021,82 000 PLN,210 278 km,Diesel,Automatyczna,Kombi,1 997 cm3,160 KM,5,Bordowy
+Renault,Kadjar,2016,38 000 PLN,117 016 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Biały
+Renault,Captur,2015,34 999 PLN,120 100 km,Benzyna,Manualna,SUV,898 cm3,90 KM,5,Szary
+Renault,Clio,2023,89 600 PLN,10 km,Benzyna,Manualna,Kompakt,999 cm3,90 KM,5,Szary
+Renault,Clio,2007,8 800 PLN,200 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,5,Szary
+Renault,Talisman,2019,69 999 PLN,80 000 km,Benzyna,Automatyczna,Kombi,1 332 cm3,159 KM,5,Bordowy
+Renault,Megane,2004,5 700 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 390 cm3,80 KM,5,Niebieski
+Renault,Kangoo,2019,27 900 PLN,187 200 km,Diesel,Manualna,Minivan,1 461 cm3,75 KM,5,Czarny
+Renault,Megane,2010,22 800 PLN,196 000 km,Diesel,Manualna,Kabriolet,1 870 cm3,130 KM,2,Czarny
+Renault,Megane,2003,3 300 PLN,200 000 km,Benzyna,Manualna,Kombi,1 598 cm3,107 KM,2,Zielony
+Renault,Megane,2013,28 600 PLN,197 000 km,Diesel,Manualna,Kombi,1 598 cm3,130 KM,5,Czerwony
+Renault,Twingo,2012,12 400 PLN,129 500 km,Benzyna,Manualna,Auta małe,1 149 cm3,75 KM,3,Czerwony
+Renault,Megane,2018,41 700 PLN,141 471 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Srebrny
+Renault,Megane,2021,71 999 PLN,50 000 km,Benzyna,Manualna,Kompakt,1 332 cm3,140 KM,5,Niebieski
+Renault,Megane,2011,17 900 PLN,151 000 km,Benzyna,Manualna,Kompakt,1 598 cm3,110 KM,5,Szary
+Renault,Clio,2019,22 999 PLN,209 200 km,Benzyna,Manualna,Kombi,1 197 cm3,118 KM,5,Czarny
+Renault,Scenic,2011,15 900 PLN,220 000 km,Diesel,Manualna,Kompakt,1 598 cm3,130 KM,5,Brązowy
+Renault,Megane,2020,47 500 PLN,160 000 km,Benzyna,Automatyczna,Kombi,1 332 cm3,140 KM,5,Granatowy
+Renault,Kadjar,2015,51 500 PLN,156 825 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Niebieski
+Renault,Megane,2018,65 000 PLN,48 860 km,Benzyna,Manualna,Auta małe,1 197 cm3,130 KM,5,Niebieski
+Renault,Trafic,2012,29 900 PLN,369 000 km,Diesel,Manualna,Minivan,1 995 cm3,90 KM,4,Biały
+Renault,Grand Scenic,2011,22 900 PLN,252 000 km,Diesel,Manualna,Minivan,1 995 cm3,160 KM,5,Szary
+Renault,Laguna,2007,17 000 PLN,266 918 km,Benzyna,Manualna,Kompakt,1 997 cm3,140 KM,5,Szary
+Renault,Espace,2011,23 900 PLN,224 569 km,Diesel,Automatyczna,Minivan,1 995 cm3,130 KM,5,Czarny
+Renault,Master,2019,69 000 PLN,990 000 km,Diesel,Manualna,Minivan,2 299 cm3,146 KM,4,Czerwony
+Renault,Megane,2005,12 500 PLN,216 000 km,Benzyna,Manualna,Kabriolet,1 998 cm3,163 KM,2,Czerwony
+Renault,Megane,2011,12 500 PLN,233 000 km,Benzyna,Manualna,Kombi,1 397 cm3,130 KM,5,Niebieski
+Renault,Espace,2011,23 900 PLN,224 569 km,Diesel,Manualna,Minivan,1 995 cm3,130 KM,5,Czarny
+Renault,Scenic,2014,28 500 PLN,180 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,115 KM,5,Szary
+Renault,Arkana,2023,102 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 598 cm3,146 KM,5,Czerwony
+Renault,Megane,2017,35 500 PLN,230 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,4,Czarny
+Renault,Scenic,2013,23 900 PLN,260 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Czarny
+Renault,Megane,2017,35 500 PLN,230 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,4,Czarny
+Renault,Scenic,2013,23 900 PLN,260 000 km,Diesel,Manualna,Minivan,1 461 cm3,110 KM,5,Czarny
+Renault,Talisman,2016,52 900 PLN,228 000 km,Diesel,Automatyczna,Kombi,1 461 cm3,110 KM,5,Czarny
+Renault,Captur,2020,84 000 PLN,35 900 km,Benzyna,Manualna,SUV,1 332 cm3,130 KM,5,Niebieski
+Renault,Megane,2013,57 800 PLN,96 000 km,Benzyna,Manualna,Coupe,1 998 cm3,265 KM,3,Czarny
+Renault,Laguna,2009,11 900 PLN,298 700 km,Diesel,Manualna,Kombi,1 995 cm3,130 KM,5,Inny kolor
+Renault,Captur,2019,65 000 PLN,144 133 km,Benzyna,Automatyczna,SUV,1 332 cm3,150 KM,5,Szary
+Renault,Megane,2013,21 900 PLN,195 000 km,Diesel,Manualna,Kombi,1 461 cm3,110 KM,5,Bordowy
+Renault,Megane,2019,255 000 PLN,12 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,300 KM,5,Biały
+Renault,Trafic,2012,59 900 PLN,229 800 km,Diesel,Automatyczna,Kombi,1 995 cm3,114 KM,4,Szary
+Renault,Clio,2013,16 500 PLN,242 000 km,Diesel,Manualna,Auta miejskie,1 461 cm3,75 KM,5,Biały
+Renault,Arkana,2021,101 900 PLN,55 439 km,Benzyna,Automatyczna,SUV,1 332 cm3,140 KM,5,Pomarańczowy
+Renault,Megane,2009,17 900 PLN,174 000 km,Benzyna+LPG,Manualna,Coupe,1 598 cm3,100 KM,5,Biały
+Renault,Espace,2007,9 500 PLN,266 000 km,Diesel,Automatyczna,Minivan,1 995 cm3,150 KM,5,Srebrny
+Renault,Megane,2006,6 400 PLN,485 000 km,Benzyna+LPG,Manualna,Kombi,1 998 cm3,135 KM,5,Czarny
+Renault,Kadjar,2016,48 900 PLN,195 000 km,Benzyna,Manualna,SUV,1 197 cm3,130 KM,5,Beżowy
+Renault,Talisman,2017,50 000 PLN,182 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,160 KM,5,Szary
+Renault,Arkana,2021,56 500 PLN,59 000 km,Hybryda,Automatyczna,SUV,1 332 cm3,140 KM,5,Czarny
+Renault,Megane,2009,17 500 PLN,177 000 km,Diesel,Manualna,Kompakt,1 870 cm3,130 KM,5,Inny kolor
+Renault,Clio,2000,4 200 PLN,89 000 km,Benzyna,Manualna,Auta małe,1 149 cm3,60 KM,3,Niebieski
+Renault,Zoe,2021,54 900 PLN,67 000 km,Elektryczny,Automatyczna,Kompakt,,109 KM,5,Srebrny
+Renault,Clio,2009,14 300 PLN,197 000 km,Diesel,Manualna,Kompakt,1 461 cm3,106 KM,5,Czarny
+Renault,Clio,2021,55 000 PLN,22 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,91 KM,5,Biały
+Renault,Kadjar,2021,48 700 PLN,54 350 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Srebrny
+Renault,Trafic,2014,36 600 PLN,206 000 km,Diesel,Manualna,Minivan,1 995 cm3,114 KM,5,Srebrny
+Renault,Scenic,2016,58 000 PLN,103 000 km,Diesel,Manualna,SUV,1 461 cm3,110 KM,5,Złoty
+Renault,Megane,2014,31 900 PLN,219 033 km,Benzyna,Manualna,Kombi,1 598 cm3,110 KM,5,Inny kolor
+Renault,Scenic,2010,12 900 PLN,308 000 km,Diesel,Manualna,Minivan,1 870 cm3,130 KM,5,Czarny
+Renault,Grand Scenic,2018,63 000 PLN,122 000 km,Benzyna,Manualna,SUV,1 332 cm3,140 KM,5,Bordowy
+Renault,Scenic,2012,31 999 PLN,63 768 km,Benzyna,Manualna,Minivan,1 598 cm3,110 KM,5,Czarny
+Renault,Captur,2018,56 000 PLN,66 000 km,Benzyna,Automatyczna,SUV,1 197 cm3,120 KM,5,Inny kolor
+Renault,Laguna,2007,12 000 PLN,296 121 km,Diesel,Manualna,Sedan,1 995 cm3,150 KM,5,Srebrny

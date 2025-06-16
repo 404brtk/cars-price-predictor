@@ -1,0 +1,929 @@
+Marka,Model,Rok produkcji,Cena,Przebieg,Rodzaj paliwa,Skrzynia biegów,Typ nadwozia,Pojemność skokowa,Moc,Liczba drzwi,Kolor
+Skoda,Octavia,2021,84 000 PLN,130 743 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Inny kolor
+Skoda,Superb,2014,45 900 PLN,229 606 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Octavia,2015,45 500 PLN,167 459 km,Benzyna,Manualna,Sedan,1 798 cm3,180 KM,5,Błękitny
+Skoda,Octavia,2022,144 000 PLN,32 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Zielony
+Skoda,Octavia,2015,29 000 PLN,212 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Srebrny
+Skoda,Superb,2019,129 900 PLN,141 200 km,Benzyna,Automatyczna,Kombi,1 984 cm3,272 KM,5,Brązowy
+Skoda,Superb,2019,84 900 PLN,62 000 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Brązowy
+Skoda,Octavia,2006,7 000 PLN,255 804 km,Diesel,Manualna,Sedan,1 896 cm3,101 KM,5,Szary
+Skoda,Superb,2020,93 000 PLN,23 000 km,Benzyna,Manualna,Sedan,1 498 cm3,149 KM,5,Szary
+Skoda,Karoq,2023,162 785,9 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Skoda,Scala,2021,70 900 PLN,75 773 km,Benzyna,Manualna,Kompakt,1 498 cm3,149 KM,5,Granatowy
+Skoda,Citigo,2017,21 000 PLN,126 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Biały
+Skoda,Octavia,2014,39 900 PLN,240 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Złoty
+Skoda,Kodiaq,2017,89 900 PLN,58 000 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Biały
+Skoda,Octavia,2010,17 200 PLN,318 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Octavia,2011,23 000 PLN,241 241 km,Benzyna+LPG,Manualna,Kombi,1 595 cm3,102 KM,5,Granatowy
+Skoda,Scala,2019,63 000 PLN,34 300 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Niebieski
+Skoda,Superb,2022,89 536,60 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Srebrny
+Skoda,Octavia,2018,61 500 PLN,175 336 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Inny kolor
+Skoda,Fabia,2019,36 000 PLN,191 000 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Skoda,Superb,2015,57 150 PLN,325 044 km,Diesel,Manualna,Sedan,1 968 cm3,190 KM,5,Czarny
+Skoda,Fabia,2008,13 500 PLN,191 075 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Srebrny
+Skoda,Fabia,2011,6 900 PLN,185 000 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Biały
+Skoda,Octavia,2008,12 500 PLN,310 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Zielony
+Skoda,Scala,2019,49 900 PLN,136 000 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Biały
+Skoda,Octavia,2012,18 000 PLN,230 600 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Beżowy
+Skoda,Octavia,2019,83 600 PLN,148 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,184 KM,5,Szary
+Skoda,Kodiaq,2021,120 000 PLN,117 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Fabia,2021,54 900 PLN,61 000 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Szary
+Skoda,Octavia,2013,29 900 PLN,152 000 km,Benzyna,Manualna,Kombi,1 390 cm3,122 KM,5,Srebrny
+Skoda,Kodiaq,2020,119 986,135 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Niebieski
+Skoda,Scala,2020,73 700 PLN,49 933 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Srebrny
+Skoda,Octavia,2018,65 500 PLN,107 570 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2017,46 046 PLN,198 891 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Fabia,2011,8 500 PLN,314 000 km,Diesel,Manualna,Kombi,1 598 cm3,75 KM,5,Srebrny
+Skoda,Scala,2022,90 000 PLN,16 300 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Szary
+Skoda,Octavia,2015,34 000 PLN,338 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Srebrny
+Skoda,Octavia,2010,26 900 PLN,252 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,200 KM,5,Czarny
+Skoda,Octavia,2011,23 900 PLN,319 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Niebieski
+Skoda,Fabia,2010,26 000 PLN,192 000 km,Benzyna,Automatyczna,Auta miejskie,1 390 cm3,179 KM,5,Żółty
+Skoda,Superb,2019,114 900 PLN,93 335 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Szary
+Skoda,Superb,2014,26 900 PLN,241 235 km,Benzyna,Automatyczna,Sedan,1 798 cm3,160 KM,5,Brązowy
+Skoda,RAPID,2018,44 900 PLN,107 862 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Skoda,Superb,2020,84 900 PLN,239 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Granatowy
+Skoda,Octavia,2007,14 800 PLN,218 800 km,Benzyna+LPG,Manualna,Auta miejskie,1 595 cm3,102 KM,5,Czarny
+Skoda,Kodiaq,2017,79 999 PLN,248 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,180 KM,5,Czarny
+Skoda,Karoq,2018,99 000 PLN,59 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2016,70 000 PLN,202 722 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Niebieski
+Skoda,Octavia,2009,19 900 PLN,207 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Szary
+Skoda,Fabia,2017,19 900 PLN,232 085 km,Diesel,Manualna,Kombi,1 422 cm3,105 KM,5,Biały
+Skoda,Octavia,2005,11 400 PLN,294 718 km,Diesel,Automatyczna,Sedan,1 896 cm3,105 KM,5,Czarny
+Skoda,Octavia,2010,9 800 PLN,401 000 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Granatowy
+Skoda,Superb,2018,77 000 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Skoda,Octavia,2014,45 900 PLN,224 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Octavia,2021,96 900 PLN,201 900 km,Diesel,Automatyczna,Sedan,1 968 cm3,200 KM,5,Srebrny
+Skoda,Octavia,2014,37 500 PLN,180 000 km,Benzyna,Manualna,Sedan,1 395 cm3,140 KM,5,Biały
+Skoda,Roomster,2012,18 800 PLN,185 800 km,Diesel,Manualna,Minivan,1 598 cm3,90 KM,5,Brązowy
+Skoda,Fabia,2021,47 999,59 000 km,Benzyna+LPG,Manualna,Kompakt,999 cm3,60 KM,5,Biały
+Skoda,Octavia,2006,9 000 PLN,308 206 km,Diesel,Manualna,Kompakt,1 896 cm3,101 KM,5,Niebieski
+Skoda,Octavia,2007,9 999 PLN,250 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Niebieski
+Skoda,Octavia,2007,13 900 PLN,173 587 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Czerwony
+Skoda,Superb,2024,183 350 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Kamiq,2024,100 500 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Niebieski
+Skoda,Kodiaq,2024,216 250 PLN,1 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Złoty
+Skoda,Kodiaq,2024,216 250 PLN,1 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Złoty
+Skoda,Kamiq,2024,98 300 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Superb,2024,218 900 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,,Czarny
+Skoda,Kamiq,2023,108 250 PLN,1 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,110 KM,5,Szary
+Skoda,Kodiaq,2020,133 900 PLN,122 686 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Biały
+Skoda,Kodiaq,2024,262 250 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Szary
+Skoda,Octavia,2024,131 200 PLN,5 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Superb,2019,74 200 PLN,199 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2023,149 900 PLN,6 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Niebieski
+Skoda,Superb,2017,75 000 PLN,179 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Skoda,Octavia,2018,49 990 PLN,132 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czarny
+Skoda,Fabia,2019,34 900 PLN,177 000 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Biały
+Skoda,Octavia,2017,67 000 PLN,260 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,184 KM,5,Biały
+Skoda,Octavia,2016,33 000 PLN,268 000 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Srebrny
+Skoda,Roomster,2013,18 900 PLN,190 000 km,Benzyna+LPG,Manualna,Minivan,1 390 cm3,86 KM,5,Złoty
+Skoda,Scala,2021,52 899,154 000 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Biały
+Skoda,RAPID,2016,24 900 PLN,334 163 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Inny kolor
+Skoda,Octavia,2009,30 900 PLN,316 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Octavia,2014,24 000 PLN,270 000 km,Benzyna,Automatyczna,Sedan,1 395 cm3,140 KM,5,Srebrny
+Skoda,Felicia,1998,2 900 PLN,110 380 km,Benzyna,Manualna,Kompakt,1 289 cm3,68 KM,5,Srebrny
+Skoda,Superb,2014,37 654 PLN,284 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Szary
+Skoda,Octavia,2016,47 999 PLN,60 400 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Beżowy
+Skoda,RAPID,2017,38 500 PLN,123 784 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Skoda,Karoq,2023,146 000 PLN,17 259 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2017,69 000 PLN,117 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Szary
+Skoda,Superb,2015,50 000 PLN,186 000 km,Diesel,Manualna,Sedan,1 968 cm3,170 KM,5,Biały
+Skoda,Octavia,2019,70 000 PLN,44 666 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Szary
+Skoda,Fabia,2013,11 200 PLN,170 000 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Niebieski
+Skoda,Superb,2014,26 900 PLN,398 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Kamiq,2023,107 900 PLN,7 900 km,Benzyna,Automatyczna,SUV,1 000 cm3,110 KM,5,Biały
+Skoda,Fabia,2008,9 000 PLN,297 000 km,Benzyna,Manualna,Kombi,1 390 cm3,85 KM,5,Bordowy
+Skoda,Octavia,2020,134 900 PLN,70 567 km,Benzyna,Automatyczna,Sedan,1 984 cm3,245 KM,5,Szary
+Skoda,Fabia,2011,7 300 PLN,366 600 km,Diesel,Manualna,Kombi,1 598 cm3,75 KM,5,Biały
+Skoda,Citigo,2019,23 500 PLN,179 000 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Skoda,Superb,2017,54 900 PLN,204 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Biały
+Skoda,Karoq,2018,91 900 PLN,71 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Superb,2018,79 999 PLN,177 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Skoda,Scala,2024,106 700 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Fabia,2019,29 900 PLN,190 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,75 KM,5,Czerwony
+Skoda,Scala,2023,93 900 PLN,14 762 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2020,99 900 PLN,45 500 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Fabia,2011,13 500 PLN,264 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,86 KM,5,Czarny
+Skoda,Kodiaq,2023,166 000 PLN,10 800 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2023,69 900 PLN,61 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Zielony
+Skoda,Octavia,2024,188 100 PLN,5 km,Benzyna,Automatyczna,Kombi,1 984 cm3,265 KM,5,Niebieski
+Skoda,Octavia,2024,184 500 PLN,5 km,Benzyna,Automatyczna,Sedan,1 984 cm3,265 KM,5,Szary
+Skoda,Octavia,2024,199 800 PLN,5 km,Benzyna,Automatyczna,Sedan,1 984 cm3,265 KM,5,Czerwony
+Skoda,Superb,2021,114 900 PLN,112 258 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Octavia,2019,72 900 PLN,43 401 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,RAPID,2018,27 000 PLN,256 400 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Niebieski
+Skoda,Octavia,2019,55 000 PLN,258 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2018,43 800 PLN,140 000 km,Diesel,Manualna,Sedan,1 598 cm3,115 KM,5,Błękitny
+Skoda,Yeti,2013,41 000 PLN,190 560 km,Diesel,Automatyczna,SUV,1 968 cm3,140 KM,5,Beżowy
+Skoda,Superb,2022,88 000 PLN,169 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2024,227 800 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Szary
+Skoda,Fabia,2007,10 900 PLN,176 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,70 KM,5,Czarny
+Skoda,Citigo,2019,19 900 PLN,200 084 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,60 KM,3,Żółty
+Skoda,Fabia,2015,33 000 PLN,203 968 km,Benzyna,Manualna,Kombi,1 197 cm3,110 KM,5,Zielony
+Skoda,Octavia,2009,14 500 PLN,414 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Srebrny
+Skoda,Fabia,2020,38 500 PLN,73 212 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,60 KM,5,Biały
+Skoda,Octavia,2016,39 900 PLN,174 700 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Inny kolor
+Skoda,Kodiaq,2017,95 000 PLN,104 670 km,Benzyna,Manualna,SUV,1 395 cm3,150 KM,5,Srebrny
+Skoda,RAPID,2017,49 900 PLN,90 000 km,Benzyna,Automatyczna,Kompakt,1 395 cm3,125 KM,5,Niebieski
+Skoda,Fabia,2009,7 900 PLN,299 000 km,Benzyna+LPG,Manualna,Kompakt,1 390 cm3,85 KM,5,Szary
+Skoda,Octavia,2004,4 900 PLN,370 582 km,Diesel,Manualna,Kombi,1 896 cm3,90 KM,5,Niebieski
+Skoda,Octavia,2023,134 500 PLN,4 135 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Citigo,2014,5 600 PLN,115 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,3,Biały
+Skoda,Superb,2016,67 900 PLN,98 800 km,Benzyna,Automatyczna,Kompakt,1 798 cm3,180 KM,5,Szary
+Skoda,Superb,2013,63 000 PLN,165 000 km,Benzyna,Automatyczna,Sedan,3 597 cm3,260 KM,5,Srebrny
+Skoda,Roomster,2007,11 900 PLN,188 211 km,Benzyna,Manualna,Minivan,1 598 cm3,105 KM,5,Czarny
+Skoda,Octavia,2018,59 900 PLN,146 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Niebieski
+Skoda,Fabia,2019,36 408 PLN,199 000 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Inny kolor
+Skoda,Octavia,2011,29 999 PLN,206 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Beżowy
+Skoda,Octavia,2018,34 900 PLN,196 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Skoda,Superb,2024,176 000 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Fioletowy
+Skoda,Superb,2024,171 900 PLN,7 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Biały
+Skoda,Superb,2018,89 900 PLN,106 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Szary
+Skoda,RAPID,2015,32 000 PLN,182 000 km,Benzyna,Manualna,Sedan,1 197 cm3,105 KM,5,Biały
+Skoda,Octavia,2019,98 900 PLN,51 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,245 KM,5,Biały
+Skoda,Superb,2018,135 000 PLN,129 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Biały
+Skoda,Superb,2018,82 500 PLN,205 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,220 KM,5,Czarny
+Skoda,Superb,2024,188 640 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Fabia,2011,15 999 PLN,182 000 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Szary
+Skoda,Fabia,2012,19 900 PLN,138 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Biały
+Skoda,Kodiaq,2019,122 000 PLN,127 900 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Biały
+Skoda,Octavia,2013,54 900 PLN,178 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,Octavia,2020,79 000 PLN,106 986 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Błękitny
+Skoda,Octavia,2016,47 000 PLN,144 600 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Biały
+Skoda,Octavia,2011,14 900 PLN,300 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Octavia,2022,82 900 PLN,154 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2016,36 900 PLN,298 800 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Octavia,2017,57 900 PLN,155 552 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Szary
+Skoda,Superb,2023,159 990 PLN,13 882 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czarny
+Skoda,Scala,2021,64 900 PLN,121 425 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Kodiaq,2020,89 900 PLN,160 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Karoq,2024,142 400 PLN,7 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Karoq,2024,139 900 PLN,7 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Pomarańczowy
+Skoda,Superb,2018,80 500 PLN,95 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2018,68 900 PLN,129 729 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Czarny
+Skoda,Yeti,2017,49 900 PLN,66 141 km,Benzyna,Manualna,SUV,1 197 cm3,110 KM,5,Biały
+Skoda,Superb,2018,59 899,224 717 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2015,33 000 PLN,288 639 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Czarny
+Skoda,Octavia,2016,37 000 PLN,259 430 km,Diesel,Automatyczna,Sedan,1 968 cm3,184 KM,5,Szary
+Skoda,Octavia,2016,42 590 PLN,147 000 km,Diesel,Manualna,Sedan,1 598 cm3,110 KM,5,Srebrny
+Skoda,Karoq,2024,146 208 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Scala,2021,61 900 PLN,75 181 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Srebrny
+Skoda,Octavia,2020,89 900 PLN,47 347 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Niebieski
+Skoda,Superb,2020,129 900 PLN,80 400 km,Diesel,Automatyczna,Sedan,1 984 cm3,200 KM,5,Szary
+Skoda,Octavia,2011,19 900 PLN,383 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Biały
+Skoda,Superb,2016,68 400 PLN,215 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Srebrny
+Skoda,Fabia,2016,29 500 PLN,187 000 km,Benzyna,Manualna,Kombi,1 197 cm3,90 KM,5,Srebrny
+Skoda,Fabia,2018,34 500 PLN,198 900 km,Diesel,Manualna,Kombi,1 422 cm3,105 KM,5,Srebrny
+Skoda,Karoq,2019,89 000 PLN,100 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Srebrny
+Skoda,Kodiaq,2019,139 999 PLN,52 510 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Skoda,Karoq,2022,129 900 PLN,29 651 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Niebieski
+Skoda,Superb,2020,81 900 PLN,93 680 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Szary
+Skoda,Octavia,2013,27 500 PLN,179 500 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Złoty
+Skoda,Superb,2018,69 999 PLN,193 002 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2006,11 900 PLN,210 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Srebrny
+Skoda,Octavia,2021,97 000 PLN,39 414 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2012,23 500 PLN,329 000 km,Benzyna+LPG,Manualna,Kombi,1 595 cm3,102 KM,5,Biały
+Skoda,Karoq,2024,145 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2024,145 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Kodiaq,2019,109 700 PLN,176 428 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Skoda,Octavia,2010,16 999 PLN,330 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Karoq,2024,145 400 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Karoq,2024,143 300 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Karoq,2024,170 000 PLN,1 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czarny
+Skoda,Scala,2024,122 600 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Szary
+Skoda,RAPID,2014,21 900 PLN,260 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Niebieski
+Skoda,Octavia,2018,56 999 PLN,237 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2009,16 900 PLN,320 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Beżowy
+Skoda,Kamiq,2020,62 000 PLN,131 304 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Czerwony
+Skoda,Fabia,2010,10 900 PLN,267 690 km,Benzyna,Manualna,Kombi,1 197 cm3,86 KM,5,Bordowy
+Skoda,RAPID,2013,27 900 PLN,130 420 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Błękitny
+Skoda,Fabia,2020,38 700 PLN,152 900 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Srebrny
+Skoda,Karoq,2020,99 900 PLN,181 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Karoq,2024,152 000 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2022,126 900 PLN,3 968 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2010,12 000 PLN,350 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Biały
+Skoda,Fabia,2010,12 500 PLN,224 800 km,Diesel,Manualna,Auta miejskie,1 598 cm3,90 KM,5,Biały
+Skoda,Karoq,2022,48 500 PLN,121 000 km,Diesel,Automatyczna,SUV,1 968 cm3,115 KM,5,Granatowy
+Skoda,Superb,2017,53 000 PLN,280 120 km,Diesel,Manualna,Sedan,1 968 cm3,190 KM,5,Granatowy
+Skoda,Fabia,2008,6 900 PLN,380 000 km,Benzyna+LPG,Manualna,Kombi,1 198 cm3,70 KM,5,Czerwony
+Skoda,Fabia,2021,52 000 PLN,51 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Srebrny
+Skoda,Octavia,2010,18 700 PLN,280 928 km,Benzyna,Manualna,Coupe,1 798 cm3,160 KM,5,Czarny
+Skoda,Kamiq,2024,120 900 PLN,8 200 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Superb,2020,105 700 PLN,114 965 km,Diesel,Automatyczna,Kombi,1 968 cm3,149 KM,5,Srebrny
+Skoda,Superb,2020,103 000 PLN,154 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Citigo,2014,32 000 PLN,46 949 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Czerwony
+Skoda,Superb,2024,165 750 PLN,1 km,Hybryda,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Yeti,2010,24 900 PLN,204 000 km,Benzyna,Manualna,Minivan,1 798 cm3,160 KM,5,Granatowy
+Skoda,Octavia,2016,52 500 PLN,198 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Biały
+Skoda,Octavia,2012,18 500 PLN,380 000 km,Diesel,Manualna,Kombi,1 968 cm3,110 KM,5,Granatowy
+Skoda,Kamiq,2022,89 900 PLN,39 500 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Inny kolor
+Skoda,Citigo,2017,27 800 PLN,100 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,5,Czarny
+Skoda,Fabia,2024,105 350 PLN,7 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Niebieski
+Skoda,Kodiaq,2024,222 500 PLN,5 km,Diesel,Automatyczna,SUV,1 968 cm3,193 KM,5,Czarny
+Skoda,Superb,2020,99 900 PLN,113 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2018,65 000 PLN,164 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2015,29 900 PLN,236 967 km,Diesel,Manualna,Sedan,1 598 cm3,110 KM,5,Beżowy
+Skoda,Octavia,2024,179 900 PLN,7 km,Benzyna,Automatyczna,Kombi,1 984 cm3,245 KM,5,Czarny
+Skoda,Fabia,2021,33 900 PLN,164 000 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Biały
+Skoda,Fabia,2012,14 999 PLN,149 415 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Zielony
+Skoda,Octavia,2016,48 500 PLN,118 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Szary
+Skoda,Fabia,2009,10 900 PLN,210 000 km,Benzyna+LPG,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Srebrny
+Skoda,Fabia,2009,11 900 PLN,234 700 km,Benzyna+LPG,Manualna,Kombi,1 390 cm3,85 KM,5,Szary
+Skoda,Citigo,2016,19 999 PLN,72 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Zielony
+Skoda,Octavia,2013,47 500 PLN,105 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Srebrny
+Skoda,Octavia,2019,61 000 PLN,188 961 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Fabia,2020,37 300 PLN,183 790 km,Benzyna+LPG,Manualna,Kombi,999 cm3,60 KM,5,Niebieski
+Skoda,Fabia,2008,14 500 PLN,182 000 km,Benzyna,Manualna,Kombi,1 390 cm3,85 KM,5,Pomarańczowy
+Skoda,Fabia,2013,10 500 PLN,285 000 km,Diesel,Manualna,Kombi,1 598 cm3,75 KM,5,Biały
+Skoda,Octavia,2016,55 000 PLN,73 800 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Szary
+Skoda,Fabia,2006,9 100 PLN,116 500 km,Benzyna+LPG,Manualna,Sedan,1 390 cm3,75 KM,4,Beżowy
+Skoda,Superb,2019,99 000 PLN,69 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Karoq,2020,87 900 PLN,176 457 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2021,74 500,171 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2009,23 900 PLN,172 645 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Biały
+Skoda,Fabia,2020,49 900 PLN,59 800 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Inny kolor
+Skoda,Octavia,2017,51 000 PLN,118 830 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2018,50 900 PLN,193 500 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Skoda,Octavia,2006,5 900 PLN,420 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Błękitny
+Skoda,Octavia,2012,15 500 PLN,339 000 km,Benzyna+LPG,Manualna,Kombi,1 595 cm3,102 KM,5,Biały
+Skoda,Superb,2015,75 000 PLN,198 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,220 KM,5,Czarny
+Skoda,Octavia,2010,16 300 PLN,266 506 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Superb,2024,230 000 PLN,7 253 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Srebrny
+Skoda,Superb,2018,94 000 PLN,91 600 km,Benzyna,Automatyczna,Kombi,1 984 cm3,272 KM,5,Srebrny
+Skoda,Superb,2017,92 700 PLN,153 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,Octavia,2020,88 900 PLN,86 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Inny kolor
+Skoda,Kodiaq,2023,246 000 PLN,35 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,245 KM,5,Szary
+Skoda,Superb,2020,101 000 PLN,84 900 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Brązowy
+Skoda,Octavia,2020,77 900 PLN,110 000 km,Diesel,Manualna,Kombi,1 968 cm3,115 KM,5,Szary
+Skoda,Octavia,2018,64 900 PLN,173 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,Superb,2024,187 990 PLN,9 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Szary
+Skoda,Octavia,2006,6 500 PLN,300 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Granatowy
+Skoda,Octavia,2017,37 900 PLN,349 876 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2019,87 800 PLN,131 561 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,190 KM,5,Biały
+Skoda,RAPID,2018,30 500 PLN,125 300 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Inny kolor
+Skoda,Kamiq,2024,109 500 PLN,1 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2018,44 999 PLN,215 589 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Skoda,Superb,2018,71 999,200 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,272 KM,5,Srebrny
+Skoda,Karoq,2023,129 900 PLN,13 559 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2018,89 900 PLN,95 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czerwony
+Skoda,Fabia,2020,40 900 PLN,169 000 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Szary
+Skoda,Octavia,2023,135 900 PLN,6 000 km,Hybryda,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Niebieski
+Skoda,Superb,2017,67 500 PLN,215 400 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Brązowy
+Skoda,Scala,2023,95 900 PLN,11 500 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2024,161 200 PLN,5 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2013,45 900 PLN,150 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Brązowy
+Skoda,Kamiq,2021,81 180 PLN,62 000 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Biały
+Skoda,Octavia,2020,56 999 PLN,229 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Superb,2016,68 000 PLN,196 000 km,Benzyna,Manualna,Kombi,1 798 cm3,180 KM,5,Brązowy
+Skoda,Octavia,2021,104 900 PLN,149 999 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Scala,2024,79 999 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Srebrny
+Skoda,Karoq,2018,89 000 PLN,84 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Brązowy
+Skoda,Karoq,2019,89 900 PLN,98 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2013,34 900 PLN,218 000 km,Benzyna,Automatyczna,Sedan,1 798 cm3,160 KM,5,Biały
+Skoda,Citigo,2017,21 800 PLN,166 750 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,75 KM,3,Czerwony
+Skoda,Octavia,2021,92 900 PLN,39 000 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Szary
+Skoda,Fabia,2012,15 900 PLN,242 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Beżowy
+Skoda,Fabia,2016,38 500 PLN,33 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,75 KM,5,Niebieski
+Skoda,Superb,2019,77 777 PLN,130 000 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Kodiaq,2019,135 000 PLN,44 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Czarny
+Skoda,Kodiaq,2019,116 000 PLN,107 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Skoda,Superb,2006,10 900 PLN,210 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,4,Czarny
+Skoda,Octavia,2015,37 000 PLN,199 300 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Granatowy
+Skoda,Octavia,2021,88 700 PLN,95 492 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Niebieski
+Skoda,Superb,2019,113 500 PLN,62 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Skoda,Kamiq,2022,109 000 PLN,22 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2009,18 000 PLN,255 168 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Czarny
+Skoda,Superb,2012,26 000 PLN,336 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Srebrny
+Skoda,Octavia,2011,23 900 PLN,198 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Srebrny
+Skoda,Fabia,2018,33 500 PLN,197 040 km,Benzyna+LPG,Manualna,Kombi,999 cm3,95 KM,5,Srebrny
+Skoda,Superb,2011,31 900 PLN,264 823 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Srebrny
+Skoda,Superb,2020,89 000 PLN,206 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Skoda,Superb,2018,82 900 PLN,90 000 km,Diesel,Manualna,Kombi,1 968 cm3,190 KM,5,Inny kolor
+Skoda,Superb,2019,99 500 PLN,192 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2014,46 500 PLN,334 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Szary
+Skoda,RAPID,2015,29 950 PLN,259 855 km,Diesel,Automatyczna,Kombi,1 598 cm3,90 KM,5,Biały
+Skoda,Superb,2017,102 900 PLN,85 590 km,Benzyna,Automatyczna,Sedan,1 984 cm3,220 KM,5,Brązowy
+Skoda,Octavia,2018,50 900 PLN,197 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Niebieski
+Skoda,Superb,2020,117 000 PLN,185 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Brązowy
+Skoda,Kodiaq,2019,119 800 PLN,102 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Skoda,Fabia,2012,8 900 PLN,266 000 km,Diesel,Manualna,Kombi,1 598 cm3,75 KM,5,Biały
+Skoda,Kodiaq,2022,168 900 PLN,38 500 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,RAPID,2016,33 800 PLN,82 500 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Czarny
+Skoda,Fabia,2005,1 700 PLN,363 172 km,Diesel,Manualna,Kombi,1 896 cm3,64 KM,5,Żółty
+Skoda,Fabia,2011,27 900 PLN,184 000 km,Benzyna,Automatyczna,Kombi,1 390 cm3,179 KM,5,Biały
+Skoda,Octavia,2011,31 900 PLN,270 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,RAPID,2017,35 000 PLN,153 000 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Czerwony
+Skoda,Octavia,2017,65 850 PLN,68 800 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Brązowy
+Skoda,Octavia,2019,75 900 PLN,77 000 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Superb,2011,35 900 PLN,219 150 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Beżowy
+Skoda,RAPID,2014,29 500 PLN,159 966 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Niebieski
+Skoda,RAPID,2015,24 500 PLN,294 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Skoda,Scala,2020,61 000 PLN,100 500 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Brązowy
+Skoda,Octavia,2009,23 500 PLN,207 500 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Czarny
+Skoda,Fabia,2007,9 900 PLN,195 244 km,Benzyna,Manualna,Sedan,1 390 cm3,80 KM,5,Pomarańczowy
+Skoda,Octavia,2009,11 900 PLN,169 427 km,Benzyna+LPG,Manualna,Kompakt,1 595 cm3,102 KM,5,Błękitny
+Skoda,Kodiaq,2024,257 650,750 km,Benzyna,Automatyczna,SUV,1 984 cm3,245 KM,5,Szary
+Skoda,Kodiaq,2021,81 990 PLN,230 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Superb,2020,99 999 PLN,90 100 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Skoda,Superb,2021,94 900 PLN,150 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Octavia,2012,41 300 PLN,217 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Inny kolor
+Skoda,Octavia,2007,16 900 PLN,219 135 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Inny kolor
+Skoda,Superb,2022,105 900 PLN,105 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Inny kolor
+Skoda,Octavia,2020,41 900 PLN,161 000 km,Diesel,Automatyczna,Auta miejskie,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2020,57 900 PLN,99 460 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,Octavia,2023,155 000 PLN,6 800 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Inny kolor
+Skoda,Superb,2011,38 900 PLN,276 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Superb,2017,58 900 PLN,170 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Inny kolor
+Skoda,Octavia,2020,79 900 PLN,160 000 km,Diesel,Manualna,Kombi,1 968 cm3,115 KM,5,Brązowy
+Skoda,Superb,2019,73 900 PLN,216 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2020,89 900 PLN,117 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Granatowy
+Skoda,Roomster,2008,9 300 PLN,173 000 km,Benzyna,Manualna,Minivan,1 390 cm3,86 KM,5,Błękitny
+Skoda,Scala,2021,59 900 PLN,144 118 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Biały
+Skoda,Octavia,2011,19 499 PLN,210 975 km,Benzyna,Automatyczna,Sedan,1 390 cm3,122 KM,5,Inny kolor
+Skoda,Roomster,2007,8 700 PLN,137 000 km,Benzyna,Manualna,Minivan,1 198 cm3,69 KM,5,Czarny
+Skoda,Octavia,2008,7 500 PLN,217 000 km,Benzyna+LPG,Manualna,Sedan,1 595 cm3,102 KM,5,Szary
+Skoda,Superb,2017,69 900 PLN,200 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2014,37 777 PLN,291 100 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2013,39 900 PLN,295 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Biały
+Skoda,Superb,2018,61 000 PLN,226 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Yeti,2009,21 000 PLN,184 000 km,Benzyna,Manualna,SUV,1 798 cm3,160 KM,5,Inny kolor
+Skoda,Yeti,2014,35 500 PLN,161 346 km,Benzyna,Manualna,SUV,1 197 cm3,105 KM,5,Brązowy
+Skoda,RAPID,2014,27 500 PLN,260 000 km,Benzyna+LPG,Manualna,Kombi,1 198 cm3,75 KM,5,Biały
+Skoda,Kamiq,2023,119 500 PLN,7 900 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,RAPID,2019,39 899 PLN,164 854 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Niebieski
+Skoda,Kodiaq,2019,108 900 PLN,78 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Citigo,2014,18 990 PLN,187 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,5,Zielony
+Skoda,Superb,2020,123 500 PLN,71 500 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czerwony
+Skoda,Octavia,2014,32 400 PLN,183 000 km,Benzyna,Manualna,Kombi,1 395 cm3,140 KM,5,Niebieski
+Skoda,Fabia,2019,39 900 PLN,82 347 km,Benzyna+LPG,Manualna,Kombi,999 cm3,60 KM,5,Niebieski
+Skoda,Octavia,2016,36 800 PLN,148 800 km,Diesel,Manualna,Sedan,1 598 cm3,110 KM,5,Granatowy
+Skoda,Fabia,2023,81 900 PLN,20 500 km,Benzyna,Automatyczna,Kompakt,999 cm3,110 KM,5,Biały
+Skoda,Octavia,2010,18 900 PLN,246 000 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Czarny
+Skoda,Octavia,2006,13 800 PLN,267 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Inny kolor
+Skoda,Fabia,2016,38 900 PLN,168 185 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,110 KM,5,Inny kolor
+Skoda,Karoq,2019,82 900 PLN,184 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2021,64 900 PLN,108 380 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Srebrny
+Skoda,Octavia,2019,58 800 PLN,153 060 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Inny kolor
+Skoda,Octavia,2021,69 500 PLN,100 000 km,Diesel,Manualna,Kombi,1 968 cm3,115 KM,5,Błękitny
+Skoda,Superb,2011,28 500 PLN,194 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Superb,2021,117 000 PLN,77 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Czarny
+Skoda,Octavia,1999,4 305 PLN,216 118 km,Diesel,Manualna,Coupe,1 896 cm3,90 KM,5,Biały
+Skoda,Octavia,2021,92 000 PLN,45 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2014,61 500 PLN,245 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,184 KM,5,Czarny
+Skoda,Octavia,2017,49 500 PLN,216 635 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Granatowy
+Skoda,Octavia,2012,31 000 PLN,273 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,RAPID,2014,24 900 PLN,164 000 km,Benzyna,Manualna,Sedan,1 198 cm3,75 KM,5,Biały
+Skoda,Fabia,2023,107 900 PLN,24 000 km,Benzyna,Automatyczna,Auta małe,1 498 cm3,150 KM,5,Niebieski
+Skoda,Karoq,2020,107 999 PLN,132 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Fioletowy
+Skoda,Octavia,2007,12 900 PLN,262 000 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Czarny
+Skoda,Octavia,2013,29 999 PLN,311 100 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,RAPID,2017,47 000 PLN,59 982 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Szary
+Skoda,Octavia,2012,18 900 PLN,290 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Beżowy
+Skoda,Superb,2024,230 750 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,265 KM,5,Czarny
+Skoda,Octavia,2024,104 900 PLN,7 km,Benzyna,Manualna,Sedan,1 498 cm3,115 KM,5,Biały
+Skoda,Superb,2019,86 900 PLN,146 875 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2019,99 900 PLN,129 405 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Czarny
+Skoda,Octavia,2012,14 900 PLN,290 000 km,Diesel,Manualna,Sedan,1 598 cm3,105 KM,5,Brązowy
+Skoda,Karoq,2018,77 900 PLN,112 894 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2020,81 900 PLN,89 073 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2020,75 900 PLN,139 726 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czerwony
+Skoda,Superb,2019,103 900 PLN,131 140 km,Benzyna,Automatyczna,Sedan,1 984 cm3,272 KM,5,Niebieski
+Skoda,Octavia,2023,119 900 PLN,33 182 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Kodiaq,2019,90 000 PLN,70 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Brązowy
+Skoda,Superb,2021,104 900 PLN,84 993 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Fabia,2015,34 900 PLN,220 000 km,Benzyna,Automatyczna,Auta małe,1 197 cm3,110 KM,5,Srebrny
+Skoda,Superb,2020,104 900 PLN,69 243 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Superb,2020,107 900 PLN,110 087 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2020,117 900 PLN,131 107 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Skoda,Karoq,2024,163 900 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2016,46 100 PLN,198 500 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Czarny
+Skoda,Superb,2024,175 990 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Niebieski
+Skoda,Superb,2024,216 990 PLN,4 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czerwony
+Skoda,Superb,2024,189 990 PLN,4 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Kodiaq,2024,213 490 PLN,4 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Skoda,Kodiaq,2024,205 990 PLN,4 km,Hybryda,Automatyczna,SUV,1 498 cm3,150 KM,,Złoty
+Skoda,Octavia,2024,204 320 PLN,7 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,,,Niebieski
+Skoda,Karoq,2024,166 920 PLN,4 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Kamiq,2019,47 999 PLN,112 000 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,116 KM,5,Niebieski
+Skoda,Octavia,2011,24 500 PLN,198 578 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Bordowy
+Skoda,Superb,2011,28 500 PLN,293 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Inny kolor
+Skoda,Citigo,2013,15 500 PLN,194 087 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Zielony
+Skoda,Kodiaq,2022,132 000 PLN,16 622 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Skoda,Fabia,2008,9 000 PLN,221 991 km,Benzyna,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Fabia,2017,29 000 PLN,107 125 km,Benzyna,Manualna,Auta małe,999 cm3,95 KM,5,Czarny
+Skoda,Octavia,2018,43 500 PLN,199 000 km,Diesel,Manualna,Sedan,1 598 cm3,115 KM,5,Biały
+Skoda,Fabia,2024,97 000 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Czarny
+Skoda,Karoq,2024,147 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Karoq,2024,165 200 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Superb,2024,236 700 PLN,5 km,Diesel,Automatyczna,Sedan,1 968 cm3,193 KM,5,Srebrny
+Skoda,Fabia,2015,34 900 PLN,156 000 km,Diesel,Manualna,Auta małe,1 422 cm3,105 KM,5,Żółty
+Skoda,Fabia,2010,12 900 PLN,210 000 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Srebrny
+Skoda,Octavia,2005,13 900 PLN,280 000 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Czerwony
+Skoda,Kamiq,2024,110 550 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Kamiq,2024,105 900 PLN,5 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Srebrny
+Skoda,Octavia,2021,57 564 PLN,165 000 km,Diesel,Manualna,Sedan,1 968 cm3,115 KM,5,Srebrny
+Skoda,Octavia,2021,107 000 PLN,14 200 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Inny kolor
+Skoda,Octavia,2012,27 900 PLN,246 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Superb,2024,252 150 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Szary
+Skoda,Kodiaq,2020,159 900 PLN,111 979 km,Diesel,Automatyczna,SUV,1 968 cm3,240 KM,5,Biały
+Skoda,Octavia,2020,73 000 PLN,118 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Srebrny
+Skoda,Superb,2024,209 900 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2012,22 900 PLN,195 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Inny kolor
+Skoda,Octavia,2024,147 050 PLN,1 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2024,133 850 PLN,1 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Szary
+Skoda,Citigo,2017,24 000 PLN,178 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Czerwony
+Skoda,Octavia,2008,17 700 PLN,374 000 km,Diesel,Automatyczna,Kompakt,1 968 cm3,140 KM,5,Srebrny
+Skoda,Karoq,2024,158 300 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2019,57 900 PLN,136 528 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Skoda,Scala,2024,108 000 PLN,710 km,Benzyna,Automatyczna,Auta miejskie,1 498 cm3,150 KM,5,Szary
+Skoda,Fabia,2021,62 730 PLN,77 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Czarny
+Skoda,Octavia,2006,9 200 PLN,144 255 km,Benzyna,Manualna,Sedan,1 984 cm3,150 KM,5,Szary
+Skoda,Superb,2024,205 954 PLN,4 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Srebrny
+Skoda,Octavia,2016,29 900 PLN,216 475 km,Diesel,Manualna,Kombi,1 598 cm3,110 KM,5,Granatowy
+Skoda,Octavia,2010,32 600 PLN,288 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Karoq,2019,52 900 PLN,33 000 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Niebieski
+Skoda,Yeti,2011,30 900 PLN,118 000 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Czarny
+Skoda,Fabia,2019,39 800 PLN,123 200 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Biały
+Skoda,Superb,2017,73 500 PLN,202 868 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Szary
+Skoda,Octavia,2015,47 700 PLN,165 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2021,79 900 PLN,170 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2006,10 000 PLN,481 000 km,Benzyna+LPG,Manualna,Sedan,1 781 cm3,150 KM,4,Srebrny
+Skoda,RAPID,2015,28 800 PLN,156 000 km,Benzyna+LPG,Manualna,Kompakt,1 198 cm3,75 KM,5,Biały
+Skoda,Scala,2020,42 500 PLN,147 033 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Skoda,Superb,2020,111 930 PLN,159 109 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2024,194 640 PLN,4 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Srebrny
+Skoda,Karoq,2023,139 999 PLN,10 500 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Roomster,2007,11 900 PLN,186 700 km,Benzyna,Manualna,Minivan,1 390 cm3,86 KM,5,Czarny
+Skoda,RAPID,2015,14 900 PLN,305 000 km,Benzyna,Manualna,Sedan,1 197 cm3,86 KM,5,Biały
+Skoda,RAPID,2015,19 900 PLN,165 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Biały
+Skoda,Superb,2016,75 000 PLN,83 759 km,Benzyna,Manualna,Sedan,1 798 cm3,180 KM,5,Srebrny
+Skoda,Octavia,2018,41 500 PLN,252 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Czarny
+Skoda,Octavia,2016,38 000 PLN,261 818 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Fabia,2024,83 000 PLN,376 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Niebieski
+Skoda,Fabia,2012,15 400 PLN,178 448 km,Benzyna+LPG,Manualna,Auta małe,1 198 cm3,60 KM,5,Czerwony
+Skoda,Kamiq,2024,115 000 PLN,918 km,Benzyna,Manualna,Auta miejskie,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2008,14 400 PLN,276 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,4,Srebrny
+Skoda,Superb,2010,31 900 PLN,285 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Superb,2011,21 000 PLN,258 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,200 KM,5,Inny kolor
+Skoda,Octavia,2012,28 850 PLN,223 600 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Srebrny
+Skoda,Superb,2018,64 300 PLN,130 000 km,Diesel,Manualna,Kompakt,1 598 cm3,120 KM,5,Czarny
+Skoda,Superb,2020,83 500 PLN,166 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2020,139 900 PLN,64 500 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Biały
+Skoda,RAPID,2015,35 900 PLN,137 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Beżowy
+Skoda,RAPID,2018,39 800 PLN,67 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Inny kolor
+Skoda,Kodiaq,2024,264 500 PLN,5 km,Diesel,Automatyczna,SUV,1 968 cm3,193 KM,5,Szary
+Skoda,Roomster,2012,14 500 PLN,205 700 km,Benzyna,Manualna,Minivan,1 197 cm3,105 KM,5,Niebieski
+Skoda,Octavia,2016,38 000 PLN,313 243 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2019,61 900 PLN,150 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Biały
+Skoda,Fabia,2024,86 000 PLN,5 km,Benzyna,Manualna,Auta małe,999 cm3,115 KM,5,Czarny
+Skoda,Octavia,2019,36 900 PLN,266 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Biały
+Skoda,Superb,2021,119 700 PLN,19 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Fabia,2010,9 900 PLN,220 000 km,Diesel,Manualna,Kombi,1 598 cm3,75 KM,5,Srebrny
+Skoda,Octavia,2010,24 900 PLN,257 500 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Czarny
+Skoda,Octavia,2019,53 900 PLN,145 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Niebieski
+Skoda,Yeti,2011,28 800 PLN,230 000 km,Diesel,Manualna,SUV,1 598 cm3,105 KM,5,Szary
+Skoda,Superb,2018,69 999 PLN,206 753 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Kodiaq,2024,211 600 PLN,7 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Złoty
+Skoda,Octavia,2021,136 500 PLN,52 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,245 KM,5,Czarny
+Skoda,Octavia,2019,61 000 PLN,145 500 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Biały
+Skoda,Octavia,2024,170 000 PLN,1 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2019,139 605 PLN,69 781 km,Benzyna,Automatyczna,Kombi,1 984 cm3,272 KM,5,Niebieski
+Skoda,Octavia,2021,75 000 PLN,170 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,115 KM,5,Szary
+Skoda,Superb,2022,102 900 PLN,29 300 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Niebieski
+Skoda,Superb,2024,214 000 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Kamiq,2024,140 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Niebieski
+Skoda,Octavia,2010,11 800 PLN,228 000 km,Benzyna+LPG,Manualna,Sedan,1 595 cm3,102 KM,5,Srebrny
+Skoda,Kamiq,2024,112 450 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Czarny
+Skoda,Kamiq,2024,96 150 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Niebieski
+Skoda,Fabia,2016,35 900 PLN,87 170 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,90 KM,5,Czerwony
+Skoda,Octavia,2024,180 500 PLN,5 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Karoq,2024,132 500 PLN,5 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2024,155 900 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2024,226 400 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Czarny
+Skoda,Karoq,2024,209 800 PLN,5 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Pomarańczowy
+Skoda,Kodiaq,2024,217 900 PLN,5 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Skoda,Karoq,2023,147 900 PLN,6 300 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Yeti,2013,29 999 PLN,212 000 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Biały
+Skoda,Octavia,2015,54 400 PLN,186 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Szary
+Skoda,Octavia,2021,69 999 PLN,190 000 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Superb,2016,72 499 PLN,99 833 km,Benzyna,Automatyczna,Sedan,1 395 cm3,150 KM,5,Szary
+Skoda,Octavia,2016,35 000 PLN,203 000 km,Diesel,Manualna,Kombi,1 598 cm3,90 KM,5,Szary
+Skoda,Fabia,2022,93 900 PLN,38 000 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Niebieski
+Skoda,Superb,2019,91 500 PLN,167 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Superb,2024,245 100 PLN,5 km,Benzyna,Automatyczna,Kombi,1 984 cm3,265 KM,5,Srebrny
+Skoda,Superb,2024,189 000 PLN,10 km,Hybryda,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2018,37 900 PLN,288 300 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Skoda,Octavia,2015,53 900 PLN,192 111 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Biały
+Skoda,Scala,2019,62 500 PLN,71 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Szary
+Skoda,Yeti,2016,37 000 PLN,290 000 km,Benzyna,Manualna,SUV,1 395 cm3,125 KM,5,Srebrny
+Skoda,Fabia,2021,59 999 PLN,54 000 km,Benzyna,Automatyczna,Auta miejskie,999 cm3,95 KM,5,Czarny
+Skoda,Octavia,2014,39 900 PLN,186 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Złoty
+Skoda,Yeti,2014,41 500 PLN,126 500 km,Benzyna,Manualna,SUV,1 390 cm3,122 KM,5,Brązowy
+Skoda,Octavia,2016,46 500 PLN,227 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2024,85 457 PLN,8 500 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Szary
+Skoda,Superb,2022,129 800 PLN,120 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Szary
+Skoda,Fabia,2013,17 900 PLN,202 000 km,Diesel,Manualna,Auta miejskie,1 199 cm3,75 KM,5,Biały
+Skoda,Octavia,2014,22 900 PLN,289 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Czarny
+Skoda,Octavia,2021,95 000 PLN,99 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2017,64 900 PLN,198 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2012,28 900 PLN,227 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Szary
+Skoda,Kodiaq,2019,103 450 PLN,157 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2020,82 000 PLN,143 250 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2014,43 900 PLN,230 000 km,Diesel,Manualna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Fabia,2014,24 500 PLN,148 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,86 KM,5,Czerwony
+Skoda,Karoq,2023,109 000 PLN,28 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2019,98 000 PLN,125 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Srebrny
+Skoda,Fabia,2017,26 500 PLN,195 760 km,Diesel,Manualna,Kombi,1 422 cm3,105 KM,5,Inny kolor
+Skoda,RAPID,2015,19 500 PLN,233 000 km,Diesel,Manualna,Kompakt,1 422 cm3,90 KM,5,Niebieski
+Skoda,Octavia,2018,46 900 PLN,307 200 km,Diesel,Automatyczna,Kompakt,1 598 cm3,115 KM,5,Czarny
+Skoda,Citigo,2013,18 000 PLN,94 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Czerwony
+Skoda,Octavia,2017,82 900 PLN,187 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Niebieski
+Skoda,Fabia,2013,25 900 PLN,74 000 km,Benzyna,Manualna,Auta miejskie,1 390 cm3,86 KM,5,Czerwony
+Skoda,Octavia,2017,67 500 PLN,37 300 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2014,45 900 PLN,215 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Zielony
+Skoda,Octavia,2008,19 900 PLN,279 000 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Czarny
+Skoda,Superb,2014,53 900 PLN,197 900 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Biały
+Skoda,Kamiq,2019,77 900 PLN,136 120 km,Diesel,Automatyczna,SUV,1 598 cm3,116 KM,5,Szary
+Skoda,Superb,2021,79 999 PLN,207 915 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Fabia,2007,15 900 PLN,201 000 km,Benzyna,Manualna,Auta małe,1 390 cm3,85 KM,5,Czarny
+Skoda,Octavia,2015,39 900 PLN,289 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Biały
+Skoda,Karoq,2020,119 900 PLN,66 000 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Srebrny
+Skoda,Kodiaq,2020,94 900 PLN,192 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2015,28 900 PLN,300 968 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Octavia,2021,99 950 PLN,82 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2014,44 900 PLN,289 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Karoq,2023,126 900 PLN,12 559 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2005,5 700 PLN,414 000 km,Diesel,Manualna,Kombi,1 896 cm3,90 KM,5,Srebrny
+Skoda,Karoq,2018,88 999 PLN,181 250 km,Diesel,Manualna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Superb,2006,13 600 PLN,190 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,4,Czarny
+Skoda,Fabia,2011,12 500 PLN,114 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,60 KM,5,Czerwony
+Skoda,Octavia,2017,38 200 PLN,198 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Srebrny
+Skoda,Roomster,2006,11 000 PLN,146 249 km,Benzyna,Manualna,Minivan,1 598 cm3,105 KM,5,Inny kolor
+Skoda,Superb,2019,35 900 PLN,225 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Skoda,Kodiaq,2020,81 600 PLN,71 900 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Szary
+Skoda,Roomster,2013,25 000 PLN,128 738 km,Benzyna,Manualna,Minivan,1 390 cm3,86 KM,5,Srebrny
+Skoda,Octavia,2010,32 900 PLN,165 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Superb,2011,35 900 PLN,240 748 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Inny kolor
+Skoda,Superb,2019,100 000 PLN,85 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Inny kolor
+Skoda,Kodiaq,2017,88 800 PLN,139 000 km,Benzyna,Automatyczna,SUV,1 395 cm3,150 KM,5,Niebieski
+Skoda,Fabia,2019,47 900 PLN,29 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,75 KM,5,Beżowy
+Skoda,Octavia,2019,50 000 PLN,177 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Szary
+Skoda,Octavia,2018,79 000 PLN,89 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Czarny
+Skoda,Octavia,2004,18 800 PLN,219 011 km,Diesel,Manualna,Kombi,1 896 cm3,101 KM,5,Inny kolor
+Skoda,Octavia,2017,72 900 PLN,164 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Srebrny
+Skoda,Octavia,2016,43 000 PLN,184 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Kodiaq,2018,127 900 PLN,109 600 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Biały
+Skoda,Superb,2020,114 999 PLN,132 900 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2007,21 900 PLN,223 000 km,Benzyna+LPG,Automatyczna,Sedan,2 771 cm3,193 KM,4,Czarny
+Skoda,Superb,2020,145 000 PLN,50 110 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Octavia,2006,16 900 PLN,283 000 km,Benzyna,Manualna,Kombi,1 984 cm3,200 KM,5,Żółty
+Skoda,Octavia,2011,21 000 PLN,203 728 km,Benzyna,Manualna,Sedan,1 197 cm3,105 KM,5,Beżowy
+Skoda,Superb,2021,119 000 PLN,45 400 km,Benzyna,Automatyczna,Sedan,1 984 cm3,280 KM,5,Szary
+Skoda,Kodiaq,2019,101 900 PLN,176 500 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Fabia,2023,61 998,77 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Szary
+Skoda,Octavia,2019,42 500 PLN,191 500 km,Benzyna,Manualna,Kombi,999 cm3,115 KM,5,Szary
+Skoda,Fabia,2019,42 900 PLN,65 400 km,Benzyna,Manualna,Auta małe,999 cm3,95 KM,5,Biały
+Skoda,Superb,2023,159 900 PLN,87 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,280 KM,5,Czarny
+Skoda,Octavia,2019,83 900 PLN,59 500 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Czarny
+Skoda,Octavia,2024,182 000 PLN,5 km,Benzyna,Automatyczna,Kombi,1 984 cm3,265 KM,5,Czarny
+Skoda,Superb,2019,94 900 PLN,97 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Srebrny
+Skoda,Fabia,2019,27 900 PLN,206 000 km,Benzyna,Manualna,Kombi,999 cm3,75 KM,5,Biały
+Skoda,Octavia,2021,77 900 PLN,119 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Niebieski
+Skoda,Superb,2019,104 550 PLN,95 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2014,55 000 PLN,214 893 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Biały
+Skoda,Fabia,2018,33 900 PLN,148 890 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Srebrny
+Skoda,Superb,2020,137 000 PLN,141 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,272 KM,5,Granatowy
+Skoda,Fabia,2018,12 000 PLN,441 000 km,Benzyna+LPG,Manualna,Kombi,999 cm3,75 KM,5,Niebieski
+Skoda,Fabia,2013,24 990 PLN,190 000 km,Benzyna,Automatyczna,Auta miejskie,1 197 cm3,105 KM,5,Srebrny
+Skoda,Octavia,2016,54 900 PLN,149 000 km,Benzyna,Manualna,Kombi,1 798 cm3,180 KM,5,Czarny
+Skoda,Superb,2020,129 900 PLN,85 308 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2021,144 900 PLN,99 367 km,Diesel,Automatyczna,Kombi,1 968 cm3,199 KM,5,Szary
+Skoda,Octavia,2024,169 990 PLN,5 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czerwony
+Skoda,Octavia,2024,139 612 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Kodiaq,2018,99 000 PLN,192 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Niebieski
+Skoda,Octavia,2015,39 999 PLN,150 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Skoda,Kamiq,2024,125 400 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Czarny
+Skoda,Kodiaq,2018,104 900 PLN,201 278 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2015,32 900 PLN,273 500 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Superb,2017,71 900 PLN,154 772 km,Diesel,Manualna,Sedan,1 968 cm3,190 KM,5,Czarny
+Skoda,Kamiq,2020,85 900 PLN,46 000 km,Benzyna,Manualna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2017,69 900 PLN,87 500 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Inny kolor
+Skoda,Octavia,2021,89 500 PLN,145 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Kodiaq,2024,236 640 PLN,1 km,Diesel,Automatyczna,SUV,1 968 cm3,193 KM,5,Szary
+Skoda,Felicia,1997,5 800 PLN,307 000 km,Benzyna,Manualna,Kombi,1 289 cm3,54 KM,5,Niebieski
+Skoda,Octavia,2021,75 900 PLN,149 700 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Skoda,Scala,2020,39 899,192 127 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Inny kolor
+Skoda,Yeti,2013,23 800 PLN,173 056 km,Benzyna,Manualna,SUV,1 197 cm3,105 KM,5,Szary
+Skoda,Octavia,2023,148 400 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2011,18 500 PLN,222 015 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Superb,2024,192 000 PLN,5 km,Benzyna,Automatyczna,Sedan,1 984 cm3,265 KM,5,Szary
+Skoda,Kodiaq,2022,142 000 PLN,76 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Szary
+Skoda,Citigo,2018,18 900 PLN,309 985 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,60 KM,3,Biały
+Skoda,Octavia,2014,38 000 PLN,217 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Biały
+Skoda,Kodiaq,2021,140 000 PLN,35 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Błękitny
+Skoda,Citigo,2018,19 999 PLN,254 599 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,60 KM,3,Biały
+Skoda,Superb,2019,93 900 PLN,123 023 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,Kamiq,2021,93 500 PLN,30 754 km,Benzyna,Manualna,SUV,999 cm3,110 KM,5,Niebieski
+Skoda,Fabia,2020,37 900 PLN,144 711 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Biały
+Skoda,Fabia,2009,7 500 PLN,188 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,60 KM,5,Czerwony
+Skoda,Octavia,2015,27 500 PLN,295 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Granatowy
+Skoda,Fabia,2003,4 100 PLN,288 000 km,Benzyna,Manualna,Auta małe,1 198 cm3,54 KM,5,Czerwony
+Skoda,Fabia,2016,25 000 PLN,299 700 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,75 KM,5,Czerwony
+Skoda,Octavia,2018,52 500 PLN,150 000 km,Benzyna,Automatyczna,Kombi,1 395 cm3,149 KM,5,Biały
+Skoda,Fabia,2012,17 500 PLN,200 000 km,Benzyna,Automatyczna,Kombi,1 197 cm3,105 KM,5,Błękitny
+Skoda,Octavia,2024,154 350 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Kamiq,2021,85 000 PLN,39 000 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Niebieski
+Skoda,Citigo,2017,29 900 PLN,93 000 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Granatowy
+Skoda,Scala,2024,110 350 PLN,1 km,Benzyna,Automatyczna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Superb,2017,67 500 PLN,81 937 km,Benzyna,Manualna,Sedan,1 395 cm3,125 KM,5,Biały
+Skoda,Superb,2016,75 500 PLN,235 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,280 KM,5,Szary
+Skoda,Octavia,2012,32 000 PLN,340 000 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Szary
+Skoda,Octavia,2010,25 000 PLN,160 000 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Czarny
+Skoda,Superb,2008,29 400 PLN,259 571 km,Benzyna,Manualna,Kompakt,1 798 cm3,160 KM,5,Srebrny
+Skoda,Kamiq,2024,105 500 PLN,7 km,Benzyna,Manualna,SUV,999 cm3,115 KM,5,Biały
+Skoda,Yeti,2010,24 999 PLN,143 825 km,Benzyna,Manualna,SUV,1 798 cm3,160 KM,5,Inny kolor
+Skoda,Octavia,2024,124 500 PLN,5 km,Diesel,Manualna,Sedan,1 968 cm3,115 KM,5,Biały
+Skoda,Octavia,2024,117 800 PLN,5 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2008,9 990 PLN,250 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Szary
+Skoda,Octavia,2010,24 900 PLN,270 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Karoq,2024,157 200 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2024,179 990 PLN,4 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Superb,2021,83 500 PLN,187 871 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2024,133 990 PLN,5 km,Diesel,Automatyczna,Kompakt,1 968 cm3,150 KM,5,Biały
+Skoda,Karoq,2024,159 990 PLN,4 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Skoda,Kamiq,2024,102 990 PLN,4 km,Benzyna,Manualna,SUV,999 cm3,95 KM,5,Biały
+Skoda,Kodiaq,2023,155 500 PLN,7 300 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2023,209 900 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Szary
+Skoda,Superb,2024,218 950 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Żółty
+Skoda,Octavia,2024,127 950 PLN,1 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Skoda,Kodiaq,2023,153 900 PLN,21 965 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2018,67 000 PLN,157 000 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Czarny
+Skoda,Octavia,2007,16 800 PLN,195 000 km,Benzyna,Manualna,Kombi,1 984 cm3,200 KM,5,Czarny
+Skoda,Fabia,2018,32 900 PLN,117 250 km,Benzyna,Manualna,Auta miejskie,999 cm3,95 KM,5,Niebieski
+Skoda,Octavia,2016,37 800 PLN,173 384 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2017,74 900 PLN,49 520 km,Benzyna,Manualna,Kombi,1 798 cm3,180 KM,5,Inny kolor
+Skoda,Yeti,2015,52 000 PLN,114 000 km,Benzyna,Automatyczna,SUV,1 798 cm3,152 KM,5,Zielony
+Skoda,Fabia,2013,12 000 PLN,305 000 km,Benzyna,Manualna,Kombi,1 390 cm3,86 KM,5,Biały
+Skoda,Superb,2024,173 850 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Superb,2017,72 000 PLN,230 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2020,135 000 PLN,48 375 km,Hybryda Plug-in,Automatyczna,Sedan,1 395 cm3,156 KM,5,Błękitny
+Skoda,Octavia,2012,33 800 PLN,145 000 km,Benzyna+LPG,Manualna,Sedan,1 595 cm3,102 KM,5,Granatowy
+Skoda,Octavia,2017,46 900 PLN,169 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Skoda,Superb,2012,25 000 PLN,299 500 km,Benzyna,Automatyczna,Kombi,1 798 cm3,160 KM,5,Czarny
+Skoda,Octavia,2019,58 900 PLN,117 000 km,Diesel,Manualna,Kompakt,1 598 cm3,116 KM,5,Biały
+Skoda,Kodiaq,2019,105 777 PLN,159 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2024,205 800 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Karoq,2024,182 600 PLN,5 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Niebieski
+Skoda,Kamiq,2024,131 400 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czerwony
+Skoda,Kamiq,2024,112 600 PLN,5 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Szary
+Skoda,Kamiq,2024,140 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Yeti,2010,24 900 PLN,231 150 km,Benzyna,Manualna,SUV,1 395 cm3,125 KM,5,Srebrny
+Skoda,Octavia,2020,57 900 PLN,150 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2019,67 900 PLN,173 463 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Skoda,Yeti,2014,34 000 PLN,250 000 km,Benzyna,Manualna,SUV,1 390 cm3,122 KM,5,Czarny
+Skoda,Superb,2021,104 900 PLN,117 109 km,Diesel,Automatyczna,Kompakt,1 968 cm3,200 KM,5,Biały
+Skoda,Yeti,2016,33 400 PLN,83 000 km,Benzyna,Manualna,SUV,1 197 cm3,110 KM,5,Brązowy
+Skoda,Octavia,2013,28 000 PLN,309 500 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Brązowy
+Skoda,Superb,2019,112 000 PLN,130 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Srebrny
+Skoda,Octavia,2019,54 900 PLN,173 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Skoda,Kodiaq,2019,129 900 PLN,71 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Brązowy
+Skoda,Superb,2019,115 000 PLN,89 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Inny kolor
+Skoda,Octavia,2010,19 900 PLN,278 400 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Superb,2012,29 900 PLN,312 845 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Czarny
+Skoda,Superb,2019,90 000 PLN,216 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,RAPID,2015,36 999 PLN,102 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Szary
+Skoda,Octavia,2012,38 900 PLN,218 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,170 KM,5,Niebieski
+Skoda,Octavia,2009,18 900 PLN,216 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Szary
+Skoda,Octavia,2020,92 400 PLN,55 791 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Niebieski
+Skoda,Superb,2014,45 800 PLN,262 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,5,Czarny
+Skoda,Superb,2024,210 900 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Superb,2024,220 050 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Niebieski
+Skoda,Superb,2024,188 500 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2004,5 600 PLN,320 000 km,Benzyna+LPG,Manualna,Kombi,1 984 cm3,115 KM,5,Złoty
+Skoda,Kamiq,2024,98 300 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Octavia,2019,50 999 PLN,162 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Skoda,Fabia,2016,23 000 PLN,168 000 km,Benzyna,Manualna,Kombi,1 197 cm3,90 KM,5,Srebrny
+Skoda,Superb,2011,31 800 PLN,211 500 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Biały
+Skoda,Fabia,2021,34 900 PLN,50 000 km,Benzyna,Manualna,Kombi,999 cm3,95 KM,5,Niebieski
+Skoda,Citigo,2017,34 500 PLN,46 500 km,Benzyna,Manualna,Auta małe,999 cm3,75 KM,5,Biały
+Skoda,Octavia,2019,74 777 PLN,199 700 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Brązowy
+Skoda,Superb,2016,74 100 PLN,192 245 km,Benzyna,Automatyczna,Sedan,1 984 cm3,220 KM,5,Błękitny
+Skoda,Octavia,2006,13 999 PLN,220 000 km,Benzyna,Manualna,Kombi,1 595 cm3,102 KM,5,Błękitny
+Skoda,Octavia,2011,19 000 PLN,197 000 km,Benzyna,Manualna,Kombi,1 390 cm3,122 KM,5,Inny kolor
+Skoda,Fabia,2015,28 900 PLN,122 546 km,Benzyna,Manualna,Kompakt,999 cm3,60 KM,5,Biały
+Skoda,Fabia,2018,38 900 PLN,68 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Skoda,Superb,2022,137 900 PLN,74 400 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Scala,2020,45 999 PLN,149 000 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Niebieski
+Skoda,Fabia,2009,12 600 PLN,162 520 km,Benzyna,Manualna,Kompakt,1 390 cm3,85 KM,5,Niebieski
+Skoda,Octavia,2021,68 900 PLN,163 000 km,Diesel,Manualna,Kombi,1 968 cm3,115 KM,5,Szary
+Skoda,Octavia,2017,43 900 PLN,269 250 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Skoda,Kodiaq,2020,119 900 PLN,170 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2019,82 900 PLN,166 480 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Kamiq,2023,50 000 PLN,9 000 km,Benzyna,Automatyczna,SUV,999 cm3,110 KM,5,Biały
+Skoda,Octavia,2007,10 500 PLN,351 464 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Niebieski
+Skoda,Octavia,2008,12 500 PLN,276 000 km,Diesel,Manualna,Kombi,1 896 cm3,105 KM,5,Czarny
+Skoda,Fabia,2005,7 800 PLN,249 000 km,Benzyna,Manualna,Kombi,1 390 cm3,75 KM,5,Srebrny
+Skoda,Karoq,2018,69 900 PLN,87 000 km,Diesel,Manualna,SUV,1 598 cm3,115 KM,5,Srebrny
+Skoda,Scala,2021,57 900 PLN,176 200 km,Benzyna,Manualna,Kompakt,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2010,20 900 PLN,298 626 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Srebrny
+Skoda,Fabia,2007,9 900 PLN,130 000 km,Benzyna,Manualna,Kombi,1 198 cm3,64 KM,5,Czerwony
+Skoda,Octavia,2022,164 770,59 056 km,Benzyna,Automatyczna,Kombi,1 984 cm3,245 KM,5,Szary
+Skoda,Superb,2021,88 600 PLN,108 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,122 KM,5,Biały
+Skoda,Kodiaq,2023,219 000 PLN,17 500 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Szary
+Skoda,Superb,2019,93 900 PLN,121 247 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Octavia,2017,73 400 PLN,124 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Niebieski
+Skoda,Octavia,2018,41 450 PLN,198 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Skoda,Superb,2019,139 000 PLN,104 464 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2019,139 000 PLN,104 464 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Citigo,2019,34 500 PLN,86 000 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Skoda,Kamiq,2020,89 000 PLN,62 044 km,Benzyna,Automatyczna,SUV,999 cm3,115 KM,5,Niebieski
+Skoda,Octavia,2017,54 000 PLN,92 752 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Szary
+Skoda,Superb,2015,57 000 PLN,226 990 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Szary
+Skoda,Superb,2022,109 900 PLN,49 400 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Granatowy
+Skoda,Fabia,2017,24 500 PLN,230 600 km,Diesel,Manualna,Kompakt,1 422 cm3,105 KM,5,Biały
+Skoda,Superb,2020,76 900 PLN,149 800 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Roomster,2012,23 500 PLN,137 000 km,Benzyna,Manualna,Kombi,1 197 cm3,105 KM,5,Zielony
+Skoda,Octavia,2010,20 500 PLN,174 019 km,Benzyna,Manualna,Kombi,1 390 cm3,122 KM,5,Inny kolor
+Skoda,Superb,2016,66 900 PLN,224 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Brązowy
+Skoda,Octavia,2018,79 900 PLN,150 000 km,Diesel,Manualna,Kombi,1 968 cm3,184 KM,5,Niebieski
+Skoda,Superb,2018,71 900 PLN,216 701 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Czarny
+Skoda,Octavia,2014,28 900 PLN,315 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Fabia,2009,9 900 PLN,162 000 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,60 KM,5,Czerwony
+Skoda,Yeti,2011,30 999 PLN,206 000 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Inny kolor
+Skoda,RAPID,2019,52 000 PLN,58 000 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Beżowy
+Skoda,RAPID,2014,24 900 PLN,156 746 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Srebrny
+Skoda,Octavia,2011,20 900 PLN,195 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Scala,2019,55 000 PLN,46 432 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Szary
+Skoda,Karoq,2019,83 500 PLN,199 000 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Srebrny
+Skoda,Fabia,2021,59 962,54 450 km,Benzyna,Automatyczna,Kompakt,999 cm3,95 KM,5,Czarny
+Skoda,Enyaq,2022,129 900 PLN,23 690 km,Elektryczny,Automatyczna,SUV,,179 KM,5,Biały
+Skoda,Octavia,2016,50 900 PLN,103 400 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Skoda,Superb,2019,79 000 PLN,193 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2016,56 900 PLN,214 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2018,84 900 PLN,124 023 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Zielony
+Skoda,Fabia,2005,9 900 PLN,298 700 km,Diesel,Manualna,Auta małe,1 896 cm3,100 KM,5,Czarny
+Skoda,Octavia,2015,44 800 PLN,123 350 km,Benzyna,Manualna,Kompakt,1 395 cm3,140 KM,5,Szary
+Skoda,Fabia,2021,39 900 PLN,83 000 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,60 KM,5,Niebieski
+Skoda,Kodiaq,2022,199 999 PLN,24 000 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Czarny
+Skoda,Superb,2020,121 770 PLN,200 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2024,209 000 PLN,1 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Szary
+Skoda,Karoq,2024,144 500 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2024,155 200 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Kodiaq,2018,115 000 PLN,65 000 km,Benzyna,Automatyczna,SUV,1 984 cm3,180 KM,5,Szary
+Skoda,Superb,2015,34 900 PLN,305 400 km,Diesel,Manualna,Kombi,1 968 cm3,140 KM,5,Czarny
+Skoda,Superb,2012,24 900 PLN,195 400 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Brązowy
+Skoda,Superb,2020,91 500 PLN,182 000 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2021,99 900 PLN,150 000 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Czarny
+Skoda,Superb,2017,65 000 PLN,112 500 km,Benzyna,Manualna,Sedan,1 798 cm3,180 KM,5,Szary
+Skoda,Superb,2020,153 400 PLN,58 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Zielony
+Skoda,Octavia,2013,21 800 PLN,236 218 km,Diesel,Manualna,Kombi,1 968 cm3,110 KM,5,Niebieski
+Skoda,RAPID,2019,20 500 PLN,70 000 km,Benzyna,Manualna,Auta miejskie,999 cm3,110 KM,5,Biały
+Skoda,Karoq,2021,112 900 PLN,49 000 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2020,69 900 PLN,125 307 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Skoda,Superb,2017,54 900 PLN,153 400 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Czarny
+Skoda,Fabia,2018,27 900 PLN,183 400 km,Diesel,Manualna,Kombi,1 422 cm3,105 KM,5,Biały
+Skoda,Superb,2016,83 900 PLN,68 051 km,Benzyna,Automatyczna,Sedan,1 798 cm3,180 KM,5,Czarny
+Skoda,Octavia,2018,69 900 PLN,110 000 km,Benzyna,Automatyczna,Kombi,1 798 cm3,180 KM,5,Czarny
+Skoda,Octavia,2017,77 490 PLN,182 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Niebieski
+Skoda,Superb,2011,37 500 PLN,261 700 km,Benzyna,Manualna,Kombi,1 798 cm3,160 KM,5,Czarny
+Skoda,Yeti,2017,44 999 PLN,247 100 km,Diesel,Manualna,SUV,1 968 cm3,110 KM,5,Szary
+Skoda,Superb,2018,89 000 PLN,123 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,272 KM,5,Czarny
+Skoda,Octavia,2017,62 900 PLN,75 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Srebrny
+Skoda,Kodiaq,2024,175 850 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Karoq,2024,156 200 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,RAPID,2017,37 500 PLN,79 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Srebrny
+Skoda,Octavia,2012,22 000 PLN,153 000 km,Benzyna,Manualna,Sedan,1 390 cm3,122 KM,5,Srebrny
+Skoda,Superb,2023,183 000 PLN,8 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Granatowy
+Skoda,Superb,2017,89 990 PLN,62 474 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Karoq,2024,183 520 PLN,4 km,Benzyna,Automatyczna,SUV,1 984 cm3,190 KM,5,Szary
+Skoda,Octavia,2005,10 900 PLN,244 900 km,Diesel,Manualna,Sedan,1 968 cm3,140 KM,5,Złoty
+Skoda,Citigo,2019,34 900 PLN,65 400 km,Benzyna,Manualna,Auta miejskie,999 cm3,60 KM,5,Biały
+Skoda,Superb,2018,120 800 PLN,46 730 km,Benzyna,Automatyczna,Sedan,1 984 cm3,280 KM,5,Czarny
+Skoda,Kodiaq,2018,114 900 PLN,130 159 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Czarny
+Skoda,Superb,2020,125 000 PLN,105 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,272 KM,5,Biały
+Skoda,RAPID,2019,37 000 PLN,188 009 km,Benzyna,Manualna,Kompakt,999 cm3,110 KM,5,Czerwony
+Skoda,Kamiq,2024,140 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Kamiq,2024,140 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Biały
+Skoda,Fabia,2020,32 000 PLN,220 200 km,Benzyna+LPG,Manualna,Auta miejskie,999 cm3,60 KM,5,Biały
+Skoda,Octavia,2024,158 600 PLN,5 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2024,131 700 PLN,5 km,Benzyna,Manualna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2024,148 100 PLN,5 km,Benzyna,Automatyczna,Kombi,1 498 cm3,115 KM,5,Szary
+Skoda,Superb,2018,63 500 PLN,207 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,120 KM,5,Srebrny
+Skoda,Octavia,2020,57 994,182 800 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Czarny
+Skoda,Octavia,2009,7 900 PLN,377 096 km,Benzyna+LPG,Manualna,Kombi,1 595 cm3,102 KM,5,Beżowy
+Skoda,Fabia,2010,11 900 PLN,165 000 km,Benzyna,Manualna,Kombi,1 198 cm3,70 KM,5,Niebieski
+Skoda,Octavia,2022,97 499,93 500 km,Diesel,Automatyczna,Kombi,1 968 cm3,115 KM,5,Niebieski
+Skoda,Scala,2024,99 950 PLN,1 km,Benzyna,Manualna,Kompakt,999 cm3,115 KM,5,Czarny
+Skoda,Yeti,2011,23 600 PLN,290 000 km,Diesel,Manualna,SUV,1 598 cm3,105 KM,5,Czarny
+Skoda,Octavia,2021,87 849,149 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Granatowy
+Skoda,Kodiaq,2022,39 000 PLN,50 493 km,Diesel,Automatyczna,SUV,1 968 cm3,200 KM,5,Biały
+Skoda,Fabia,2020,32 000 PLN,217 018 km,Benzyna+LPG,Manualna,Auta małe,999 cm3,60 KM,5,Biały
+Skoda,Octavia,2021,64 900 PLN,195 414 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Niebieski
+Skoda,RAPID,2014,17 700 PLN,408 000 km,Diesel,Manualna,Kompakt,1 598 cm3,90 KM,5,Czarny
+Skoda,Octavia,2013,26 500 PLN,186 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Beżowy
+Skoda,Kodiaq,2019,90 000 PLN,410 000 km,Diesel,Automatyczna,SUV,1 968 cm3,240 KM,5,Bordowy
+Skoda,Superb,2023,165 900 PLN,50 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Błękitny
+Skoda,Fabia,2024,88 600 PLN,1 km,Benzyna,Manualna,Auta miejskie,999 cm3,115 KM,5,Czarny
+Skoda,Octavia,2016,49 900 PLN,244 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Niebieski
+Skoda,Octavia,2021,89 900 PLN,4 400 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Niebieski
+Skoda,Octavia,2017,64 750 PLN,71 000 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Szary
+Skoda,Superb,2015,51 900 PLN,172 649 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Octavia,2013,24 500 PLN,399 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Octavia,2018,52 900 PLN,203 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2014,48 900 PLN,182 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,140 KM,5,Szary
+Skoda,Octavia,2009,16 700 PLN,300 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Fabia,2008,19 400 PLN,213 500 km,Benzyna+LPG,Automatyczna,Kombi,1 598 cm3,105 KM,5,Srebrny
+Skoda,Superb,2024,184 100 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,193 KM,5,Czarny
+Skoda,Octavia,2024,179 500 PLN,1 km,Benzyna,Automatyczna,Kombi,1 984 cm3,265 KM,5,Szary
+Skoda,Roomster,2013,16 500 PLN,217 500 km,Benzyna,Manualna,Minivan,1 197 cm3,105 KM,5,Brązowy
+Skoda,Citigo,2017,23 000 PLN,35 885 km,Benzyna,Manualna,Auta małe,999 cm3,60 KM,3,Szary
+Skoda,Superb,2024,222 000 PLN,5 km,Diesel,Automatyczna,Kombi,1 968 cm3,200 KM,5,Czarny
+Skoda,Superb,2019,78 000 PLN,199 225 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2020,109 900 PLN,86 556 km,Diesel,Automatyczna,Kombi,1 968 cm3,184 KM,5,Czarny
+Skoda,Superb,2021,115 900 PLN,132 287 km,Benzyna,Automatyczna,Kombi,1 984 cm3,190 KM,5,Szary
+Skoda,Superb,2017,68 900 PLN,211 750 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,4,Czarny
+Skoda,Superb,2015,69 999 PLN,134 250 km,Benzyna,Automatyczna,Sedan,1 984 cm3,220 KM,4,Szary
+Skoda,Superb,2020,119 900 PLN,47 916 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Niebieski
+Skoda,Kodiaq,2019,112 900 PLN,137 874 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Skoda,Kodiaq,2021,119 000 PLN,137 438 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2017,63 000 PLN,258 865 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Octavia,2017,44 899,193 000 km,Benzyna,Manualna,Kombi,1 395 cm3,149 KM,5,Czarny
+Skoda,Karoq,2024,163 300 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Czarny
+Skoda,Karoq,2024,155 330 PLN,1 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2020,104 900 PLN,94 590 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Czerwony
+Skoda,Octavia,2024,155 100 PLN,1 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Superb,2021,86 900 PLN,130 527 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,RAPID,2016,28 700 PLN,190 000 km,Benzyna+LPG,Manualna,Kompakt,1 197 cm3,110 KM,5,Granatowy
+Skoda,Fabia,2020,33 900 PLN,210 624 km,Benzyna,Manualna,Kombi,999 cm3,110 KM,5,Szary
+Skoda,Superb,2016,57 900 PLN,220 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Szary
+Skoda,Octavia,2014,59 900 PLN,178 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,5,Niebieski
+Skoda,Karoq,2019,100 900 PLN,50 510 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czerwony
+Skoda,Karoq,2018,76 900 PLN,147 100 km,Diesel,Automatyczna,SUV,1 598 cm3,115 KM,5,Beżowy
+Skoda,Superb,2020,73 899,149 000 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Superb,2014,32 900 PLN,317 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Octavia,2016,32 500 PLN,293 000 km,Benzyna,Manualna,Kompakt,1 395 cm3,150 KM,5,Czarny
+Skoda,Octavia,2020,86 100 PLN,67 845 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Srebrny
+Skoda,Fabia,2012,19 900 PLN,130 000 km,Benzyna,Manualna,Kompakt,1 198 cm3,70 KM,5,Czarny
+Skoda,Superb,2017,55 900 PLN,161 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,150 KM,5,Czarny
+Skoda,Octavia,2008,10 900 PLN,361 672 km,Diesel,Automatyczna,Kombi,1 896 cm3,105 KM,5,Szary
+Skoda,Superb,2016,68 000 PLN,117 600 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Czarny
+Skoda,Octavia,2019,54 800 PLN,171 200 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2015,52 000 PLN,112 000 km,Benzyna,Manualna,Kombi,1 395 cm3,150 KM,5,Inny kolor
+Skoda,RAPID,2017,28 500 PLN,178 000 km,Benzyna,Manualna,Sedan,999 cm3,110 KM,5,Niebieski
+Skoda,Octavia,2011,7 900 PLN,240 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Biały
+Skoda,Fabia,2015,33 500 PLN,75 185 km,Benzyna,Manualna,Kombi,1 197 cm3,90 KM,5,Czarny
+Skoda,Superb,2024,195 800 PLN,5 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Czarny
+Skoda,Octavia,2014,32 222 PLN,256 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,105 KM,5,Biały
+Skoda,Octavia,2019,63 900 PLN,128 600 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Czarny
+Skoda,RAPID,2013,25 900 PLN,145 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,105 KM,5,Biały
+Skoda,Superb,2019,94 000 PLN,192 712 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Srebrny
+Skoda,Kodiaq,2017,91 900 PLN,153 379 km,Benzyna,Automatyczna,SUV,1 984 cm3,180 KM,5,Brązowy
+Skoda,Kamiq,2024,140 500 PLN,5 km,Benzyna,Automatyczna,SUV,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2024,142 800 PLN,5 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2007,7 500 PLN,480 000 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Czarny
+Skoda,Octavia,2014,44 800 PLN,168 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Biały
+Skoda,Superb,2015,73 500 PLN,99 550 km,Benzyna,Automatyczna,Kompakt,1 984 cm3,220 KM,5,Szary
+Skoda,Superb,2021,106 900 PLN,69 910 km,Benzyna,Automatyczna,Kombi,1 498 cm3,150 KM,5,Szary
+Skoda,Octavia,2019,65 800 PLN,156 978 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Szary
+Skoda,Octavia,2016,36 000 PLN,265 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Octavia,2023,95 000 PLN,29 239 km,Benzyna,Automatyczna,Sedan,1 498 cm3,150 KM,5,Zielony
+Skoda,Octavia,2017,43 000 PLN,145 000 km,Diesel,Manualna,Kombi,1 598 cm3,115 KM,5,Biały
+Skoda,Kodiaq,2019,124 000 PLN,89 000 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2008,29 900 PLN,348 000 km,Benzyna,Automatyczna,Sedan,3 580 cm3,260 KM,5,Czarny
+Skoda,Fabia,2012,19 450 PLN,168 000 km,Benzyna,Manualna,Auta miejskie,1 197 cm3,86 KM,5,Srebrny
+Skoda,Superb,2011,32 900 PLN,229 487 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Srebrny
+Skoda,Octavia,2009,19 500 PLN,230 000 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Srebrny
+Skoda,Octavia,2003,3 500 PLN,370 000 km,Diesel,Manualna,Sedan,1 896 cm3,110 KM,5,Zielony
+Skoda,Superb,2015,47 900 PLN,209 000 km,Diesel,Manualna,Kombi,1 598 cm3,120 KM,5,Czarny
+Skoda,Octavia,2021,97 500 PLN,58 500 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Niebieski
+Skoda,Yeti,2010,29 900 PLN,180 279 km,Diesel,Manualna,SUV,1 968 cm3,140 KM,5,Srebrny
+Skoda,RAPID,2017,31 000 PLN,245 000 km,Diesel,Manualna,Kompakt,1 598 cm3,115 KM,5,Żółty
+Skoda,Superb,2019,85 900 PLN,189 900 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Szary
+Skoda,Superb,2017,64 900 PLN,250 650 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Skoda,Kamiq,2022,120 000 PLN,24 500 km,Benzyna,Automatyczna,Kompakt,1 498 cm3,150 KM,5,Czerwony
+Skoda,Superb,2012,40 900 PLN,181 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,140 KM,5,Srebrny
+Skoda,Superb,2008,23 000 PLN,250 091 km,Benzyna,Manualna,Sedan,1 798 cm3,160 KM,5,Czarny
+Skoda,Octavia,2008,15 900 PLN,291 000 km,Diesel,Automatyczna,Kombi,1 896 cm3,105 KM,5,Szary
+Skoda,Fabia,2015,41 500 PLN,80 836 km,Benzyna,Automatyczna,Kompakt,1 197 cm3,110 KM,5,Niebieski
+Skoda,Octavia,2010,16 900 PLN,271 500 km,Diesel,Manualna,Sedan,1 896 cm3,105 KM,5,Czarny
+Skoda,Octavia,2010,25 700 PLN,272 900 km,Diesel,Manualna,Kombi,1 968 cm3,170 KM,5,Biały
+Skoda,Octavia,2020,45 000 PLN,224 000 km,Diesel,Manualna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Superb,2016,59 800 PLN,187 000 km,Diesel,Automatyczna,Kombi,1 968 cm3,150 KM,5,Srebrny
+Skoda,Kodiaq,2019,108 999 PLN,191 200 km,Diesel,Automatyczna,SUV,1 968 cm3,190 KM,5,Srebrny
+Skoda,Superb,2018,82 999 PLN,232 200 km,Diesel,Automatyczna,Kombi,1 968 cm3,190 KM,5,Biały
+Skoda,Fabia,2017,39 500 PLN,50 000 km,Benzyna,Manualna,Kompakt,999 cm3,95 KM,5,Beżowy
+Skoda,Kodiaq,2022,129 900 PLN,83 400 km,Diesel,Automatyczna,SUV,1 968 cm3,150 KM,5,Inny kolor
+Skoda,Octavia,2018,50 900 PLN,190 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Niebieski
+Skoda,Octavia,2014,33 900 PLN,240 000 km,Diesel,Manualna,Kombi,1 598 cm3,105 KM,5,Czarny
+Skoda,Superb,2019,115 000 PLN,110 000 km,Diesel,Automatyczna,Sedan,1 968 cm3,190 KM,5,Czarny
+Skoda,Superb,2011,35 000 PLN,266 700 km,Diesel,Automatyczna,Sedan,1 968 cm3,170 KM,5,Srebrny
+Skoda,RAPID,2015,24 500 PLN,196 650 km,Benzyna,Manualna,Sedan,1 197 cm3,86 KM,5,Granatowy
+Skoda,Fabia,2015,37 800 PLN,82 000 km,Benzyna,Manualna,Kompakt,1 197 cm3,110 KM,5,Inny kolor
+Skoda,Octavia,2017,69 400 PLN,75 000 km,Benzyna,Manualna,Sedan,1 395 cm3,150 KM,5,Inny kolor
+Skoda,Fabia,2012,22 500 PLN,47 114 km,Benzyna,Manualna,Auta miejskie,1 198 cm3,70 KM,5,Niebieski
+Skoda,Superb,2021,126 500 PLN,90 482 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Srebrny
+Skoda,Superb,2021,149 900 PLN,31 000 km,Benzyna,Automatyczna,Sedan,1 984 cm3,190 KM,5,Biały
+Skoda,Octavia,2017,55 500 PLN,184 000 km,Diesel,Automatyczna,Kombi,1 598 cm3,115 KM,5,Szary
+Skoda,Octavia,2019,53 500 PLN,172 258 km,Benzyna,Manualna,Kombi,1 498 cm3,150 KM,5,Biały
+Skoda,Octavia,2015,40 000 PLN,165 000 km,Diesel,Manualna,Sedan,1 598 cm3,110 KM,5,Srebrny
