@@ -9,7 +9,10 @@ from .ml_service import get_price_prediction
 from cars_price_predictor.settings import DATA_PATH
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.utils import timezone
+from django.core.cache import cache
 import logging
+import os
+import pandas as pd
 from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
@@ -187,9 +190,9 @@ class PredictionHistoryView(APIView):
         if brand:
             queryset = queryset.filter(brand__iexact=brand)
             
-        model = request.query_params.get('model')
-        if model:
-            queryset = queryset.filter(model__icontains=model)
+        car_model = request.query_params.get('car_model')
+        if car_model:
+            queryset = queryset.filter(car_model__icontains=car_model)
             
         return queryset
 
@@ -245,7 +248,7 @@ def get(self, request):
         # add filter metadata
         response_data['filters'] = {
             key: request.query_params.get(key)
-            for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'model']
+            for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'car_model']
             if key in request.query_params
         }
 
@@ -278,7 +281,7 @@ class DropdownOptionsView(APIView):
             df = pd.read_csv(csv_path)
             
             required_columns = [
-                'brand', 'model', 'year_of_production', 
+                'brand', 'car_model', 'year_of_production', 
                 'fuel_type', 'transmission', 'body', 
                 'number_of_doors', 'color'
             ]
@@ -289,7 +292,7 @@ class DropdownOptionsView(APIView):
             
             unique_options = {
                 'brand': sorted(df['brand'].dropna().unique().tolist()),
-                'car_model': sorted(df['model'].dropna().unique().tolist()),
+                'car_model': sorted(df['car_model'].dropna().unique().tolist()),
                 'year_of_production': {
                     'min': int(df['year_of_production'].min()),
                     'max': int(df['year_of_production'].max())
@@ -328,20 +331,27 @@ class BrandModelMappingView(APIView):
     
     def get(self, request):
         try:
+            csv_path = DATA_PATH
+            if not os.path.exists(csv_path):
+                logger.error(f"CSV file not found at {csv_path}")
+                raise FileNotFoundError("Configuration error: Data file not found")
+                
             cache_key = 'brand_model_mapping'
             cached_data = cache.get(cache_key)
             
             if cached_data:
                 return Response(cached_data, status=status.HTTP_200_OK)
-            
+            '''
             # get unique brand-model pairs from database
             brand_model_pairs = (
                 Prediction.objects
-                .values_list('brand', 'model')
+                .values_list('brand', 'car_model')
                 .distinct()
-                .order_by('brand', 'model')
+                .order_by('brand', 'car_model')
             )
-            
+            '''
+            df = pd.read_csv(csv_path)
+            brand_model_pairs = df[['brand', 'car_model']].drop_duplicates().values.tolist()
             # transform data to format {brand: [models]}
             mapping = {}
             for brand, model in brand_model_pairs:
