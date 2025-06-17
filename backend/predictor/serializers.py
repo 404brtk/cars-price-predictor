@@ -45,7 +45,6 @@ class UserSerializer(serializers.ModelSerializer):
 
 
 
-
 class PredictionInputSerializer(serializers.ModelSerializer):
     class Meta:
         model = Prediction
@@ -54,16 +53,6 @@ class PredictionInputSerializer(serializers.ModelSerializer):
             'fuel_type', 'transmission', 'body', 'engine_capacity',
             'power', 'number_of_doors', 'color'
         ]
-
-class GuestPredictionOutputSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Prediction
-        fields = [
-            'brand', 'car_model', 'year_of_production', 'mileage',
-            'fuel_type', 'transmission', 'body', 'engine_capacity',
-            'power', 'number_of_doors', 'color', 'predicted_price', 'timestamp'
-        ]
-        read_only_fields = ['predicted_price', 'timestamp']
 
 
 class PredictionOutputSerializer(serializers.ModelSerializer):

@@ -5,7 +5,6 @@ from .views import (
     LogoutView, 
     ApiRootView, 
     PredictPriceView, 
-    GuestPredictPriceView, 
     PredictionHistoryView, 
     DropdownOptionsView, 
     BrandModelMappingView
@@ -23,7 +22,6 @@ urlpatterns = [
     
     # predictions
     path('predict/', PredictPriceView.as_view(), name='predict'),
-    path('predict/guest/', GuestPredictPriceView.as_view(), name='predict_guest'),
     path('predictions/', PredictionHistoryView.as_view(), name='prediction_history'),
     path('dropdown_options/', DropdownOptionsView.as_view(), name='dropdown_options'),
     path('brand_model_mapping/', BrandModelMappingView.as_view(), name='brand_model_mapping'),

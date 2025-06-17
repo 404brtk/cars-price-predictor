@@ -3,6 +3,7 @@ from rest_framework.response import Response
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework_simplejwt.views import TokenObtainPairView
 from rest_framework_simplejwt.tokens import RefreshToken
+from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework import status
 from .models import Prediction
 from .ml_service import get_price_prediction
@@ -10,13 +11,13 @@ from cars_price_predictor.settings import DATA_PATH
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.utils import timezone
 from django.core.cache import cache
+from datetime import datetime
 import logging
 import os
 import pandas as pd
 from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
-    GuestPredictionOutputSerializer,
     PredictionOutputSerializer,
 )
 
@@ -34,16 +35,11 @@ class ApiRootView(APIView):
             'token_refresh': '/api/token/refresh/',
             'logout': '/api/logout/',
             'predict': '/api/predict/',
-            'predict_guest': '/api/predict/guest/',
             'prediction_history': '/api/predictions/',
             'dropdown_options': '/api/dropdown_options/',
             'brand_model_mapping': '/api/brand_model_mapping/',
         }
-        return Response({
-            'status': 'ok',
-            'message': 'Used Cars Price Predictor API',
-            'endpoints': available_endpoints,
-        })
+        return Response(available_endpoints, status=status.HTTP_200_OK)
 
 
 class RegisterView(APIView):
@@ -53,8 +49,10 @@ class RegisterView(APIView):
         serializer = UserSerializer(data=request.data)
         if serializer.is_valid():
             serializer.save()
-            return Response(serializer.data, status=201)
-        return Response(serializer.errors, status=400)
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+        
+        logger.warning(f"User registration failed: {serializer.errors}")
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class LogoutView(APIView):
     permission_classes = [IsAuthenticated]
@@ -65,63 +63,59 @@ class LogoutView(APIView):
             token = RefreshToken(refresh_token)
             token.blacklist()
             return Response(status=status.HTTP_205_RESET_CONTENT)
-        except Exception as e:
+        except KeyError:
+            logger.warning("Logout attempt without a refresh token.")
             return Response(
-                {"error": "Invalid token or no refresh token provided"},
-                status=status.HTTP_400_BAD_REQUEST
-            )
+                {"error": "No refresh token provided"},
+                status=status.HTTP_400_BAD_REQUEST)
+        except TokenError as e:
+            logger.warning(f"Logout failed due to a token error: {e}")
+            return Response({"error": str(e)}, status=status.HTTP_400_BAD_REQUEST)
+        except Exception as e:
+            logger.error(f"An unexpected server error occurred during logout: {e}", exc_info=True)
+            return Response(
+                {"error": "A server error occurred during logout"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 class PredictPriceView(APIView):
-    permission_classes = [IsAuthenticated]
+    permission_classes = [AllowAny]  # allow both guest and authenticated users
 
     def post(self, request, format=None):
         serializer = PredictionInputSerializer(data=request.data)
         if not serializer.is_valid():
+            logger.warning(f"Prediction request failed validation: {serializer.errors}")
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-            
+
         try:
             input_data = serializer.validated_data
             predicted_price = get_price_prediction(input_data)
-            
-            # create and save prediction to database
-            prediction = Prediction.objects.create(
-                user=request.user,
-                predicted_price=predicted_price,
-                **input_data
+
+            if request.user.is_authenticated:
+                # for authenticated users, create and save prediction
+                prediction = Prediction.objects.create(
+                    user=request.user,
+                    predicted_price=predicted_price,
+                    **input_data
+                )
+                output_serializer = PredictionOutputSerializer(prediction)
+                return Response(output_serializer.data, status=status.HTTP_201_CREATED)
+            else:
+                # for guest users, return prediction without saving
+                result = {
+                    'predicted_price': predicted_price,
+                    'timestamp': timezone.now().isoformat(),
+                    **input_data
+                }
+                return Response(result, status=status.HTTP_200_OK)
+
+        except ValueError as e:
+            logger.warning(f"Validation error in prediction: {str(e)}")
+            return Response(
+                {"error": str(e)},
+                status=status.HTTP_400_BAD_REQUEST
             )
-            
-            output_serializer = PredictionOutputSerializer(prediction)
-            return Response(output_serializer.data, status=status.HTTP_201_CREATED)
-            
         except Exception as e:
             logger.error(f"Prediction failed: {str(e)}", exc_info=True)
-            return Response(
-                {"error": "Error processing your request"},
-                status=status.HTTP_500_INTERNAL_SERVER_ERROR
-            )
-
-class GuestPredictPriceView(APIView):
-    permission_classes = [AllowAny]
-
-    def post(self, request):
-        serializer = PredictionInputSerializer(data=request.data)
-        if not serializer.is_valid():
-            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
-        try:
-            input_data = serializer.validated_data
-            predicted_price = get_price_prediction(input_data)
-            
-            # return the prediction without saving to database
-            result = {
-                'predicted_price': predicted_price,
-                'timestamp': timezone.now().isoformat(),
-                **input_data
-            }
-            return Response(result, status=status.HTTP_200_OK)
-        
-        except Exception as e:
-            logger.error(f"Guest prediction failed: {str(e)}", exc_info=True)
             return Response(
                 {"error": "Error processing your request"},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
@@ -142,7 +136,7 @@ class PredictionHistoryView(APIView):
     - min_price: Minimum predicted price
     - max_price: Maximum predicted price
     - brand: Filter by car brand (case-insensitive)
-    - model: Filter by car model (case-insensitive)
+    - car_model: Filter by car model (case-insensitive)
     """
     permission_classes = [IsAuthenticated]
     default_page_size = 10
@@ -160,14 +154,14 @@ class PredictionHistoryView(APIView):
                 start = datetime.strptime(start_date, '%Y-%m-%d').date()
                 queryset = queryset.filter(timestamp__date__gte=start)
             except ValueError:
-                pass
+                raise ValueError("Invalid start_date format. Use YYYY-MM-DD.")
                 
         if end_date:
             try:
                 end = datetime.strptime(end_date, '%Y-%m-%d').date()
                 queryset = queryset.filter(timestamp__date__lte=end)
             except ValueError:
-                pass
+                raise ValueError("Invalid end_date format. Use YYYY-MM-DD.")
         
         # price range filtering
         min_price = request.query_params.get('min_price')
@@ -177,13 +171,13 @@ class PredictionHistoryView(APIView):
             try:
                 queryset = queryset.filter(predicted_price__gte=float(min_price))
             except (ValueError, TypeError):
-                pass
+                raise ValueError("Invalid min_price format. Must be a number.")
                 
         if max_price:
             try:
                 queryset = queryset.filter(predicted_price__lte=float(max_price))
             except (ValueError, TypeError):
-                pass
+                raise ValueError("Invalid max_price format. Must be a number.")
         
         # text search filtering
         brand = request.query_params.get('brand')
@@ -199,20 +193,22 @@ class PredictionHistoryView(APIView):
     def get_paginated_response(self, queryset, request):
         # get pagination parameters
         try:
-            page_size = min(
-                int(request.query_params.get('page_size', self.default_page_size)),
-                self.max_page_size
-            )
+            page_size = int(request.query_params.get('page_size', self.default_page_size))
         except (ValueError, TypeError):
-            page_size = self.default_page_size
+            raise ValueError("Invalid page_size format. Must be an integer.")
+
+        if page_size > self.max_page_size:
+            page_size = self.max_page_size
 
         paginator = Paginator(queryset, page_size)
         
         try:
-            page = int(request.query_params.get('page', 1))
-            predictions = paginator.page(page)
+            page_number = int(request.query_params.get('page', 1))
+            predictions = paginator.page(page_number)
+        except (ValueError, TypeError):
+            raise ValueError("Invalid page format. Must be an integer.")
         except (PageNotAnInteger, EmptyPage):
-            page = 1
+            page_number = 1
             predictions = paginator.page(1)
 
         serializer = PredictionOutputSerializer(predictions, many=True)
@@ -220,46 +216,52 @@ class PredictionHistoryView(APIView):
         return {
             'count': paginator.count,
             'total_pages': paginator.num_pages,
-            'current_page': page,
+            'current_page': page_number,
             'page_size': page_size,
             'results': serializer.data
         }
 
-def get(self, request):
-    try:
-        # get and validate sort parameter
-        sort = request.query_params.get('sort')
-        valid_sort_fields = {
-            'timestamp', '-timestamp', 
-            'predicted_price', '-predicted_price'
-        }
-        
-        # get filtered queryset
-        queryset = self.get_queryset(request)
-        
-        # apply sorting only if sort parameter is provided and valid
-        if sort and sort in valid_sort_fields:
-            queryset = queryset.order_by(sort)
-            response_data = self.get_paginated_response(queryset, request)
-            response_data['sort'] = sort
-        else:
-            response_data = self.get_paginated_response(queryset, request)
-        
-        # add filter metadata
-        response_data['filters'] = {
-            key: request.query_params.get(key)
-            for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'car_model']
-            if key in request.query_params
-        }
+    def get(self, request):
+        try:
+            # get and validate sort parameter
+            sort = request.query_params.get('sort')
+            valid_sort_fields = {
+                'timestamp', '-timestamp', 
+                'predicted_price', '-predicted_price'
+            }
+            
+            # get filtered queryset
+            queryset = self.get_queryset(request)
+            
+            # apply sorting only if sort parameter is provided and valid
+            if sort and sort in valid_sort_fields:
+                queryset = queryset.order_by(sort)
+                response_data = self.get_paginated_response(queryset, request)
+                response_data['sort'] = sort
+            else:
+                response_data = self.get_paginated_response(queryset, request)
+            
+            # add filter metadata
+            response_data['filters'] = {
+                key: request.query_params.get(key)
+                for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'car_model']
+                if key in request.query_params
+            }
 
-        return Response(response_data)
+            return Response(response_data, status=status.HTTP_200_OK)
 
-    except Exception as e:
-        logger.error(f"Error in PredictionHistoryView: {str(e)}", exc_info=True)
-        return Response(
-            {"error": "An error occurred while fetching predictions"},
-            status=status.HTTP_500_INTERNAL_SERVER_ERROR
-        )
+        except ValueError as e:
+            logger.warning(f"Invalid query parameter in prediction history: {str(e)}")
+            return Response(
+                {"error": str(e)},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+        except Exception as e:
+            logger.error(f"Error in PredictionHistoryView: {str(e)}", exc_info=True)
+            return Response(
+                {"error": "An error occurred while fetching predictions"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )
 
 class DropdownOptionsView(APIView):
     permission_classes = [AllowAny]
@@ -269,7 +271,10 @@ class DropdownOptionsView(APIView):
             csv_path = DATA_PATH
             if not os.path.exists(csv_path):
                 logger.error(f"CSV file not found at {csv_path}")
-                raise FileNotFoundError("Configuration error: Data file not found")
+                return Response(
+                    {"error": "Configuration error: Data file not found"},
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                )
             
             # load data from cache if available
             cache_key = 'dropdown_options'
@@ -288,7 +293,12 @@ class DropdownOptionsView(APIView):
             
             missing_columns = [col for col in required_columns if col not in df.columns]
             if missing_columns:
-                raise ValueError(f"Missing required columns: {', '.join(missing_columns)}")
+                error_message = f"Invalid data format on server: Missing required columns: {', '.join(missing_columns)}"
+                logger.error(error_message)
+                return Response(
+                    {"error": "A server error occurred while processing data"},
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                )
             
             unique_options = {
                 'brand': sorted(df['brand'].dropna().unique().tolist()),
@@ -312,12 +322,6 @@ class DropdownOptionsView(APIView):
             
             return Response(unique_options, status=status.HTTP_200_OK)
             
-        except FileNotFoundError as e:
-            logger.error(f"File not found: {str(e)}")
-            return Response(
-                {"error": "Configuration error: Data file not found"},
-                status=status.HTTP_500_INTERNAL_SERVER_ERROR
-            )
         except Exception as e:
             logger.error(f"Error retrieving dropdown options: {str(e)}", exc_info=True)
             return Response(
@@ -334,7 +338,10 @@ class BrandModelMappingView(APIView):
             csv_path = DATA_PATH
             if not os.path.exists(csv_path):
                 logger.error(f"CSV file not found at {csv_path}")
-                raise FileNotFoundError("Configuration error: Data file not found")
+                return Response(
+                    {"error": "Configuration error: Data file not found"},
+                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
+                )
                 
             cache_key = 'brand_model_mapping'
             cached_data = cache.get(cache_key)
