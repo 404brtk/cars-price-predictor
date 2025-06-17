@@ -5,16 +5,14 @@ from rest_framework_simplejwt.views import TokenObtainPairView
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework_simplejwt.exceptions import TokenError
 from rest_framework import status
-from .models import Prediction
+from .models import Prediction, CarListing
 from .ml_service import get_price_prediction
-from cars_price_predictor.settings import DATA_PATH
+from django.db.models import Min, Max
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.utils import timezone
 from django.core.cache import cache
 from datetime import datetime
 import logging
-import os
-import pandas as pd
 from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
@@ -265,63 +263,49 @@ class PredictionHistoryView(APIView):
 
 class DropdownOptionsView(APIView):
     permission_classes = [AllowAny]
-    
+
     def get(self, request):
         try:
-            csv_path = DATA_PATH
-            if not os.path.exists(csv_path):
-                logger.error(f"CSV file not found at {csv_path}")
-                return Response(
-                    {"error": "Configuration error: Data file not found"},
-                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
-                )
-            
-            # load data from cache if available
+            # load cached data if available
             cache_key = 'dropdown_options'
             cached_data = cache.get(cache_key)
             if cached_data:
                 return Response(cached_data, status=status.HTTP_200_OK)
-            
-            # load data from csv
-            df = pd.read_csv(csv_path)
-            
-            required_columns = [
-                'brand', 'car_model', 'year_of_production', 
-                'fuel_type', 'transmission', 'body', 
-                'number_of_doors', 'color'
-            ]
-            
-            missing_columns = [col for col in required_columns if col not in df.columns]
-            if missing_columns:
-                error_message = f"Invalid data format on server: Missing required columns: {', '.join(missing_columns)}"
-                logger.error(error_message)
-                return Response(
-                    {"error": "A server error occurred while processing data"},
-                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
-                )
-            
+
+            # fetch distinct values from the CarListing model
+            brands = sorted(CarListing.objects.values_list('brand', flat=True).distinct())
+            car_models = sorted(CarListing.objects.values_list('car_model', flat=True).distinct())
+            fuel_types = sorted(CarListing.objects.values_list('fuel_type', flat=True).distinct())
+            transmissions = sorted(CarListing.objects.values_list('transmission', flat=True).distinct())
+            bodies = sorted(CarListing.objects.values_list('body', flat=True).distinct())
+            colors = sorted(CarListing.objects.values_list('color', flat=True).distinct())
+
+            # fetch min/max values
+            year_range = CarListing.objects.aggregate(min=Min('year_of_production'), max=Max('year_of_production'))
+            doors_range = CarListing.objects.aggregate(min=Min('number_of_doors'), max=Max('number_of_doors'))
+
             unique_options = {
-                'brand': sorted(df['brand'].dropna().unique().tolist()),
-                'car_model': sorted(df['car_model'].dropna().unique().tolist()),
+                'brand': brands,
+                'car_model': car_models,
                 'year_of_production': {
-                    'min': int(df['year_of_production'].min()),
-                    'max': int(df['year_of_production'].max())
+                    'min': year_range['min'],
+                    'max': year_range['max']
                 },
-                'fuel_type': sorted(df['fuel_type'].dropna().unique().tolist()),
-                'transmission': sorted(df['transmission'].dropna().unique().tolist()),
-                'body': sorted(df['body'].dropna().unique().tolist()),
+                'fuel_type': fuel_types,
+                'transmission': transmissions,
+                'body': bodies,
                 'number_of_doors': {
-                    'min': int(df['number_of_doors'].min()),
-                    'max': int(df['number_of_doors'].max())
+                    'min': doors_range['min'],
+                    'max': doors_range['max']
                 },
-                'color': sorted(df['color'].dropna().unique().tolist()),
+                'color': colors,
             }
-            
+
             # save in cache for 1 hour
             cache.set(cache_key, unique_options, timeout=3600)
-            
+
             return Response(unique_options, status=status.HTTP_200_OK)
-            
+
         except Exception as e:
             logger.error(f"Error retrieving dropdown options: {str(e)}", exc_info=True)
             return Response(
@@ -332,33 +316,23 @@ class DropdownOptionsView(APIView):
 
 class BrandModelMappingView(APIView):
     permission_classes = [AllowAny]
-    
+
     def get(self, request):
         try:
-            csv_path = DATA_PATH
-            if not os.path.exists(csv_path):
-                logger.error(f"CSV file not found at {csv_path}")
-                return Response(
-                    {"error": "Configuration error: Data file not found"},
-                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
-                )
-                
+            # load cached data if available
             cache_key = 'brand_model_mapping'
             cached_data = cache.get(cache_key)
-            
             if cached_data:
                 return Response(cached_data, status=status.HTTP_200_OK)
-            '''
-            # get unique brand-model pairs from database
+
+            # get unique brand-model pairs from the database
             brand_model_pairs = (
-                Prediction.objects
+                CarListing.objects
                 .values_list('brand', 'car_model')
                 .distinct()
                 .order_by('brand', 'car_model')
             )
-            '''
-            df = pd.read_csv(csv_path)
-            brand_model_pairs = df[['brand', 'car_model']].drop_duplicates().values.tolist()
+
             # transform data to format {brand: [models]}
             mapping = {}
             for brand, model in brand_model_pairs:
@@ -366,16 +340,16 @@ class BrandModelMappingView(APIView):
                     if brand not in mapping:
                         mapping[brand] = []
                     mapping[brand].append(model)
-            
+
             # sort models for each brand
             for brand in mapping:
                 mapping[brand].sort()
-            
+
             # save in cache for 24 hours (rarely changes)
             cache.set(cache_key, mapping, timeout=86400)
-            
+
             return Response(mapping, status=status.HTTP_200_OK)
-            
+
         except Exception as e:
             logger.error(f"Error retrieving brand-model mapping: {str(e)}", exc_info=True)
             return Response(
