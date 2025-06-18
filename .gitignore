@@ -1,0 +1,141 @@
+# === Python general ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# === Python project structure ===
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# === Virtual Environments ===
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# === Environment variables ===
+.env
+.env.*
+!.env.example
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+local_settings.py
+
+# === Logs and runtime files ===
+*.log
+*.tmp
+*.temp
+*.bak
+*.pid
+*.db
+*.sql
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+
+# === Django ===
+media/
+staticfiles/
+db.sqlite3
+
+# === Jupyter / IPython ===
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.jupyter/
+.jupyter/lab/workspaces/
+.jupyter/nbconfig/
+profile_default/
+ipython_config.py
+.work/
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints
+
+# === Machine Learning / Models ===
+*.pth
+*.pt
+*.hdf5
+*.h5
+*.pb
+*.pbtxt
+*.tflite
+*.tfl
+*.tflmodel
+*.savedmodel/
+saved_model/
+checkpoint/
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.feather
+*.parquet
+
+# === CatBoost ===
+*.cbm
+*.cd
+*.catboost_tmp
+*.catboost_info/
+catboost_info/
+learn_error.tsv*
+test_error.tsv*
+time_left.tsv*
+*.model
+*.bin
+
+# === Coverage / Testing ===
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# === Editors / IDEs ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*.code-workspace
+
+# === System files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.AppleDouble
+.LSOverride
+Icon
+
+# === Project specific ===
+*.code-workspace
