@@ -9,14 +9,19 @@ class UserSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = User
-        fields = ('username', 'password', 'password2', 'email', 'first_name', 'last_name')
+        fields = ('username', 'password', 'password2', 'email')
         extra_kwargs = {
-            'first_name': {'required': True},
-            'last_name': {'required': True},
             'email': {'required': True}
         }
 
     def validate(self, attrs):
+        # check for unknown fields
+        allowed_fields = set(self.Meta.fields)
+        received_fields = set(self.initial_data.keys())
+        unknown_fields = received_fields - allowed_fields
+        if unknown_fields:
+            raise serializers.ValidationError({field: "This field is not allowed." for field in unknown_fields})
+
         # ensure both password fields match
         if attrs['password'] != attrs['password2']:
             raise serializers.ValidationError({"password": "Password fields do not match."})
@@ -36,8 +41,6 @@ class UserSerializer(serializers.ModelSerializer):
         user = User.objects.create(
             username=validated_data['username'],
             email=validated_data['email'],
-            first_name=validated_data['first_name'],
-            last_name=validated_data['last_name']
         )
         user.set_password(validated_data['password'])
         user.save()
@@ -46,6 +49,15 @@ class UserSerializer(serializers.ModelSerializer):
 
 
 class PredictionInputSerializer(serializers.ModelSerializer):
+    def validate(self, attrs):
+        # check for unknown fields
+        allowed_fields = set(self.Meta.fields)
+        received_fields = set(self.initial_data.keys())
+        unknown_fields = received_fields - allowed_fields
+        if unknown_fields:
+            raise serializers.ValidationError({field: "This field is not allowed." for field in unknown_fields})
+        return attrs
+
     class Meta:
         model = Prediction
         fields = [

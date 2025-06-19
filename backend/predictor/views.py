@@ -4,7 +4,7 @@ from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework_simplejwt.views import TokenObtainPairView
 from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework_simplejwt.exceptions import TokenError
-from rest_framework import status
+from rest_framework import status, serializers
 from .models import Prediction, CarListing
 from .ml_service import get_price_prediction
 from django.db.models import Min, Max
@@ -45,12 +45,13 @@ class RegisterView(APIView):
 
     def post(self, request, format=None):
         serializer = UserSerializer(data=request.data)
-        if serializer.is_valid():
+        try:
+            serializer.is_valid(raise_exception=True)
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
-        
-        logger.warning(f"User registration failed: {serializer.errors}")
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        except serializers.ValidationError as e:
+            logger.warning(f"User registration failed: {e.detail}")
+            raise e
 
 class LogoutView(APIView):
     permission_classes = [IsAuthenticated]
@@ -79,12 +80,9 @@ class PredictPriceView(APIView):
     permission_classes = [AllowAny]  # allow both guest and authenticated users
 
     def post(self, request, format=None):
-        serializer = PredictionInputSerializer(data=request.data)
-        if not serializer.is_valid():
-            logger.warning(f"Prediction request failed validation: {serializer.errors}")
-            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
         try:
+            serializer = PredictionInputSerializer(data=request.data)
+            serializer.is_valid(raise_exception=True)
             input_data = serializer.validated_data
             predicted_price = get_price_prediction(input_data)
 
@@ -106,6 +104,9 @@ class PredictPriceView(APIView):
                 }
                 return Response(result, status=status.HTTP_200_OK)
 
+        except serializers.ValidationError as e:
+            logger.warning(f"Prediction request failed validation: {e.detail}")
+            raise e
         except ValueError as e:
             logger.warning(f"Validation error in prediction: {str(e)}")
             return Response(
@@ -152,14 +153,14 @@ class PredictionHistoryView(APIView):
                 start = datetime.strptime(start_date, '%Y-%m-%d').date()
                 queryset = queryset.filter(timestamp__date__gte=start)
             except ValueError:
-                raise ValueError("Invalid start_date format. Use YYYY-MM-DD.")
+                raise serializers.ValidationError({"start_date": "Invalid format. Use YYYY-MM-DD."})
                 
         if end_date:
             try:
                 end = datetime.strptime(end_date, '%Y-%m-%d').date()
                 queryset = queryset.filter(timestamp__date__lte=end)
             except ValueError:
-                raise ValueError("Invalid end_date format. Use YYYY-MM-DD.")
+                raise serializers.ValidationError({"end_date": "Invalid format. Use YYYY-MM-DD."})
         
         # price range filtering
         min_price = request.query_params.get('min_price')
@@ -169,13 +170,13 @@ class PredictionHistoryView(APIView):
             try:
                 queryset = queryset.filter(predicted_price__gte=float(min_price))
             except (ValueError, TypeError):
-                raise ValueError("Invalid min_price format. Must be a number.")
+                raise serializers.ValidationError({"min_price": "Invalid format. Must be a number."})
                 
         if max_price:
             try:
                 queryset = queryset.filter(predicted_price__lte=float(max_price))
             except (ValueError, TypeError):
-                raise ValueError("Invalid max_price format. Must be a number.")
+                raise serializers.ValidationError({"max_price": "Invalid format. Must be a number."})
         
         # text search filtering
         brand = request.query_params.get('brand')
@@ -193,21 +194,22 @@ class PredictionHistoryView(APIView):
         try:
             page_size = int(request.query_params.get('page_size', self.default_page_size))
         except (ValueError, TypeError):
-            raise ValueError("Invalid page_size format. Must be an integer.")
+            raise serializers.ValidationError({"page_size": "Invalid format. Must be an integer."})
 
         if page_size > self.max_page_size:
             page_size = self.max_page_size
 
         paginator = Paginator(queryset, page_size)
         
+        page_number_str = request.query_params.get('page', '1')
         try:
-            page_number = int(request.query_params.get('page', 1))
+            page_number = int(page_number_str)
             predictions = paginator.page(page_number)
         except (ValueError, TypeError):
-            raise ValueError("Invalid page format. Must be an integer.")
-        except (PageNotAnInteger, EmptyPage):
-            page_number = 1
-            predictions = paginator.page(1)
+            raise serializers.ValidationError({"page": "Invalid format. Must be an integer."})
+        except EmptyPage:
+            # if page is out of range, return a specific error
+            raise serializers.ValidationError({"page": f"Page {page_number_str} is out of range. Last page is {paginator.num_pages}."})
 
         serializer = PredictionOutputSerializer(predictions, many=True)
         
@@ -248,12 +250,9 @@ class PredictionHistoryView(APIView):
 
             return Response(response_data, status=status.HTTP_200_OK)
 
-        except ValueError as e:
-            logger.warning(f"Invalid query parameter in prediction history: {str(e)}")
-            return Response(
-                {"error": str(e)},
-                status=status.HTTP_400_BAD_REQUEST
-            )
+        except serializers.ValidationError as e:
+            logger.warning(f"Invalid query parameter in prediction history: {e.detail}")
+            raise e
         except Exception as e:
             logger.error(f"Error in PredictionHistoryView: {str(e)}", exc_info=True)
             return Response(
