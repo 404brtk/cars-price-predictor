@@ -22,7 +22,7 @@ const Header = () => {
   useEffect(() => {
     const unsubscribe = scrollY.on("change", (latest) => {
       const previous = scrollY.getPrevious();
-      if (previous !== undefined && latest > previous && latest > 150) {
+      if (previous !== undefined && latest > previous && latest > 110) {
         setHidden(true);
       } else {
         setHidden(false);
@@ -49,10 +49,18 @@ const Header = () => {
       transition={{ duration: 0.35, ease: 'easeInOut' }}
       className="sticky top-0 z-50 w-full bg-transparent backdrop-blur-lg shadow-lg shadow-black/20 border border-white/20"
     >
-      <nav className="max-w-screen-xl mx-auto px-4 md:px-8 py-3 flex justify-between items-center">
-        <Link href="/" className="flex items-center gap-2 z-50">
-          <Car className="text-[#E0E1DD]" size={28} />
-          <span className="text-xl font-bold text-[#E0E1DD] tracking-tight">cars-price-predictor</span>
+      <nav className="container mx-auto px-2 sm:px-4 lg:px-6 py-3 flex justify-between items-center">
+        <Link href="/" className="group z-50">
+          <motion.div
+            className="flex items-center gap-2"
+            whileHover={{ scale: 1.03 }}
+            transition={{ type: 'spring', stiffness: 400, damping: 10 }}
+          >
+            <Car className="text-[#E0E1DD] transition-colors duration-200 group-hover:text-white" size={28} />
+            <span className="text-xl font-bold tracking-tight text-transparent bg-gradient-to-br from-[#E0E1DD] to-white bg-clip-text transition-colors duration-200 group-hover:text-white">
+              cars-price-predictor
+            </span>
+          </motion.div>
         </Link>
 
         <div className="hidden md:flex items-center gap-6">
@@ -71,7 +79,13 @@ const Header = () => {
                 <motion.div
                   className="absolute -bottom-1.5 left-0 right-0 h-0.5 bg-white rounded-full"
                   layoutId="underline"
-                  initial={false}
+                  initial={{ opacity: 0}}
+                  animate={{ opacity: 1}}
+                  transition={{
+                    type: 'spring',
+                    stiffness: 300,
+                    damping: 30,
+                  }}
                 />
               )}
             </Link>
@@ -82,7 +96,7 @@ const Header = () => {
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                className="px-4 py-2 text-sm font-medium rounded-lg border border-[#778DA9] text-[#E0E1DD] bg-transparent hover:bg-[#778DA9] hover:text-[#0D1B2A] transition-colors"
+                className={`cursor-pointer rounded-lg border border-white/20 px-4 py-2 text-sm font-medium text-[#E0E1DD] backdrop-blur-sm transition-colors hover:bg-white/20 ${pathname === '/login' ? 'bg-white/20' : 'bg-white/10'}`}
               >
                 Login
               </motion.button>
@@ -91,7 +105,7 @@ const Header = () => {
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                className="px-4 py-2 text-sm font-medium rounded-lg bg-[#E0E1DD] text-[#0D1B2A] hover:bg-opacity-90 transition-colors"
+                className={`cursor-pointer rounded-lg border-transparent px-4 py-2 text-sm font-medium text-[#0D1B2A] backdrop-blur-sm transition-colors ${pathname === '/register' ? 'bg-white' : 'bg-[#E0E1DD] bg-opacity-80 hover:bg-opacity-100'}`}
               >
                 Register
               </motion.button>
@@ -129,7 +143,7 @@ const Header = () => {
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  className="w-48 px-5 py-3 text-lg bg-transparent border border-[#778DA9] text-[#E0E1DD] rounded-lg hover:bg-[#778DA9] hover:text-[#0D1B2A] transition-colors"
+                  className={`cursor-pointer w-48 rounded-lg border border-white/20 px-5 py-3 text-lg font-medium text-[#E0E1DD] backdrop-blur-sm transition-colors hover:bg-white/20 ${pathname === '/login' ? 'bg-white/20' : 'bg-white/10'}`}
                 >
                   Login
                 </motion.button>
@@ -138,7 +152,7 @@ const Header = () => {
                 <motion.button
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  className="w-48 px-5 py-3 text-lg bg-[#E0E1DD] text-[#0D1B2A] rounded-lg hover:bg-opacity-90 transition-colors"
+                  className={`cursor-pointer w-48 rounded-lg border-transparent bg-[#E0E1DD] px-5 py-3 text-lg font-medium text-[#0D1B2A] backdrop-blur-sm transition-colors hover:bg-opacity-100 ${pathname === '/register' ? 'bg-opacity-100' : 'bg-opacity-80'}`}
                 >
                   Register
                 </motion.button>
