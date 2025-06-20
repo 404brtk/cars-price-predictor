@@ -18,15 +18,20 @@ from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
     PredictionOutputSerializer,
-    CustomTokenObtainPairSerializer
+    CustomTokenObtainPairSerializer,
+    CustomTokenRefreshSerializer,
+    UserDetailSerializer
 )
-
 
 
 logger = logging.getLogger(__name__)
 
 # helper functions for cookie management
 def set_auth_cookies(response, access_token, refresh_token):
+    """
+    Sets access and refresh tokens as HTTP-only cookies in the response.
+    Configuration is sourced from Django settings for flexibility.
+    """
     access_token_lifetime = settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME']
     refresh_token_lifetime = settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME']
     cookie_secure = getattr(settings, 'JWT_COOKIE_SECURE', not settings.DEBUG)
@@ -35,9 +40,8 @@ def set_auth_cookies(response, access_token, refresh_token):
     access_token_cookie_name = getattr(settings, 'ACCESS_TOKEN_COOKIE_NAME', 'access_token')
     refresh_token_cookie_name = getattr(settings, 'REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
 
-    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
-    # the refresh token should only be sent to the refresh endpoint.
-    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
+    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH')
+    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH')
 
     response.set_cookie(
         key=access_token_cookie_name,
@@ -56,15 +60,18 @@ def set_auth_cookies(response, access_token, refresh_token):
             secure=cookie_secure,
             httponly=cookie_httponly,
             samesite=cookie_samesite,
-            path=refresh_token_path  # use the more restrictive path
+            path=refresh_token_path 
         )
 
 def clear_auth_cookies(response):
+    """
+    Clears the access and refresh token cookies from the response.
+    Uses paths from settings to ensure correct cookie deletion.
+    """
     access_token_cookie_name = getattr(settings, 'ACCESS_TOKEN_COOKIE_NAME', 'access_token')
     refresh_token_cookie_name = getattr(settings, 'REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
-    
-    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
-    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
+    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH')
+    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH')
 
     response.delete_cookie(
         key=access_token_cookie_name,
@@ -74,6 +81,31 @@ def clear_auth_cookies(response):
         key=refresh_token_cookie_name,
         path=refresh_token_path
     )
+
+
+def _handle_successful_auth(request, validated_data):
+    """
+    Handles the common logic for a successful authentication (login or refresh).
+    Constructs the response, sets cookies, and logs the success.
+    """
+    access_token = validated_data.get('access')
+    refresh_token = validated_data.get('refresh')
+    user_data = validated_data.get('user')
+
+    if not access_token or not user_data:
+        logger.error("Access token or user_data not found in validated_data after successful auth.")
+        return Response(
+            {"detail": "Authentication failed; could not generate tokens or user data."},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR
+        )
+
+    response = Response({'user': user_data}, status=status.HTTP_200_OK)
+    set_auth_cookies(response, access_token, refresh_token)
+    
+    # Determine username for logging, handling both login (user not yet on request) and refresh.
+    username_for_log = user_data.get('username', 'N/A')
+    logger.info(f"Authentication successful for user '{username_for_log}'.")
+    return response
 
 
 class CustomTokenObtainPairView(TokenObtainPairView):
@@ -86,110 +118,34 @@ class CustomTokenObtainPairView(TokenObtainPairView):
         except TokenError as e:
             logger.warning(f"Token generation failed during login: {str(e)}")
             return Response({"detail": str(e)}, status=status.HTTP_401_UNAUTHORIZED)
-        except serializers.ValidationError as e:
-            # ensure error details are properly formatted for the response
-            error_detail = e.detail
-            if isinstance(error_detail, list) and error_detail:
-                error_detail = error_detail[0] # take the first error message if it's a list
-            elif isinstance(error_detail, dict) and 'detail' in error_detail:
-                 error_detail = error_detail['detail']
 
-            logger.warning(f"Login validation error: {error_detail}")
-            return Response({"detail": error_detail if isinstance(error_detail, str) else "Invalid credentials."}, status=status.HTTP_400_BAD_REQUEST)
-
-        validated_data = serializer.validated_data
-        access_token = validated_data.get('access')
-        refresh_token = validated_data.get('refresh')
-        user_data = validated_data.get('user') # this comes from CustomTokenObtainPairSerializer
-
-        if not access_token or not refresh_token:
-            logger.error("Tokens not found in validated_data after successful login.")
-            return Response(
-                {"detail": "Login failed; could not generate tokens."},
-                status=status.HTTP_500_INTERNAL_SERVER_ERROR
-            )
-
-        # prepare response: by default, return user data from the serializer
-        # if no specific user_data is prepared by serializer, a generic success message can be used.
-        response_data = user_data if user_data else {"detail": "Login successful."}
-        response = Response(response_data, status=status.HTTP_200_OK)
-        
-        set_auth_cookies(response, access_token, refresh_token)
-        
-        username_for_log = request.data.get('username', 'N/A') # get username for logging
-        logger.info(f"User '{username_for_log}' logged in successfully.")
-        return response
+        return _handle_successful_auth(request, serializer.validated_data)
 
 
 class CustomTokenRefreshView(BaseTokenRefreshView):
+    serializer_class = CustomTokenRefreshSerializer
+
     def post(self, request, *args, **kwargs):
         refresh_token_cookie_name = getattr(settings, 'REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
         refresh_token_value = request.COOKIES.get(refresh_token_cookie_name)
 
         if not refresh_token_value:
-            logger.warning("Token refresh attempt without a refresh token cookie.")
-            return Response(
-                {"detail": "Refresh token not found in cookie."}, 
-                status=status.HTTP_401_UNAUTHORIZED
-            )
+            return Response({"detail": "Refresh token not found in cookie."}, status=status.HTTP_401_UNAUTHORIZED)
 
-        # the parent TokenRefreshView expects the refresh token in request.data
-        # we need to temporarily place it there if it's coming from a cookie.
-        mutable_data = request.data.copy() # make it mutable if it's a QueryDict
-        mutable_data['refresh'] = refresh_token_value
-        
-        # create a new request object with the modified data, or modify request.data directly if safe
-        # for simplicity, I'll modify request.data if it's a standard DRF Request object's data dict
-        original_data = request.data
-        request._data = mutable_data # temporarily override request.data
+        serializer = self.get_serializer(data={'refresh': refresh_token_value})
 
         try:
-            response = super().post(request, *args, **kwargs)
+            serializer.is_valid(raise_exception=True)
         except TokenError as e:
             logger.warning(f"Token refresh failed: {str(e)}")
-            # ensure cookies are cleared if refresh token is invalid/blacklisted by the server
-            # as the client might still have it.
             error_response = Response({"detail": str(e)}, status=status.HTTP_401_UNAUTHORIZED)
-            if "blacklisted" in str(e).lower() or "invalid" in str(e).lower():
-                 clear_auth_cookies(error_response) # clear cookies if token is definitively bad
+            clear_auth_cookies(error_response)
             return error_response
         except Exception as e:
-            logger.error(f"Unexpected error during token refresh: {str(e)}", exc_info=True)
-            return Response(
-                {"detail": "An unexpected error occurred during token refresh."},
-                status=status.HTTP_500_INTERNAL_SERVER_ERROR
-            )
-        finally:
-            request._data = original_data # restore original request.data
+            logger.error(f"Unexpected error during token refresh validation: {str(e)}", exc_info=True)
+            return Response({"detail": "An unexpected error occurred during token refresh."}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
-        if response.status_code == status.HTTP_200_OK:
-            access_token = response.data.get('access')
-            # SIMPLE_JWT may or may not return a new refresh token depending on ROTATE_REFRESH_TOKENS
-            new_refresh_token = response.data.get('refresh') 
-
-            if not access_token:
-                logger.error("New access token not found in refresh response.")
-                # this case should ideally not happen if super().post() was successful (200 OK)
-                return Response(
-                    {"detail": "Failed to refresh token; new access token not provided."},
-                    status=status.HTTP_500_INTERNAL_SERVER_ERROR
-                )
-
-            # prepare a new response that doesn't include tokens in the body
-            # the user is already authenticated if they are refreshing, so no user data needed here.
-            final_response = Response({"detail": "Access token refreshed successfully."}, status=status.HTTP_200_OK)
-            set_auth_cookies(final_response, access_token, new_refresh_token) # new_refresh_token can be None
-            
-            logger.info(f"Access token refreshed successfully for user {request.user.username if request.user and request.user.is_authenticated else 'Unknown'}.")
-            return final_response
-        else:
-            # if super().post() did not return 200 OK, it might have already set an error response.
-            # we should clear cookies if the refresh attempt failed definitively due to an invalid token.
-            # for example, if the refresh token itself was invalid, simplejwt might return 401.
-            if response.status_code == status.HTTP_401_UNAUTHORIZED:
-                logger.warning(f"Token refresh returned {response.status_code} for user {request.user.username if request.user and request.user.is_authenticated else 'Unknown'}. Clearing cookies.")
-                clear_auth_cookies(response) # modify the original error response to clear cookies
-            return response
+        return _handle_successful_auth(request, serializer.validated_data)
 
 
 
@@ -222,6 +178,14 @@ class RegisterView(APIView):
         except serializers.ValidationError as e:
             logger.warning(f"User registration failed: {e.detail}")
             raise e
+
+
+class UserDetailView(APIView):
+    permission_classes = [IsAuthenticated]
+
+    def get(self, request, *args, **kwargs):
+        serializer = UserDetailSerializer(request.user)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
 
 class LogoutView(APIView):
@@ -296,135 +260,131 @@ class PredictionHistoryView(APIView):
     """
     API view for retrieving user's prediction history.
     Supports pagination, sorting, and filtering by various criteria.
-    
-    Query Parameters:
-    - page: Page number (default: 1)
-    - page_size: Items per page (default: 10, max: 100)
-    - sort: Field to sort by (default: -timestamp)
-            Options: timestamp, -timestamp, predicted_price, -predicted_price
-    - start_date: Filter predictions after this date (YYYY-MM-DD)
-    - end_date: Filter predictions before this date (YYYY-MM-DD)
-    - min_price: Minimum predicted price
-    - max_price: Maximum predicted price
-    - brand: Filter by car brand (case-insensitive)
-    - car_model: Filter by car model (case-insensitive)
     """
     permission_classes = [IsAuthenticated]
     default_page_size = 10
     max_page_size = 100
 
-    def get_queryset(self, request):
-        queryset = Prediction.objects.filter(user=request.user)
-        
-        # date range filtering
-        start_date = request.query_params.get('start_date')
-        end_date = request.query_params.get('end_date')
-        
-        if start_date:
+    def _get_filters_from_params(self, params):
+        """
+        Parses, validates, and converts query parameters into a dictionary of ORM filters.
+        Raises a ValidationError if any parameter is invalid.
+        """
+        filters = {}
+        errors = {}
+
+        # Date range validation
+        start_date_str = params.get('start_date')
+        if start_date_str:
             try:
-                start = datetime.strptime(start_date, '%Y-%m-%d').date()
-                queryset = queryset.filter(timestamp__date__gte=start)
+                filters['timestamp__date__gte'] = datetime.strptime(start_date_str, '%Y-%m-%d').date()
             except ValueError:
-                raise serializers.ValidationError({"start_date": "Invalid format. Use YYYY-MM-DD."})
-                
-        if end_date:
+                errors['start_date'] = "Invalid format. Use YYYY-MM-DD."
+
+        end_date_str = params.get('end_date')
+        if end_date_str:
             try:
-                end = datetime.strptime(end_date, '%Y-%m-%d').date()
-                queryset = queryset.filter(timestamp__date__lte=end)
+                filters['timestamp__date__lte'] = datetime.strptime(end_date_str, '%Y-%m-%d').date()
             except ValueError:
-                raise serializers.ValidationError({"end_date": "Invalid format. Use YYYY-MM-DD."})
-        
-        # price range filtering
-        min_price = request.query_params.get('min_price')
-        max_price = request.query_params.get('max_price')
-        
-        if min_price:
+                errors['end_date'] = "Invalid format. Use YYYY-MM-DD."
+
+        # Price range validation
+        min_price_str = params.get('min_price')
+        if min_price_str:
             try:
-                queryset = queryset.filter(predicted_price__gte=float(min_price))
+                filters['predicted_price__gte'] = float(min_price_str)
             except (ValueError, TypeError):
-                raise serializers.ValidationError({"min_price": "Invalid format. Must be a number."})
-                
-        if max_price:
+                errors['min_price'] = "Invalid format. Must be a number."
+
+        max_price_str = params.get('max_price')
+        if max_price_str:
             try:
-                queryset = queryset.filter(predicted_price__lte=float(max_price))
+                filters['predicted_price__lte'] = float(max_price_str)
             except (ValueError, TypeError):
-                raise serializers.ValidationError({"max_price": "Invalid format. Must be a number."})
-        
-        # text search filtering
-        brand = request.query_params.get('brand')
-        if brand:
-            queryset = queryset.filter(brand__iexact=brand)
-            
-        car_model = request.query_params.get('car_model')
-        if car_model:
-            queryset = queryset.filter(car_model__icontains=car_model)
-            
-        return queryset
+                errors['max_price'] = "Invalid format. Must be a number."
 
-    def get_paginated_response(self, queryset, request):
-        # get pagination parameters
-        try:
-            page_size = int(request.query_params.get('page_size', self.default_page_size))
-        except (ValueError, TypeError):
-            raise serializers.ValidationError({"page_size": "Invalid format. Must be an integer."})
+        # Text search filters (no validation needed)
+        if 'brand' in params:
+            filters['brand__iexact'] = params.get('brand')
+        if 'car_model' in params:
+            filters['car_model__icontains'] = params.get('car_model')
 
-        if page_size > self.max_page_size:
-            page_size = self.max_page_size
+        if errors:
+            raise serializers.ValidationError(errors)
 
-        paginator = Paginator(queryset, page_size)
-        
-        page_number_str = request.query_params.get('page', '1')
-        try:
-            page_number = int(page_number_str)
-            predictions = paginator.page(page_number)
-        except (ValueError, TypeError):
-            raise serializers.ValidationError({"page": "Invalid format. Must be an integer."})
-        except EmptyPage:
-            # if page is out of range, return a specific error
-            raise serializers.ValidationError({"page": f"Page {page_number_str} is out of range. Last page is {paginator.num_pages}."})
-
-        serializer = PredictionOutputSerializer(predictions, many=True)
-        
-        return {
-            'count': paginator.count,
-            'total_pages': paginator.num_pages,
-            'current_page': page_number,
-            'page_size': page_size,
-            'results': serializer.data
-        }
+        return filters
 
     def get(self, request):
+        """
+        Handles GET requests to retrieve a paginated, filtered, and sorted list
+        of the user's prediction history.
+        """
         try:
-            # get and validate sort parameter
-            sort = request.query_params.get('sort')
-            valid_sort_fields = {
-                'timestamp', '-timestamp', 
-                'predicted_price', '-predicted_price'
-            }
-            
-            # get filtered queryset
-            queryset = self.get_queryset(request)
-            
-            # apply sorting only if sort parameter is provided and valid
-            if sort and sort in valid_sort_fields:
-                queryset = queryset.order_by(sort)
-                response_data = self.get_paginated_response(queryset, request)
-                response_data['sort'] = sort
-            else:
-                response_data = self.get_paginated_response(queryset, request)
-            
-            # add filter metadata
-            response_data['filters'] = {
-                key: request.query_params.get(key)
-                for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'car_model']
-                if key in request.query_params
-            }
+            params = request.query_params
+            errors = {}
 
+            # Validate pagination parameters
+            try:
+                page_size = int(params.get('page_size', self.default_page_size))
+                if page_size <= 0:
+                    errors['page_size'] = "Page size must be a positive integer."
+                elif page_size > self.max_page_size:
+                    page_size = self.max_page_size
+            except (ValueError, TypeError):
+                errors['page_size'] = "Invalid format. Must be an integer."
+
+            try:
+                page_number = int(params.get('page', '1'))
+                if page_number <= 0:
+                    errors['page'] = "Page number must be a positive integer."
+            except (ValueError, TypeError):
+                errors['page'] = "Invalid format. Must be an integer."
+
+            # Validate sort parameter
+            sort = params.get('sort', '-timestamp')
+            valid_sort_fields = {'timestamp', '-timestamp', 'predicted_price', '-predicted_price'}
+            if sort not in valid_sort_fields:
+                errors['sort'] = f"Invalid sort field. Use one of: {', '.join(valid_sort_fields)}."
+
+            # Get and validate field filters
+            try:
+                filters = self._get_filters_from_params(params)
+            except serializers.ValidationError as e:
+                errors.update(e.detail)
+
+            if errors:
+                raise serializers.ValidationError(errors)
+
+            # Build and filter queryset
+            queryset = Prediction.objects.filter(user=request.user, **filters).order_by(sort)
+
+            # Paginate the queryset
+            paginator = Paginator(queryset, page_size)
+            try:
+                predictions_page = paginator.page(page_number)
+            except EmptyPage:
+                raise serializers.ValidationError({"page": f"Page {page_number} is out of range. Last page is {paginator.num_pages}."})
+
+            # Serialize and build the final response
+            serializer = PredictionOutputSerializer(predictions_page, many=True)
+            response_data = {
+                'count': paginator.count,
+                'total_pages': paginator.num_pages,
+                'current_page': page_number,
+                'page_size': page_size,
+                'sort': sort,
+                'filters': {
+                    key: params.get(key)
+                    for key in ['start_date', 'end_date', 'min_price', 'max_price', 'brand', 'car_model']
+                    if key in params
+                },
+                'results': serializer.data
+            }
             return Response(response_data, status=status.HTTP_200_OK)
 
         except serializers.ValidationError as e:
             logger.warning(f"Invalid query parameter in prediction history: {e.detail}")
-            raise e
+            return Response(e.detail, status=status.HTTP_400_BAD_REQUEST)
         except Exception as e:
             logger.error(f"Error in PredictionHistoryView: {str(e)}", exc_info=True)
             return Response(
