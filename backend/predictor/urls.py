@@ -8,7 +8,8 @@ from .views import (
     DropdownOptionsView, 
     BrandModelMappingView,
     CustomTokenObtainPairView,
-    CustomTokenRefreshView
+    CustomTokenRefreshView,
+    UserDetailView
 )
 
 urlpatterns = [
@@ -20,6 +21,7 @@ urlpatterns = [
     path('login/', CustomTokenObtainPairView.as_view(), name='login'),
     path('logout/', LogoutView.as_view(), name='logout'),
     path('token/refresh/', CustomTokenRefreshView.as_view(), name='token_refresh'),
+    path('users/me/', UserDetailView.as_view(), name='user_detail'),
     
     # predictions
     path('predict/', PredictPriceView.as_view(), name='predict'),
