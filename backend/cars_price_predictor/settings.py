@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     # third-party apps
     'rest_framework',
     'rest_framework_simplejwt',
+    'rest_framework_simplejwt.token_blacklist',
     'corsheaders',
 
     # local apps
@@ -71,14 +72,22 @@ CORS_ALLOW_CREDENTIALS = True
 # REST Framework settings
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework_simplejwt.authentication.JWTAuthentication',
+        'predictor.authentication.CookieJWTAuthentication',
     ),
     'DEFAULT_PERMISSION_CLASSES': [
         'rest_framework.permissions.IsAuthenticated',
     ],
 }
 
-# JWT Settings
+# JWT Cookie Settings (used by custom views and auth class)
+ACCESS_TOKEN_COOKIE_NAME = os.getenv('ACCESS_TOKEN_COOKIE_NAME', 'access_token')
+REFRESH_TOKEN_COOKIE_NAME = os.getenv('REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
+JWT_COOKIE_SECURE = os.getenv('JWT_COOKIE_SECURE', 'True' if not DEBUG else 'False') == 'True' # true in prod, false in dev by default
+JWT_COOKIE_HTTPONLY = os.getenv('JWT_COOKIE_HTTPONLY', 'True') == 'True'
+JWT_COOKIE_SAMESITE = os.getenv('JWT_COOKIE_SAMESITE', 'Lax') # can be 'Strict', 'Lax', or 'None'
+JWT_COOKIE_PATH = os.getenv('JWT_COOKIE_PATH', '/api/')
+
+# JWT Settings for simplejwt (payload, expiry, etc.)
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(minutes=int(os.getenv('ACCESS_TOKEN_LIFETIME_MINUTES', '30'))),
     'REFRESH_TOKEN_LIFETIME': timedelta(days=int(os.getenv('REFRESH_TOKEN_LIFETIME_DAYS', '7'))),
@@ -123,7 +132,7 @@ WSGI_APPLICATION = 'cars_price_predictor.wsgi.application'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 # postgresql settings
-
+'''
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -134,8 +143,8 @@ DATABASES = {
         'PORT': os.getenv('DB_PORT'),
     }
 }
-
 '''
+
 # temp sqlite settings
 DATABASES = {
     'default': {
@@ -143,7 +152,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-'''
+
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 

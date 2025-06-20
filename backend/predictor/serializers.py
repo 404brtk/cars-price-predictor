@@ -2,6 +2,27 @@ from rest_framework import serializers
 from django.contrib.auth.models import User
 from django.contrib.auth.password_validation import validate_password
 from .models import Prediction
+from rest_framework_simplejwt.serializers import TokenObtainPairSerializer as BaseTokenObtainPairSerializer
+
+
+class CustomTokenObtainPairSerializer(BaseTokenObtainPairSerializer):
+    def validate(self, attrs):
+        # data will contain 'access' and 'refresh' tokens from super().validate(attrs)
+        data = super().validate(attrs) 
+        
+        # add user information to be returned in the response body
+        # self.user is set by the parent serializer after successful authentication
+        user_representation = {
+            'id': self.user.id,
+            'username': self.user.username,
+            'email': self.user.email
+        }
+        data['user'] = user_representation
+        
+        # the view will use 'access' and 'refresh' from this data to set cookies
+        # it will then construct a response body containing only user_representation
+        return data
+
 
 class UserSerializer(serializers.ModelSerializer):
     password = serializers.CharField(write_only=True, required=True, validators=[validate_password])
