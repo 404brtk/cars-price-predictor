@@ -29,12 +29,15 @@ logger = logging.getLogger(__name__)
 def set_auth_cookies(response, access_token, refresh_token):
     access_token_lifetime = settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME']
     refresh_token_lifetime = settings.SIMPLE_JWT['REFRESH_TOKEN_LIFETIME']
-    cookie_path = getattr(settings, 'JWT_COOKIE_PATH', '/api/')
     cookie_secure = getattr(settings, 'JWT_COOKIE_SECURE', not settings.DEBUG)
     cookie_httponly = getattr(settings, 'JWT_COOKIE_HTTPONLY', True)
     cookie_samesite = getattr(settings, 'JWT_COOKIE_SAMESITE', 'Lax')
     access_token_cookie_name = getattr(settings, 'ACCESS_TOKEN_COOKIE_NAME', 'access_token')
     refresh_token_cookie_name = getattr(settings, 'REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
+
+    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
+    # the refresh token should only be sent to the refresh endpoint.
+    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
 
     response.set_cookie(
         key=access_token_cookie_name,
@@ -43,9 +46,9 @@ def set_auth_cookies(response, access_token, refresh_token):
         secure=cookie_secure,
         httponly=cookie_httponly,
         samesite=cookie_samesite,
-        path=cookie_path
+        path=access_token_path
     )
-    if refresh_token: # refresh token might not always be set (e.g. if not rotated)
+    if refresh_token:  # refresh token might not always be set (e.g. if not rotated)
         response.set_cookie(
             key=refresh_token_cookie_name,
             value=refresh_token,
@@ -53,20 +56,23 @@ def set_auth_cookies(response, access_token, refresh_token):
             secure=cookie_secure,
             httponly=cookie_httponly,
             samesite=cookie_samesite,
-            path=cookie_path # possible improvement: change it later to /api/token/refresh for example so it's not accessible from any endpoint
+            path=refresh_token_path  # use the more restrictive path
         )
 
 def clear_auth_cookies(response):
-    cookie_path = getattr(settings, 'JWT_COOKIE_PATH', '/api/')
     access_token_cookie_name = getattr(settings, 'ACCESS_TOKEN_COOKIE_NAME', 'access_token')
     refresh_token_cookie_name = getattr(settings, 'REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
+    
+    access_token_path = getattr(settings, 'JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
+    refresh_token_path = getattr(settings, 'JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
+
     response.delete_cookie(
         key=access_token_cookie_name,
-        path=cookie_path
+        path=access_token_path
     )
     response.delete_cookie(
         key=refresh_token_cookie_name,
-        path=cookie_path
+        path=refresh_token_path
     )
 
 
