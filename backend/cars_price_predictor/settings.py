@@ -55,12 +55,12 @@ INSTALLED_APPS = [
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
+    'corsheaders.middleware.CorsMiddleware',  # CORS middleware
+    'django.middleware.common.CommonMiddleware',    
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'corsheaders.middleware.CorsMiddleware',  # CORS middleware
 ]
 
 # CORS Settings
@@ -85,8 +85,8 @@ REFRESH_TOKEN_COOKIE_NAME = os.getenv('REFRESH_TOKEN_COOKIE_NAME', 'refresh_toke
 JWT_COOKIE_SECURE = os.getenv('JWT_COOKIE_SECURE', 'True' if not DEBUG else 'False') == 'True' # true in prod, false in dev by default
 JWT_COOKIE_HTTPONLY = os.getenv('JWT_COOKIE_HTTPONLY', 'True') == 'True'
 JWT_COOKIE_SAMESITE = os.getenv('JWT_COOKIE_SAMESITE', 'Lax') # can be 'Strict', 'Lax', or 'None'
-JWT_ACCESS_TOKEN_COOKIE_PATH = os.getenv('JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
-JWT_REFRESH_TOKEN_COOKIE_PATH = os.getenv('JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
+JWT_ACCESS_TOKEN_COOKIE_PATH = os.getenv('JWT_ACCESS_TOKEN_COOKIE_PATH', '/')
+JWT_REFRESH_TOKEN_COOKIE_PATH = os.getenv('JWT_REFRESH_TOKEN_COOKIE_PATH', '/')
 
 # JWT Settings for simplejwt (payload, expiry, etc.)
 SIMPLE_JWT = {
