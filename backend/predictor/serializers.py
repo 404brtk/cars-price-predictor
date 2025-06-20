@@ -2,25 +2,41 @@ from rest_framework import serializers
 from django.contrib.auth.models import User
 from django.contrib.auth.password_validation import validate_password
 from .models import Prediction
-from rest_framework_simplejwt.serializers import TokenObtainPairSerializer as BaseTokenObtainPairSerializer
+from rest_framework_simplejwt.serializers import TokenObtainPairSerializer as BaseTokenObtainPairSerializer, TokenRefreshSerializer as BaseTokenRefreshSerializer
+
+
+class UserDetailSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = ('id', 'username', 'email')
 
 
 class CustomTokenObtainPairSerializer(BaseTokenObtainPairSerializer):
+    @classmethod
+    def get_token(cls, user):
+        token = super().get_token(user)
+        # add custom claims to the token payload.
+        token['username'] = user.username
+        token['email'] = user.email
+        return token
+
     def validate(self, attrs):
-        # data will contain 'access' and 'refresh' tokens from super().validate(attrs)
-        data = super().validate(attrs) 
-        
-        # add user information to be returned in the response body
-        # self.user is set by the parent serializer after successful authentication
-        user_representation = {
-            'id': self.user.id,
-            'username': self.user.username,
-            'email': self.user.email
-        }
-        data['user'] = user_representation
-        
-        # the view will use 'access' and 'refresh' from this data to set cookies
-        # it will then construct a response body containing only user_representation
+        data = super().validate(attrs)
+
+        user_serializer = UserDetailSerializer(self.user, context=self.context)
+        data['user'] = user_serializer.data
+        return data
+
+
+class CustomTokenRefreshSerializer(BaseTokenRefreshSerializer):
+
+    def validate(self, attrs):
+        data = super().validate(attrs)
+
+        user = self.context['request'].user
+        user_serializer = UserDetailSerializer(user, context=self.context)
+        data['user'] = user_serializer.data
+
         return data
 
 
@@ -66,7 +82,6 @@ class UserSerializer(serializers.ModelSerializer):
         user.set_password(validated_data['password'])
         user.save()
         return user
-
 
 
 class PredictionInputSerializer(serializers.ModelSerializer):
