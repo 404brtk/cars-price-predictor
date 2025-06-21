@@ -2,8 +2,9 @@ import axios, { AxiosError, AxiosRequestConfig } from 'axios';
 import { getCookie } from 'cookies-next';
 
 // Define a custom interface for internal requests to add our custom `_retry` property.
-interface InternalAxiosRequestConfig extends AxiosRequestConfig {
+export interface InternalAxiosRequestConfig extends AxiosRequestConfig {
     _retry?: boolean;
+    _skipAuthRefresh?: boolean;
 }
 
 const api = axios.create({
@@ -33,6 +34,7 @@ api.interceptors.response.use(
         const shouldNotRetry = 
             error.response?.status !== 401 || // Not a 401 error
             originalRequest._retry || // Already retried this request
+            originalRequest._skipAuthRefresh || // Explicitly told not to refresh
             originalRequest.url?.includes('/login') || // A failed login attempt
             originalRequest.url?.includes('/register') || // A failed register attempt
             originalRequest.url?.includes('/token/refresh'); // The failed request was already for refresh

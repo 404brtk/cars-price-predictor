@@ -1,7 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useEffect, useReducer, useCallback, useMemo, ReactNode } from 'react';
-import api from '@/lib/api';
+import api, { InternalAxiosRequestConfig } from '@/lib/api';
 
 // Define the shape of the user object and the state
 interface User {
@@ -59,7 +59,8 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const checkAuthStatus = useCallback(async () => {
     dispatch({ type: 'AUTH_CHECK_START' });
     try {
-      const response = await api.get<User>('/users/me/');
+      const config: InternalAxiosRequestConfig = { _skipAuthRefresh: true };
+      const response = await api.get<User>('/users/me/', config);
       dispatch({ type: 'AUTH_SUCCESS', payload: response.data });
     } catch (error) {
       dispatch({ type: 'AUTH_FAILURE' });
@@ -77,6 +78,8 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
       console.error('Logout API call failed:', error);
     } finally {
       dispatch({ type: 'LOGOUT' });
+      // Redirect to login page to ensure a clean state
+      window.location.href = '/login';
     }
   }, []);
 
