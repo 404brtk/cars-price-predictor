@@ -87,7 +87,7 @@ JWT_COOKIE_HTTPONLY = os.getenv('JWT_COOKIE_HTTPONLY', 'True') == 'True'
 JWT_COOKIE_SAMESITE = os.getenv('JWT_COOKIE_SAMESITE', 'Lax') # can be 'Strict', 'Lax', or 'None'
 # restricted paths for cookies
 JWT_ACCESS_TOKEN_COOKIE_PATH = os.getenv('JWT_ACCESS_TOKEN_COOKIE_PATH', '/api/')
-JWT_REFRESH_TOKEN_COOKIE_PATH = os.getenv('JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/token/refresh/')
+JWT_REFRESH_TOKEN_COOKIE_PATH = os.getenv('JWT_REFRESH_TOKEN_COOKIE_PATH', '/api/')
 
 # JWT Settings for simplejwt (payload, expiry, etc.)
 SIMPLE_JWT = {
