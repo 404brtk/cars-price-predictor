@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 from django.contrib.auth.password_validation import validate_password
 from .models import Prediction
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer as BaseTokenObtainPairSerializer, TokenRefreshSerializer as BaseTokenRefreshSerializer
-
+from rest_framework_simplejwt.tokens import RefreshToken
 
 class UserDetailSerializer(serializers.ModelSerializer):
     class Meta:
@@ -33,7 +33,13 @@ class CustomTokenRefreshSerializer(BaseTokenRefreshSerializer):
     def validate(self, attrs):
         data = super().validate(attrs)
 
-        user = self.context['request'].user
+        refresh = RefreshToken(attrs['refresh'])
+        user_id = refresh.get('user_id')
+
+        try:
+            user = User.objects.get(id=user_id)
+        except User.DoesNotExist:
+            raise serializers.ValidationError('No user found for this token.')
         user_serializer = UserDetailSerializer(user, context=self.context)
         data['user'] = user_serializer.data
 
