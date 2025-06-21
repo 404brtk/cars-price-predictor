@@ -14,11 +14,14 @@ const api = axios.create({
 
 // Request interceptor: Add CSRF token to all state-changing (unsafe) requests.
 api.interceptors.request.use((config) => {
-    const unsafeMethods = ['post', 'put', 'patch', 'delete'];
-    if (config.method && unsafeMethods.includes(config.method.toLowerCase())) {
-        const csrfToken = getCookie('csrftoken');
-        if (csrfToken) {
-            config.headers['X-CSRFToken'] = csrfToken;
+    // Ensure this logic only runs on the client-side
+    if (typeof window !== 'undefined') {
+        const unsafeMethods = ['post', 'put', 'patch', 'delete'];
+        if (config.method && unsafeMethods.includes(config.method.toLowerCase())) {
+            const csrfToken = getCookie('csrftoken');
+            if (csrfToken) {
+                config.headers['X-CSRFToken'] = csrfToken;
+            }
         }
     }
     return config;
