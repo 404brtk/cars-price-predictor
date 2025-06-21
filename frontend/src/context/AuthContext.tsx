@@ -1,5 +1,6 @@
 'use client';
 
+import { useRouter } from 'next/navigation';
 import React, { createContext, useContext, useEffect, useReducer, useCallback, useMemo, ReactNode } from 'react';
 import api, { InternalAxiosRequestConfig } from '@/lib/api';
 
@@ -55,6 +56,7 @@ const initialState: AuthState = {
 
 export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [state, dispatch] = useReducer(authReducer, initialState);
+  const router = useRouter();
 
   const checkAuthStatus = useCallback(async () => {
     dispatch({ type: 'AUTH_CHECK_START' });
@@ -79,9 +81,9 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     } finally {
       dispatch({ type: 'LOGOUT' });
       // Redirect to login page to ensure a clean state
-      window.location.href = '/login';
+      router.push('/login');
     }
-  }, []);
+  }, [router]);
 
   // Effect for the initial authentication check
   useEffect(() => {
