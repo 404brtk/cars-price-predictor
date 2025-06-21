@@ -1,22 +1,24 @@
 'use client';
 
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import { motion, HTMLMotionProps } from 'framer-motion';
 import Link from 'next/link';
 import { LogIn, LoaderCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import api from '@/lib/api';
+import { useAuth } from '@/context/AuthContext';
 
-const MotionInput = ({ id, type, placeholder, label, value, onChange, required = false }: { id: string; type: string; placeholder: string; label: string; value: string; onChange: (e: React.ChangeEvent<HTMLInputElement>) => void; required?: boolean }) => (
+interface InputFieldProps extends HTMLMotionProps<'input'> {
+  label: string;
+  id: string;
+}
+
+const InputField: React.FC<InputFieldProps> = ({ id, label, ...props }) => (
   <div className="space-y-2">
     <label htmlFor={id} className="text-sm font-medium text-[#778DA9]">{label}</label>
     <motion.input
       id={id}
-      type={type}
-      placeholder={placeholder}
-      value={value}
-      onChange={onChange}
-      required={required}
+      {...props} // Spread all other props like type, placeholder, value, onChange
       whileFocus={{ scale: 1.02, boxShadow: '0 0 8px rgb(119, 141, 169, 0.5)' }}
       className="w-full bg-white/5 border border-white/20 rounded-lg px-4 py-3 focus:ring-2 focus:ring-[#778DA9] focus:outline-none transition-shadow duration-200 text-white backdrop-blur-xl"
     />
@@ -25,11 +27,15 @@ const MotionInput = ({ id, type, placeholder, label, value, onChange, required =
 
 export default function LoginPage() {
   const [coords, setCoords] = useState({ x: 0, y: 0 });
-  const [username, setUsername] = useState('');
-  const [password, setPassword] = useState('');
+  // Consolidate form state into a single object for easier management.
+  const [formData, setFormData] = useState({
+    username: '',
+    password: '',
+  });
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const router = useRouter();
+  const { login } = useAuth();
 
   const handleMouseMove = (e: React.MouseEvent) => {
     const rect = e.currentTarget.getBoundingClientRect();
@@ -39,17 +45,30 @@ export default function LoginPage() {
     });
   };
 
+  // A single, generic handler for all form field changes.
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const { name, value } = e.target;
+    setFormData(prevData => ({
+      ...prevData,
+      [name]: value,
+    }));
+  };
+
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError(null);
     setIsLoading(true);
 
     try {
-      await api.post('/login/', {
-        username,
-        password,
-      });
-      router.push('/predict');
+      // Send the consolidated form data.
+      const response = await api.post('/login/', formData);
+      
+      if (response.data && response.data.user) {
+        login(response.data.user);
+        router.push('/predict');
+      } else {
+        setError('Login failed: Invalid response from server.');
+      }
     } catch (err: any) {
       console.error('Login failed:', err);
       if (err.response && err.response.data && err.response.data.detail) {
@@ -78,22 +97,24 @@ export default function LoginPage() {
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-6 text-left">
-          <MotionInput 
+          <InputField 
             id="username" 
+            name="username" // Use name attribute for the generic handler
             type="text" 
             placeholder="your_username" 
             label="Username" 
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
+            value={formData.username}
+            onChange={handleChange}
             required
           />
-          <MotionInput 
+          <InputField 
             id="password" 
+            name="password" // Use name attribute for the generic handler
             type="password" 
             placeholder="••••••••" 
             label="Password" 
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
+            value={formData.password}
+            onChange={handleChange}
             required
           />
 

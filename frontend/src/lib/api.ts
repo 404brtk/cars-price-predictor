@@ -1,18 +1,21 @@
-import axios from 'axios';
+import axios, { AxiosError, AxiosRequestConfig } from 'axios';
 import { getCookie } from 'cookies-next';
 
+// Define a custom interface for internal requests to add our custom `_retry` property.
+interface InternalAxiosRequestConfig extends AxiosRequestConfig {
+    _retry?: boolean;
+}
+
 const api = axios.create({
-    baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://127.0.0.1:8000/api',
+    baseURL: process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api',
     withCredentials: true, // Crucial for sending HttpOnly cookies
 });
 
-// Use a request interceptor to add the CSRF token to state-changing requests
+// Request interceptor: Add CSRF token to all state-changing (unsafe) requests.
 api.interceptors.request.use((config) => {
-    // Django's CSRF protection is only required for "unsafe" methods
     const unsafeMethods = ['post', 'put', 'patch', 'delete'];
     if (config.method && unsafeMethods.includes(config.method.toLowerCase())) {
-        // getCookie is isomorphic and can run on server or client
-        const csrfToken = getCookie('csrftoken'); 
+        const csrfToken = getCookie('csrftoken');
         if (csrfToken) {
             config.headers['X-CSRFToken'] = csrfToken;
         }
@@ -20,35 +23,37 @@ api.interceptors.request.use((config) => {
     return config;
 });
 
-/**
- * You can also add a response interceptor for global error handling.
- * For example, this could be used to automatically refresh the access token
- * or redirect to the login page on a 401 Unauthorized error.
- */
+// Response interceptor: Handle automatic token refresh on 401 Unauthorized errors.
 api.interceptors.response.use(
-    (response) => response, // Directly return successful responses
-    async (error) => {
-        const originalRequest = error.config;
+    (response) => response,
+    async (error: AxiosError) => {
+        const originalRequest = error.config as InternalAxiosRequestConfig;
 
-        // Example: Logic for automatic token refresh on 401 error
-        // This is an advanced pattern you might consider later.
-        if (error.response.status === 401 && !originalRequest._retry) {
-            originalRequest._retry = true;
-            try {
-                // Attempt to refresh the token
-                await api.post('/token/refresh/');
-                // If successful, the new access token is in the cookie, so retry the original request
-                return api(originalRequest);
-            } catch (refreshError) {
-                // If refresh fails, redirect to login or handle the error
-                console.error('Token refresh failed:', refreshError);
-                // if (typeof window !== 'undefined') {
-                //     window.location.href = '/login';
-                // }
-            }
+        // Conditions to NOT attempt a token refresh:
+        const shouldNotRetry = 
+            error.response?.status !== 401 || // Not a 401 error
+            originalRequest._retry || // Already retried this request
+            originalRequest.url?.includes('/login') || // A failed login attempt
+            originalRequest.url?.includes('/register') || // A failed register attempt
+            originalRequest.url?.includes('/token/refresh'); // The failed request was already for refresh
+
+        if (shouldNotRetry) {
+            return Promise.reject(error);
         }
 
-        return Promise.reject(error);
+        originalRequest._retry = true;
+
+        try {
+            console.log('Session expired. Attempting to refresh token...');
+            await api.post('/token/refresh/');
+            console.log('Token refreshed successfully. Retrying original request.');
+            return api(originalRequest);
+        } catch (refreshError) {
+            console.error('Token refresh failed. User session has ended. Please log in again.');
+            // Dispatch a global event to notify the app of the final logout.
+            window.dispatchEvent(new Event('logout'));
+            return Promise.reject(refreshError);
+        }
     }
 );
 
