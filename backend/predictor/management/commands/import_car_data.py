@@ -4,6 +4,10 @@ from django.conf import settings
 from predictor.models import CarListing
 import os
 
+# usage: run `python manage.py import_car_data` in the terminal
+# this command imports car data from backend/data/car_data.csv into the database
+# just use it once after updating the CSV file or when initializing a new database
+
 class Command(BaseCommand):
     help = 'Import car data from a CSV file into the database'
 
