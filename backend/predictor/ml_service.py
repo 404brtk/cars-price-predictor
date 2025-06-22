@@ -38,7 +38,7 @@ class MLModel:
             self._model = None
             raise
     
-    def predict(self, input_data: Dict[str, Any]) -> int:
+    def predict(self, input_data: Dict[str, Any]) -> float:
         if not input_data:
             raise ValueError("Input data cannot be empty")
             
@@ -49,11 +49,11 @@ class MLModel:
             logger.info("Making prediction", extra={"input_data": input_data})
             df = pd.DataFrame([input_data])
             prediction = self._model.predict(df)[0]
-            price = np.expm1(prediction)
+            price = np.floor(np.expm1(prediction))
             
             logger.info("Prediction successful", 
                        extra={"input": input_data, "predicted_price": price})
-            return int(price)
+            return price
 
         except Exception as e:
             logger.error(f"Prediction failed: {str(e)}", 
@@ -61,6 +61,6 @@ class MLModel:
                         extra={"input_data": input_data})
             raise
 
-def get_price_prediction(input_data: Dict[str, Any]) -> int:
+def get_price_prediction(input_data: Dict[str, Any]) -> float:
     ml_model = MLModel()
     return ml_model.predict(input_data)
