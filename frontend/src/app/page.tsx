@@ -1,19 +1,20 @@
 'use client';
 
 import Link from 'next/link';
-import { useState } from 'react';
+import { useRef } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 
 export default function HomePage() {
-  const [coords, setCoords] = useState({ x: 0, y: 0 });
+  const buttonRef = useRef<HTMLButtonElement>(null);
 
-  const handleMouseMove = (e: React.MouseEvent) => {
+  const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
+    if (!buttonRef.current) return;
     const rect = e.currentTarget.getBoundingClientRect();
-    setCoords({ 
-      x: e.clientX - rect.left, 
-      y: e.clientY - rect.top 
-    });
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    buttonRef.current.style.setProperty('--x', `${x}px`);
+    buttonRef.current.style.setProperty('--y', `${y}px`);
   };
 
   return (
@@ -41,6 +42,7 @@ export default function HomePage() {
       >
         <Link href="/predict">
           <motion.button
+            ref={buttonRef}
             onMouseMove={handleMouseMove}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
@@ -55,8 +57,8 @@ export default function HomePage() {
                      bg-white/10 rounded-full pointer-events-none blur-2xl 
                      opacity-50 transition-opacity duration-300"
               style={{
-                left: coords.x,
-                top: coords.y,
+                left: 'var(--x)',
+                top: 'var(--y)',
               }}
             />
             {/* soft sheen overlay */}

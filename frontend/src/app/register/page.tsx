@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, FormEvent } from 'react';
+import React, { useState, FormEvent, useRef } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { UserPlus } from 'lucide-react';
@@ -40,7 +40,7 @@ const MotionInput = ({
 );
 
 export default function RegisterPage() {
-  const [coords, setCoords] = useState({ x: 0, y: 0 });
+  const buttonRef = useRef<HTMLButtonElement>(null);
   const router = useRouter();
 
   const [username, setUsername] = useState('');
@@ -50,12 +50,13 @@ export default function RegisterPage() {
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
-  const handleMouseMove = (e: React.MouseEvent) => {
+  const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
+    if (!buttonRef.current) return;
     const rect = e.currentTarget.getBoundingClientRect();
-    setCoords({
-      x: e.clientX - rect.left,
-      y: e.clientY - rect.top,
-    });
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    buttonRef.current.style.setProperty('--x', `${x}px`);
+    buttonRef.current.style.setProperty('--y', `${y}px`);
   };
 
   const handleSubmit = async (e: FormEvent) => {
@@ -145,7 +146,8 @@ export default function RegisterPage() {
 
           <motion.button
             type="submit"
-            onMouseMove={handleMouseMove}
+            ref={buttonRef}
+              onMouseMove={handleMouseMove}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             disabled={isLoading}
@@ -159,8 +161,8 @@ export default function RegisterPage() {
                      bg-white/10 rounded-full pointer-events-none blur-2xl 
                      opacity-50 transition-opacity duration-300"
               style={{
-                left: coords.x,
-                top: coords.y,
+                left: 'var(--x)',
+                top: 'var(--y)',
               }}
             />
             <span className="absolute inset-0 bg-gradient-to-br from-white/20 to-white/5 opacity-10 pointer-events-none rounded-full"></span>
