@@ -45,3 +45,14 @@ body::-webkit-scrollbar-thumb:hover,
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
   background: #2a405c;
 }
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px rgb(10 10 10) inset !important;
+  -webkit-text-fill-color: #ededed !important;
+  caret-color: #ededed !important;
+  transition: background-color 5000s ease-in-out 0s;
+  border-radius: 0.4rem !important;
+}
