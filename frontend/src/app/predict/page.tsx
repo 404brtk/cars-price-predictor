@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { useForm, Controller, Control, useController } from 'react-hook-form';
+import { useForm, Controller, Control, useController, Resolver } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -22,21 +22,21 @@ function usePrevious<T>(value: T): T | undefined {
 
 // Form Schema Definition with Zod
 const createFormSchema = (dropdowns: DropdownOptions | null) => z.object({
-  brand: z.string().min(1, 'Brand is required.'),
-  car_model: z.string().min(1, 'Car model is required.'),
+  brand: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Brand is required.'),
+  car_model: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Car model is required.'),
   year_of_production: z.number()
     .min(dropdowns?.year_of_production?.min ?? 1960, `Year must be at least ${dropdowns?.year_of_production?.min ?? 1960}.`)
     .max(new Date().getFullYear(), `Year cannot be after ${new Date().getFullYear()}.`),
   mileage: z.number().positive('Mileage is required.'),
-  fuel_type: z.string().min(1, 'Fuel type is required.'),
-  transmission: z.string().min(1, 'Transmission is required.'),
-  body: z.string().min(1, 'Body type is required.'),
+  fuel_type: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Fuel type is required.'),
+  transmission: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Transmission is required.'),
+  body: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Body type is required.'),
   engine_capacity: z.number().min(0.1, 'Engine capacity is required.').max(20, 'Engine capacity seems too high.'),
   power: z.number().min(10, 'Power seems too low.').max(1000, 'Power seems too high.'),
   number_of_doors: z.number()
     .min(dropdowns?.number_of_doors?.min ?? 2, `Must have at least ${dropdowns?.number_of_doors?.min ?? 2} doors.`)
     .max(dropdowns?.number_of_doors?.max ?? 7, `Cannot have more than ${dropdowns?.number_of_doors?.max ?? 7} doors.`),
-  color: z.string().min(1, 'Color is required.'),
+  color: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Color is required.'),
 });
 
 type FormData = z.infer<ReturnType<typeof createFormSchema>>;
@@ -145,15 +145,8 @@ const SliderField = ({ control, name, label, min, max, step, error }: { control:
   );
 };
 
-const AutocompleteField = ({
-  control,
-  name,
-  label,
-  options,
-  placeholder,
-  disabled = false,
-  loading = false,
-}: {
+// Props are extracted into a type for better readability and reusability.
+ type ComboBoxFieldProps = {
   control: Control<FormData>;
   name: keyof FormData;
   label: string;
@@ -161,25 +154,47 @@ const AutocompleteField = ({
   placeholder: string;
   disabled?: boolean;
   loading?: boolean;
-}) => {
+};
+
+const ComboBoxField = ({
+  control,
+  name,
+  label,
+  options,
+  placeholder,
+  disabled = false,
+  loading = false,
+}: ComboBoxFieldProps) => {
   const { field, fieldState: { error } } = useController({ name, control });
+
   const [query, setQuery] = useState('');
 
-  const filteredOptions = query === ''
+  const filteredOptions = useMemo(() => {
+    const results = query === ''
       ? options
       : options.filter(option =>
           option.toLowerCase().includes(query.toLowerCase())
         );
+    // when the list is too long, it loads too slow, so we cap it at 100
+    return results.slice(0, 100);
+  }, [options, query]);
 
   return (
     <div className="space-y-2">
       <label htmlFor={`${name}-combobox`} className="text-sm font-medium text-[#778DA9]">{label}</label>
-      <Combobox value={field.value as string || ''} onChange={field.onChange} disabled={disabled || loading}>
+      <Combobox
+        immediate
+        value={String(field.value ?? '')}
+        onChange={field.onChange}
+        onClose={() => setQuery('')}
+        disabled={disabled || loading}
+      >
         <div className="relative">
           <InputContainer error={!!error}>
             <ComboboxInput
               id={`${name}-combobox`}
               className="w-full px-4 py-3 pr-10 bg-transparent text-white placeholder:text-gray-500 focus:outline-none"
+              displayValue={(value) => String(value ?? '')}
               onChange={(event) => setQuery(event.target.value)}
               onBlur={field.onBlur}
               placeholder={placeholder}
@@ -196,40 +211,45 @@ const AutocompleteField = ({
               )}
             </ComboboxButton>
           </InputContainer>
-          <ComboboxOptions className="custom-scrollbar absolute mt-2 max-h-60 w-full overflow-auto rounded-md bg-black/50 backdrop-blur-lg py-1 text-base shadow-lg ring-1 ring-white/10 focus:outline-none sm:text-sm z-10">
-            {filteredOptions.length === 0 && query !== '' ? (
-              <div className="relative cursor-default select-none py-2 px-4 text-gray-400">
-                Nothing found.
+          <ComboboxOptions
+              anchor={{ to: 'bottom start', gap: '0.25rem' }}
+              className="w-[var(--input-width)] rounded-md bg-black/50 backdrop-blur-lg text-base shadow-lg ring-1 ring-white/10 focus:outline-none sm:text-sm z-10"
+            >
+              <div className="custom-scrollbar max-h-60 overflow-auto py-1">
+                {filteredOptions.length === 0 && query !== '' ? (
+                  <div className="relative cursor-default select-none py-2 px-4 text-gray-400">
+                    Nothing found.
+                  </div>
+                ) : (
+                  filteredOptions.map((option) => (
+                    <ComboboxOption
+                      key={option}
+                      className={({ active }) =>
+                        cn(
+                          'relative cursor-default select-none py-2 pl-10 pr-4',
+                          active ? 'bg-[#778DA9]/30 text-white' : 'text-gray-300'
+                        )
+                      }
+                      value={option}
+                    >
+                      {({ selected, active }) => (
+                        <>
+                          <span
+                            className={cn('block truncate', selected ? 'font-medium' : 'font-normal')}>
+                            {option}
+                          </span>
+                          {selected ? (
+                            <span
+                              className={cn('absolute inset-y-0 left-0 flex items-center pl-3', active ? 'text-white' : 'text-[#778DA9]')}>
+                              <Check className="h-5 w-5" aria-hidden="true" />
+                            </span>
+                          ) : null}
+                        </>
+                      )}
+                    </ComboboxOption>
+                  ))
+                )}
               </div>
-            ) : (
-              filteredOptions.map((option) => (
-                <ComboboxOption
-                  key={option}
-                  className={({ active }) =>
-                    cn(
-                      'relative cursor-default select-none py-2 pl-10 pr-4',
-                      active ? 'bg-[#778DA9]/30 text-white' : 'text-gray-300'
-                    )
-                  }
-                  value={option}
-                >
-                  {({ selected, active }) => (
-                    <>
-                      <span
-                        className={cn('block truncate', selected ? 'font-medium' : 'font-normal')}> 
-                        {option}
-                      </span>
-                      {selected ? (
-                        <span
-                          className={cn('absolute inset-y-0 left-0 flex items-center pl-3', active ? 'text-white' : 'text-[#778DA9]')}>
-                          <Check className="h-5 w-5" aria-hidden="true" />
-                        </span>
-                      ) : null}
-                    </>
-                  )}
-                </ComboboxOption>
-              ))
-            )}
           </ComboboxOptions>
         </div>
       </Combobox>
@@ -260,7 +280,7 @@ export default function PredictPage() {
     buttonRef.current.style.setProperty('--y', `${y}px`);
   };
 
-  const resolver = useMemo(() => zodResolver(createFormSchema(dropdowns)), [dropdowns]);
+  const resolver: Resolver<any> = useMemo(() => zodResolver(createFormSchema(dropdowns)), [dropdowns]);
 
   const { handleSubmit, control, watch, setValue, formState: { errors } } = useForm<FormData>({
     resolver,
@@ -292,24 +312,25 @@ export default function PredictPage() {
         ]);
         setDropdowns(dropdownData);
 
-        
+        if (dropdownData?.car_model) {
+          setAllModels(dropdownData.car_model);
+        }
+
         const reverseMapping: Record<string, string> = {};
-        const allModelsList: string[] = [];
+        const cleanedBrandModels: BrandModelMapping = {};
 
         if (brandModelData) {
-            Object.entries(brandModelData).forEach(([brand, models]) => {
-              const uniqueModels = [...new Set(models)];
-              brandModelData[brand] = uniqueModels; // Update mapping with unique models
-              uniqueModels.forEach(model => {
-                reverseMapping[model.toLowerCase()] = brand;
-                allModelsList.push(model);
-              });
-            });
+          for (const [brand, models] of Object.entries(brandModelData)) {
+            const uniqueModels = [...new Set(models)];
+            cleanedBrandModels[brand] = uniqueModels;
+            for (const model of uniqueModels) {
+              reverseMapping[model.toLowerCase()] = brand;
+            }
+          }
         }
         
-        setBrandModels(brandModelData);
+        setBrandModels(cleanedBrandModels);
         setModelToBrand(reverseMapping);
-        setAllModels([...new Set(allModelsList)].sort());
       } catch (error) {
         console.error("Failed to fetch initial form data", error);
         setApiError("Could not load form options. Please refresh the page.");
@@ -322,7 +343,7 @@ export default function PredictPage() {
   useEffect(() => {
     // Case 1: Brand was cleared by the user (transitioned from a value to no value).
     if (prevSelectedBrand && !selectedBrand) {
-      setValue('car_model', '', { shouldValidate: true });
+      setValue('car_model', '');
       return; // Prioritize this action and stop further processing in this effect.
     }
 
@@ -330,7 +351,7 @@ export default function PredictPage() {
     if (selectedModel) {
       const brandForModel = modelToBrand[selectedModel.toLowerCase()];
       if (brandForModel && brandForModel !== selectedBrand) {
-        setValue('brand', brandForModel, { shouldValidate: true });
+        setValue('brand', brandForModel);
         return; // Prioritize model-driven brand changes.
       }
     }
@@ -339,7 +360,7 @@ export default function PredictPage() {
     if (selectedBrand && selectedModel) {
       const brandForModel = modelToBrand[selectedModel.toLowerCase()];
       if (brandForModel !== selectedBrand) {
-        setValue('car_model', '', { shouldValidate: true });
+        setValue('car_model', '');
       }
     }
   }, [selectedBrand, selectedModel, prevSelectedBrand, modelToBrand, setValue]);
@@ -382,7 +403,7 @@ export default function PredictPage() {
 
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-6 text-left">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <AutocompleteField
+            <ComboBoxField
               name="brand"
               control={control}
               label="Brand"
@@ -390,7 +411,7 @@ export default function PredictPage() {
               placeholder="Select Brand"
               loading={!dropdowns}
             />
-            <AutocompleteField
+            <ComboBoxField
               name="car_model"
               control={control}
               label="Car Model"
@@ -412,7 +433,7 @@ export default function PredictPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <FormattedNumberField control={control} name="power" label="Power [HP]" placeholder="e.g., 140" error={errors.power?.message} />
-            <AutocompleteField
+            <ComboBoxField
               name="fuel_type"
               control={control}
               label="Fuel Type"
@@ -423,7 +444,7 @@ export default function PredictPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <AutocompleteField
+            <ComboBoxField
               name="transmission"
               control={control}
               label="Transmission"
@@ -431,7 +452,7 @@ export default function PredictPage() {
               placeholder="Select Transmission"
               loading={!dropdowns}
             />
-            <AutocompleteField
+            <ComboBoxField
               name="body"
               control={control}
               label="Body Type"
@@ -439,7 +460,7 @@ export default function PredictPage() {
               placeholder="Select Body Type"
               loading={!dropdowns}
             />
-            <AutocompleteField
+            <ComboBoxField
               name="color"
               control={control}
               label="Color"
