@@ -23,3 +23,25 @@ body {
   background: var(--background);
   color: var(--foreground);
 }
+
+body::-webkit-scrollbar,
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track,
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(13, 27, 42, 1);
+}
+
+body::-webkit-scrollbar-thumb,
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #1B263B;
+  border-radius: 10px;
+  border: 1px solid #415A77;
+}
+
+body::-webkit-scrollbar-thumb:hover,
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #2a405c;
+}
