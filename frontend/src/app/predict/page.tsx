@@ -5,13 +5,20 @@ import { useForm, Controller, Control, useController } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import * as z from 'zod';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Zap, ChevronsUpDown, Check, Loader2, X } from 'lucide-react';
-import * as Popover from '@radix-ui/react-popover';
-import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from 'cmdk';
+import { Zap, Loader2, Check, ChevronsUpDown } from 'lucide-react';
+import { Combobox, ComboboxInput, ComboboxOption, ComboboxOptions, ComboboxButton } from '@headlessui/react';
 import * as SliderPrimitive from '@radix-ui/react-slider';
 
 import { getDropdownOptions, getBrandModelMapping, predictPrice, DropdownOptions, BrandModelMapping, Prediction } from '../api/services';
 import { cn } from '@/lib/utils';
+
+function usePrevious<T>(value: T): T | undefined {
+  const ref = useRef<T | undefined>(undefined);
+  useEffect(() => {
+    ref.current = value;
+  });
+  return ref.current;
+}
 
 // Form Schema Definition with Zod
 const createFormSchema = (dropdowns: DropdownOptions | null) => z.object({
@@ -35,6 +42,19 @@ const createFormSchema = (dropdowns: DropdownOptions | null) => z.object({
 type FormData = z.infer<ReturnType<typeof createFormSchema>>;
 
 // --- REUSABLE COMPONENTS ---
+
+const InputContainer = ({ error, children }: { error?: boolean; children: React.ReactNode }) => (
+  <div
+    className={cn(
+      "relative w-full bg-white/5 rounded-lg backdrop-blur-xl transition-all duration-300 border",
+      error
+        ? "border-red-500/50 hover:border-red-500/70 focus-within:border-red-500/90 focus-within:shadow-[0_0_12px_rgba(239,68,68,0.5)]"
+        : "border-white/20 hover:border-white/40 focus-within:border-[#778DA9] focus-within:shadow-[0_0_12px_rgba(119,141,169,0.5)]"
+    )}
+  >
+    {children}
+  </div>
+);
 
 const FormattedNumberField = ({ control, name, label, placeholder, error }: { control: Control<FormData>; name: 'mileage' | 'engine_capacity' | 'power'; label: string; placeholder: string; error?: string; }) => {
   const { field } = useController({ name, control });
@@ -81,17 +101,18 @@ const FormattedNumberField = ({ control, name, label, placeholder, error }: { co
   return (
     <div className="space-y-2">
       <label htmlFor={name} className="text-sm font-medium text-[#778DA9]">{label}</label>
-      <motion.input
-        id={name}
-        type="text"
-        placeholder={placeholder}
-        value={displayValue}
-        onChange={handleInputChange}
-        onBlur={field.onBlur}
-        ref={field.ref}
-        whileFocus={{ scale: 1.02, boxShadow: '0 0 8px rgb(119, 141, 169, 0.5)' }}
-        className={cn("w-full bg-white/5 border rounded-lg px-4 py-3 focus:ring-2 focus:outline-none transition-shadow duration-200 text-white backdrop-blur-xl", error ? "border-red-500/50 focus:ring-red-500" : "border-white/20 focus:ring-[#778DA9]")}
-      />
+      <InputContainer error={!!error}>
+        <input
+          id={name}
+          type="text"
+          placeholder={placeholder}
+          value={displayValue}
+          onChange={handleInputChange}
+          onBlur={field.onBlur}
+          ref={field.ref}
+          className="w-full px-4 py-3 bg-transparent text-white placeholder:text-gray-500 focus:outline-none"
+        />
+      </InputContainer>
       {error && <p className="text-xs text-red-400 mt-1">{error}</p>}
     </div>
   );
@@ -124,133 +145,95 @@ const SliderField = ({ control, name, label, min, max, step, error }: { control:
   );
 };
 
-const Combobox = ({ label, options, value, onChange, placeholder, error, disabled = false }: { label: string; options: string[]; value: string; onChange: (value: string) => void; placeholder: string; error?: string; disabled?: boolean; }) => {
-  const [open, setOpen] = useState(false);
-  const [inputValue, setInputValue] = useState(value);
-  const inputRef = useRef<HTMLInputElement>(null);
-  const popoverContentRef = useRef<HTMLDivElement>(null);
+const AutocompleteField = ({
+  control,
+  name,
+  label,
+  options,
+  placeholder,
+  disabled = false,
+  loading = false,
+}: {
+  control: Control<FormData>;
+  name: keyof FormData;
+  label: string;
+  options: readonly string[];
+  placeholder: string;
+  disabled?: boolean;
+  loading?: boolean;
+}) => {
+  const { field, fieldState: { error } } = useController({ name, control });
+  const [query, setQuery] = useState('');
 
-  useEffect(() => {
-    // Sync input value if the external value changes (e.g., form reset)
-    if (value !== inputValue) {
-      setInputValue(value);
-    }
-  }, [value]);
-
-  const handleSelect = (option: string) => {
-    onChange(option);
-    setInputValue(option);
-    setOpen(false);
-    inputRef.current?.blur();
-  };
-
-  const handleClear = (e: React.MouseEvent) => {
-    e.stopPropagation();
-    onChange("");
-    setInputValue("");
-    inputRef.current?.focus();
-  };
-
-  const handleBlur = () => {
-    // Use a short timeout to allow click events on popover items to register before the blur event resolves.
-    setTimeout(() => {
-      // If focus has moved to an element within the popover, do not resolve.
-      if (popoverContentRef.current?.contains(document.activeElement)) {
-        return;
-      }
-
-      // Find the best match for the current input, preferring a starts-with match.
-      const bestMatch = options.find(opt => opt.toLowerCase().startsWith(inputValue.toLowerCase())) || options.find(opt => opt.toLowerCase().includes(inputValue.toLowerCase()));
-
-      if (bestMatch) {
-        // If a good match is found, commit it.
-        onChange(bestMatch);
-        setInputValue(bestMatch);
-      } else {
-        // Otherwise, revert to the last valid value.
-        setInputValue(value);
-      }
-      setOpen(false);
-    }, 150);
-  };
-
-  const filteredOptions = useMemo(() => {
-    if (!inputValue || inputValue === value) {
-      return options;
-    }
-    return options.filter(option =>
-      option.toLowerCase().includes(inputValue.toLowerCase())
-    );
-  }, [options, inputValue, value]);
+  const filteredOptions = query === ''
+      ? options
+      : options.filter(option =>
+          option.toLowerCase().includes(query.toLowerCase())
+        );
 
   return (
     <div className="space-y-2">
-      <style>{`
-        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
-        .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
-        .custom-scrollbar::-webkit-scrollbar-thumb { background: #4A5568; border-radius: 3px; }
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #718096; }
-      `}</style>
-
-      <label className="text-base font-medium text-gray-300">{label}</label>
-      <Popover.Root open={open} onOpenChange={setOpen}>
+      <label htmlFor={`${name}-combobox`} className="text-sm font-medium text-[#778DA9]">{label}</label>
+      <Combobox value={field.value as string || ''} onChange={field.onChange} disabled={disabled || loading}>
         <div className="relative">
-          <Popover.Anchor asChild>
-            <div className={cn(
-              "flex items-center w-full bg-white/5 border rounded-lg focus-within:ring-2 transition-shadow duration-200 backdrop-blur-xl h-12",
-              error ? "border-red-500/50 focus-within:ring-red-500" : "border-white/20 focus-within:ring-[#778DA9]",
-              disabled && "opacity-50 cursor-not-allowed"
-            )}>
-              <input
-                ref={inputRef}
-                type="text"
-                role="combobox"
-                aria-expanded={open}
-                placeholder={placeholder}
-                value={inputValue}
-                onChange={(e) => setInputValue(e.target.value)}
-                onFocus={() => setOpen(true)}
-                onBlur={handleBlur}
-                disabled={disabled}
-                className="w-full h-full bg-transparent px-4 text-base text-white placeholder-gray-400 focus:outline-none"
-              />
-              <div className="flex items-center pr-3">
-                {inputValue && (
-                  <button type="button" onClick={handleClear} className="p-1 text-gray-400 hover:text-white transition-colors rounded-full hover:bg-white/10">
-                    <X size={18} />
-                  </button>
-                )}
-                <ChevronsUpDown className="h-5 w-5 shrink-0 opacity-50 text-gray-400 ml-1" />
+          <InputContainer error={!!error}>
+            <ComboboxInput
+              id={`${name}-combobox`}
+              className="w-full px-4 py-3 pr-10 bg-transparent text-white placeholder:text-gray-500 focus:outline-none"
+              onChange={(event) => setQuery(event.target.value)}
+              onBlur={field.onBlur}
+              placeholder={placeholder}
+              autoComplete='off'
+            />
+            <ComboboxButton className="absolute inset-y-0 right-0 flex items-center pr-4">
+              {loading ? (
+                <Loader2 className="h-5 w-5 animate-spin text-[#778DA9]" />
+              ) : (
+                <ChevronsUpDown
+                  className="h-5 w-5 text-[#778DA9]"
+                  aria-hidden="true"
+                />
+              )}
+            </ComboboxButton>
+          </InputContainer>
+          <ComboboxOptions className="custom-scrollbar absolute mt-2 max-h-60 w-full overflow-auto rounded-md bg-black/50 backdrop-blur-lg py-1 text-base shadow-lg ring-1 ring-white/10 focus:outline-none sm:text-sm z-10">
+            {filteredOptions.length === 0 && query !== '' ? (
+              <div className="relative cursor-default select-none py-2 px-4 text-gray-400">
+                Nothing found.
               </div>
-            </div>
-          </Popover.Anchor>
+            ) : (
+              filteredOptions.map((option) => (
+                <ComboboxOption
+                  key={option}
+                  className={({ active }) =>
+                    cn(
+                      'relative cursor-default select-none py-2 pl-10 pr-4',
+                      active ? 'bg-[#778DA9]/30 text-white' : 'text-gray-300'
+                    )
+                  }
+                  value={option}
+                >
+                  {({ selected, active }) => (
+                    <>
+                      <span
+                        className={cn('block truncate', selected ? 'font-medium' : 'font-normal')}> 
+                        {option}
+                      </span>
+                      {selected ? (
+                        <span
+                          className={cn('absolute inset-y-0 left-0 flex items-center pl-3', active ? 'text-white' : 'text-[#778DA9]')}>
+                          <Check className="h-5 w-5" aria-hidden="true" />
+                        </span>
+                      ) : null}
+                    </>
+                  )}
+                </ComboboxOption>
+              ))
+            )}
+          </ComboboxOptions>
         </div>
-        <Popover.Content ref={popoverContentRef} className="w-[--radix-popover-trigger-width] p-0 mt-1.5" style={{ zIndex: 1000 }}>
-          {open && (
-            <Command className="bg-gradient-to-b from-gray-900/95 to-black/95 backdrop-blur-xl border border-gray-700 rounded-lg shadow-2xl">
-              <CommandList>
-                {filteredOptions.length === 0 && <CommandEmpty className="py-4 text-center text-base text-gray-400">No results found.</CommandEmpty>}
-                <CommandGroup className="max-h-64 overflow-y-auto custom-scrollbar">
-                  {filteredOptions.map((option) => (
-                    <CommandItem
-                      key={option}
-                      value={option}
-                      onSelect={() => handleSelect(option)}
-                      className="flex items-center justify-between px-4 py-3 text-base text-gray-200 aria-selected:bg-white/10 cursor-pointer hover:bg-white/5 transition-colors"
-                    >
-                      <span>{option}</span>
-                      {value.toLowerCase() === option.toLowerCase() && (
-                        <Check className="h-5 w-5 text-emerald-400" />
-                      )}
-                    </CommandItem>
-                  ))}
-                </CommandGroup>
-              </CommandList>
-            </Command>
-          )}
-        </Popover.Content>
-      </Popover.Root>
-      {error && <p className="text-sm text-red-400 mt-2">{error}</p>}
+      </Combobox>
+      {error && <p className="text-xs text-red-400 mt-1">{error.message}</p>}
     </div>
   );
 };
@@ -266,6 +249,16 @@ export default function PredictPage() {
   const [prediction, setPrediction] = useState<Prediction | null>(null);
   const [apiError, setApiError] = useState<string | null>(null);
   const resultRef = useRef<HTMLDivElement>(null);
+  const buttonRef = useRef<HTMLButtonElement>(null);
+
+  const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
+    if (!buttonRef.current) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    buttonRef.current.style.setProperty('--x', `${x}px`);
+    buttonRef.current.style.setProperty('--y', `${y}px`);
+  };
 
   const resolver = useMemo(() => zodResolver(createFormSchema(dropdowns)), [dropdowns]);
 
@@ -288,6 +281,7 @@ export default function PredictPage() {
 
   const selectedBrand = watch('brand');
   const selectedModel = watch('car_model');
+  const prevSelectedBrand = usePrevious(selectedBrand);
 
   useEffect(() => {
     async function fetchData() {
@@ -324,25 +318,31 @@ export default function PredictPage() {
     fetchData();
   }, []);
 
-  // Effect for Brand -> Model dependency
+  // Effect to sync brand and model selections
   useEffect(() => {
-    // This effect runs when the brand changes. It resets the car model if the
-    // currently selected model does not belong to the new brand.
-    // It avoids resetting the model if the brand change was triggered by a model selection.
-    if (selectedBrand && modelToBrand[selectedModel?.toLowerCase() ?? ''] !== selectedBrand) {
-      setValue('car_model', '');
+    // Case 1: Brand was cleared by the user (transitioned from a value to no value).
+    if (prevSelectedBrand && !selectedBrand) {
+      setValue('car_model', '', { shouldValidate: true });
+      return; // Prioritize this action and stop further processing in this effect.
     }
-  }, [selectedBrand, selectedModel, modelToBrand, setValue]);
 
-  // Effect for Model -> Brand dependency
-  useEffect(() => {
+    // Case 2: A model is selected. Update the brand to match if it's incorrect.
     if (selectedModel) {
-      const brand = modelToBrand[selectedModel.toLowerCase()];
-      if (brand && brand !== selectedBrand) {
-        setValue('brand', brand);
+      const brandForModel = modelToBrand[selectedModel.toLowerCase()];
+      if (brandForModel && brandForModel !== selectedBrand) {
+        setValue('brand', brandForModel, { shouldValidate: true });
+        return; // Prioritize model-driven brand changes.
       }
     }
-  }, [selectedModel, modelToBrand, setValue, selectedBrand]);
+
+    // Case 3: A brand is selected, and the current model is now inconsistent.
+    if (selectedBrand && selectedModel) {
+      const brandForModel = modelToBrand[selectedModel.toLowerCase()];
+      if (brandForModel !== selectedBrand) {
+        setValue('car_model', '', { shouldValidate: true });
+      }
+    }
+  }, [selectedBrand, selectedModel, prevSelectedBrand, modelToBrand, setValue]);
 
 
   const onSubmit = async (data: FormData) => {
@@ -382,26 +382,22 @@ export default function PredictPage() {
 
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-6 text-left">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <Controller name="brand" control={control} render={({ field }) => (
-              <Combobox
-                label="Brand"
-                options={dropdowns?.brand || []}
-                value={field.value}
-                onChange={field.onChange}
-                placeholder="Select Brand"
-                error={errors.brand?.message}
-              />
-            )} />
-            <Controller name="car_model" control={control} render={({ field }) => (
-              <Combobox
-                label="Car Model"
-                options={currentModels}
-                value={field.value}
-                onChange={field.onChange}
-                placeholder="Select Model"
-                error={errors.car_model?.message}
-              />
-            )} />
+            <AutocompleteField
+              name="brand"
+              control={control}
+              label="Brand"
+              options={dropdowns?.brand || []}
+              placeholder="Select Brand"
+              loading={!dropdowns}
+            />
+            <AutocompleteField
+              name="car_model"
+              control={control}
+              label="Car Model"
+              options={currentModels}
+              placeholder="Select Model"
+              loading={!brandModels}
+            />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -410,41 +406,72 @@ export default function PredictPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <FormattedNumberField control={control} name="mileage" label="Mileage [km]" placeholder="e.g., 50000" error={errors.mileage?.message} />
+            <FormattedNumberField control={control} name="mileage" label="Mileage [km]" placeholder="e.g., 50 000" error={errors.mileage?.message} />
             <FormattedNumberField control={control} name="engine_capacity" label="Engine Capacity [dm³]" placeholder="e.g., 1.8" error={errors.engine_capacity?.message} />
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <FormattedNumberField control={control} name="power" label="Power [HP]" placeholder="e.g., 140" error={errors.power?.message} />
-            <Controller name="fuel_type" control={control} render={({ field }) => (
-              <Combobox label="Fuel Type" options={dropdowns?.fuel_type || []} value={field.value} onChange={field.onChange} placeholder="Select Fuel Type" error={errors.fuel_type?.message} />
-            )} />
+            <AutocompleteField
+              name="fuel_type"
+              control={control}
+              label="Fuel Type"
+              options={dropdowns?.fuel_type || []}
+              placeholder="Select Fuel Type"
+              loading={!dropdowns}
+            />
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <Controller name="transmission" control={control} render={({ field }) => (
-              <Combobox label="Transmission" options={dropdowns?.transmission || []} value={field.value} onChange={field.onChange} placeholder="Select Transmission" error={errors.transmission?.message} />
-            )} />
-            <Controller name="body" control={control} render={({ field }) => (
-              <Combobox label="Body Type" options={dropdowns?.body || []} value={field.value} onChange={field.onChange} placeholder="Select Body Type" error={errors.body?.message} />
-            )} />
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <AutocompleteField
+              name="transmission"
+              control={control}
+              label="Transmission"
+              options={dropdowns?.transmission || []}
+              placeholder="Select Transmission"
+              loading={!dropdowns}
+            />
+            <AutocompleteField
+              name="body"
+              control={control}
+              label="Body Type"
+              options={dropdowns?.body || []}
+              placeholder="Select Body Type"
+              loading={!dropdowns}
+            />
+            <AutocompleteField
+              name="color"
+              control={control}
+              label="Color"
+              options={dropdowns?.color || []}
+              placeholder="Select Color"
+              loading={!dropdowns}
+            />
           </div>
-          
-          <Controller name="color" control={control} render={({ field }) => (
-              <Combobox label="Color" options={dropdowns?.color || []} value={field.value} onChange={field.onChange} placeholder="Select Color" error={errors.color?.message} />
-          )} />
 
           <motion.button
+            ref={buttonRef}
             type="submit"
             disabled={isLoading}
+            onMouseMove={handleMouseMove}
             whileHover={{ scale: isLoading ? 1 : 1.05 }}
             whileTap={{ scale: isLoading ? 1 : 0.95 }}
-            className="relative overflow-hidden flex items-center justify-center gap-2 w-full px-8 py-4 text-white font-bold rounded-full border border-white/20 bg-white/10 backdrop-blur-xl shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer group disabled:opacity-60 disabled:cursor-not-allowed"
+            className="relative overflow-hidden flex items-center justify-center gap-2 w-full mt-12 px-8 py-4 text-white font-bold rounded-full border border-white/20 bg-white/10 backdrop-blur-xl shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer group disabled:opacity-60 disabled:cursor-not-allowed"
           >
+            <span
+              className="absolute w-40 h-40 -translate-x-1/2 -translate-y-1/2 
+                     bg-white/10 rounded-full pointer-events-none blur-2xl 
+                     opacity-0 group-hover:opacity-50 transition-opacity duration-300"
+              style={{
+                left: 'var(--x)',
+                top: 'var(--y)',
+              }}
+            />
+            <span className="absolute inset-0 bg-gradient-to-br from-white/20 to-white/5 opacity-10 pointer-events-none rounded-full"></span>
             {isLoading ? (
               <>
-                <Loader2 className="animate-spin mr-2" />
-                Predicting...
+                <Loader2 className="animate-spin mr-2 relative z-10" />
+                <span className="relative z-10">Predicting...</span>
               </>
             ) : (
               <>
