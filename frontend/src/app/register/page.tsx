@@ -1,12 +1,13 @@
 'use client';
 
-import React, { useState, FormEvent, useRef } from 'react';
+import React, { useState, FormEvent, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { UserPlus } from 'lucide-react';
+import { UserPlus, LoaderCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { AxiosError } from 'axios';
 import api from '@/lib/api';
+import { useAuth } from '@/context/AuthContext';
 
 const MotionInput = ({
   id,
@@ -42,13 +43,28 @@ const MotionInput = ({
 export default function RegisterPage() {
   const buttonRef = useRef<HTMLButtonElement>(null);
   const router = useRouter();
+  const { isAuthenticated, isLoading: isAuthLoading } = useAuth();
 
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [error, setError] = useState<string | null>(null);
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(false); // this is for form submission
+
+  useEffect(() => {
+    if (!isAuthLoading && isAuthenticated) {
+      router.push('/');
+    }
+  }, [isAuthenticated, isAuthLoading, router]);
+
+  if (isAuthLoading || isAuthenticated) {
+    return (
+        <div className="flex flex-col items-center justify-center text-center min-h-[calc(100vh-200px)] px-4">
+            <LoaderCircle size={48} className="animate-spin text-[#778DA9]" />
+        </div>
+    );
+  }
 
   const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (!buttonRef.current) return;

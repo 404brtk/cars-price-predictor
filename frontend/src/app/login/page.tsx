@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { motion, HTMLMotionProps } from 'framer-motion';
 import Link from 'next/link';
 import { LogIn, LoaderCircle } from 'lucide-react';
@@ -35,7 +35,23 @@ export default function LoginPage() {
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const router = useRouter();
-  const { login } = useAuth();
+  const { login, isAuthenticated, isLoading: isAuthLoading } = useAuth();
+
+  useEffect(() => {
+    // Redirect if done loading and authenticated
+    if (!isAuthLoading && isAuthenticated) {
+      router.push('/');
+    }
+  }, [isAuthenticated, isAuthLoading, router]);
+
+  // Show loader while checking auth status or if authenticated (and about to redirect)
+  if (isAuthLoading || isAuthenticated) {
+    return (
+        <div className="flex flex-col items-center justify-center text-center min-h-[calc(100vh-200px)] px-4">
+            <LoaderCircle size={48} className="animate-spin text-[#778DA9]" />
+        </div>
+    );
+  }
 
   const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
     if (!buttonRef.current) return;
