@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/context/AuthContext';
-import { getPredictionHistory, PaginatedPredictions, Prediction, HistoryQueryParams, getDropdownOptions, DropdownOptions } from '../api/services';
+import { getPredictionHistory, PaginatedPredictions, Prediction, HistoryQueryParams } from '../api/services';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Loader2, AlertCircle, ChevronLeft, ChevronRight, Filter, X } from 'lucide-react';
 import { useDebounce } from '@/hooks/useDebounce';
@@ -28,7 +28,7 @@ const HistoryPage = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [queryParams, setQueryParams] = useState<HistoryQueryParams>(initialQueryParams);
-  const [dropdowns, setDropdowns] = useState<DropdownOptions | null>(null);
+
   const [showFilters, setShowFilters] = useState(false);
 
   const debouncedParams = useDebounce(queryParams, 750);
@@ -62,7 +62,7 @@ const HistoryPage = () => {
       if (!isAuthenticated) {
         router.push('/login');
       } else {
-        getDropdownOptions().then(setDropdowns).catch(console.error);
+
       }
     }
   }, [isAuthLoading, isAuthenticated, router]);
@@ -149,14 +149,13 @@ const HistoryPage = () => {
                 <div className="bg-white/5 p-4 rounded-lg mb-8 border border-white/20">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
                         {/* Brand and Model */}
-                        <FilterInput label="Brand" value={queryParams.brand || ''} onChange={e => handleFilterChange('brand', e.target.value)} list="brand-list" />
-                        <datalist id="brand-list">{dropdowns?.brand.map(b => <option key={b} value={b} />)}</datalist>
+                        <FilterInput label="Brand" value={queryParams.brand || ''} onChange={e => handleFilterChange('brand', e.target.value)} placeholder="Brand name or first letters" />
 
-                        <FilterInput label="Model" value={queryParams.car_model || ''} onChange={e => handleFilterChange('car_model', e.target.value)} />
+                        <FilterInput label="Car Model" value={queryParams.car_model || ''} onChange={e => handleFilterChange('car_model', e.target.value)} placeholder="Model name or first letters" />
 
                         {/* Price Range */}
-                        <FilterInput label="Min Price" type="number" placeholder="e.g., 5000" value={queryParams.min_price || ''} onChange={e => handleFilterChange('min_price', e.target.value)} />
-                        <FilterInput label="Max Price" type="number" placeholder="e.g., 20000" value={queryParams.max_price || ''} onChange={e => handleFilterChange('max_price', e.target.value)} />
+                        <FilterInput label="Min Price" type="number" placeholder="e.g., 5 000" value={queryParams.min_price || ''} onChange={e => handleFilterChange('min_price', e.target.value)} />
+                        <FilterInput label="Max Price" type="number" placeholder="e.g., 20 000" value={queryParams.max_price || ''} onChange={e => handleFilterChange('max_price', e.target.value)} />
 
                         {/* Date Range */}
                         <FilterInput label="Start Date" type="date" value={queryParams.start_date || ''} onChange={e => handleFilterChange('start_date', e.target.value)} />
@@ -265,14 +264,65 @@ interface FilterInputProps extends React.InputHTMLAttributes<HTMLInputElement> {
   label: string;
 }
 
-const FilterInput = ({ label, ...props }: FilterInputProps) => (
+const FilterInput = ({ label, type, value, onChange, ...props }: FilterInputProps) => {
+  const isFormattedNumberInput = type === 'number';
+
+  const formatNumber = (numStr: string) => {
+    // Remove non-digit characters to correctly parse the number
+    const number = parseInt(numStr.replace(/\s/g, ''), 10);
+    return isNaN(number) ? '' : new Intl.NumberFormat('sv-SE').format(number);
+  };
+
+  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (isFormattedNumberInput) {
+      // Get raw value and remove thousand separators
+      let rawValue = e.target.value.replace(/\s/g, '');
+
+      // Remove leading zero if not the only digit
+      if (rawValue.length > 1 && rawValue.startsWith('0')) {
+        rawValue = rawValue.substring(1);
+      }
+
+      // Only allow digits
+      if (/^\d*$/.test(rawValue)) {
+        // Create a synthetic event with the raw numeric value for the parent handler
+        const syntheticEvent = {
+          ...e,
+          target: {
+            ...e.target,
+            value: rawValue,
+          },
+        };
+        if (onChange) {
+          onChange(syntheticEvent);
+        }
+      }
+    } else {
+      // For other input types, pass the event directly
+      if (onChange) {
+        onChange(e);
+      }
+    }
+  };
+
+  // Format the value from state for display in the input
+  const displayValue = isFormattedNumberInput && typeof value === 'string' && value
+    ? formatNumber(value)
+    : value;
+
+  return (
     <div>
-        <label className="text-sm font-medium text-[#778DA9] mb-2 block">{label}</label>
-        <input 
-            {...props}
-            className="w-full px-3 py-2 bg-white/5 rounded-md border border-white/20 focus:border-[#778DA9] focus:ring-2 focus:ring-[#778DA9]/50 focus:outline-none transition-colors"
-        />
+      <label className="text-sm font-medium text-[#778DA9] mb-2 block">{label}</label>
+      <input
+        {...props}
+        type={isFormattedNumberInput ? 'text' : type} // Use 'text' to allow for formatted spaces
+        inputMode={isFormattedNumberInput ? 'numeric' : undefined}
+        value={displayValue || ''}
+        onChange={handleInputChange}
+        className="w-full px-3 py-2 bg-white/5 rounded-md border border-white/20 focus:border-[#778DA9] focus:ring-2 focus:ring-[#778DA9]/50 focus:outline-none transition-colors placeholder-gray-500"
+      />
     </div>
-);
+  );
+};
 
 export default HistoryPage;
