@@ -1,56 +1,31 @@
 'use client';
 
-import React, { useState, FormEvent, useRef, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { UserPlus, LoaderCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
+import { useForm, FormProvider } from 'react-hook-form';
+import { zodResolver } from '@hookform/resolvers/zod';
 import { AxiosError } from 'axios';
+
 import api from '@/lib/api';
 import { useAuth } from '@/context/AuthContext';
-
-const MotionInput = ({
-  id,
-  type,
-  placeholder,
-  label,
-  value,
-  onChange,
-}: {
-  id: string;
-  type: string;
-  placeholder: string;
-  label: string;
-  value: string;
-  onChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
-}) => (
-  <div className="space-y-2">
-    <label htmlFor={id} className="text-sm font-medium text-[#778DA9]">
-      {label}
-    </label>
-    <motion.input
-      id={id}
-      type={type}
-      placeholder={placeholder}
-      value={value}
-      onChange={onChange}
-      whileFocus={{ scale: 1.02, boxShadow: '0 0 8px rgb(119, 141, 169, 0.5)' }}
-      className="w-full bg-white/5 border border-white/20 rounded-lg px-4 py-3 focus:ring-2 focus:ring-[#778DA9] focus:outline-none transition-shadow duration-200 text-white backdrop-blur-xl"
-    />
-  </div>
-);
+import { RegisterSchema, RegisterFormData } from '@/lib/schema';
+import AuthInputField from '@/components/ui/AuthInputField';
+import { ActionButton } from '@/components/ui/ActionButton';
 
 export default function RegisterPage() {
-  const buttonRef = useRef<HTMLButtonElement>(null);
   const router = useRouter();
   const { isAuthenticated, isLoading: isAuthLoading } = useAuth();
+  const [apiError, setApiError] = useState<string | null>(null);
 
-  const [username, setUsername] = useState('');
-  const [email, setEmail] = useState('');
-  const [password, setPassword] = useState('');
-  const [confirmPassword, setConfirmPassword] = useState('');
-  const [error, setError] = useState<string | null>(null);
-  const [isLoading, setIsLoading] = useState(false); // this is for form submission
+  const methods = useForm<RegisterFormData>({
+    resolver: zodResolver(RegisterSchema),
+    defaultValues: { username: '', email: '', password: '', password2: '' },
+  });
+
+  const { handleSubmit, formState: { isSubmitting } } = methods;
 
   useEffect(() => {
     if (!isAuthLoading && isAuthenticated) {
@@ -60,39 +35,18 @@ export default function RegisterPage() {
 
   if (isAuthLoading || isAuthenticated) {
     return (
-        <div className="flex flex-col items-center justify-center text-center min-h-[calc(100vh-200px)] px-4">
-            <LoaderCircle size={48} className="animate-spin text-[#778DA9]" />
-        </div>
+      <div className="flex flex-col items-center justify-center text-center min-h-[calc(100vh-200px)] px-4">
+        <LoaderCircle size={48} className="animate-spin text-[#778DA9]" />
+      </div>
     );
   }
 
-  const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
-    if (!buttonRef.current) return;
-    const rect = e.currentTarget.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
-    buttonRef.current.style.setProperty('--x', `${x}px`);
-    buttonRef.current.style.setProperty('--y', `${y}px`);
-  };
 
-  const handleSubmit = async (e: FormEvent) => {
-    e.preventDefault();
-    setError(null);
 
-    if (password !== confirmPassword) {
-      setError('Passwords do not match.');
-      return;
-    }
-
-    setIsLoading(true);
-
+  const onSubmit = async (data: RegisterFormData) => {
+    setApiError(null);
     try {
-      await api.post('/register/', {
-        username: username,
-        email: email,
-        password: password,
-        password2: confirmPassword,
-      });
+      await api.post('/register/', data);
       router.push('/login?registered=true');
     } catch (err) {
       const axiosError = err as AxiosError<{[key: string]: string[]}>;
@@ -100,12 +54,10 @@ export default function RegisterPage() {
         const errorData = axiosError.response.data;
         const firstErrorKey = Object.keys(errorData)[0];
         const errorMessage = errorData[firstErrorKey][0];
-        setError(`${firstErrorKey}: ${errorMessage}`);
+        setApiError(`${firstErrorKey}: ${errorMessage}`);
       } else {
-        setError('An unexpected error occurred. Please try again.');
+        setApiError('An unexpected error occurred. Please try again.');
       }
-    } finally {
-      setIsLoading(false);
     }
   };
 
@@ -125,73 +77,56 @@ export default function RegisterPage() {
           and save all your predictions!
         </p>
 
-        <form className="space-y-6 text-left" onSubmit={handleSubmit}>
-          {error && <p className="text-red-400 text-center font-semibold">{error}</p>}
-          <MotionInput
-            id="username"
-            type="text"
-            placeholder="your_username"
-            label="Username"
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
-          />
-          <MotionInput
-            id="email"
-            type="email"
-            placeholder="you@example.com"
-            label="Email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-          />
-          <MotionInput
-            id="password"
-            type="password"
-            placeholder="••••••••"
-            label="Password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-          />
-          <MotionInput
-            id="confirm-password"
-            type="password"
-            placeholder="••••••••"
-            label="Confirm Password"
-            value={confirmPassword}
-            onChange={(e) => setConfirmPassword(e.target.value)}
-          />
-
-          <motion.button
-            type="submit"
-            ref={buttonRef}
-              onMouseMove={handleMouseMove}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            disabled={isLoading}
-            className="relative overflow-hidden flex items-center justify-center gap-2 w-full px-8 py-4
-            text-white font-bold rounded-full border border-white/20
-            bg-white/10 backdrop-blur-xl shadow-md hover:shadow-lg
-            transition-all duration-300 cursor-pointer group disabled:opacity-50 disabled:cursor-not-allowed"
-          >
-            <span
-              className="absolute w-40 h-40 -translate-x-1/2 -translate-y-1/2 
-                     bg-white/10 rounded-full pointer-events-none blur-2xl 
-                     opacity-50 transition-opacity duration-300"
-              style={{
-                left: 'var(--x)',
-                top: 'var(--y)',
-              }}
+        <FormProvider {...methods}>
+          <form className="space-y-6 text-left" onSubmit={handleSubmit(onSubmit)}>
+            {apiError && <p className="text-red-400 text-center font-semibold">{apiError}</p>}
+            <AuthInputField
+              id="username"
+              name="username"
+              type="text"
+              placeholder="your_username"
+              label="Username"
             />
-            <span className="absolute inset-0 bg-gradient-to-br from-white/20 to-white/5 opacity-10 pointer-events-none rounded-full"></span>
-            <span className="relative z-10">{isLoading ? 'Registering...' : 'Register'}</span>
-            {!isLoading && <UserPlus size={20} className="relative z-10" />}
-          </motion.button>
-        </form>
-        <p className="text-center text-sm text-[#778DA9]">
-          Already have an account?{' '}
-          <Link href="/login" className="font-medium text-white hover:underline">
-            Login
-          </Link>
-        </p>
+            <AuthInputField
+              id="email"
+              name="email"
+              type="email"
+              placeholder="you@example.com"
+              label="Email"
+            />
+            <AuthInputField
+              id="password"
+              name="password"
+              type="password"
+              placeholder="••••••••"
+              label="Password"
+            />
+            <AuthInputField
+              id="password2"
+              name="password2"
+              type="password"
+              placeholder="••••••••"
+              label="Confirm Password"
+            />
+
+            <ActionButton
+              type="submit"
+              isLoading={isSubmitting}
+              loadingText="Creating Account..."
+              Icon={UserPlus}
+              className="w-full mt-4"
+            >
+              Create Account
+            </ActionButton>
+
+            <p className="text-center text-sm text-[#778DA9]">
+              Already have an account?{' '}
+              <Link href="/login" className="font-semibold text-white hover:underline">
+                Sign In
+              </Link>
+            </p>
+          </form>
+        </FormProvider>
       </motion.div>
     </div>
   );

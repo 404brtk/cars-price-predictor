@@ -1,262 +1,18 @@
 'use client';
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
-import { useForm, Controller, Control, useController, Resolver } from 'react-hook-form';
+import { useForm, Resolver } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
-import * as z from 'zod';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Zap, Loader2, Check, ChevronsUpDown } from 'lucide-react';
-import { Combobox, ComboboxInput, ComboboxOption, ComboboxOptions, ComboboxButton } from '@headlessui/react';
-import * as SliderPrimitive from '@radix-ui/react-slider';
+import { Zap } from 'lucide-react';
 
 import { getDropdownOptions, getBrandModelMapping, predictPrice, DropdownOptions, BrandModelMapping, Prediction } from '../api/services';
-import { cn } from '@/lib/utils';
-
-function usePrevious<T>(value: T): T | undefined {
-  const ref = useRef<T | undefined>(undefined);
-  useEffect(() => {
-    ref.current = value;
-  });
-  return ref.current;
-}
-
-// Form Schema Definition with Zod
-const createFormSchema = (dropdowns: DropdownOptions | null) => z.object({
-  brand: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Brand is required.'),
-  car_model: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Car model is required.'),
-  year_of_production: z.number()
-    .min(dropdowns?.year_of_production?.min ?? 1960, `Year must be at least ${dropdowns?.year_of_production?.min ?? 1960}.`)
-    .max(new Date().getFullYear(), `Year cannot be after ${new Date().getFullYear()}.`),
-  mileage: z.number().positive('Mileage is required.'),
-  fuel_type: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Fuel type is required.'),
-  transmission: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Transmission is required.'),
-  body: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Body type is required.'),
-  engine_capacity: z.number().min(0.1, 'Engine capacity is required.').max(20, 'Engine capacity seems too high.'),
-  power: z.number().min(10, 'Power seems too low.').max(1000, 'Power seems too high.'),
-  number_of_doors: z.number()
-    .min(dropdowns?.number_of_doors?.min ?? 2, `Must have at least ${dropdowns?.number_of_doors?.min ?? 2} doors.`)
-    .max(dropdowns?.number_of_doors?.max ?? 7, `Cannot have more than ${dropdowns?.number_of_doors?.max ?? 7} doors.`),
-  color: z.string().nullable().transform(val => val ?? '').refine(val => val.length > 0, 'Color is required.'),
-});
-
-type FormData = z.infer<ReturnType<typeof createFormSchema>>;
-
-// --- REUSABLE COMPONENTS ---
-
-const InputContainer = ({ error, children }: { error?: boolean; children: React.ReactNode }) => (
-  <div
-    className={cn(
-      "relative w-full bg-white/5 rounded-lg backdrop-blur-xl transition-all duration-300 border",
-      error
-        ? "border-red-500/50 hover:border-red-500/70 focus-within:border-red-500/90 focus-within:shadow-[0_0_12px_rgba(239,68,68,0.5)]"
-        : "border-white/20 hover:border-white/40 focus-within:border-[#778DA9] focus-within:shadow-[0_0_12px_rgba(119,141,169,0.5)]"
-    )}
-  >
-    {children}
-  </div>
-);
-
-const FormattedNumberField = ({ control, name, label, placeholder, error }: { control: Control<FormData>; name: 'mileage' | 'engine_capacity' | 'power'; label: string; placeholder: string; error?: string; }) => {
-  const { field } = useController({ name, control });
-  const [displayValue, setDisplayValue] = useState(field.value && field.value > 0 ? String(field.value) : '');
-
-  const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    let rawValue = e.target.value;
-
-    if (name === 'engine_capacity') {
-      rawValue = rawValue.replace(/,/g, '.');
-    }
-    if (name === 'mileage') {
-      rawValue = rawValue.replace(/\s/g, '');
-    }
-    if (rawValue.length > 1 && rawValue.startsWith('0') && !rawValue.startsWith('0.')) {
-      rawValue = rawValue.substring(1);
-    }
-
-    const isValid = name === 'mileage' ? /^\d*$/.test(rawValue) : /^\d*\.?\d*$/.test(rawValue);
-
-    if (isValid) {
-      if (name === 'mileage' && rawValue) {
-        setDisplayValue(new Intl.NumberFormat('sv-SE').format(Number(rawValue)));
-      } else {
-        setDisplayValue(rawValue);
-      }
-      field.onChange(rawValue === '' ? 0 : parseFloat(rawValue));
-    }
-  };
-
-  useEffect(() => {
-    const formValue = field.value;
-    if (formValue && formValue > 0) {
-      if (name === 'mileage') {
-        setDisplayValue(new Intl.NumberFormat('sv-SE').format(formValue));
-      } else {
-        setDisplayValue(String(formValue));
-      }
-    } else {
-      setDisplayValue('');
-    }
-  }, [field.value, name]);
-
-  return (
-    <div className="space-y-2">
-      <label htmlFor={name} className="text-sm font-medium text-[#778DA9]">{label}</label>
-      <InputContainer error={!!error}>
-        <input
-          id={name}
-          type="text"
-          placeholder={placeholder}
-          value={displayValue}
-          onChange={handleInputChange}
-          onBlur={field.onBlur}
-          ref={field.ref}
-          className="w-full px-4 py-3 bg-transparent text-white placeholder:text-gray-500 focus:outline-none"
-        />
-      </InputContainer>
-      {error && <p className="text-xs text-red-400 mt-1">{error}</p>}
-    </div>
-  );
-};
-
-const SliderField = ({ control, name, label, min, max, step, error }: { control: Control<FormData>; name: 'year_of_production' | 'number_of_doors'; label: string; min: number; max: number; step: number; error?: string; }) => {
-  const { field } = useController({ name, control });
-
-  return (
-    <div className="space-y-2 pt-2">
-      <div className="flex justify-between items-center">
-        <label className="text-sm font-medium text-[#778DA9]">{label}</label>
-        <span className="text-sm text-white font-mono bg-white/10 px-2 py-1 rounded">{field.value}</span>
-      </div>
-      <SliderPrimitive.Root
-        value={[field.value]}
-        onValueChange={(value) => field.onChange(value[0])}
-        min={min}
-        max={max}
-        step={step}
-        className="relative flex items-center select-none touch-none w-full h-5 cursor-pointer"
-      >
-        <SliderPrimitive.Track className="bg-white/10 relative grow rounded-full h-1.5">
-          <SliderPrimitive.Range className="absolute bg-[#778DA9] rounded-full h-full" />
-        </SliderPrimitive.Track>
-        <SliderPrimitive.Thumb className="block w-5 h-5 bg-white rounded-full shadow-lg focus:outline-none focus:ring-2 focus:ring-[#778DA9] focus:ring-offset-2 focus:ring-offset-[#0D1B2A]" />
-      </SliderPrimitive.Root>
-      {error && <p className="text-xs text-red-400 mt-1">{error}</p>}
-    </div>
-  );
-};
-
-// Props are extracted into a type for better readability and reusability.
- type ComboBoxFieldProps = {
-  control: Control<FormData>;
-  name: keyof FormData;
-  label: string;
-  options: readonly string[];
-  placeholder: string;
-  disabled?: boolean;
-  loading?: boolean;
-};
-
-const ComboBoxField = ({
-  control,
-  name,
-  label,
-  options,
-  placeholder,
-  disabled = false,
-  loading = false,
-}: ComboBoxFieldProps) => {
-  const { field, fieldState: { error } } = useController({ name, control });
-
-  const [query, setQuery] = useState('');
-
-  const filteredOptions = useMemo(() => {
-    const results = query === ''
-      ? options
-      : options.filter(option =>
-          option.toLowerCase().includes(query.toLowerCase())
-        );
-    // when the list is too long, it loads too slow, so we cap it at 100
-    return results.slice(0, 100);
-  }, [options, query]);
-
-  return (
-    <div className="space-y-2">
-      <label htmlFor={`${name}-combobox`} className="text-sm font-medium text-[#778DA9]">{label}</label>
-      <Combobox
-        immediate
-        value={String(field.value ?? '')}
-        onChange={field.onChange}
-        onClose={() => setQuery('')}
-        disabled={disabled || loading}
-      >
-        <div className="relative">
-          <InputContainer error={!!error}>
-            <ComboboxInput
-              id={`${name}-combobox`}
-              className="w-full px-4 py-3 pr-10 bg-transparent text-white placeholder:text-gray-500 focus:outline-none"
-              displayValue={(value) => String(value ?? '')}
-              onChange={(event) => setQuery(event.target.value)}
-              onBlur={field.onBlur}
-              placeholder={placeholder}
-              autoComplete='off'
-            />
-            <ComboboxButton className="absolute inset-y-0 right-0 flex items-center pr-4">
-              {loading ? (
-                <Loader2 className="h-5 w-5 animate-spin text-[#778DA9]" />
-              ) : (
-                <ChevronsUpDown
-                  className="h-5 w-5 text-[#778DA9]"
-                  aria-hidden="true"
-                />
-              )}
-            </ComboboxButton>
-          </InputContainer>
-          <ComboboxOptions
-              anchor={{ to: 'bottom start', gap: '0.25rem' }}
-              className="w-[var(--input-width)] rounded-md bg-black/50 backdrop-blur-lg text-base shadow-lg ring-1 ring-white/10 focus:outline-none sm:text-sm z-10"
-            >
-              <div className="custom-scrollbar max-h-60 overflow-auto py-1">
-                {filteredOptions.length === 0 && query !== '' ? (
-                  <div className="relative cursor-default select-none py-2 px-4 text-gray-400">
-                    Nothing found.
-                  </div>
-                ) : (
-                  filteredOptions.map((option) => (
-                    <ComboboxOption
-                      key={option}
-                      className={({ active }) =>
-                        cn(
-                          'relative cursor-default select-none py-2 pl-10 pr-4',
-                          active ? 'bg-[#778DA9]/30 text-white' : 'text-gray-300'
-                        )
-                      }
-                      value={option}
-                    >
-                      {({ selected, active }) => (
-                        <>
-                          <span
-                            className={cn('block truncate', selected ? 'font-medium' : 'font-normal')}>
-                            {option}
-                          </span>
-                          {selected ? (
-                            <span
-                              className={cn('absolute inset-y-0 left-0 flex items-center pl-3', active ? 'text-white' : 'text-[#778DA9]')}>
-                              <Check className="h-5 w-5" aria-hidden="true" />
-                            </span>
-                          ) : null}
-                        </>
-                      )}
-                    </ComboboxOption>
-                  ))
-                )}
-              </div>
-          </ComboboxOptions>
-        </div>
-      </Combobox>
-      {error && <p className="text-xs text-red-400 mt-1">{error.message}</p>}
-    </div>
-  );
-};
+import { FormData, createFormSchema } from '@/lib/schema';
+import { usePrevious } from '@/hooks/usePrevious';
+import { ComboBoxField } from '@/components/ui/ComboBoxField';
+import { FormattedNumberField } from '@/components/ui/FormattedNumberField';
+import { SliderField } from '@/components/ui/SliderField';
+import { ActionButton } from '@/components/ui/ActionButton';
 
 // --- MAIN PAGE COMPONENT ---
 export default function PredictPage() {
@@ -269,16 +25,6 @@ export default function PredictPage() {
   const [prediction, setPrediction] = useState<Prediction | null>(null);
   const [apiError, setApiError] = useState<string | null>(null);
   const resultRef = useRef<HTMLDivElement>(null);
-  const buttonRef = useRef<HTMLButtonElement>(null);
-
-  const handleMouseMove = (e: React.MouseEvent<HTMLButtonElement>) => {
-    if (!buttonRef.current) return;
-    const rect = e.currentTarget.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const y = e.clientY - rect.top;
-    buttonRef.current.style.setProperty('--x', `${x}px`);
-    buttonRef.current.style.setProperty('--y', `${y}px`);
-  };
 
   const resolver: Resolver<any> = useMemo(() => zodResolver(createFormSchema(dropdowns)), [dropdowns]);
 
@@ -341,26 +87,21 @@ export default function PredictPage() {
 
   // Effect to sync brand and model selections
   useEffect(() => {
-    // Case 1: Brand was cleared by the user (transitioned from a value to no value).
-    if (prevSelectedBrand && !selectedBrand) {
+    // Priority 1: When the brand changes, reset the car model.
+    // This ensures the brand selection is the source of truth.
+    // `prevSelectedBrand` is checked to avoid running on the initial render.
+    if (prevSelectedBrand !== undefined && selectedBrand !== prevSelectedBrand) {
       setValue('car_model', '');
-      return; // Prioritize this action and stop further processing in this effect.
+      return; // Exit to prevent the logic below from running with a stale model.
     }
 
-    // Case 2: A model is selected. Update the brand to match if it's incorrect.
+    // Priority 2: If a model is selected, ensure the brand is correct.
+    // This handles the convenience case where a user selects a model from the unfiltered list,
+    // and we want to auto-fill the brand for them.
     if (selectedModel) {
       const brandForModel = modelToBrand[selectedModel.toLowerCase()];
       if (brandForModel && brandForModel !== selectedBrand) {
         setValue('brand', brandForModel);
-        return; // Prioritize model-driven brand changes.
-      }
-    }
-
-    // Case 3: A brand is selected, and the current model is now inconsistent.
-    if (selectedBrand && selectedModel) {
-      const brandForModel = modelToBrand[selectedModel.toLowerCase()];
-      if (brandForModel !== selectedBrand) {
-        setValue('car_model', '');
       }
     }
   }, [selectedBrand, selectedModel, prevSelectedBrand, modelToBrand, setValue]);
@@ -470,37 +211,15 @@ export default function PredictPage() {
             />
           </div>
 
-          <motion.button
-            ref={buttonRef}
+          <ActionButton
             type="submit"
-            disabled={isLoading}
-            onMouseMove={handleMouseMove}
-            whileHover={{ scale: isLoading ? 1 : 1.05 }}
-            whileTap={{ scale: isLoading ? 1 : 0.95 }}
-            className="relative overflow-hidden flex items-center justify-center gap-2 w-full mt-12 px-8 py-4 text-white font-bold rounded-full border border-white/20 bg-white/10 backdrop-blur-xl shadow-md hover:shadow-lg transition-all duration-300 cursor-pointer group disabled:opacity-60 disabled:cursor-not-allowed"
+            isLoading={isLoading}
+            Icon={Zap}
+            loadingText="Predicting..."
+            className="mt-12"
           >
-            <span
-              className="absolute w-40 h-40 -translate-x-1/2 -translate-y-1/2 
-                     bg-white/10 rounded-full pointer-events-none blur-2xl 
-                     opacity-0 group-hover:opacity-50 transition-opacity duration-300"
-              style={{
-                left: 'var(--x)',
-                top: 'var(--y)',
-              }}
-            />
-            <span className="absolute inset-0 bg-gradient-to-br from-white/20 to-white/5 opacity-10 pointer-events-none rounded-full"></span>
-            {isLoading ? (
-              <>
-                <Loader2 className="animate-spin mr-2 relative z-10" />
-                <span className="relative z-10">Predicting...</span>
-              </>
-            ) : (
-              <>
-                <span className="relative z-10">Predict Price</span>
-                <Zap size={20} className="relative z-10" />
-              </>
-            )}
-          </motion.button>
+            Predict Price
+          </ActionButton>
         </form>
 
         <AnimatePresence>
