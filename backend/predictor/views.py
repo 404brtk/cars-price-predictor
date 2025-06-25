@@ -305,7 +305,7 @@ class PredictionHistoryView(APIView):
 
         # Text search filters (no validation needed)
         if 'brand' in params:
-            filters['brand__iexact'] = params.get('brand')
+            filters['brand__icontains'] = params.get('brand')
         if 'car_model' in params:
             filters['car_model__icontains'] = params.get('car_model')
 
