@@ -72,6 +72,18 @@ export interface PaginatedPredictions {
   results: Prediction[];
 }
 
+export interface HistoryQueryParams {
+  page?: number;
+  page_size?: number;
+  sort?: string;
+  brand?: string;
+  car_model?: string;
+  start_date?: string;
+  end_date?: string;
+  min_price?: number;
+  max_price?: number;
+}
+
 // API service functions
 
 /**
@@ -114,3 +126,19 @@ export const predictPrice = async (data: PredictionPayload): Promise<Prediction>
     throw error;
   }
 };
+
+/**
+ * Fetches the user's prediction history.
+ * @param params - Query parameters for pagination, sorting, and filtering.
+ * @returns A paginated list of predictions.
+ */
+export const getPredictionHistory = async (params: HistoryQueryParams): Promise<PaginatedPredictions> => {
+  try {
+    const response = await api.get<PaginatedPredictions>('/predictions/', { params });
+    return response.data;
+  } catch (error) {
+    console.error('Failed to fetch prediction history:', error);
+    throw error;
+  }
+};
+
