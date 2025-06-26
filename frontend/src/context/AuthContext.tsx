@@ -59,17 +59,32 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const router = useRouter();
 
   const checkAuthStatus = useCallback(async () => {
+    // If there's no login flag in localStorage, we know the user is not logged in.
+    if (typeof window !== 'undefined' && localStorage.getItem('isLoggedIn') !== 'true') {
+      dispatch({ type: 'AUTH_FAILURE' });
+      return;
+    }
+
     dispatch({ type: 'AUTH_CHECK_START' });
     try {
+      // A flag exists, so we verify the session with the backend.
       const config: InternalAxiosRequestConfig = { _skipAuthRefresh: true };
       const response = await api.get<User>('/users/me/', config);
       dispatch({ type: 'AUTH_SUCCESS', payload: response.data });
     } catch (error) {
+      // The session is invalid, even though a flag was present. Clean up the stale flag.
+      if (typeof window !== 'undefined') {
+        localStorage.removeItem('isLoggedIn');
+      }
       dispatch({ type: 'AUTH_FAILURE' });
     }
   }, []);
 
   const login = useCallback((userData: User) => {
+    // Set a flag in localStorage to indicate an active session.
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('isLoggedIn', 'true');
+    }
     dispatch({ type: 'AUTH_SUCCESS', payload: userData });
   }, []);
 
@@ -79,6 +94,10 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     } catch (error) {
       console.error('Logout API call failed:', error);
     } finally {
+      // Clear the session flag from localStorage.
+      if (typeof window !== 'undefined') {
+        localStorage.removeItem('isLoggedIn');
+      }
       dispatch({ type: 'LOGOUT' });
       // Redirect to login page to ensure a clean state
       router.push('/login');
@@ -94,6 +113,10 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   useEffect(() => {
     const handleGlobalLogout = () => {
       console.log('Global logout event received. Forcing logout.');
+      // Also clear the session flag on global logout.
+      if (typeof window !== 'undefined') {
+        localStorage.removeItem('isLoggedIn');
+      }
       dispatch({ type: 'LOGOUT' });
     };
     window.addEventListener('logout', handleGlobalLogout);
