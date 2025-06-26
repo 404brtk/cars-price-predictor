@@ -73,7 +73,8 @@ CORS_ALLOW_CREDENTIALS = True
 CSRF_TRUSTED_ORIGINS = os.getenv('CSRF_TRUSTED_ORIGINS', 'http://localhost:3000').split(',')
 CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_COOKIE_HTTPONLY = False
-
+# Ensure the CSRF cookie is only sent over HTTPS in production
+CSRF_COOKIE_SECURE = not DEBUG
 
 # REST Framework settings
 REST_FRAMEWORK = {
