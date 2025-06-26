@@ -27,37 +27,61 @@ api.interceptors.request.use((config) => {
     return config;
 });
 
+// State for handling token refresh race conditions.
+let isRefreshing = false;
+let failedQueue: { resolve: (value: unknown) => void; reject: (reason?: any) => void; }[] = [];
+
+const processQueue = (error: AxiosError | null) => {
+    failedQueue.forEach(prom => {
+        if (error) {
+            prom.reject(error);
+        } else {
+            prom.resolve(true);
+        }
+    });
+    failedQueue = [];
+};
+
 // Response interceptor: Handle automatic token refresh on 401 Unauthorized errors.
 api.interceptors.response.use(
     (response) => response,
     async (error: AxiosError) => {
         const originalRequest = error.config as InternalAxiosRequestConfig;
 
-        // Conditions to NOT attempt a token refresh:
         const shouldNotRetry = 
-            error.response?.status !== 401 || // Not a 401 error
-            originalRequest._retry || // Already retried this request
-            originalRequest._skipAuthRefresh || // Explicitly told not to refresh
-            originalRequest.url?.includes('/login') || // A failed login attempt
-            originalRequest.url?.includes('/register') || // A failed register attempt
-            originalRequest.url?.includes('/token/refresh'); // The failed request was already for refresh
+            error.response?.status !== 401 ||
+            originalRequest._retry ||
+            originalRequest._skipAuthRefresh ||
+            originalRequest.url?.includes('/login') ||
+            originalRequest.url?.includes('/register') ||
+            originalRequest.url?.includes('/token/refresh');
 
         if (shouldNotRetry) {
             return Promise.reject(error);
         }
 
+        if (isRefreshing) {
+            return new Promise((resolve, reject) => {
+                failedQueue.push({ resolve, reject });
+            }).then(() => api(originalRequest));
+        }
+
         originalRequest._retry = true;
+        isRefreshing = true;
 
         try {
             console.log('Session expired. Attempting to refresh token...');
             await api.post('/token/refresh/');
-            console.log('Token refreshed successfully. Retrying original request.');
+            console.log('Token refreshed successfully. Retrying all requests.');
+            processQueue(null);
             return api(originalRequest);
-        } catch (refreshError) {
+        } catch (refreshError: any) {
             console.error('Token refresh failed. User session has ended. Please log in again.');
-            // Dispatch a global event to notify the app of the final logout.
+            processQueue(refreshError);
             window.dispatchEvent(new Event('logout'));
             return Promise.reject(refreshError);
+        } finally {
+            isRefreshing = false;
         }
     }
 );
