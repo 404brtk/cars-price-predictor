@@ -3,7 +3,7 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
-import { LogIn, LoaderCircle } from 'lucide-react';
+import { LogIn, LoaderCircle, CheckCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useForm, FormProvider } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
@@ -18,6 +18,14 @@ export default function LoginPage() {
   const [apiError, setApiError] = useState<string | null>(null);
   const router = useRouter();
   const { login, isAuthenticated, isLoading: isAuthLoading } = useAuth();
+  const [isRegistered, setIsRegistered] = useState(false);
+
+  useEffect(() => {
+    if (sessionStorage.getItem('registrationSuccess') === 'true') {
+      setIsRegistered(true);
+      sessionStorage.removeItem('registrationSuccess');
+    }
+  }, []);
 
   const methods = useForm<LoginFormData>({
     resolver: zodResolver(LoginSchema),
@@ -70,6 +78,17 @@ export default function LoginPage() {
         transition={{ duration: 0.8, ease: 'easeInOut' }}
         className="space-y-6 w-full max-w-md"
       >
+        {isRegistered && (
+            <motion.div
+                initial={{ opacity: 0, y: -20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+                className="bg-green-900/20 border border-green-500/50 text-green-300 px-4 py-3 rounded-lg flex items-center text-center mb-6"
+            >
+                <CheckCircle className="h-5 w-5 mr-3" />
+                <span>Registration successful! You can now sign in.</span>
+            </motion.div>
+        )}
         <h1 className="text-4xl md:text-5xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-br from-white to-[#778DA9]">
           Welcome Back
         </h1>

@@ -47,7 +47,8 @@ export default function RegisterPage() {
     setApiError(null);
     try {
       await api.post('/register/', data);
-      router.push('/login?registered=true');
+      sessionStorage.setItem('registrationSuccess', 'true');
+      router.push('/login');
     } catch (err) {
       const axiosError = err as AxiosError<{[key: string]: string[]}>;
       if (axiosError.response && axiosError.response.data) {
