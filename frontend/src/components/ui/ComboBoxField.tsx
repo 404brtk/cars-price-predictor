@@ -1,14 +1,16 @@
+'use client';
+
 import { Control, useController } from 'react-hook-form';
 import { useState, useMemo } from 'react';
 import { Combobox, ComboboxInput, ComboboxOption, ComboboxOptions, ComboboxButton } from '@headlessui/react';
 import { Loader2, Check, ChevronsUpDown } from 'lucide-react';
 import { InputContainer } from './InputContainer';
-import { FormData } from '@/lib/schema';
+import { PredictionFormData } from '@/lib/schema';
 import { cn } from '@/lib/utils';
 
 type ComboBoxFieldProps = {
-  control: Control<FormData>;
-  name: keyof FormData;
+  control: Control<PredictionFormData>;
+  name: keyof PredictionFormData;
   label: string;
   options: readonly string[];
   placeholder: string;

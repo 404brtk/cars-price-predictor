@@ -1,8 +1,18 @@
+'use client';
+
 import { Control, useController } from 'react-hook-form';
 import * as SliderPrimitive from '@radix-ui/react-slider';
-import { FormData } from '@/lib/schema';
+import { PredictionFormData } from '@/lib/schema';
 
-export const SliderField = ({ control, name, label, min, max, step, error }: { control: Control<FormData>; name: 'year_of_production' | 'number_of_doors'; label: string; min: number; max: number; step: number; error?: string; }) => {
+export const SliderField = ({ control, name, label, min, max, step, error }: {
+  control: Control<PredictionFormData>;
+  name: 'year_of_production' | 'number_of_doors';
+  label: string;
+  min: number;
+  max: number;
+  step: number;
+  error?: string;
+}) => {
   const { field } = useController({ name, control });
 
   return (
