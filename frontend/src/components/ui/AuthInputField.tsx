@@ -1,3 +1,5 @@
+'use client';
+
 import React from 'react';
 import { motion, HTMLMotionProps } from 'framer-motion';
 import { useFormContext, Controller } from 'react-hook-form';
