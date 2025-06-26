@@ -31,17 +31,24 @@ class CustomTokenObtainPairSerializer(BaseTokenObtainPairSerializer):
 class CustomTokenRefreshSerializer(BaseTokenRefreshSerializer):
 
     def validate(self, attrs):
+        # Grab the user id from the incoming (still valid) refresh token *first*.
+        try:
+            incoming_refresh = RefreshToken(attrs["refresh"])
+            user_id = incoming_refresh.get("user_id")
+        except Exception:
+            user_id = None  # Let the parent class raise a proper error if needed
+
+        # Call the parent implementation which will validate the token, rotate it
+        # (issuing a new refresh token) and blacklist the old one.
         data = super().validate(attrs)
 
-        refresh = RefreshToken(attrs['refresh'])
-        user_id = refresh.get('user_id')
-
-        try:
-            user = User.objects.get(id=user_id)
-        except User.DoesNotExist:
-            raise serializers.ValidationError('No user found for this token.')
-        user_serializer = UserDetailSerializer(user, context=self.context)
-        data['user'] = user_serializer.data
+        # Attach user details to the response (only if we managed to fetch them)
+        if user_id is not None:
+            try:
+                user = User.objects.get(id=user_id)
+                data["user"] = UserDetailSerializer(user, context=self.context).data
+            except User.DoesNotExist:
+                raise serializers.ValidationError("No user found for this token.")
 
         return data
 
