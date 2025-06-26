@@ -1,6 +1,8 @@
 import axios, { AxiosError, AxiosRequestConfig } from 'axios';
 import { getCookie } from 'cookies-next';
 
+export const logoutEvent = 'auth:logout';
+
 // Define a custom interface for internal requests to add our custom `_retry` property.
 export interface InternalAxiosRequestConfig extends AxiosRequestConfig {
     _retry?: boolean;
@@ -70,15 +72,19 @@ api.interceptors.response.use(
         isRefreshing = true;
 
         try {
-            console.log('Session expired. Attempting to refresh token...');
+            if (process.env.NODE_ENV !== 'production') {
+                console.log('Session expired. Attempting to refresh token...');
+            }
             await api.post('/token/refresh/');
-            console.log('Token refreshed successfully. Retrying all requests.');
+            if (process.env.NODE_ENV !== 'production') {
+                console.log('Token refreshed successfully. Retrying all requests.');
+            }
             processQueue(null);
             return api(originalRequest);
         } catch (refreshError: any) {
             console.error('Token refresh failed. User session has ended. Please log in again.');
             processQueue(refreshError);
-            window.dispatchEvent(new Event('logout'));
+            window.dispatchEvent(new Event(logoutEvent));
             return Promise.reject(refreshError);
         } finally {
             isRefreshing = false;
