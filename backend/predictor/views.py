@@ -101,6 +101,9 @@ def _handle_successful_auth(request, validated_data):
 
     response = Response({'user': user_data}, status=status.HTTP_200_OK)
     set_auth_cookies(response, access_token, refresh_token)
+
+    # Tell any caches that the response varies based on cookies
+    response['Vary'] = 'Cookie'
     
     # Determine username for logging, handling both login (user not yet on request) and refresh.
     username_for_log = user_data.get('username', 'N/A')
