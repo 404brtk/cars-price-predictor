@@ -71,7 +71,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
       const config: InternalAxiosRequestConfig = { _skipAuthRefresh: true };
       const response = await api.get<User>('/users/me/', config);
       dispatch({ type: 'AUTH_SUCCESS', payload: response.data });
-    } catch (error) {
+    } catch {
       // The session is invalid, even though a flag was present. Clean up the stale flag.
       if (typeof window !== 'undefined') {
         localStorage.removeItem('isLoggedIn');
