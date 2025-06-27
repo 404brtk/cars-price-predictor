@@ -7,7 +7,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Zap } from 'lucide-react';
 
 import { getDropdownOptions, getBrandModelMapping, predictPrice, DropdownOptions, BrandModelMapping, Prediction } from '../api/services';
-import { PredictionFormData, createFormSchema } from '@/lib/schema';
+import { PredictionFormData, PredictionSchema } from '@/lib/schema';
 import { usePrevious } from '@/hooks/usePrevious';
 import { ComboBoxField } from '@/components/ui/ComboBoxField';
 import { FormattedNumberField } from '@/components/ui/FormattedNumberField';
@@ -26,7 +26,7 @@ export default function PredictPage() {
   const [apiError, setApiError] = useState<string | null>(null);
   const resultRef = useRef<HTMLDivElement>(null);
 
-  const resolver: Resolver<any> = useMemo(() => zodResolver(createFormSchema(dropdowns)), [dropdowns]);
+  const resolver: Resolver<PredictionFormData> = useMemo(() => zodResolver(PredictionSchema(dropdowns)), [dropdowns]);
 
   const { handleSubmit, control, watch, setValue, formState: { errors } } = useForm<PredictionFormData>({
     resolver,
