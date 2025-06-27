@@ -1,9 +1,11 @@
-# Python
+# Python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Build artifacts
 build/
 develop-eggs/
 dist/
@@ -21,30 +23,32 @@ wheels/
 
 # Django
 *.log
-local_settings.py
 db.sqlite3
 db.sqlite3-journal
 media/
+staticfiles/
+static/
 
-# Virtual environment
+# Virtual env
 venv/
 ENV/
 
-# IDE
+# IDE/editor
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Environment variables
+# Environment
 .env
 .env.*
 !.env.example
 
-# Docker
-Dockerfile
-.dockerignore
+# Test/coverage
+.pytest_cache/
+.coverage
+htmlcov/
 
-# Project specific
-staticfiles/
-media/
+# System junk
+*.DS_Store
+Thumbs.db
