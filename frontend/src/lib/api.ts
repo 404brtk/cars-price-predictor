@@ -31,7 +31,7 @@ api.interceptors.request.use((config) => {
 
 // State for handling token refresh race conditions.
 let isRefreshing = false;
-let failedQueue: { resolve: (value: unknown) => void; reject: (reason?: any) => void; }[] = [];
+let failedQueue: { resolve: (value: unknown) => void; reject: (reason?: AxiosError | null) => void; }[] = [];
 
 const processQueue = (error: AxiosError | null) => {
     failedQueue.forEach(prom => {
@@ -81,9 +81,10 @@ api.interceptors.response.use(
             }
             processQueue(null);
             return api(originalRequest);
-        } catch (refreshError: any) {
+        } catch (refreshError) {
             console.error('Token refresh failed. User session has ended. Please log in again.');
-            processQueue(refreshError);
+            const axiosError = refreshError instanceof AxiosError ? refreshError : null;
+            processQueue(axiosError);
             window.dispatchEvent(new Event(logoutEvent));
             return Promise.reject(refreshError);
         } finally {

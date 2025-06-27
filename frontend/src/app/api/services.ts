@@ -68,7 +68,7 @@ export interface PaginatedPredictions {
   current_page: number;
   page_size: number;
   sort: string;
-  filters: Record<string, any>;
+  filters: Record<string, string | number>;
   results: Prediction[];
 }
 
