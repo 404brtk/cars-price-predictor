@@ -20,7 +20,7 @@ export default function HomePage() {
         </h1>
         <p className="max-w-2xl mx-auto text-lg text-[#778DA9]">
           Our machine learning model was trained on thousands of car listings to accurately predict market values.
-          Simply enter your car's details, and our AI will estimate its market price.
+          Simply enter your car&apos;s details, and our AI will estimate its market price.
         </p>
       </motion.div>
 
