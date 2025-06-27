@@ -7,6 +7,7 @@ import { LogIn, LoaderCircle, CheckCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useForm, FormProvider } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
+import { AxiosError } from 'axios';
 
 import api from '@/lib/api';
 import { useAuth } from '@/context/AuthContext';
@@ -36,7 +37,7 @@ export default function LoginPage() {
 
   useEffect(() => {
     if (!isAuthLoading && isAuthenticated) {
-      router.push('/');
+      router.push('/predict');
     }
   }, [isAuthenticated, isAuthLoading, router]);
 
@@ -56,13 +57,12 @@ export default function LoginPage() {
       const response = await api.post('/login/', data);
       if (response.data && response.data.user) {
         login(response.data.user);
-        router.push('/predict');
       } else {
         setApiError('Login failed: Invalid response from server.');
       }
-    } catch (err: any) {
+    } catch (err) {
       console.error('Login failed:', err);
-      if (err.response && err.response.data && err.response.data.detail) {
+      if (err instanceof AxiosError && err.response?.data?.detail) {
         setApiError(err.response.data.detail);
       } else {
         setApiError('An unexpected error occurred. Please try again.');
@@ -126,7 +126,7 @@ export default function LoginPage() {
             </ActionButton>
 
             <p className="text-center text-sm text-[#778DA9]">
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <Link href="/register" className="font-semibold text-white hover:underline">
                 Sign up
               </Link>
