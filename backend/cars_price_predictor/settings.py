@@ -64,15 +64,14 @@ MIDDLEWARE = [
 ]
 
 # CORS Settings
-CORS_ALLOW_ALL_ORIGINS = False
+CORS_ALLOW_ALL_ORIGINS = os.getenv('CORS_ALLOW_ALL_ORIGINS', 'False') == 'True'
 CORS_ALLOWED_ORIGINS = os.getenv('CORS_ALLOWED_ORIGINS', 'http://localhost:3000').split(',')
-CORS_ALLOW_CREDENTIALS = True
-
+CORS_ALLOW_CREDENTIALS = os.getenv('CORS_ALLOW_CREDENTIALS', 'True') == 'True'
 
 # CSRF Settings
 CSRF_TRUSTED_ORIGINS = os.getenv('CSRF_TRUSTED_ORIGINS', 'http://localhost:3000').split(',')
-CSRF_COOKIE_SAMESITE = 'Lax'
-CSRF_COOKIE_HTTPONLY = False
+CSRF_COOKIE_SAMESITE = os.getenv('CSRF_COOKIE_SAMESITE', 'Lax')
+CSRF_COOKIE_HTTPONLY = os.getenv('CSRF_COOKIE_HTTPONLY', 'False') == 'True'
 # Ensure the CSRF cookie is only sent over HTTPS in production
 CSRF_COOKIE_SECURE = not DEBUG
 
@@ -89,7 +88,7 @@ REST_FRAMEWORK = {
 # JWT Cookie Settings (used by custom views and auth class)
 ACCESS_TOKEN_COOKIE_NAME = os.getenv('ACCESS_TOKEN_COOKIE_NAME', 'access_token')
 REFRESH_TOKEN_COOKIE_NAME = os.getenv('REFRESH_TOKEN_COOKIE_NAME', 'refresh_token')
-JWT_COOKIE_SECURE = os.getenv('JWT_COOKIE_SECURE', 'True' if not DEBUG else 'False') == 'True' # true in prod, false in dev by default
+JWT_COOKIE_SECURE = not DEBUG # true in prod, false in dev by default
 JWT_COOKIE_HTTPONLY = os.getenv('JWT_COOKIE_HTTPONLY', 'True') == 'True'
 JWT_COOKIE_SAMESITE = os.getenv('JWT_COOKIE_SAMESITE', 'Lax') # can be 'Strict', 'Lax', or 'None'
 # restricted paths for cookies
