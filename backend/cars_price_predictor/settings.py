@@ -140,7 +140,7 @@ WSGI_APPLICATION = 'cars_price_predictor.wsgi.application'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 # postgresql settings
-'''
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -151,8 +151,8 @@ DATABASES = {
         'PORT': os.getenv('DB_PORT'),
     }
 }
-'''
 
+'''
 # temp sqlite settings
 DATABASES = {
     'default': {
@@ -160,7 +160,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-
+'''
 # Password validation
 # https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators
 
