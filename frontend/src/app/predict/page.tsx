@@ -87,22 +87,23 @@ export default function PredictPage() {
 
   // Effect to sync brand and model selections
   useEffect(() => {
-    // Priority 1: When the brand changes, reset the car model.
-    // This ensures the brand selection is the source of truth.
-    // `prevSelectedBrand` is checked to avoid running on the initial render.
-    if (prevSelectedBrand !== undefined && selectedBrand !== prevSelectedBrand) {
-      setValue('car_model', '');
-      return; // Exit to prevent the logic below from running with a stale model.
+    const brandForModel = selectedModel ? modelToBrand[selectedModel.toLowerCase()] : null;
+
+    // Case 1: Brand is changed by the user. This has the highest priority.
+    if (selectedBrand !== prevSelectedBrand && prevSelectedBrand !== undefined) {
+      // If the new brand is not the one that would be auto-set by the current model,
+      // it's a manual change, so we reset the model.
+      if (selectedBrand !== brandForModel) {
+        setValue('car_model', '');
+      }
+      // After handling a brand change, we stop to prevent the model-change logic below from running.
+      return;
     }
 
-    // Priority 2: If a model is selected, ensure the brand is correct.
-    // This handles the convenience case where a user selects a model from the unfiltered list,
-    // and we want to auto-fill the brand for them.
-    if (selectedModel) {
-      const brandForModel = modelToBrand[selectedModel.toLowerCase()];
-      if (brandForModel && brandForModel !== selectedBrand) {
-        setValue('brand', brandForModel);
-      }
+    // Case 2: Model is changed by the user, and the brand needs to be updated.
+    // This runs only if the brand did not just change.
+    if (brandForModel && brandForModel !== selectedBrand) {
+      setValue('brand', brandForModel);
     }
   }, [selectedBrand, selectedModel, prevSelectedBrand, modelToBrand, setValue]);
 
