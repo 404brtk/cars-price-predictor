@@ -37,7 +37,7 @@ export default function LoginPage() {
 
   useEffect(() => {
     if (!isAuthLoading && isAuthenticated) {
-      router.push('/predict');
+      router.push('/');
     }
   }, [isAuthenticated, isAuthLoading, router]);
 
