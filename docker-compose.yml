@@ -4,14 +4,14 @@ services:
     env_file:
       - ./backend/.env
     volumes:
-      - postgres_data:/var/lib/postgresql/data/
-    ports:
-      - "${DB_PORT:-5432}:5432"
+      - cars_pg_data:/var/lib/postgresql/data/
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U $${DB_USER}"]
       interval: 5s
       timeout: 5s
       retries: 5
+    restart: 
+      unless-stopped
     networks:
       - app-network
 
@@ -29,6 +29,8 @@ services:
     depends_on:
       db:
         condition: service_healthy
+    restart: 
+      unless-stopped
     networks:
       - app-network
 
@@ -38,18 +40,17 @@ services:
       dockerfile: Dockerfile
     env_file:
       - ./frontend/.env
-    environment:
-      - NODE_ENV=production
-      - NEXT_PUBLIC_API_URL=http://backend:8000
     ports:
       - "3000:3000"
     depends_on:
       - backend
+    restart: 
+      unless-stopped
     networks:
       - app-network
 
 volumes:
-  postgres_data:
+  cars_pg_data:
 
 networks:
   app-network:
