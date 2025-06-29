@@ -5,6 +5,7 @@ import { useForm, Resolver } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Zap } from 'lucide-react';
+import { AxiosError } from 'axios';
 
 import { getDropdownOptions, getBrandModelMapping, predictPrice, DropdownOptions, BrandModelMapping, Prediction } from '../api/services';
 import { PredictionFormData, PredictionSchema } from '@/lib/schema';
@@ -28,7 +29,7 @@ export default function PredictPage() {
 
   const resolver: Resolver<PredictionFormData> = useMemo(() => zodResolver(PredictionSchema(dropdowns)), [dropdowns]);
 
-  const { handleSubmit, control, watch, setValue, formState: { errors } } = useForm<PredictionFormData>({
+  const { handleSubmit, control, watch, setValue, setError, formState: { errors } } = useForm<PredictionFormData>({
     resolver,
     defaultValues: {
       brand: '',
@@ -112,6 +113,7 @@ export default function PredictPage() {
     setIsLoading(true);
     setPrediction(null);
     setApiError(null);
+
     try {
       const result = await predictPrice(data);
       setPrediction(result);
@@ -119,8 +121,18 @@ export default function PredictPage() {
         resultRef.current?.scrollIntoView({ behavior: 'smooth' });
       }, 100);
     } catch (error) {
-      console.error("Prediction API error", error instanceof Error ? error.message : String(error));
-      setApiError("An error occurred while making the prediction. Please try again.");
+      if (error instanceof AxiosError && error.response && error.response.status === 400) {
+        const validationErrors = error.response.data as Record<keyof PredictionFormData, string[]>;
+        Object.entries(validationErrors).forEach(([field, messages]) => {
+          setError(field as keyof PredictionFormData, {
+            type: 'server',
+            message: messages[0],
+          });
+        });
+      } else {
+        console.error("Prediction API error", error instanceof Error ? error.message : String(error));
+        setApiError("An error occurred while making the prediction. Please try again.");
+      }
     } finally {
       setIsLoading(false);
     }
