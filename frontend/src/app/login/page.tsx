@@ -61,12 +61,11 @@ export default function LoginPage() {
         setApiError('Login failed: Invalid response from server.');
       }
     } catch (err) {
-      console.error('Login failed:', err);
-      if (err instanceof AxiosError && err.response?.data?.detail) {
-        setApiError(err.response.data.detail);
-      } else {
-        setApiError('An unexpected error occurred. Please try again.');
-      }
+      const errorMessage = err instanceof AxiosError && err.response?.data?.detail
+        ? err.response.data.detail
+        : 'An unexpected error occurred. Please try again.';
+      setApiError(errorMessage);
+      console.error('Login failed:', err instanceof Error ? err.message : String(err));
     }
   };
 

@@ -92,7 +92,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
     try {
       await api.post('/logout/');
     } catch (error) {
-      console.error('Logout API call failed:', error);
+      console.error('Logout API call failed:', error instanceof Error ? error.message : String(error));
     } finally {
       // Clear the session flag from localStorage.
       if (typeof window !== 'undefined') {

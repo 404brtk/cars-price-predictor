@@ -50,15 +50,16 @@ export default function RegisterPage() {
       sessionStorage.setItem('registrationSuccess', 'true');
       router.push('/login');
     } catch (err) {
-      const axiosError = err as AxiosError<{[key: string]: string[]}>;
-      if (axiosError.response && axiosError.response.data) {
-        const errorData = axiosError.response.data;
-        const firstErrorKey = Object.keys(errorData)[0];
-        const errorMessage = errorData[firstErrorKey][0];
-        setApiError(`${firstErrorKey}: ${errorMessage}`);
-      } else {
-        setApiError('An unexpected error occurred. Please try again.');
+      let errorMessage = 'An unexpected error occurred. Please try again.';
+      if (err instanceof AxiosError && err.response?.data) {
+        const errorData = err.response.data as Record<string, string[]>;
+        const errorMessages = Object.values(errorData).flat();
+        if (errorMessages.length > 0) {
+          errorMessage = errorMessages[0];
+        }
       }
+      setApiError(errorMessage);
+      console.error('Registration failed:', err instanceof Error ? err.message : String(err));
     }
   };
 

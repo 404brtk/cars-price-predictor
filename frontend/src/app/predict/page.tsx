@@ -78,7 +78,7 @@ export default function PredictPage() {
         setBrandModels(cleanedBrandModels);
         setModelToBrand(reverseMapping);
       } catch (error) {
-        console.error("Failed to fetch initial form data", error);
+        console.error("Failed to fetch initial form data", error instanceof Error ? error.message : String(error));
         setApiError("Could not load form options. Please refresh the page.");
       }
     }
@@ -119,7 +119,7 @@ export default function PredictPage() {
         resultRef.current?.scrollIntoView({ behavior: 'smooth' });
       }, 100);
     } catch (error) {
-      console.error("Prediction API error", error);
+      console.error("Prediction API error", error instanceof Error ? error.message : String(error));
       setApiError("An error occurred while making the prediction. Please try again.");
     } finally {
       setIsLoading(false);

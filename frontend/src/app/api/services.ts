@@ -94,7 +94,7 @@ export const getDropdownOptions = async (): Promise<DropdownOptions> => {
     const response = await api.get<DropdownOptions>('/dropdown_options/');
     return response.data;
   } catch (error) {
-    console.error('Failed to fetch dropdown options:', error);
+    console.error('Failed to fetch dropdown options:', error instanceof Error ? error.message : String(error));
     throw error;
   }
 };
@@ -107,7 +107,7 @@ export const getBrandModelMapping = async (): Promise<BrandModelMapping> => {
     const response = await api.get<BrandModelMapping>('/brand_model_mapping/');
     return response.data;
   } catch (error) {
-    console.error('Failed to fetch brand-model mapping:', error);
+    console.error('Failed to fetch brand-model mapping:', error instanceof Error ? error.message : String(error));
     throw error;
   }
 };
@@ -122,7 +122,7 @@ export const predictPrice = async (data: PredictionPayload): Promise<Prediction>
     const response = await api.post<Prediction>('/predict/', data);
     return response.data;
   } catch (error) {
-    console.error('Failed to get prediction:', error);
+    console.error('Failed to get prediction:', error instanceof Error ? error.message : String(error));
     throw error;
   }
 };
@@ -137,7 +137,7 @@ export const getPredictionHistory = async (params: HistoryQueryParams): Promise<
     const response = await api.get<PaginatedPredictions>('/predictions/', { params });
     return response.data;
   } catch (error) {
-    console.error('Failed to fetch prediction history:', error);
+    console.error('Failed to fetch prediction history:', error instanceof Error ? error.message : String(error));
     throw error;
   }
 };

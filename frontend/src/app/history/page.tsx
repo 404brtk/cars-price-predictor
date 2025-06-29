@@ -52,7 +52,7 @@ const HistoryPage = () => {
       setHistory(data);
     } catch (err) {
       setError('Failed to load prediction history. Please try again later.');
-      console.error(err);
+      console.error(err instanceof Error ? err.message : String(err));
     } finally {
       setIsLoading(false);
     }
