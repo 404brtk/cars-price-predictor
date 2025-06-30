@@ -1,4 +1,4 @@
-# 🚗 cars-price-predictor
+# 🚗 cars-price-predictor 🚗
 
 This project is a full-stack web application designed to predict the price of used cars based on their features. It features a Next.js frontend, a Django REST framework backend, and a machine learning model trained with CatBoost.
 
@@ -101,29 +101,35 @@ Follow these steps if you prefer to run the frontend and backend services separa
     cd backend
     ```
 
-2.  **Create and activate a virtual environment:**
+2.  **Configure environment variables:**
+    ```bash
+    cp .env.example .env
+    ```
+    Update the `.env` file with the appropriate configuration values for your environment.
+
+3.  **Create and activate a virtual environment:**
     ```bash
     python -m venv venv
-    venv\Scripts\activate # Windows 
+    venv\Scripts\activate # Windows
     source venv/bin/activate # Linux/Mac
     ```
 
-3.  **Install dependencies:**
+4.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Run database migrations:**
+5.  **Run database migrations:**
     ```bash
     python manage.py migrate
     ```
 
-5.  **Import car data:**
+6.  **Import car data:**
     ```bash
     python manage.py import_car_data
     ```
 
-6.  **Run the development server:**
+7.  **Run the development server:**
     ```bash
     python manage.py runserver
     ```
@@ -135,12 +141,18 @@ Follow these steps if you prefer to run the frontend and backend services separa
     cd frontend
     ```
 
-2.  **Install dependencies:**
+2.  **Configure environment variables:**
+    ```bash
+    cp .env.example .env
+    ```
+    Update the `.env` file with the appropriate configuration values for your environment.
+
+3.  **Install dependencies:**
     ```bash
     npm install
     ```
 
-3.  **Run the development server:**
+4.  **Run the development server:**
     ```bash
     npm run dev
     ```
