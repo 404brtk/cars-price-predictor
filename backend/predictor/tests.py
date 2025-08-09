@@ -8,7 +8,9 @@ from rest_framework import status
 from django.utils import timezone
 from django.core.cache import cache
 from datetime import timedelta
-
+from django.conf import settings
+import secrets
+from rest_framework.test import APIClient
 from .models import CarListing, Prediction
 
 
@@ -213,6 +215,7 @@ class DataAPITests(APITestCase):
 
     @classmethod
     def setUpTestData(cls):
+        cache.clear()
         CarListing.objects.create(
             brand='Audi', car_model='A4', year_of_production=2018, mileage=50000,
             fuel_type='Diesel', transmission='Automatic', body='Sedan', engine_capacity=2.0,
@@ -332,3 +335,98 @@ class DataAPITestsEmptyDB(APITestCase):
         response = self.client.get(self.mapping_url)
         self.assertEqual(response.status_code, status.HTTP_200_OK)
         self.assertEqual(response.data, {})
+
+
+class CSRFSecurityTests(APITestCase):
+    """Tests to ensure CSRF protection is enforced for unsafe HTTP methods when using HTTP-only JWT cookies."""
+
+    @classmethod
+    def setUpTestData(cls):
+        # Create a user for login tests
+        cls.user = User.objects.create_user(username='csrfuser', email='csrf@example.com', password='password123')
+
+    def setUp(self):
+
+        # Use a client that enforces CSRF checks
+        self.csrf_client = APIClient(enforce_csrf_checks=True)
+
+        # URLs
+        self.predict_url = reverse('predict')
+        self.register_url = reverse('register')
+        self.login_url = reverse('login')
+        self.dropdown_url = reverse('dropdown_options')
+
+        # Valid payload for prediction
+        self.valid_prediction_payload = {
+            'brand': 'Audi',
+            'car_model': 'A4',
+            'year_of_production': 2018,
+            'mileage': 50000,
+            'fuel_type': 'Diesel',
+            'transmission': 'Automatic',
+            'body': 'Sedan',
+            'engine_capacity': 2.0,
+            'power': 190,
+            'number_of_doors': 4,
+            'color': 'Black'
+        }
+
+        # Registration and login payloads
+        self.registration_payload = {
+            'username': 'csrfnewuser',
+            'email': 'csrfnew@example.com',
+            'password': 'newpassword123',
+            'password2': 'newpassword123',
+        }
+        self.login_payload = {'username': 'csrfuser', 'password': 'password123'}
+
+    def _set_csrf_on_client(self, client):
+        """Helper to set a valid CSRF cookie/header pair on the given client."""
+        token = secrets.token_hex(16)  # 32-char hex string, valid format for Django CSRF token
+        cookie_name = getattr(settings, 'CSRF_COOKIE_NAME', 'csrftoken')
+        client.cookies[cookie_name] = token
+        return {'HTTP_X_CSRFTOKEN': token}
+
+    @patch('predictor.ml_service.get_price_prediction', return_value=12345.67)
+    def test_post_without_csrf_is_rejected_on_predict(self, _mock_pred):
+        """POST to an unsafe endpoint without CSRF should be rejected with 403."""
+        resp = self.csrf_client.post(self.predict_url, self.valid_prediction_payload, format='json')
+        self.assertEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+
+    @patch('predictor.ml_service.get_price_prediction', return_value=12345.67)
+    def test_post_with_csrf_is_allowed_on_predict(self, _mock_pred):
+        """POST to an unsafe endpoint with correct CSRF should be allowed (200)."""
+        headers = self._set_csrf_on_client(self.csrf_client)
+        resp = self.csrf_client.post(self.predict_url, self.valid_prediction_payload, format='json', **headers)
+        # Serializer-level validation may still fail depending on data; focus on CSRF pass (not 403)
+        self.assertNotEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+        self.assertIn(resp.status_code, [status.HTTP_200_OK, status.HTTP_400_BAD_REQUEST])
+
+    def test_register_requires_csrf(self):
+        """Registration POST without CSRF should be rejected."""
+        resp = self.csrf_client.post(self.register_url, self.registration_payload, format='json')
+        self.assertEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+
+    def test_register_with_csrf_succeeds(self):
+        headers = self._set_csrf_on_client(self.csrf_client)
+        resp = self.csrf_client.post(self.register_url, self.registration_payload, format='json', **headers)
+        # Should not be blocked by CSRF; expect Created or validation error if duplicates
+        self.assertNotEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+        self.assertIn(resp.status_code, [status.HTTP_201_CREATED, status.HTTP_400_BAD_REQUEST])
+
+    def test_login_requires_csrf(self):
+        """Login POST without CSRF should be rejected."""
+        resp = self.csrf_client.post(self.login_url, self.login_payload, format='json')
+        self.assertEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+
+    def test_login_with_csrf_allows(self):
+        headers = self._set_csrf_on_client(self.csrf_client)
+        resp = self.csrf_client.post(self.login_url, self.login_payload, format='json', **headers)
+        # Should pass CSRF; actual auth may succeed with 200
+        self.assertNotEqual(resp.status_code, status.HTTP_403_FORBIDDEN)
+        self.assertIn(resp.status_code, [status.HTTP_200_OK, status.HTTP_401_UNAUTHORIZED])
+
+    def test_get_does_not_require_csrf(self):
+        """GET requests should not require CSRF and return 200."""
+        resp = self.csrf_client.get(self.dropdown_url)
+        self.assertEqual(resp.status_code, status.HTTP_200_OK)
