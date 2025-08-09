@@ -14,6 +14,8 @@ from django.core.cache import cache
 from django.conf import settings
 from datetime import datetime
 import logging
+from django.utils.decorators import method_decorator
+from django.views.decorators.csrf import csrf_protect
 from .serializers import (
     UserSerializer,
     PredictionInputSerializer,
@@ -111,6 +113,7 @@ def _handle_successful_auth(request, validated_data):
     return response
 
 
+@method_decorator(csrf_protect, name='dispatch')
 class CustomTokenObtainPairView(TokenObtainPairView):
     serializer_class = CustomTokenObtainPairSerializer
 
@@ -125,6 +128,7 @@ class CustomTokenObtainPairView(TokenObtainPairView):
         return _handle_successful_auth(request, serializer.validated_data)
 
 
+@method_decorator(csrf_protect, name='dispatch')
 class CustomTokenRefreshView(BaseTokenRefreshView):
     serializer_class = CustomTokenRefreshSerializer
 
@@ -169,6 +173,7 @@ class ApiRootView(APIView):
         return Response(available_endpoints, status=status.HTTP_200_OK)
 
 
+@method_decorator(csrf_protect, name='dispatch')
 class RegisterView(APIView):
     permission_classes = [AllowAny]
 
@@ -191,6 +196,7 @@ class UserDetailView(APIView):
         return Response(serializer.data, status=status.HTTP_200_OK)
 
 
+@method_decorator(csrf_protect, name='dispatch')
 class LogoutView(APIView):
     permission_classes = [IsAuthenticated]
 
@@ -215,6 +221,7 @@ class LogoutView(APIView):
         clear_auth_cookies(response)
         return response
 
+@method_decorator(csrf_protect, name='dispatch')
 class PredictPriceView(APIView):
     permission_classes = [AllowAny]  # allow both guest and authenticated users
 
